@@ -1,4 +1,4 @@
-# project-site-template
+# Digital week notes
 
 This is a template repo.
 
