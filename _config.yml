@@ -26,10 +26,10 @@ defaults:
 navigation:
   - en: team
     cy: tîm
-    url: /team/
+    url: /week-notes.github.io/team/
   - en: updates
     cy: diweddariadau
-    url: /updates/
+    url: /week-notes.github.io/updates/
 
 # Colours
 theme_color: '#326A85'
@@ -43,7 +43,7 @@ border_color: '#d7d7d7'
 
 t:
   en:
-    title: NRW weeknotes
+    title: NRW week notes
     description: "Describe your site"
     language: English
     root: /en
@@ -52,7 +52,7 @@ t:
     by: by
     share: share
   cy:
-    title: NRW weeknotes cy
+    title: NRW week notes cy
     description: "Disgrifiwch eich gwefan"
     language: Cymraeg
     root: /cy
