@@ -43,7 +43,7 @@ border_color: '#d7d7d7'
 
 t:
   en:
-    title: Site title
+    title: NRW weeknotes
     description: "Describe your site"
     language: English
     root: /en
@@ -52,7 +52,7 @@ t:
     by: by
     share: share
   cy:
-    title: Teitl y safle
+    title: NRW weeknotes cy
     description: "Disgrifiwch eich gwefan"
     language: Cymraeg
     root: /cy
