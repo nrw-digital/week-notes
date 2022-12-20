@@ -7,4 +7,4 @@ hidetitle: True
 
 Hello world
 
-See [updates](/en/updates).
+See [updates](/week-notes.github.io/en/updates).
