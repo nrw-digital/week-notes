@@ -1,0 +1,114 @@
+.app-top-bar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0;
+  border-bottom: 5px solid var(--accent-colour);
+
+  @include mq($from: tablet) {
+    padding: $gutter-half;
+  }
+
+  input[type=checkbox] {
+    width: 0;
+    height: 0;
+    // takes checkbox out of flow
+    // means nav element has height 0 when collapsed
+    float: left;
+    opacity: 0;
+  }
+
+  .app-menu__toggle {
+    padding: 5px 15px;
+    flex-grow: 2;
+    order: 2;
+    text-align: right;
+
+    @include mq($from: tablet) {
+      display: none;
+    }
+
+    span {
+      display: inline-block;
+    }
+  }
+}
+
+.app-title {
+  margin-left: 15px;
+  order: 1;
+}
+
+.app-language-switcher {
+  order: 3;
+  margin-right: 15px;
+  padding: 3px 8px;
+
+  @include mq($from: tablet) {
+    padding: 5px 15px;
+    order: 3;
+  }
+}
+
+.app-nav {
+  display: none;
+  width: 100%;
+  order: 4;
+
+  @include mq($from: tablet) {
+    display: block;
+    width: unset;
+    flex-grow: 2;
+    order: 2;
+  }
+}
+
+.app-menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+
+  @include mq($from: tablet) {
+    display: flex;
+    justify-content: right;
+  }
+}
+
+.app-menu-item {
+  font-weight: 700;
+
+  a {
+    display: block;
+    padding: 10px 0;
+
+    &:hover {
+      background: darken(#fff, 5);
+    }
+
+    @include mq($from: tablet) {
+      padding: 5px 30px;
+    }
+  }
+}
+
+.app-menu__checkbox:checked {
+  & ~ .app-nav {
+    display: block;
+    margin-top: 5px;
+    border-top: 1px solid var(--accent-colour);
+
+    @include mq($from: tablet) {
+      border-top: none;
+    }
+  }
+
+  & ~ .app-menu__toggle {
+    padding: 5px 15px 2px;
+
+    span {
+      border-bottom: 3px solid var(--theme-colour);
+    }
+  }
+}

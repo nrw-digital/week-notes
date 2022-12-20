@@ -1,0 +1,87 @@
+---
+---
+
+/**
+ * Scriptor Jekyll Theme 2.0.0
+ * By Just Good Themes - https://justgoodthemes.com/
+*/
+
+/* ==========================================================================
+   Table of Contents
+   ========================================================================== */
+/*
+  0. Icons
+  1. Reset
+  2. General
+  3. Structure
+  4. Site Header
+  5. Content
+  6. Comments
+  7. Posts Navigation
+  8. Site Footer
+  9. Animations
+ 10. Prism
+*/
+
+// Font.
+$font: (
+  primary: ("Lato","Helvetica Neue",Helvetica,sans-serif),
+  secondary: ("Noto Serif",Georgia,serif)
+);
+
+// Palette.
+{% assign theme = site.theme_color | default: '#2d72d9' %}
+{% assign accent = site.accent_color | default: '#2d72d9' %}
+{% assign text_colour = site.text_color | default: '#0A0908' %}
+{% assign secondary_text_colour = site.secondary_text_color | default: '#20201D' %}
+{% assign link_colour = site.link_color | default: '#3E81A3' %}
+{% assign page_colour = site.page_color | default: '#ffffff' %}
+{% assign border_colour = site.border_color | default: '#d7d7d7' %}
+{% assign background_colour = site.background_color | default: '#fbfbfb' %}
+
+$palette: (
+  theme:    {{ theme }},
+  accent:    {{ accent }},
+  primary:   {{ text_colour }},
+  secondary: {{ secondary_text_colour }},
+  meta:      #606057,
+  border:    {{ border_colour }},
+  bg:        {{ background_colour }},
+  linkcolour: {{ link_colour }},
+  page:       {{ page_colour }}
+);
+
+// Imports
+@import "vendor/all";
+@import "helpers/all";
+@import "functions";
+@import "icons";
+@import "reset";
+@import "measurements";
+@import "general";
+@import "structure";
+@import "site-header";
+@import "content";
+@import "comments";
+@import "posts-navigation";
+@import "site-footer";
+@import "animations";
+@import "prism";
+@import "app-header";
+@import "buttons";
+
+:root {
+  --theme-colour: {{ theme }};
+  --accent-colour: {{ accent }};
+  --text-colour: {{ text_colour }};
+  --secondary-text-colour: {{ secondary_text_colour }};
+  --page-colour: {{ page_colour }};
+  --background-colour: {{ background_colour }};
+  --border-colour: {{ border_colour }};
+  --light-text-colour: {{ page_colour }};
+  --link-text-colour: {{ link_colour }};
+  --button-colour: var(--theme-colour);
+  --button-hover-colour: #{darken({{ theme }}, 5)};
+  
+  --content-width: 820px;
+}

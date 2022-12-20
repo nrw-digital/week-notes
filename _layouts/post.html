@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<main class="main">
+
+  <article class="post">
+    <header class="post-header">
+      <time class="post-date" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{page.date | date: "%B %-d, %Y" }}</time>
+      <h1 class="post-title">{{page.title}}</h1>
+      <div class="post-meta">
+        {{ site.t[page.lang].by | capitalize }} <span class="post-author">{{ page.author }}</span>
+      </div><!-- .post-meta -->
+      {% if page.feature_image and page.feature_image != "" %}
+      <figure class="post-thumbnail image-card width-wide">
+        <img src="{{ page.feature_image | relative_url }}" alt="{{ page.title }}">
+      </figure><!-- .post-thumbnail -->
+      {% endif %}
+    </header><!-- .post-header -->
+
+    <div class="post-content">
+      {{content}}
+    </div><!-- .post-content -->
+
+    <div class="post-share">
+      <span>{{ site.t[page.lang].share | capitalize }}:</span>
+      <a target="_blank"
+        href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;url={{ page.url | absolute_url }}" rel="noopener">Twitter</a>
+    </div><!-- .share-post -->
+
+  </article><!-- .post -->
+
+  <!--<div class="lbm-container lbm-markdown-output">
+    {{ content }}
+  </div>-->
+
+</main>

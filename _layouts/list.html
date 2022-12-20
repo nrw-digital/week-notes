@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<main class="main">
+
+  <div class="lbm-container lbm-markdown-output">
+    {{ content }}
+  </div>
+
+  <ul>
+    {% assign subpages=site.categories[page.section] | where:"lang", page.lang %}
+    {% for p in subpages %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+</main>
+

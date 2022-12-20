@@ -1,0 +1,13 @@
+/* ==========================================================================
+   3. Structure
+   ========================================================================== */
+
+.main {
+  margin: 0 auto;
+  padding: $gutter $gutter-half;
+  max-width: var(--content-width);
+  
+  @include mq($from: tablet) {
+    padding: $gutter;
+  }
+}
