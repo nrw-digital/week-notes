@@ -26,10 +26,10 @@ defaults:
 navigation:
   - en: team
     cy: tîm
-    url: /week-notes.github.io/team/
+    url: /team/
   - en: updates
     cy: diweddariadau
-    url: /week-notes.github.io/updates/
+    url: /updates/
 
 # Colours
 theme_color: '#326A85'
