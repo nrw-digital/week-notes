@@ -52,7 +52,7 @@ t:
     by: by
     share: share
   cy:
-    title: NRW week notes cy
+    title: CNC nodiadau wythnos
     description: "Disgrifiwch eich gwefan"
     language: Cymraeg
     root: /week-notes/cy
