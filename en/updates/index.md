@@ -7,5 +7,3 @@ section: updates
 ---
 
 # All updates
-
-
