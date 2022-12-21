@@ -9,7 +9,7 @@ author: Owain, Samantha, Lucinda and Laura
 
 ## Making and learning
 
-The Learn by Making Lab experiment ended this week. 
+The [Learn by Making Lab experiment](https://digitalpublicservices.gov.wales/learning-by-making-things-introducing-an-experiment/#:~:text=The%20Learn%20by%20making%20team%20is%20sponsored%20by%20the%20Centre,share%20their%20skills%20and%20expertise) ended this week. 
 
 It was 8 days jam-packed with guest expert speakers, exploring problems, sketching, usability testing, prototyping and a show and tell or two. We’re still absorbing what we’ve learned and achieved in such a short time.
 
