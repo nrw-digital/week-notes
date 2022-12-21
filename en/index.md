@@ -7,4 +7,4 @@ hidetitle: True
 
 Hello world
 
-See [updates]({{site.baseurl}}/en/updates).
+See [week notes]({{site.baseurl}}/en/updates).
