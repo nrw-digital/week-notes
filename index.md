@@ -2,7 +2,7 @@
 layout: landing
 lang: en
 hidetitle: True
-redirect: "/week-notes.github.io/en/"
+redirect: "/en/"
 ---
 
-Redirect to [/week-notes.github.io/en/](/en)
+Redirect to [/en/](/en)
