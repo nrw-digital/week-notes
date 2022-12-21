@@ -2,7 +2,7 @@
 layout: landing
 lang: en
 hidetitle: True
-redirect: "/en/"
+redirect: "/week-notes/en/"
 ---
 
-Redirect to [/en/](/en)
+Redirect to [/week-notes/en/](/en)
