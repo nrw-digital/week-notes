@@ -6,4 +6,4 @@ hidetitle: True
 section: updates
 ---
 
-# All updates
+# All week notes
