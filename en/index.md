@@ -7,4 +7,4 @@ hidetitle: True
 
 Hello world
 
-See [updates](/en/updates).
+See [updates]({{site.baseurl}}/en/updates).
