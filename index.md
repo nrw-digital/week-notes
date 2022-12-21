@@ -2,7 +2,7 @@
 layout: landing
 lang: en
 hidetitle: True
-redirect: {{site.baseurl}}/en/
+redirect: "/en/"
 ---
 
-Redirect to [{{site.baseurl}}/en/](/en)
+Redirect to [/en/](/en)
