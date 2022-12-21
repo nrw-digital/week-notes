@@ -46,7 +46,7 @@ t:
     title: NRW week notes
     description: "Describe your site"
     language: English
-    root: /week-notes.github.io/en
+    root: {{site.baseurl}}/en
     welcome: Welcome to
     team: team
     by: by
@@ -55,7 +55,7 @@ t:
     title: NRW week notes cy
     description: "Disgrifiwch eich gwefan"
     language: Cymraeg
-    root: /week-notes.github.io/cy
+    root: {{site.baseurl}}/cy
     welcome: Croeso i
     team: tîm
     by: gan
