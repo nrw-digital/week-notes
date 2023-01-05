@@ -8,7 +8,7 @@ author: Samantha and Lucinda
 ---
 ## In with the new!
 
-A bolstered team (hello fabulous Kim and Sophie) has meant we’ve had time to work on publishing our [content and publishing manual](https://naturalresources.wales/footer-links/content-and-publishing-manual/). We’ve started with our A-Z style guide and link to weeknotes on GitHub; how to write accessible documents guidance will follow soon.
+A bolstered team (hello fabulous Kim and Sophie) has meant we’ve had time to work on publishing our [content and publishing manual](https://naturalresources.wales/footer-links/content-and-publishing-manual). We’ve started with our A-Z style guide and link to weeknotes on GitHub; how to write accessible documents guidance will follow soon.
 
 The style guide and accessible docs guidance have been PDF documents on our intranet until now, so not so easy to find. The risk is that people save their own copy locally and continue working from it, missing important updates or the latest version. (Just the same as our website). So, hopefully colleagues will be able to find and use them more easily, and have confidence that they’re working from the right thing.
 
