@@ -1,8 +1,8 @@
 ---
-title: Week notes 30/12/2022
+title: Week notes 05/01/2023
 layout: post
 lang: en
-ref: 2022-12-30-week-notes
+ref: 2023-01-05-week-notes
 hidetitle: True
 author: Samantha and Lucinda
 ---
