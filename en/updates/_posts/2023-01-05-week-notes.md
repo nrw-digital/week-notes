@@ -48,6 +48,4 @@ We recently used the tool to publish transparency information around [grants we�
 
 ## Some other stuff we’re doing
 
-Lucinda’s getting well into Figma. Shaun’s been working with SMEs on the, frankly, knotty problem of how to help users find the right permitting fee for the thing they want to do. And we all can’t wait for James’ session on his user research findings into felling licences - more on that to follow…
-
-Heledd is currently looking forward to receiving some great applications for some [brand new jobs in digital, data, and technology](https://naturalresources.wales/about-us/news/blog/brand-new-jobs-in-digital-data-and-technology/?lang=en).
+Lucinda’s getting well into Figma. Shaun’s been working with SMEs on the, frankly, knotty problem of how to help users find the right permitting fee for the thing they want to do. And we all can’t wait for James’ session on his user research findings into felling licences - more on that to follow… Heledd is currently looking forward to receiving some great applications for some [brand new jobs in digital, data, and technology](https://naturalresources.wales/about-us/news/blog/brand-new-jobs-in-digital-data-and-technology/?lang=en).
