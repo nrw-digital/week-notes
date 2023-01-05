@@ -16,7 +16,7 @@ Off the back of super work by Scroll followed by Crocstar and FourWallsContent, 
 
 ## A surprisingly fishy flow
 
-This week, as part of a refresh of our web content toolkit, we published an updated version of our content request form.
+This week - as part of a refresh of our web content toolkit - we published an updated version of our content request form.
 
 We receive a lot of requests and they are varied. We meet twice a week to prioritise the requests, identify what we can do right away, what needs extra work, and (of course) what we just can’t do.
 
