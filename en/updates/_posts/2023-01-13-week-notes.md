@@ -22,7 +22,7 @@ Having up to date, task focused content that supports user needs will help our p
 
 James, our user researcher, fired up the new week by presenting user research findings into [tree felling](https://naturalresources.wales/permits-and-permissions/tree-felling-and-other-regulations/tree-felling-licences/apply-for-a-felling-licence/?lang=en).  
 
-Eleven users, interviewed for one hour each, gave a picture of what it’s like to apply for a licence to fell trees.
+Eleven users, interviewed for one hour each, gave a picture of what it’s like to apply for a licence to cut down trees.
 
 We love James' sessions and in this one we learned a lot.
 
