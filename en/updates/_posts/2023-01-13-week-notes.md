@@ -36,7 +36,7 @@ James has also reported findings back to the felling team.
 
 Whenever we research with users, the same things are said about our website.There’s too much detail, unclear language, vague content or guidance and confusing navigation. 
 
-![alt text](https://github.com/nrw-digital/week-notes/blob/b59590b7fcb6b2e4934c64e98bde71440580c1a8/images/smarter%20content.PNG)
+![alt text](https://github.com/nrw-digital/week-notes/blob/b59590b7fcb6b2e4934c64e98bde71440580c1a8/images/smarter%20content.PNG)?raw=true) 
 
 ## Opening up
 
@@ -44,7 +44,7 @@ We’re getting into the groove of working in the open.
 
 Using Mural, we capture our ideas for stories to tell in week notes, blogs and show and tells. We store memorabilia - images, quotes, slides that we want to use. 
 
-![alt text](https://github.com/nrw-digital/week-notes/blob/fcd9ebaf4601837bb186f1d242f1b54d002a9d69/images/comms%20mural.PNG)
+![alt text](https://github.com/nrw-digital/week-notes/blob/fcd9ebaf4601837bb186f1d242f1b54d002a9d69/images/comms%20mural.PNG)?raw=true) 
 
 With a flexible plan for who works on weeknotes each week, we write in pairs to help each other out. 
 
