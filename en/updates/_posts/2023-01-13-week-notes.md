@@ -50,7 +50,7 @@ With a flexible plan for who works on weeknotes each week, we write in pairs to 
 
 After a bit of a gap we’re revitalising our team show & tells next month. If you’d like a calendar invite, [fill in this short form for an invite to our show & tells](https://forms.office.com/e/ihQA3KXbPA).
 
-And we’re preparing a show & tell for SMEs on the 'permission to do something on NRW land' work we dd with the Learn by Making Lab. We’re hoping we can push ahead with this work to solve problems for users.
+And we’re preparing a show & tell for SMEs on the 'permission to do something on NRW land' work we did in the Learn by Making Lab. We’re hoping we can push ahead with this work to solve problems for users.
 
 ## Some other stuff we’re doing
 
