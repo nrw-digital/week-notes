@@ -34,7 +34,7 @@ What was striking was that most of these users have a transactional relationship
 
 James has also reported findings back to the felling team.
 
-Whenever we research with users, the same things are said about our website.There’s too much detail, unclear language, vague content or guidance and confusing navigation. 
+Whenever we research with users, the same things are said about our website. There’s too much detail, unclear language, vague content or guidance and confusing navigation. 
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/b59590b7fcb6b2e4934c64e98bde71440580c1a8/images/smarter%20content.PNG?raw=true) 
 
