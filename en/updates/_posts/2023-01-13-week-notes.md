@@ -16,7 +16,7 @@ We are lucky in the digital team to be working with such lovely contractors to h
 
 Managing your woodland area is all about tree disease, tree management and making your woodland more resilient to the effects of climate change. We also have a section on protecting our precious wildlife during any work in the forest.
 
-Having up to date, tasked focused content that supports user needs will help our people look after their trees and forests for years to come.
+Having up to date, task focused content that supports user needs will help our people look after their trees and forests for years to come.
 
 ## User research: trees, licences and NRW
 
@@ -24,7 +24,7 @@ James, our user researcher, fired up the new week by presenting user research fi
 
 Eleven users, interviewed for one hour each, gave a picture of what it’s like to apply for a licence to fell trees.
 
-As user-centred people we love these sessions - and in this one we learned a lot.
+We love James' sessions and in this one we learned a lot.
 
 What was striking was that most of these users have a transactional relationship with NRW:
 
