@@ -1,8 +1,8 @@
 ---
-title: Nodiadau wythnos 06/01/2023
+title: Nodiadau wythnos 05/01/2023
 layout: post
 lang: cy
-ref: 2023-01-06-week-notes
+ref: 2023-01-05-week-notes
 hidetitle: True
 author: Samantha and Lucinda
 ---
