@@ -1,5 +1,5 @@
 ---
-title: Week notes 13/01/2023
+title: Nodiadau wythnos 13/01/2023
 layout: post
 lang: cy
 ref: 2023-01-13-week-notes
