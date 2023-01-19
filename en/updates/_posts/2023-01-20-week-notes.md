@@ -21,7 +21,7 @@ This was the news on 12 January 2023: ‘Flooding: Businesses, homes and transpo
 
 On the same day we had over 28,000 views on our website. For comparison, on a normal day we get about 5-6000 views. Naturally, the increase in users means we get more feedback and we can’t help poking around to see what the analytics is showing us.
 
-
+![alt text] (https://github.com/nrw-digital/week-notes/blob/main/images/Flood%20analytics.png)
 
 ## Check your flood risk by postcode
 
@@ -40,12 +40,12 @@ It’s great to see that this service now gets around four times the views of ou
 
 Before:
 
-
+![alt text] (https://github.com/nrw-digital/week-notes/blob/main/images/Flood%20map%20before.png)
 
 
 After:
 
-
+![alt text] (https://github.com/nrw-digital/week-notes/blob/main/images/Flood%20map%20after.png)
 
 ## Understanding flood risk results 
 
