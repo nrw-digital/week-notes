@@ -17,7 +17,7 @@ sign up for flood alerts (or cancel them)
 
 This was the news on 12 January 2023: ‘Flooding: Businesses, homes and transport hit after torrential rain across Wales. And a picture of a car submerged in flood water.
 
-
+https://github.com/nrw-digital/week-notes/blob/main/images/Flood%20news%20story.png
 
 On the same day we had over 28,000 views on our website. For comparison, on a normal day we get about 5-6000 views. Naturally, the increase in users means we get more feedback and we can’t help poking around to see what the analytics is showing us.
 
@@ -38,7 +38,7 @@ did not need a map-based risk result
 
 It’s great to see that this service now gets around four times the views of our flood maps. Between 16 January 2022 and 16 January 2023 the service received over 532,000 views. 
 
-Before: 
+Before:
 
 
 
