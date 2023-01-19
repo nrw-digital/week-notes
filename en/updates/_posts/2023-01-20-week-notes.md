@@ -79,9 +79,9 @@ We’re seeing similar trends/issues across the organisation. We’re hoping tha
 
 ## Some other stuff we’re doing
 
-+ Lucinda added some headings and reordered the research and reports landing page making it easier to use
++ Lucinda added some headings and reordered the [research and reports landing page](https://naturalresources.wales/evidence-and-data/research-and-reports/?lang=en) making it easier to use
 
-+ Sam noticed lots of people were contacting us to cancel their flood details so she added a link to the general enquiries page
++ Sam noticed lots of people were contacting us to cancel their flood details so she added a link to the [general enquiries page](https://naturalresources.wales/about-us/contact-us/general-enquiries/?lang=en)
 
 + Shaun is continuing to work on the charging consultation 
 
