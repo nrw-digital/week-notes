@@ -70,7 +70,7 @@ But we’ve introduced our own confusion here. When redesigning the service, sub
 
 This is attracting users to look at the wrong risk indicator. The high/low/medium risk results for an area are based on computer modelling. The ‘recorded flooding’ isn’t. We may have no records for an area or the records may be unreliable. 
 
-User testing showed how some people think flood risk means that an area had flooded in the past. This crops us regularly in our website feedback. We can see below how exposing ‘recorded flooding’ is leading users to assume their high/medium/low risk result is wrong. It’s also making them feel angry and frustrated and lose confidence in NRW:
+User testing showed that some people think flood risk means that an area had flooded in the past. This crops us regularly in our website feedback. We can see below that by exposing ‘recorded flooding’, we're inviting users to question their high/medium/low risk result. We're also making users lose confidence in NRW's information, as well as feel angry and frustrated:
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/main/images/Flood%20website%20feedback.png?raw=true)
 
