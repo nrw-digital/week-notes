@@ -94,3 +94,5 @@ We’re seeing similar trends/issues across the organisation. We’re hoping tha
 + Phil has started the next phase of the forestry project to look at the managing your woodland, licences and permits
 
 + Laura and Lucinda have been working on updating the ‘flood risk activity permit’ application form to make it work better for agents / consultants who are completing the form on behalf of someone else
+
++ Defra launched their Welsh language 'Get a fishing licence' service. James and Manon from the Translations Team worked with Defra on making sure this service worked as smoothly in the Welsh as the English. We've had some great feedback already from users.  
