@@ -84,7 +84,7 @@ We’re seeing similar trends/issues across the organisation. We’re hoping tha
 
 ## Some other stuff we’re doing
 
-+ Lucinda added some headings and reordered the [research and reports landing page](https://naturalresources.wales/evidence-and-data/research-and-reports/?lang=en) making it easier to use
++ Lucinda added some headings and reordered the [research and reports landing page](https://naturalresources.wales/evidence-and-data/research-and-reports/?lang=en) to make it easier to use
 
 + Sam noticed lots of people were contacting us to cancel their flood details so she added a link to the [general enquiries page](https://naturalresources.wales/about-us/contact-us/general-enquiries/?lang=en)
 
@@ -100,4 +100,6 @@ We’re seeing similar trends/issues across the organisation. We’re hoping tha
 
 + Laura and Lucinda have been working on updating the ‘flood risk activity permit’ application form to make it work better for agents / consultants who are completing the form on behalf of someone else
 
-+ Defra launched their Welsh language 'Get a fishing licence' service. James and Manon from the Translations Team worked with Defra on making sure this service worked as smoothly in the Welsh as the English. We've had some great feedback already from users.  
++ James is holder user research interviews about SoNaRR
+
++ Defra launched their Welsh language 'Get a fishing licence' service. James and Manon from the Translations Team helped Defra to make sure this service worked as smoothly in the Welsh as the English. We've had some great feedback already from users.  
