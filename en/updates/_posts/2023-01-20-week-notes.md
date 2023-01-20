@@ -10,10 +10,11 @@ author: Laura and James
 It feels like the rain has dominated the news for the last couple of weeks, so it feels only appropriate to write about it in our weeknotes too.
 
 When heavy rain is in the news we see a surge of traffic on our website. People want to:
-check flood warnings
-check river levels
-check their flood risk
-sign up for flood alerts (or cancel them)
+
++ check flood warnings
++ check river levels
++ check their flood risk
++ sign up for flood alerts (or cancel them)
 
 This was the news on 12 January 2023: ‘Flooding: Businesses, homes and transport hit after torrential rain across Wales. And a picture of a car submerged in flood water.
 
@@ -31,10 +32,10 @@ Users can now simply enter their postcode and it tells them the flood risk for t
 
 This showed that 9 out of 10 users: 
 
-were not flood risk professionals
-used the map to check a single address, usually a property they were considering buying
-did not need to see areas at scale
-did not need a map-based risk result
++ were not flood risk professionals
++ used the map to check a single address, usually a property they were considering buying
++ did not need to see areas at scale
++ did not need a map-based risk result
 
 It’s great to see that this service now gets around four times the views of our flood maps. Between 16 January 2022 and 16 January 2023 the service received over 532,000 views. 
 
