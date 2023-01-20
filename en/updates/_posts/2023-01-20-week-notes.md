@@ -16,7 +16,7 @@ When heavy rain is in the news we see a surge of traffic on our website. People 
 + check their flood risk
 + sign up for flood alerts (or cancel them)
 
-This was the news on 12 January 2023: ‘Flooding: Businesses, homes and transport hit after torrential rain across Wales. And a picture of a car submerged in flood water.
+This was the news on 12 January 2023: ‘Flooding: Businesses, homes and transport hit after torrential rain across Wales'. And a picture of a car submerged in flood water.
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/main/images/Flood%20news%20story.png?raw=true)
 
@@ -52,7 +52,7 @@ After:
 
 But not all flood pages get a lot of views….even in the rain! 
 
-The page that helps people understand what the results for their area mean, ‘Understanding your flood risk results’ only had 1,390 views in the same period. 0.26% of the total figure for ‘Check your flood risk’. 
+The page that helps people understand what the results for their area mean, ‘Understanding your flood risk results’ only had 1,390 views in the same period. 0.26% of the total figure for ‘Check your flood risk by postcode’. 
 
 In a sample of 3,500 views, only 45 clicked on the ‘Understanding your flood risk results’ link, versus 1,152 for the ‘View flood risk for this area on a map’ link:
 
@@ -62,13 +62,17 @@ This is supported by the lack of feedback we get compared to the regular negativ
 
 ## User needs vs NRW needs
 
-In recent feedback users have asked why an area has no record of flooding when they know it has. This is because their properties were flooded by surface water. This is the responsibility of local authorities, not NRW. (confusing!)
+In recent feedback users have asked why an area has no record of flooding when they know it has. This is because their properties were flooded by surface water. This is the responsibility of local authorities, not NRW (confusing!)
 
 We know that splitting flood responsibilities in this way isn’t user-centric. [Frazer Rhodes has blogged about this issue](https://medium.com/@frazer_HX/surfacing-the-issues-flood-warnings-for-that-other-type-of-flood-risk-55503597e867). 
 
 But we’ve introduced our own confusion here. When redesigning the service, subject matter experts asked us to include the ‘history of recorded flooding’ on the risk results page. This was to reduce the amount of time the customer hub and flood risk team spent processing ‘insurance related requests’. 
+
 This is attracting users to look at the wrong risk indicator. The high/low/medium risk results for an area are based on computer modelling. The ‘recorded flooding’ isn’t. We may have no records for an area or the records may be unreliable. 
-User testing showed how some people think flood risk means that an area had flooded in the past. This crops us regularly in our website feedback. We can see below how exposing ‘recorded flooding’ is leading users to assume their high/medium/low risk result is wrong. It’s also making them feel angry and frustrated and lose confidence in NRW:
+
+User testing showed that some people think flood risk means that an area had flooded in the past. This crops us regularly in our website feedback. We can see below that by exposing ‘recorded flooding’, we're inviting users to question their high/medium/low risk result. We're also making users lose confidence in NRW's information, as well as feel angry and frustrated:
+
+![alt text](https://github.com/nrw-digital/week-notes/blob/main/images/Flood%20website%20feedback.png?raw=true)
 
 The explanation about what  ‘recorded flooding’ means is buried in the ‘Understanding your flood risk result’ page: a link that most users ignore. 
 
@@ -80,7 +84,7 @@ We’re seeing similar trends/issues across the organisation. We’re hoping tha
 
 ## Some other stuff we’re doing
 
-+ Lucinda added some headings and reordered the [research and reports landing page](https://naturalresources.wales/evidence-and-data/research-and-reports/?lang=en) making it easier to use
++ Lucinda added some headings and reordered the [research and reports landing page](https://naturalresources.wales/evidence-and-data/research-and-reports/?lang=en) to make it easier to use
 
 + Sam noticed lots of people were contacting us to cancel their flood details so she added a link to the [general enquiries page](https://naturalresources.wales/about-us/contact-us/general-enquiries/?lang=en)
 
@@ -96,4 +100,6 @@ We’re seeing similar trends/issues across the organisation. We’re hoping tha
 
 + Laura and Lucinda have been working on updating the ‘flood risk activity permit’ application form to make it work better for agents / consultants who are completing the form on behalf of someone else
 
-+ Defra launched their Welsh language 'Get a fishing licence' service. James and Manon from the Translations Team worked with Defra on making sure this service worked as smoothly in the Welsh as the English. We've had some great feedback already from users.  
++ James is holder user research interviews about SoNaRR
+
++ Defra launched their Welsh language 'Get a fishing licence' service. James and Manon from the Translations Team helped Defra to make sure this service worked as smoothly in the Welsh as the English. We've had some great feedback already from users.  
