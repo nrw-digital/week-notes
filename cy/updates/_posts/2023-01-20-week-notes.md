@@ -10,10 +10,11 @@ author: Laura and James
 It feels like the rain has dominated the news for the last couple of weeks, so it feels only appropriate to write about it in our weeknotes too.
 
 When heavy rain is in the news we see a surge of traffic on our website. People want to:
-check flood warnings
-check river levels
-check their flood risk
-sign up for flood alerts (or cancel them)
+
++ check flood warnings
++ check river levels
++ check their flood risk
++ sign up for flood alerts (or cancel them)
 
 This was the news on 12 January 2023: ‘Flooding: Businesses, homes and transport hit after torrential rain across Wales. And a picture of a car submerged in flood water.
 
@@ -31,10 +32,10 @@ Users can now simply enter their postcode and it tells them the flood risk for t
 
 This showed that 9 out of 10 users: 
 
-were not flood risk professionals
-used the map to check a single address, usually a property they were considering buying
-did not need to see areas at scale
-did not need a map-based risk result
++ were not flood risk professionals
++ used the map to check a single address, usually a property they were considering buying
++ did not need to see areas at scale
++ did not need a map-based risk result
 
 It’s great to see that this service now gets around four times the views of our flood maps. Between 16 January 2022 and 16 January 2023 the service received over 532,000 views. 
 
@@ -94,17 +95,5 @@ We’re seeing similar trends/issues across the organisation. We’re hoping tha
 + Phil has started the next phase of the forestry project to look at the managing your woodland, licences and permits
 
 + Laura and Lucinda have been working on updating the ‘flood risk activity permit’ application form to make it work better for agents / consultants who are completing the form on behalf of someone else
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
++ Defra launched their Welsh language 'Get a fishing licence' service. James and Manon from the Translations Team worked with Defra on making sure this service worked as smoothly in the Welsh as the English. We've had some great feedback already from users.  
