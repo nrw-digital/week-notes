@@ -72,6 +72,8 @@ This is attracting users to look at the wrong risk indicator. The high/low/mediu
 
 User testing showed how some people think flood risk means that an area had flooded in the past. This crops us regularly in our website feedback. We can see below how exposing ‘recorded flooding’ is leading users to assume their high/medium/low risk result is wrong. It’s also making them feel angry and frustrated and lose confidence in NRW:
 
+![alt text](https://github.com/nrw-digital/week-notes/blob/main/images/Flood%20website%20feedback.png?raw=true)
+
 The explanation about what  ‘recorded flooding’ means is buried in the ‘Understanding your flood risk result’ page: a link that most users ignore. 
 
 Ordinarily, we could act on this user feedback  by  explaining what ‘recorded flooding’ means  on the risk results page. But we can’t iterate to improve the front-end because the service isn’t in Umbraco. 
