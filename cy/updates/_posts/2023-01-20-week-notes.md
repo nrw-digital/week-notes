@@ -52,7 +52,7 @@ After:
 
 But not all flood pages get a lot of views….even in the rain! 
 
-The page that helps people understand what the results for their area mean, ‘Understanding your flood risk results’ only had 1,390 views in the same period. 0.26% of the total figure for ‘Check your flood risk’. 
+The page that helps people understand what the results for their area mean, ‘Understanding your flood risk results’ only had 1,390 views in the same period. 0.26% of the total figure for ‘Check your flood risk by postcode’. 
 
 In a sample of 3,500 views, only 45 clicked on the ‘Understanding your flood risk results’ link, versus 1,152 for the ‘View flood risk for this area on a map’ link:
 
@@ -62,12 +62,14 @@ This is supported by the lack of feedback we get compared to the regular negativ
 
 ## User needs vs NRW needs
 
-In recent feedback users have asked why an area has no record of flooding when they know it has. This is because their properties were flooded by surface water. This is the responsibility of local authorities, not NRW. (confusing!)
+In recent feedback users have asked why an area has no record of flooding when they know it has. This is because their properties were flooded by surface water. This is the responsibility of local authorities, not NRW (confusing!)
 
 We know that splitting flood responsibilities in this way isn’t user-centric. [Frazer Rhodes has blogged about this issue](https://medium.com/@frazer_HX/surfacing-the-issues-flood-warnings-for-that-other-type-of-flood-risk-55503597e867). 
 
 But we’ve introduced our own confusion here. When redesigning the service, subject matter experts asked us to include the ‘history of recorded flooding’ on the risk results page. This was to reduce the amount of time the customer hub and flood risk team spent processing ‘insurance related requests’. 
+
 This is attracting users to look at the wrong risk indicator. The high/low/medium risk results for an area are based on computer modelling. The ‘recorded flooding’ isn’t. We may have no records for an area or the records may be unreliable. 
+
 User testing showed how some people think flood risk means that an area had flooded in the past. This crops us regularly in our website feedback. We can see below how exposing ‘recorded flooding’ is leading users to assume their high/medium/low risk result is wrong. It’s also making them feel angry and frustrated and lose confidence in NRW:
 
 The explanation about what  ‘recorded flooding’ means is buried in the ‘Understanding your flood risk result’ page: a link that most users ignore. 
