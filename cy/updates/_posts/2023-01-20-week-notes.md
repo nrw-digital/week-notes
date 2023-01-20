@@ -1,7 +1,7 @@
 ---
 title: Week notes 20/01/2023
 layout: post
-lang: en
+lang: cy
 ref: 2023-01-20-week-notes
 hidetitle: True
 author: Laura and James
