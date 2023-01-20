@@ -16,7 +16,7 @@ When heavy rain is in the news we see a surge of traffic on our website. People 
 + check their flood risk
 + sign up for flood alerts (or cancel them)
 
-This was the news on 12 January 2023: ‘Flooding: Businesses, homes and transport hit after torrential rain across Wales. And a picture of a car submerged in flood water.
+This was the news on 12 January 2023: ‘Flooding: Businesses, homes and transport hit after torrential rain across Wales'. And a picture of a car submerged in flood water.
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/main/images/Flood%20news%20story.png?raw=true)
 
