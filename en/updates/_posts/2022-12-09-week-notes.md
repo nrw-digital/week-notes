@@ -26,7 +26,8 @@ We mapped three journeys:
 * renew permission to do something
 
 With Richard’s words from last week in mind (‘design in a way that shows high-level concepts but allows for details to be filled in later’), we decided to focus on prototyping both a check and a renew journey but not the apply journey. These would be simpler parts of the service that we could prototype within a couple of days. Both would give us the opportunity to demonstrate some new ideas about how we can capture and use location information, make it easier for users to tell us something, and remind people when they need to do something. 
-Prototyping 
+
+## Prototyping 
 
 We worked in sprints. Owain and Colm worked on the prototype using the GOV.UK kit to build an end to end service on GitHub.  Gwen, Laura, Lucinda and Sam co-designed the content for both journeys.
 
