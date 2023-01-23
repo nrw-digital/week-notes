@@ -56,7 +56,7 @@ And we’re preparing a show & tell for SMEs on the 'permission to do something 
 
 Sam, Laura and Lucinda are working on content types.
 
-Kim’s making final tweaks to guidance on how to create accessible documents. Owain has checked it with a screen reader so that it works for everyone.
+Kim’s making final tweaks to guidance on how to create accessible documents. Owain has checked it with screen reader software.
 
 NRW is revising its corporate plan and Shaun, James and Phil gave feedback.
 
