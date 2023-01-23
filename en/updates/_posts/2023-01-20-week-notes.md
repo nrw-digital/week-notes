@@ -7,7 +7,7 @@ hidetitle: True
 author: Laura and James
 ---
 
-It feels like the rain has dominated the news for the last couple of weeks, so it feels only appropriate to write about it in our weeknotes too.
+The rain has dominated the news for the last couple of weeks, so it feels only appropriate to write about it in our weeknotes too.
 
 When heavy rain is in the news we see a surge of traffic on our website. People want to:
 
@@ -62,7 +62,7 @@ This is supported by the lack of feedback we get compared to the regular negativ
 
 ## User needs vs NRW needs
 
-In recent feedback users have asked why an area has no record of flooding when they know it has. This is because their properties were flooded by surface water. This is the responsibility of local authorities, not NRW (confusing!)
+In recent feedback users have asked why an area has no record of flooding when they know it has. This is because their properties were flooded by surface water. This is the responsibility of local authorities, not NRW (confusing!).
 
 We know that splitting flood responsibilities in this way isn’t user-centric. [Frazer Rhodes has blogged about this issue](https://medium.com/@frazer_HX/surfacing-the-issues-flood-warnings-for-that-other-type-of-flood-risk-55503597e867). 
 
