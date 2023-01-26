@@ -25,7 +25,7 @@ Ar yr un diwrnod cawsom dros 28,000 ymweliad â’n gwefan. Er mwyn cymharu, ar 
 
 ## Gweld eich risg llifogydd yn ôl cod post
 
-Yn 2021 fe wnaethom ni ail-ddylunio’r gwasanaeth ‘Gweld eich risg llifogydd yn ôl cod post’ mewn ymateb i adborth a phrofion defnyddwyr. Roedd pobl yn cael trafferth defnyddio ein mapiau a deall eu risg llifogydd.
+Yn 2021 fe wnaethom ni ail-ddylunio’r gwasanaeth ‘[Gweld eich risg llifogydd yn ôl cod post](https://naturalresources.wales/flooding/check-your-flood-risk-by-postcode/?lang=cy)’ mewn ymateb i adborth a phrofion defnyddwyr. Roedd pobl yn cael trafferth defnyddio ein mapiau a deall eu risg llifogydd.
 
 Gall defnyddwyr nawr nodi eu cod post a chael gwybod beth yw'r risg llifogydd ar gyfer eu hardal. Mae hyn yn bodloni anghenion y rhan fwyaf o ddefnyddwyr. Rydym yn gwybod hyn oherwydd cawsom dros 1000 o ymatebion i arolwg gwib ar yr hen dudalen mapiau risg llifogydd.
 
@@ -62,7 +62,7 @@ Ategir hyn gan y diffyg adborth a gawn o'i gymharu â'r adborth negyddol rheolai
 
 Mewn adborth diweddar mae defnyddwyr wedi gofyn pam nad oes cofnod o lifogydd mewn ardal pan mae llifogydd wedi digwydd yno. Mae hyn oherwydd bod eu heiddo wedi'u gorlifo gan ddŵr wyneb. Cyfrifoldeb awdurdodau lleol yw hyn, nid CNC (sy’n ddryslyd!)
 
-Rydym yn gwybod nad yw rhannu cyfrifoldebau llifogydd yn y modd hwn yn canolbwyntio ar y defnyddiwr. Mae Frazer Rhodes wedi blogio am y broblem hon.
+Rydym yn gwybod nad yw rhannu cyfrifoldebau llifogydd yn y modd hwn yn canolbwyntio ar y defnyddiwr. Mae Frazer Rhodes wedi [blogio am y broblem hon](https://medium.com/@frazer_HX/surfacing-the-issues-flood-warnings-for-that-other-type-of-flood-risk-55503597e867).
 
 Ond rydym wedi cyflwyno ein dryswch ein hunain yma. Wrth ailgynllunio’r gwasanaeth, gofynnodd arbenigwyr pwnc i ni gynnwys ‘hanes llifogydd a gofnodwyd’ ar y dudalen canlyniadau risg. Roedd hyn er mwyn lleihau’r amser mae’r ganolfan cwsmeriaid a’r tîm risg llifogydd yn ei dreulio yn prosesu ‘ceisiadau yn ymwneud ag yswiriant’.
 
@@ -82,8 +82,8 @@ Rydym yn gweld tueddiadau/problemau tebyg ar draws y sefydliad. Rydym yn gobeith
 
 ## Rhai pethau eraill rydym yn eu gwneud
 
-+ Ychwanegodd Lucinda rai penawdau ac aildrefnu'r dudalen ymchwil ac adroddiadau gan ei gwneud yn haws i'w defnyddio
-+	Sylwodd Sam fod llawer o bobl yn cysylltu â ni i ganslo eu manylion llifogydd felly ychwanegodd ddolen i'r dudalen ymholiadau cyffredinol
++ Ychwanegodd Lucinda rai penawdau ac aildrefnu'r [dudalen ymchwil ac adroddiadau](https://naturalresources.wales/evidence-and-data/research-and-reports/?lang=cy) gan ei gwneud yn haws i'w defnyddio
++	Sylwodd Sam fod llawer o bobl yn cysylltu â ni i ganslo eu manylion llifogydd felly ychwanegodd ddolen i'r [dudalen ymholiadau cyffredinol](https://naturalresources.wales/about-us/contact-us/general-enquiries/?lang=cy)
 +	Mae Shaun yn parhau i weithio ar yr ymgynghoriad codi tâl
 +	Mae Sophie wedi rhoi'r cynllun corfforaethol ar brawf i gael syniad o sut y gallai edrych ar ôl iddo gael ei gwblhau
 +	Mae Laura, Sam a Lucinda yn parhau â'u gwaith i archwilio'r problemau gyda chaniatâd
