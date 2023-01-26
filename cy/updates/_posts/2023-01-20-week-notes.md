@@ -7,99 +7,86 @@ hidetitle: True
 author: Laura and James
 ---
 
-It feels like the rain has dominated the news for the last couple of weeks, so it feels only appropriate to write about it in our weeknotes too.
+Mae'n teimlo fel bod y glaw wedi bod yn dominyddu'r newyddion dros yr ychydig wythnosau diwethaf, felly mae'n teimlo'n briodol i ysgrifennu amdano yn nodiadau’r wythnos hefyd.
 
-When heavy rain is in the news we see a surge of traffic on our website. People want to:
+Pan fydd glaw trwm yn y newyddion rydym ni’n gweld cynnydd yn y traffig ar ein gwefan. Mae pobl eisiau:
++ gwirio rhybuddion llifogydd
++ gwirio lefelau afonydd
++ gwirio eu risg llifogydd
++ cofrestru ar gyfer rhybuddion llifogydd (neu eu canslo)
 
-+ check flood warnings
-+ check river levels
-+ check their flood risk
-+ sign up for flood alerts (or cancel them)
-
-This was the news on 12 January 2023: ‘Flooding: Businesses, homes and transport hit after torrential rain across Wales'. And a picture of a car submerged in flood water.
+Dyma’r newyddion ar 12 Ionawr 2023: ‘Llifogydd: Busnesau, cartrefi a thrafnidiaeth wedi’u heffeithio ar ôl glaw trwm ledled Cymru’. A llun o gar mewn llifogydd.
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/main/images/Flood%20news%20story.png?raw=true)
 
-On the same day we had over 28,000 views on our website. For comparison, on a normal day we get about 5-6000 views. Naturally, the increase in users means we get more feedback and we can’t help poking around to see what the analytics is showing us.
+Ar yr un diwrnod cawsom dros 28,000 ymweliad â’n gwefan. Er mwyn cymharu, ar ddiwrnod arferol rydym yn cael tua 5-6000 ymweliad. Yn naturiol, mae'r cynnydd mewn defnyddwyr yn golygu ein bod yn cael mwy o adborth ac ni allwn beidio â bwrw golwg i weld beth mae'r ddadansoddeg yn ei ddangos i ni.
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/main/images/Flood%20analytics.png?raw=true)
 
-## Check your flood risk by postcode
+## Gweld eich risg llifogydd yn ôl cod post
 
-In 2021 we re-designed the ‘[Check your flood risk by postcode’](https://naturalresources.wales/flooding/check-your-flood-risk-by-postcode/?lang=en) service in response to feedback and user testing. People were struggling to use our maps and understand their flood risk.
+Yn 2021 fe wnaethom ni ail-ddylunio’r gwasanaeth ‘Gweld eich risg llifogydd yn ôl cod post’ mewn ymateb i adborth a phrofion defnyddwyr. Roedd pobl yn cael trafferth defnyddio ein mapiau a deall eu risg llifogydd.
 
-Users can now simply enter their postcode and it tells them the flood risk for their area. This meets the user needs of most users. We know this because we received over 1000 responses to a pop-up survey on the old flood risk maps page.
+Gall defnyddwyr nawr nodi eu cod post a chael gwybod beth yw'r risg llifogydd ar gyfer eu hardal. Mae hyn yn bodloni anghenion y rhan fwyaf o ddefnyddwyr. Rydym yn gwybod hyn oherwydd cawsom dros 1000 o ymatebion i arolwg gwib ar yr hen dudalen mapiau risg llifogydd.
 
-This showed that 9 out of 10 users: 
+Roedd hyn yn dangos bod 9 o bob 10 defnyddiwr:
 
-+ were not flood risk professionals
-+ used the map to check a single address, usually a property they were considering buying
-+ did not need to see areas at scale
-+ did not need a map-based risk result
++ ddim yn weithwyr proffesiynol risg llifogydd
++ yn defnyddio'r map i wirio un cyfeiriad, fel arfer eiddo roeddent yn ystyried ei brynu
++ ddim angen gweld ardaloedd ar raddfa
++ ddim angen canlyniad risg ar sail map
 
-It’s great to see that this service now gets around four times the views of our flood maps. Between 16 January 2022 and 16 January 2023 the service received over 532,000 views. 
+Mae’n wych gweld bod y gwasanaeth hwn bellach yn cael tua phedair gwaith yr ymweliadau ar ein mapiau llifogydd. Rhwng 16 Ionawr 2022 a 16 Ionawr 2023 derbyniodd y gwasanaeth dros 532,000 ymweliad.
 
-Before:
+Cynt: 
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/main/images/Flood%20map%20before.png?raw=true)
 
-
-After:
+Ar ôl:
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/main/images/Flood%20map%20after.png?raw=true)
 
-## Understanding flood risk results 
+## Deall canlyniadau risg llifogydd
 
-But not all flood pages get a lot of views….even in the rain! 
+Ond nid yw pob tudalen llifogydd yn cael llawer o ymweliadau….hyd yn oed yn y glaw!
 
-The page that helps people understand what the results for their area mean, ‘Understanding your flood risk results’ only had 1,390 views in the same period. 0.26% of the total figure for ‘Check your flood risk by postcode’. 
+Dim ond 1,390 ymweliad gafodd y dudalen sy’n helpu pobl i ddeall beth mae’r canlyniadau ar gyfer eu hardal yn ei olygu, ‘Deall eich canlyniadau risg llifogydd’ yn yr un cyfnod. 0.26% o’r cyfanswm ar gyfer ‘Gweld eich risg llifogydd’.
 
-In a sample of 3,500 views, only 45 clicked on the ‘Understanding your flood risk results’ link, versus 1,152 for the ‘View flood risk for this area on a map’ link:
+Mewn sampl o 3,500 ymweliad, dim ond 45 gliciodd ar y ddolen ‘Deall eich canlyniadau risg llifogydd’, yn erbyn 1,152 ar gyfer y ddolen ‘Gweld risg llifogydd ar gyfer yr ardal hon ar fap’:
 
-For many users the ‘Check your flood risk by postcode’ service gives people an unambiguous answer -  they don’t need to delve further. 
+I lawer o ddefnyddwyr, mae’r gwasanaeth ‘Gweld eich risg llifogydd yn ôl cod post’ yn rhoi ateb diamwys i bobl – nid oes angen iddynt ymchwilio ymhellach.
 
-This is supported by the lack of feedback we get compared to the regular negative feedback we used to get about the flood maps. 
+Ategir hyn gan y diffyg adborth a gawn o'i gymharu â'r adborth negyddol rheolaidd roeddem yn arfer ei gael am y mapiau llifogydd.
 
-## User needs vs NRW needs
+## Anghenion defnyddwyr yn erbyn anghenion CNC
 
-In recent feedback users have asked why an area has no record of flooding when they know it has. This is because their properties were flooded by surface water. This is the responsibility of local authorities, not NRW (confusing!)
+Mewn adborth diweddar mae defnyddwyr wedi gofyn pam nad oes cofnod o lifogydd mewn ardal pan mae llifogydd wedi digwydd yno. Mae hyn oherwydd bod eu heiddo wedi'u gorlifo gan ddŵr wyneb. Cyfrifoldeb awdurdodau lleol yw hyn, nid CNC (sy’n ddryslyd!)
 
-We know that splitting flood responsibilities in this way isn’t user-centric. [Frazer Rhodes has blogged about this issue](https://medium.com/@frazer_HX/surfacing-the-issues-flood-warnings-for-that-other-type-of-flood-risk-55503597e867). 
+Rydym yn gwybod nad yw rhannu cyfrifoldebau llifogydd yn y modd hwn yn canolbwyntio ar y defnyddiwr. Mae Frazer Rhodes wedi blogio am y broblem hon.
 
-But we’ve introduced our own confusion here. When redesigning the service, subject matter experts asked us to include the ‘history of recorded flooding’ on the risk results page. This was to reduce the amount of time the customer hub and flood risk team spent processing ‘insurance related requests’. 
+Ond rydym wedi cyflwyno ein dryswch ein hunain yma. Wrth ailgynllunio’r gwasanaeth, gofynnodd arbenigwyr pwnc i ni gynnwys ‘hanes llifogydd a gofnodwyd’ ar y dudalen canlyniadau risg. Roedd hyn er mwyn lleihau’r amser mae’r ganolfan cwsmeriaid a’r tîm risg llifogydd yn ei dreulio yn prosesu ‘ceisiadau yn ymwneud ag yswiriant’.
 
-This is attracting users to look at the wrong risk indicator. The high/low/medium risk results for an area are based on computer modelling. The ‘recorded flooding’ isn’t. We may have no records for an area or the records may be unreliable. 
+Mae hyn yn denu defnyddwyr i edrych ar y dangosydd risg anghywir. Mae'r canlyniadau risg uchel/isel/canolig ar gyfer ardal yn seiliedig ar fodelu cyfrifiadurol, ond nid yw’r ‘llifogydd a gofnodwyd’ yn gwneud hynny. Efallai nad oes gennym unrhyw gofnodion ar gyfer ardal neu efallai bod y cofnodion yn annibynadwy.
 
-User testing showed that some people think flood risk means that an area had flooded in the past. This crops us regularly in our website feedback. We can see below that by exposing ‘recorded flooding’, we're inviting users to question their high/medium/low risk result. We're also making users lose confidence in NRW's information, as well as feel angry and frustrated:
+Dangosodd profion defnyddwyr sut mae rhai pobl yn meddwl bod risg llifogydd yn golygu bod ardal wedi dioddef llifogydd yn y gorffennol. Mae hyn yn codi’n rheolaidd yn adborth ein gwefan. Gallwn weld isod sut mae datgelu ‘llifogydd a gofnodwyd’ yn arwain defnyddwyr i dybio bod eu canlyniad risg uchel/canolig/isel yn anghywir. Mae hefyd yn gwneud iddyn nhw deimlo’n ddig ac yn rhwystredig a cholli hyder yn CNC:
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/main/images/Flood%20website%20feedback.png?raw=true)
 
-The explanation about what  ‘recorded flooding’ means is buried in the ‘Understanding your flood risk result’ page: a link that most users ignore. 
+Mae’r esboniad am yr hyn mae ‘llifogydd a gofnodwyd’ yn ei olygu wedi’i gladdu yn y dudalen ‘Deall eich canlyniad risg llifogydd’: dolen mae’r rhan fwyaf o ddefnyddwyr yn ei hanwybyddu.
 
-Ordinarily, we could act on this user feedback  by  explaining what ‘recorded flooding’ means  on the risk results page. But we can’t iterate to improve the front-end because the service isn’t in Umbraco. 
+Fel arfer, gallem weithredu ar yr adborth hwn gan ddefnyddwyr drwy egluro beth mae ‘llifogydd a gofnodwyd’ yn ei olygu ar y dudalen canlyniadau risg. Ond ni allwn ailadrodd i wella'r pen blaen oherwydd nid yw'r gwasanaeth yn Umbraco.
 
-## It’s not just flood
+## Nid llifogydd yn unig 
 
-We’re seeing similar trends/issues across the organisation. We’re hoping that we can keep using analytics and user research insights like this to demonstrate how some of our services aren’t working in the way we intended.
+Rydym yn gweld tueddiadau/problemau tebyg ar draws y sefydliad. Rydym yn gobeithio y gallwn barhau i ddefnyddio dadansoddeg a mewnwelediadau ymchwil defnyddwyr fel hyn i ddangos sut nad yw rhai o’n gwasanaethau’n gweithio yn y ffordd roeddem yn ei fwriadu.
 
-## Some other stuff we’re doing
+## Rhai pethau eraill rydym yn eu gwneud
 
-+ Lucinda added some headings and reordered the [research and reports landing page](https://naturalresources.wales/evidence-and-data/research-and-reports/?lang=en) to make it easier to use
-
-+ Sam noticed lots of people were contacting us to cancel their flood details so she added a link to the [general enquiries page](https://naturalresources.wales/about-us/contact-us/general-enquiries/?lang=en)
-
-+ Shaun is continuing to work on the charging consultation 
-
-+ Sophie has put the corporate plan in test to get a feel for how this could look once it has been finalised
-
-+ Laura, Sam and Lucinda are continuing their work to explore the issues with permissions 
-
-+ Heledd met with Smart Survey and is looking at options to upgrade some of the features
-
-+ Phil has started the next phase of the forestry project to look at the managing your woodland, licences and permits
-
-+ Laura and Lucinda have been working on updating the ‘flood risk activity permit’ application form to make it work better for agents / consultants who are completing the form on behalf of someone else
-
-+ James is holder user research interviews about SoNaRR
-
-+ Defra launched their Welsh language 'Get a fishing licence' service. James and Manon from the Translations Team helped Defra to make sure this service worked as smoothly in the Welsh as the English. We've had some great feedback already from users.  
++ Ychwanegodd Lucinda rai penawdau ac aildrefnu'r dudalen ymchwil ac adroddiadau gan ei gwneud yn haws i'w defnyddio
++	Sylwodd Sam fod llawer o bobl yn cysylltu â ni i ganslo eu manylion llifogydd felly ychwanegodd ddolen i'r dudalen ymholiadau cyffredinol
++	Mae Shaun yn parhau i weithio ar yr ymgynghoriad codi tâl
++	Mae Sophie wedi rhoi'r cynllun corfforaethol ar brawf i gael syniad o sut y gallai edrych ar ôl iddo gael ei gwblhau
++	Mae Laura, Sam a Lucinda yn parhau â'u gwaith i archwilio'r problemau gyda chaniatâd
++	Cyfarfu Heledd â Smart Survey ac mae'n edrych ar opsiynau i uwchraddio rhai o'r nodweddion
++	Mae Phil wedi dechrau ar gam nesaf y prosiect coedwigaeth i edrych ar reoli eich coetir, trwyddedau a chaniatâda
++	Mae Laura a Lucinda wedi bod yn gweithio ar ddiweddaru’r ffurflen gais ‘trwydded gweithgaredd risg llifogydd’ i wneud iddi weithio’n well i asiantau / ymgynghorwyr sy’n llenwi’r ffurflen ar ran rhywun arall
