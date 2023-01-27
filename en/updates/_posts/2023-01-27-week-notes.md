@@ -19,7 +19,7 @@ Cast your mind back to the first lockdown. We were all working at home in a heat
 
 Two years and 675 completed applications later the Development and Flood Risk team got in touch. They were getting feedback from users that the language isn’t clear if you're filling in the form on behalf of someone else. 
 
-![alt text](https://github.com/nrw-digital/week-notes/blob/3a2f13ddae5f71c51649d8daf1e3dc76efea3633/images/permit%20feedback.PNG)
+![alt text](https://github.com/nrw-digital/week-notes/blob/3a2f13ddae5f71c51649d8daf1e3dc76efea3633/images/permit%20feedback.PNG)?raw=true) 
 
 We did a a review and saw that:
 * the path and language isn’t clear for agents and consultants
