@@ -58,4 +58,4 @@ Information architecture is about helping people understand their surroundings a
 
 Signage at airports, and tube navigation maps are great examples of information architecture in the real world. They both help people to understand where they are, what's around them, and what to expect.
 
-![alt text](link to image + ?raw=true)![image](https://user-images.githubusercontent.com/122619925/216569356-d640160d-06b1-4340-b703-53e29d488259.png)
+![alt text](https://github.com/nrw-digital/week-notes/blob/f48d267d7c283359a960b65b22ce0adaa79c4367/images/Picture1.png?raw=true)
