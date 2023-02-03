@@ -1,7 +1,16 @@
-Weeknotes 02/02/2023
+---
+title: Weeknotes 03/02/2023
+layout: post
+lang: en
+ref: 2023-02-03-week-notes
+hidetitle: True
+author: Phil and James
+---
 In the blink of an eye, it’s February. Where did January go? I’m keeping my fingers crossed for warmer days ahead. It’s been good news though for our flooding teams who have finally had a break from all this wet weather.
-Well…what’s been happening this week in the digital team.
-Sonarr
+
+Well… what’s been happening this week in the digital team.
+
+## Sonarr
 James has been analysing user interviews to help shape the 2025 Sonarr (State of Natural Resources Report). 
 He’s spoken to 6 users from: 
 
