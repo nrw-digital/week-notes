@@ -6,106 +6,103 @@ ref: 2023-02-03-week-notes
 hidetitle: True
 author: Phil and James
 ---
-In the blink of an eye, it’s February. Where did January go? I’m keeping my fingers crossed for warmer days ahead. It’s been good news though for our flooding teams who have finally had a break from all this wet weather.
+Mewn chwinciad llygad llo, mae hi'n fis Chwefror. I ble’r aeth mis Ionawr? Rwy'n croesi fy mysedd am i ni gael profi dyddiau cynhesach o'n blaenau. Mae wedi bod yn newyddion da serch hynny i’n timau llifogydd sydd, o’r diwedd, wedi cael seibiant o’r holl dywydd gwlyb ’ma.
 
-Well… what’s been happening this week in the digital team.
+Wel… beth sydd wedi bod yn digwydd yr wythnos hon yn y tîm digidol.
 
 ## Sonarr
 
-James has been analysing user interviews to help shape the 2025 Sonarr (State of Natural Resources Report). 
+Mae James wedi bod yn dadansoddi cyfweliadau defnyddwyr er mwyn helpu i lunio Sonarr 2025 (Adroddiad ar Gyflwr Adnoddau Naturiol).
+Mae e wedi siarad â 6 defnyddiwr o:
 
-He’s spoken to 6 users from: 
++ Llywodraeth Cymru
++	Dŵr Cymru
++	Parc Cenedlaethol Bannau Brycheiniog
++	RSPB Cymru
++	Timau CNC sy'n gweithio gyda Byrddau Gwasanaethau Cyhoeddus
 
-+ Welsh Government
-+ Dŵr Cymru
-+ Brecon Beacons National Park
-+ RSPB Cymru
-+ NRW teams who work with Public Service Boards
+Mae adborth defnyddwyr am Sonarr yn debyg i'r hyn a glywn am wasanaethau eraill CNC:
 
-User feedback about Sonarr is similar to what we hear about other NRW services: 
++	Caiff Sonarr ei ysgrifennu i ateb dyletswyddau deddfwriaethol ar CNC ac nid tasgau defnyddwyr
++	Mae defnyddwyr yn gweld ei fod yn cymryd llawer o amser ac yn beth llafurus i echdynnu'r wybodaeth sydd ei hangen arnyn nhw, a’u bod yn gorfod agor pob pennod a chwilio am eiriau â llaw yn aml
++	Prin yw’r defnyddwyr sydd angen tystiolaeth ar lefel Cymru gyfan
++	Mae’n anodd dod o hyd i dystiolaeth ar lefel awdurdod lleol neu ranbarthol
++	Mae CNC yn cadw llawer o ddata rhanbarthol perthnasol ond nid ydym yn cyfeirio pobl ato yn Sonarr
++	Mae'r negeseuon allweddol yn cael eu colli mewn strwythur naratif yn lle cael eu nodi mewn pwyntiau bwled
++	Mae pobl eisiau i CNC fod yn fwy hyderus wrth ddweud: “Er mwyn adfer bioamrywiaeth dyma sydd angen digwydd xxx”
 
-+ Sonarr is written to answer legislative duties on NRW not user tasks
-+ Users find it time-consuming and laborious to extract the information they need, often having to open every chapter and manually search for words
-+ Few users need evidence at an all-Wales level
-+ It’s difficult to find evidence at a local authority or regional level
-+ NRW holds a lot of relevant regional data but we don’t signpost people to it in Sonarr
-+ The key messages are lost in a narrative structure instead of bullet points
-+ People want NRW to be more confident in saying: “To restore biodiversity this is what needs to happen xxx” 
+## Arolwg ‘Sut i gydymffurfio â’ch trwydded amgylcheddol’
 
-## ‘How to comply with your environmental permit’ survey
+Mae James wedi creu arolwg er mwyn casglu adborth ar sut mae pobl yn defnyddio’r canllawiau ‘Sut i gydymffurfio â’ch trwydded amgylcheddol’.
 
-James has created a survey to gather feedback about how people use the ‘How to comply with your environmental permit’ guidance. 
+Mae hwn wedi ei anfon at tua 800 o gysylltiadau diwydiant a dylai fod o gymorth i ddangos sut mae pobl yn defnyddio'r canllawiau, beth yw eu pwyntiau poen ac a yw'n diwallu eu hanghenion fel defnyddwyr.
 
-This has gone out to around 800 industry contacts and should help show how people use the guidance, what are their pain points and whether it meets their user needs. 
+Yna gallwn gynnal cyfweliadau defnyddwyr er mwyn treiddio i ddyfnder y themâu hyn.
 
-We can then hold user interviews to drill down into these themes. 
+## Mae'n beth da pan ddaw cynllun at ei gilydd
 
-## It’s good when a plan comes together
+Rydym wedi bod yn brysur iawn yn gweithio er mwyn gwella cynnwys yr [adran coetiroedd a choedwigoedd](https://naturalresources.wales/guidance-and-advice/environmental-topics/woodlands-and-forests/?lang=cy) ar ein gwefan. Gyda’n cynnig o ran gwefan newydd a’n hoffer yn ein [llawlyfr cyhoeddi Cynnwys](https://naturalresources.wales/footer-links/content-and-publishing-manual/?lang=cy) cynyddol, mae’n teimlo fel pe baem wedi’n harfogi’n dda nawr ar gyfer y dasg sydd o’n blaenau!
 
-We have been very busy working to improve the content of the [woodlands and forest section](https://naturalresources.wales/guidance-and-advice/environmental-topics/woodlands-and-forests/?lang=en) of our website. With our new website proposition and tools in our growing [Content publishing manual](https://naturalresources.wales/footer-links/content-and-publishing-manual/?lang=en), it feels like we’re well equipped now for the task ahead!
+Y dasg yr wythnos hon oedd gosod cynllun yn ei le. Roedd yn rhaid i ni ddarganfod beth oedd yn digwydd gyda phob darn o gynnwys.
 
-The task this week was to get a plan in place. We had to find out what was happening with each piece of content.
+Ein cenhadaeth yw creu cynnwys sy'n canolbwyntio ar dasgau. Mae blynyddoedd ers i’r maes hwn gael ei weddnewid. Mae gennym dudalennau hen ffasiwn, ac nid yw'r cynnwys yn hygyrch nac yn gynhwysol iawn.
 
-Our mission is to create task focused content. It’s been years since this area has had a make-over. We have outdated pages, and the content is not very accessible or inclusive.
+Dechreuom ni ar y darn hwn o waith trwy gynnal cyfarfod cynhyrchiol iawn gyda’n harbenigwyr pwnc. Roedd yr arbenigwyr yn dod o’r timau coedwigaeth, rhywogaethau a thrwyddedu cwympo coed. Nod y cyfarfod oedd cael eu hadborth ar strwythur newydd y tudalennau rheoli coetir a thrwyddedau.
 
-We started this piece of work by having a very productive meeting with our subject matter experts. The experts came from forestry, species and the felling licence teams. The meeting's aim was to get their feedback on the new structure of the woodland management and licences pages.
+Cawsom adborth da, diolch i bawb a gymerodd ran. Nawr, gan bod gennym y wybodaeth werthfawr hon, y cam nesaf yw creu pensaernïaeth gwybodaeth.
 
-We got some good feedback, thank you to everyone who took part. Now we have this valuable information, the next step is to create an information architecture. 
+## Y wyddoniaeth y tu ôl i strwythuro cynnwys
 
-## The science behind structuring content
+Mae pensaernïaeth gwybodaeth yn ymwneud â helpu pobl i ddeall eu hamgylchedd a dod o hyd i'r hyn y maen nhw’n chwilio amdano, yn y byd go iawn yn ogystal ag ar-lein.
 
-Information architecture is about helping people understand their surroundings and find what they’re looking for, in the real world as well as online.
-
-Signage at airports, and tube navigation maps are great examples of information architecture in the real world. They both help people to understand where they are, what's around them, and what to expect.
+Mae arwyddion mewn meysydd awyr, a mapiau llywio’r tiwb yn enghreifftiau gwych o bensaernïaeth gwybodaeth yn y byd go iawn. Mae'r ddeubeth yn helpu pobl i ddeall ble maen nhw, beth sydd o'u cwmpas, a beth i'w ddisgwyl.
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/f48d267d7c283359a960b65b22ce0adaa79c4367/images/Picture1.png?raw=true)
 
-The history of information architecture goes as far into the past as ancient Egypt. Librarians in the [library of Alexandria](https://en.wikipedia.org/wiki/Library_of_Alexandria) listed the content of the library on a 120-scroll bibliography. The principle is the same, but the Egyptians didn’t call it an information architecture, it was common sense.
+Mae hanes pensaernïaeth gwybodaeth yn mynd mor bell nôl i'r gorffennol â'r hen Aifft. Rhestrodd llyfrgellwyr yn [llyfrgell Alexandria](https://en.wikipedia.org/wiki/Library_of_Alexandria) gynnwys y llyfrgell ar lyfryddiaeth 120-scroll. Mae'r egwyddor yr un peth, ond doedd mo’r Eifftiaid yn ei galw'n bensaernïaeth wybodaeth, synnwyr cyffredin oedd hyn.
 
-After that, things were quiet on the information architecture front, until the internet came along and changed everything.
+Ar ôl hynny, roedd pethau'n dawel o ran pensaernïaeth gwybodaeth, nes i'r rhyngrwyd ddod i’n rhan a newid popeth.
 
-We need to change the information architecture of our entire website. We need to make it easier for our users to find what they are looking for. 
+Mae angen i ni newid saernïaeth gwybodaeth ein gwefan gyfan. Mae angen i ni ei gwneud hi'n haws i'n defnyddwyr ddod o hyd i'r hyn maen nhw'n chwilio amdano.
+Er hynny, dechrau’n fach rydym ni ar hyn o bryd gan wella’r adran coedwigaeth a choetiroedd yn unig.
 
-For the moment though we’re starting small and just improving the forestry and woodlands section. 
+Unwaith y bydd gennym ein pensaernïaeth gwybodaeth coedwigaeth a choetiroedd newydd sbon yn ei lle, gallwn ddechrau gweithio ar y dasg o wella'r cynnwys.
+Yna bydd James yn cymryd y saernïaeth gwybodaeth newydd ac yn profi'r strwythur gyda'n staff a’n defnyddwyr allanol.
 
-Once we have our brand-new forestry and woodlands information architecture in place we can start work to improve the content.
+Gwyliwch fan yma am ddiweddariadau pellach ar y prosiect hwn.
 
-James will then take the new information architecture and test the structure with our staff and external users.
+## Gwefan gwbl hygyrch 
 
-Watch this space for further updates on this project.
+Ar 23 Medi 2018 daeth [rheoliadau hygyrchedd newydd](https://gds.blog.gov.uk/2018/11/21/public-sector-website-accessibility-statements-what-you-need-to-know/) i rym a oedd yn ei gwneud yn ofynnol i bob corff sector cyhoeddus gael gwefan hygyrch.
 
-## A fully accessible website
+Mae Sophie a Kim wedi bod yn gweithio trwy ffeiliau PDF y [drwydded adar](https://naturalresources.wales/permits-and-permissions/species-licensing/bird-licensing/general-licences-for-birds-2023/?lang=cy). Maen nhw wedi bod yn troi'r PDFs yn dudalennau HTML hygyrch. Mae cael y tudalennau hyn fel tudalennau HTML cwbl hygyrch a chynhwysol yn ei gwneud hi'n haws i bawb ddeall a defnyddio'r cynnwys ac nid yw'n gwahaniaethu yn erbyn neb.
 
-On 23 September 2018 [new accessibility regulations](https://gds.blog.gov.uk/2018/11/21/public-sector-website-accessibility-statements-what-you-need-to-know/) came into force that required all public sector bodies to have an accessible website.
+Mae ein gwefan bellach bron yn gwbl hygyrch, ond mae gyda ni bethau sy’n dal angen eu gwneud. Nid yw'n 100% hygyrch. Mae gyda ni rai ffurflenni Microsoft Word, ffeiliau Excel a PDFs sy’n dal heb fod yn hygyrch nac yn gynhwysol.
 
-Sophie and Kim have been working through the [bird licence](https://naturalresources.wales/permits-and-permissions/species-licensing/bird-licensing/general-licences-for-birds-2023/?lang=en) PDF files. They have been turning the PDFs into accessible HTML pages. Having these pages as fully accessible and inclusive HTML pages makes it easier for everyone to understand and use the content and does not discriminate against anyone.
+Rydym ni'n mynd i edrych eto ar ein datganiad hygyrchedd a cheisio gwella hyd yn oed mwy o bethau ar ein gwefan. Nid ydym am wahaniaethu yn erbyn unrhyw un, felly mae ein gwaith yn parhau er mwyn creu gwefan sy’n gwbl hygyrch.
 
-Our website is now pretty much fully accessible, but we still have things to do. It’s not 100% accessible. We still have some Microsoft Word forms, Excel files and PDFs that are not accessible or inclusive.
+## Ffurflenni ffab
 
-We are going to take another look at [our accessibility statement](https://naturalresources.wales/footer-links/accessibility/?lang=en) and try to improve even more things on our website. We don’t want to discriminate against anyone, so our work continues to have a fully accessible website.
+Mae Andrew a Shaun wedi dechrau diweddaru detholiad o ffurflenni ar-lein gollwng dŵr. Mae angen llawer o waith diweddaru ar y ffurflenni hyn. Mae'r ffurflenni'n amrywio o newid trwydded i ffurflenni gollwng dip defaid. Rydym yn creu ffurflenni newydd a hoffem ddiolch i Dave Jones am ei holl gefnogaeth a’i arweiniad gyda’r rhain.
 
-## Fabulous forms
+Hefyd, ar y rhestr o ffurflenni ar-lein i'w diwygio mae ffurflenni naw rhywogaeth a ffurflen trwydded morloi newydd ar-lein.
 
-Andrew and Shaun have started updating a selection of online water discharge forms. These forms require a lot of updating. The forms range from changing a permit to sheep dip discharge forms. We are creating new forms and would like to thank Dave Jones for all his support and guidance with these.
+## Prosiect caniatâd 
 
-Also, on the list of online forms to amend are nine species forms and a new online seal licence form.
+Ar ôl llawer o waith paratoi, o'r diwedd roedd yn bryd i Sam, Lucinda, Laura a Heledd gyflwyno eu sioe ac adrodd am y prosiect caniatâd. Edrych ar sut mae pobl yn cyflwyno cais i wneud rhywbeth ar dir CNC. Er enghraifft, cynnal digwyddiad rhedeg neu drefnu ysgol goedwig. Mae hyn yn dilyn ymlaen o'r gwaith a wnaethant [yn yr arbrawf labordy Learn by Making CDPS](https://gwasanaethaucyhoeddusdigidol.llyw.cymru/dysgu-trwy-greu-pethau-cyflwyno-arbrawf/?_gl=1*rhua40*_ga*MTg4NzEwMjE2MS4xNjc1Njk5Mzg5*_ga_HKYTNYNSKE*MTY3NTg1Njk0OC4xLjAuMTY3NTg1Njk0OC4wLjAuMA). Gwnaethon nhw gyflwyno i Bennaeth yr Adran Stiwardiaeth Tir a'r Arweinydd Tîm ar gyfer Cynllunio Hamdden Ystadau ac roedd y rhain yn gefnogol iawn i'r gwaith a rhoddwyd sêl bendith er mwyn i’r gwaith barhau.
 
-## Permissions project
+Cododd Sam eu bwrdd Trello ar unwaith ac maen nhw’n bwrw ati, yn mapio teithiau defnyddwyr ar gyfer y chwe ffurflen gais sydd ar gael ar hyn o bryd ar gyfer y gwasanaeth hwn.
 
-After lots of preparation it was finally time for Sam, Lucinda, Laura and Heledd to present their show and tell about the permissions project. Looking at how people apply to do something on NRW land. Like hold a running event or organise a forest school. It follows on from the work they did in the [CDPS Learn by Making lab experiment](https://digitalpublicservices.gov.wales/learning-by-making-things-introducing-an-experiment/#:~:text=The%20Learn%20by%20making%20team%20is%20sponsored%20by%20the%20Centre,share%20their%20skills%20and%20expertise). They presented to The Head of Land Stewardship and Team Leader for Estate Recreation Planning who were very supportive of the work and gave the green light to keep going.
+## Dwy awr o gyngor am ddim
 
-Sam got their Trello board up and running straight away and they’re getting stuck in, mapping user journeys for the six application forms that are currently available for this service.
+Mae Lucinda, Sam, Kim, a Phil yn parhau i fapio'r hyn sydd ar y wefan ar hyn o bryd ynglŷn â’r broses cyn ymgeisio/dwy awr o gyngor am ddim.
 
-## Two hours of free advice
+Mae’n dod yn amlwg nad yw’r wybodaeth ar ein gwefan am y broses cyn ymgeisio yn gyson ac yn sicr nid yw’n hawdd ei defnyddio.
 
-Lucinda, Sam, Kim, and Phil are continuing to map out what is currently on the website about the pre-application/two hours of free advice process.
+Rydym ni'n mynd i barhau i gywain gwybodaeth am y gwahanol wasanaethau rydym ni'n eu cynnig, beth yw’r enw sydd wedi ei roi ar bob un ohonyn nhw, a beth yw'r broses i'n defnyddwyr. Mae Sam yn rhoi arddangosiad i ni yr wythnos hon o ganfyddiadau’r ymchwil defnyddwyr mewnol.
 
-It’s becoming clear that the information on our website about the pre-application process is not consistent and is certainly not user friendly.
+## Rhai pethau eraill rydym ni'n eu gwneud 
 
-We are going to continue to gather information about the different services we offer, what they’re all called, and what the process is for our users. Sam is giving us a demonstration of the internal user research findings this week.
+Mae Sophie wedi bod yn cynnal llawer o wiriadau hygyrch ar yr ôl-groniad o adroddiadau morol.
 
-## Some other stuff we’re doing
-
-Sophie has been carrying out many accessible checks on the backlog of marine reports.
-
-Sam published [how we write for the web guidelines](https://naturalresources.wales/footer-links/how-we-write-for-the-web/?lang=en) in our content and publishing manual.
+Cyhoeddodd Sam [sut rydym yn ysgrifennu ar gyfer canllawiau’r we](https://naturalresources.wales/footer-links/how-we-write-for-the-web/?lang=cy) yn ein llawlyfr cynnwys a chyhoeddi.
