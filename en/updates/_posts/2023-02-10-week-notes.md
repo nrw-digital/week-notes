@@ -22,11 +22,11 @@ Many of us have looked to the GDS standards for years, especially for content de
 + examples where we’re using the standards
 + what do we need from CDPS to help our organisation to adopt the standards in practice
 
-Some common themes emerged from the discussions, including the need for user research to build a comprehensive understanding of users’ needs. User research is the first step in creating digital services which are easy to find and use, it informs everything that comes after and ensures we’re putting the user at the heart of how we design our services. It was reassuring (or depressing?) that almost everyone felt that having ‘empowered’ service owners is a long way off for most organisations, and often digital teams take on much of the responsibilities for trying to stand up for our users.
-
 ![We had great discussions with people from Welsh Government, CDPS, and Anglesey council. Credit: CDPS](https://github.com/nrw-digital/week-notes/blob/6d34c0038209ee439a431f20abd87da807bcd2c6/images/10022023-01.png?raw=true)
 
 _We had great discussions with people from Welsh Government, CDPS, and Anglesey council._ **_Credit: CDPS_** 
+
+Some common themes emerged from the discussions, including the need for user research to build a comprehensive understanding of users’ needs. User research is the first step in creating digital services which are easy to find and use, it informs everything that comes after and ensures we’re putting the user at the heart of how we design our services. It was reassuring (or depressing?) that almost everyone felt that having ‘empowered’ service owners is a long way off for most organisations, and often digital teams take on much of the responsibilities for trying to stand up for our users.
 
 It was great to meet some of the CDPS team in real life - after many online chats over the last couple of years. We also enjoyed sharing experiences with those working in digital teams up in North Wales, and hope for more events in this impressive venue again soon.
 
