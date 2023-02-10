@@ -1,8 +1,18 @@
+---
+title: Weeknotes 10/02/2023
+layout: post
+lang: en
+ref: 2023-02-10-week-notes
+hidetitle: True
+author: Heledd and Shaun
+---
+
 Another busy week, where a few of us managed to see each other in real life.
 
 ## We’ve got standards 
 
 Lucinda, Heledd and Shaun went for a morning trip to M-SParc on Anglesey to attend a Centre for Digital Public Services Wales (CDPS) event on embedding common digital standards in public sector organisations in Wales.
+
 The staff at M-SParc graciously avoided mentioning the fact that Shaun had sent them on a wild goose chase the previous week by turning up seven days too soon for the event.
 
 The [digital service standards](https://digitalpublicservices.gov.wales/resources/digital-service-standards) set out what’s expected when designing and managing digital services. There are twelve in total but the discussion focussed on meeting user needs, having empowered service owners and multidisciplinary teams.
@@ -16,7 +26,7 @@ Some common themes emerged from the discussions, including the need for user res
 
 ![We had great discussions with people from Welsh Government, CDPS, and Anglesey council. Credit: CDPS](https://github.com/nrw-digital/week-notes/blob/6d34c0038209ee439a431f20abd87da807bcd2c6/images/10022023-01.png?raw=true)
 
-_We had great discussions with people from Welsh Government, CDPS, and Anglesey council. **_Credit: CDPS_** 
+_We had great discussions with people from Welsh Government, CDPS, and Anglesey council._ **_Credit: CDPS_** 
 
 It was great to meet some of the CDPS team in real life - after many online chats over the last couple of years. We also enjoyed sharing experiences with those working in digital teams up in North Wales, and hope for more events in this impressive venue again soon.
 
@@ -32,7 +42,7 @@ Work on web content to help users understand our charges (and other changes plan
 
 We’re also working on web content guidance for Habitats Regulations Assessments – an area which is currently largely missing from the website but which impacts applicants in most regimes.
 
-[Find out more about the proposed changes to charging and permitting from the consultation documents on Citizen Space].(https://ymgynghori.cyfoethnaturiol.cymru/sroc/strategic-review-of-charging)
+[Find out more about the proposed changes to charging and permitting from the consultation documents on Citizen Space.](https://ymgynghori.cyfoethnaturiol.cymru/sroc/strategic-review-of-charging)
 
 ## Kick-off of new flood warning service 
 
