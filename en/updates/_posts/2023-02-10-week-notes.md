@@ -13,14 +13,16 @@ Many of us have looked to the GDS standards for years, especially for content de
 + what do we need from CDPS to help our organisation to adopt the standards in practice
 
 Some common themes emerged from the discussions, including the need for user research to build a comprehensive understanding of users’ needs. User research is the first step in creating digital services which are easy to find and use, it informs everything that comes after and ensures we’re putting the user at the heart of how we design our services. It was reassuring (or depressing?) that almost everyone felt that having ‘empowered’ service owners is a long way off for most organisations, and often digital teams take on much of the responsibilities for trying to stand up for our users.
+
 ![We had great discussions with people from Welsh Government, CDPS, and Anglesey council. Credit: CDPS](https://github.com/nrw-digital/week-notes/blob/6d34c0038209ee439a431f20abd87da807bcd2c6/images/10022023-01.png?raw=true)
 
-[We had great discussions with people from Welsh Government, CDPS, and Anglesey council. Credit: CDPS]  
+_We had great discussions with people from Welsh Government, CDPS, and Anglesey council. **_Credit: CDPS_** 
 
 It was great to meet some of the CDPS team in real life - after many online chats over the last couple of years. We also enjoyed sharing experiences with those working in digital teams up in North Wales, and hope for more events in this impressive venue again soon.
+
 ![Officially opened in 2018 as Wales’ first Science Park, M-SParc is the home of innovation and excitement in north Wales](https://github.com/nrw-digital/week-notes/blob/6d34c0038209ee439a431f20abd87da807bcd2c6/images/10022023-02.png?raw=true)
 
-[Officially opened in 2018 as Wales’ first Science Park, M-SParc is the home of innovation and excitement in north Wales]
+_Officially opened in 2018 as Wales’ first Science Park, M-SParc is the home of innovation and excitement in north Wales._
 
 ## Updated charges
 
@@ -39,9 +41,10 @@ Heledd and James were invited to a two-day workshop with colleagues in ICT and F
 It’s early days, but it was great to network and have a chance to share our experience and advice and make sure that user-centred design and Welsh language are considered from the beginning.
 
 James has done a lot of work to help the team prepare for this, including user research with current users of the service. He also did some initial prototypes that will now be handed over to the squad from NRW and BJSS to take on. 
+
 ![Martin talking through the draft screens that James started for the new flood warning service](https://github.com/nrw-digital/week-notes/blob/6d34c0038209ee439a431f20abd87da807bcd2c6/images/10022023-03.png?raw=true)
 
-[Martin talking through the draft screens that James started for the new flood warning service]
+_Martin talking through the draft screens that James started for the new flood warning service._
 
 Day 1 started with NRW flood talking about the vision for the flood warnings, and the context for this critical service. In the afternoon, BJSS shared their proposed approach - with a great overview of the value of an Agile approach to development, to help de-risk. 
 
@@ -51,9 +54,9 @@ We look forward to seeing how this evolves, and James and Manon from the transla
 
 ## Show and tell
 
-From inside a booth called Stacey, Heledd presented our team’s new monthly Show and Tell session.
-
 ![Show and Tell](https://github.com/nrw-digital/week-notes/blob/6d34c0038209ee439a431f20abd87da807bcd2c6/images/10022023-04.png?raw=true)
+
+From inside a booth called Stacey, Heledd presented our team’s new monthly Show and Tell session.
 
 This month we focussed on the work we’ve been doing behind the scenes, such as the content request form, website proposition and other tools in our Content and publishing manual. 
 
