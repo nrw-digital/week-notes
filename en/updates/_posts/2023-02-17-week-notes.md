@@ -116,7 +116,7 @@ However, there is still a lot of manual input, and this takes time. The admin te
 
 It’s a huge testament to how hard working and committed the teams are in providing an efficient service, but these tools could be seen as a coping method for what is an extremely difficult process to manage.
 
-Based onour conversations, the teams try to be as accommodating as possible to requests to use the land. This didn’t seem obvious to the users we interviewed, who mostly pointed out a laborious process from their perspective.
+Based on our conversations, the teams try to be as accommodating as possible to requests to use the land. This didn’t seem obvious to the users we interviewed, who mostly pointed out a laborious process from their perspective.
 
 ## 6 forms to confuse them all
 
@@ -153,7 +153,7 @@ Our next steps are:
 
 ## Other things we did
 
-+ James presented some headline user research findings to the SoNaRR expert group.
++ James presented some headline user research findings to the SoNaRR expert group
 + Owain has been updating intranet pages on waste guidance
 + Andrew is juggling a whole smorgasbord of forms. How many forms makes a smorgasbord? 16. 16 forms.
 + Sophie has been making dents in the marine backlog, including publishing 13 catchment summaries
