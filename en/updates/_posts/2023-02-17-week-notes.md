@@ -90,7 +90,7 @@ We heard similar feedback from users in the Centre for Digital Public Services�
 
 Sam, Laura, and Lucinda have been setting aside blocks of time to focus on the permissions project started during the [CDPS Learn by Making lab experiment](https://digitalpublicservices.gov.wales/learning-by-making-things-introducing-an-experiment/#:~:text=The%20Learn%20by%20making%20team%20is%20sponsored%20by%20the%20Centre,share%20their%20skills%20and%20expertise).
 
-![Screenshot of slide saying: Now, next, Later. Make it easier for users to know what they need to do if they want to use NRW land and do it](https://github.com/nrw-digital/week-notes/blob/dabeaaabc69f9fe3096fe8cb2b9a6091eb1af6e4/images/Now%20Next%20Later.png?raw=true)
+![Screenshot of slide saying: Now, next, Later. Make it easier for users to know what they need to do if they want to use NRW land and do it](https://github.com/nrw-digital/week-notes/blob/6284459c59a41d0155fdccd7a49a8d5d2a2dd65f/images/now%20next.png?raw=true)
 
 A key slide from the presentation set out our long and short term goals. What we can do now, next, and later. Without a full multidisciplinary project team, and integrated systems to help us, we can’t YET fully focus on our long-term goal – which is end to end service design. Emphasis on the YET.
 
