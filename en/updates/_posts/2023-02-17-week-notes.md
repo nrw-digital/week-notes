@@ -18,7 +18,7 @@ This is a 96 page PDF linked alongside 18 other documents at the bottom of one o
 
 As of 16 February 2023 we’ve had 103 responses from a wide range of industries.
 
-![alt text](https://github.com/nrw-digital/week-notes/blob/dabeaaabc69f9fe3096fe8cb2b9a6091eb1af6e4/images/Survey%20key%20words.PNG)
+![](https://github.com/nrw-digital/week-notes/blob/dabeaaabc69f9fe3096fe8cb2b9a6091eb1af6e4/images/Survey%20key%20words.PNG)
 
 We’ll talk about three themes that jump out from the initial survey results.
 
@@ -40,7 +40,7 @@ But 61% of respondents said they found out about changes to the guidance by look
 
 This shows why we need user research to help understand our users, their behaviour and their tasks. 
 
-![decorative](https://github.com/nrw-digital/week-notes/blob/dabeaaabc69f9fe3096fe8cb2b9a6091eb1af6e4/images/Man%20with%20powertool.PNG)
+![](https://github.com/nrw-digital/week-notes/blob/dabeaaabc69f9fe3096fe8cb2b9a6091eb1af6e4/images/Man%20with%20powertool.PNG)
 
 ## Broad goals versus clear conditions
 
@@ -56,7 +56,7 @@ Similarly, in the two largest industry samples,  80% of waste respondents and 77
 
 The only outlier was non-ferrous metals but there were only two responses in the sample. In every other industry sector, between 67% and 100% of respondents preferred clear conditions. 
 
-![alt text](https://github.com/nrw-digital/week-notes/blob/dabeaaabc69f9fe3096fe8cb2b9a6091eb1af6e4/images/Survey%20results%20search.PNG)
+![](https://github.com/nrw-digital/week-notes/blob/dabeaaabc69f9fe3096fe8cb2b9a6091eb1af6e4/images/Survey%20results%20search.PNG)
 
 We also asked open-ended questions in the survey, like ‘How would you make it easier to comply with environmental permits?’ Many of the answers pointing to relying less on user interpretation and more on clear, practical advice: 
 
@@ -90,7 +90,7 @@ We heard similar feedback from users in the Centre for Digital Public Services�
 
 Sam, Laura, and Lucinda have been setting aside blocks of time to focus on the permissions project started during the [CDPS Learn by Making lab experiment](https://digitalpublicservices.gov.wales/learning-by-making-things-introducing-an-experiment/#:~:text=The%20Learn%20by%20making%20team%20is%20sponsored%20by%20the%20Centre,share%20their%20skills%20and%20expertise).
 
-![alt text](https://github.com/nrw-digital/week-notes/blob/dabeaaabc69f9fe3096fe8cb2b9a6091eb1af6e4/images/Now%20Next%20Later.png)
+![Screenshot of slide saying: Now, next, Later. Make it easier for users to know what they need to do if they want to use NRW land and do it](https://github.com/nrw-digital/week-notes/blob/dabeaaabc69f9fe3096fe8cb2b9a6091eb1af6e4/images/Now%20Next%20Later.png)
 
 A key slide from the presentation set out our long and short term goals. What we can do now, next, and later. Without a full multidisciplinary project team, and integrated systems to help us, we can’t YET fully focus on our long-term goal – which is end to end service design. Emphasis on the YET.
 
@@ -126,13 +126,13 @@ To get to grips with them, and visualise the skip logic, we mapped them out page
 
 Stand by for 3 unique mapping styles.
 
-![alt text](https://github.com/nrw-digital/week-notes/blob/4fafe849dce0beec4309f368f6d70be95145a8d7/images/Form%20mapping%20flows.png)
+![3 flow diagrams of form journeys. Each has a unique style as it was created by different members of the team](https://github.com/nrw-digital/week-notes/blob/4fafe849dce0beec4309f368f6d70be95145a8d7/images/Form%20mapping%20flows.png)
 
 We could see how these could be combined. Many of the same questions appeared across all 6 forms. 
 
 Which led us to mapping out our 1 form to rule them all.
 
-![alt text](https://github.com/nrw-digital/week-notes/blob/4fafe849dce0beec4309f368f6d70be95145a8d7/images/Qs%20for%20new%20form.png)
+![Flow diagram of new form](https://github.com/nrw-digital/week-notes/blob/4fafe849dce0beec4309f368f6d70be95145a8d7/images/Qs%20for%20new%20form.png)
 
 ## We have to start somewhere simple
 
@@ -142,7 +142,7 @@ We approached this slightly differently to our first [check if you need permissi
 
 Using the GDS forms toolkit to guide us we have created a start page, a simple form for all users and a confirmation page.
 
-![alt text](https://github.com/nrw-digital/week-notes/blob/66c4a11256e2217e5e740e1ffff945b7b305b899/images/Test%20site%20Asset%201.png)
+![](https://github.com/nrw-digital/week-notes/blob/66c4a11256e2217e5e740e1ffff945b7b305b899/images/Test%20site%20Asset%201.png)
 
 We still have some finishing touches to make before thinking about sharing it or getting it in front of users.
 
