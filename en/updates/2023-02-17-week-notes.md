@@ -98,7 +98,7 @@ However, this doesn’t stop us making improvements that can help now.
 
 The user research interviews highlight how the current content is not helping users to understand:
 + what they need to do to apply
-+ which of the 6 forms is for them
++ which of the 6 forms is best suited to their needs
 
 So we have decided to start there.
 
@@ -106,17 +106,17 @@ So we have decided to start there.
 
 Before someone can get permission to use our land, there is an internal consultation process to make sure the land is safe to use. Felling operations are put on stop, we check that there’s no sensitive wildlife in the area, and so on.
 
-We spoke to some of the team members who manage and comment on this process.
+To best understand the process and the changes needed, we spoke to some of the team members who manage and comment on this process.
 
-What we have learnt is that the admin team (who process the applications) go above and beyond to make this as simple as possible for their colleagues. 
+What we have learnt is that the admin team who process the applications, go above and beyond to make this as simple as possible for their colleagues. 
 
 Extensive spreadsheets, detailed maps, internal consultation forms, setting reminders, chasing colleagues for responses. These are just some of the home-made management systems they have created to aid with efficiency. 
 
-However, there is still a lot of manual input, and this takes time. The admin team still receive a lot of incomplete or incorrect applications, and this is causing frustration and stress for users and our staff. 
+However, there is still a lot of manual input, and this takes time. The admin team still receive a lot of incomplete or incorrect applications, and this results in frustration and stress for both users and our staff. 
 
-It’s a huge testament to how hard working and committed the teams are to providing an efficient service, but these tools could be seen as a coping method for what is an extremely difficult process to manage.
+It’s a huge testament to how hard working and committed the teams are in providing an efficient service, but these tools could be seen as a coping method for what is an extremely difficult process to manage.
 
-Based on what we heard, the teams try to be as accommodating as possible to requests to use the land. This didn’t seem obvious to the users we interviewed, who mostly pointed out a laborious process from their perspective.
+Based onour conversations, the teams try to be as accommodating as possible to requests to use the land. This didn’t seem obvious to the users we interviewed, who mostly pointed out a laborious process from their perspective.
 
 6 forms to confuse them all
 
@@ -136,7 +136,7 @@ Which led us to mapping out our 1 form to rule them all.
 
 ## We have to start somewhere simple
 
-Off the back of this mapping and chatting, it was time to make the next prototype.
+Off the back of this mapping and chatting, it was time to create the next prototype.
 
 We approached this slightly differently to our first [check if you need permission prototype](https://permissions-prototype.onrender.com/en/permissions/check/start_check) in that we used the tools we already have available to us (our test site and SmartSurvey) and stuck to their constraints. 
 
