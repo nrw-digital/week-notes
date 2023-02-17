@@ -126,7 +126,7 @@ To get to grips with them, and visualise the skip logic, we mapped them out page
 
 Stand by for 3 unique mapping styles.
 
-![3 flow diagrams of form journeys. Each has a unique style as it was created by different members of the team](images/Form mapping flows.png)
+![3 flow diagrams of form journeys. Each has a unique style as it was created by different members of the team](https://github.com/nrw-digital/week-notes/blob/4111c9ce0169f827f3d3e49f7f1292bf9a4bc7b6/images/Form%20mapping%20flows.png)
 
 We could see how these could be combined. Many of the same questions appeared across all 6 forms. 
 
