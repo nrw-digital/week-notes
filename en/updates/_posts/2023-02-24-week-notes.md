@@ -38,9 +38,9 @@ For the intranet, Kim thinks she’s deleted over 1,000 pages already. I wonder 
 
 As covered by Shaun and others in recent weeknotes, we’re expecting a lot of changes to charges to come in by 1 April.
 
-The team is amazing at looking into the details and asking the questions that users are likely to have, which could then cause more queues for our colleagues who receive applications. 
+The team is amazing at looking into the details and asking the questions that users are likely to have, which could then cause more queries for our colleagues who receive applications. 
 
-There’s a lot to do before and after April. But this week we started having more regular  catch ups (stand-up style) so that we can openly share progress and quickly find solutions - trying to work in a more agile way with the SROC Team.
+There’s a lot to do before and after April. But this week we started having more regular catch ups (stand-up style) so that we can openly share progress and quickly find solutions - trying to work in a more agile way with the SROC Team.
 
 ## Great feedback from training with Christine
 
