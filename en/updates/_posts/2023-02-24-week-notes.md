@@ -72,11 +72,11 @@ _[The UK Forestry Standard (UKFS)](https://www.gov.uk/government/publications/th
 
 What we should be saying to help our users complete the task is:
 
-_Trees can affect water acidification. It is important to make sure the acidification of rivers and streams does not get worse by cutting down trees.
+_Trees can affect water acidification. It is important to make sure the acidification of rivers and streams does not get worse by cutting down trees._
 
-Contact us to find out if your felling proposal is in an ‘at risk’ or ‘failing’ acidification area.
+_Contact us to find out if your felling proposal is in an ‘at risk’ or ‘failing’ acidification area._
 
-If your felling proposal fails the acidification check, we will not be able to give you a felling licence._
+_If your felling proposal fails the acidification check, we will not be able to give you a felling licence._
 
 The detective work on one page is done, just another 20 more to go.
 
