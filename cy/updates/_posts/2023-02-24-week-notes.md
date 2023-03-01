@@ -7,90 +7,88 @@ hidetitle: True
 author: Heledd and Phil
 ---
 
-## Preparing for a new dawn
+## Paratoi at wawr newydd
 
-March is always a busy month, as it proceeds that magical day of 1 April. No, not April fool’s day, but the first day of a new financial year for many organisations - including ours.
+Mae mis Mawrth bob amser yn fis prysur, gan ei fod yn arwain at y diwrnod hudolus hwnnw - Ebrill y cyntaf. Na, nid Diwrnod Ffŵl Ebrill, ond diwrnod cyntaf y flwyddyn ariannol newydd i nifer o sefydliadau - gan gynnwys ein sefydliad ni.
 
-As this new dawn draws closer, that sense of urgency grows. Everyone is really busy and  Heledd is trying to prioritise and find more ways to share our plans and priorities with others. 
+Wrth i'r cyfnod newydd hwn agosáu, mae'r ymdeimlad o frys yn cynyddu. Mae pawb yn hynod o brysur ac mae Heledd yn ceisio blaenoriaethu ffyrdd o rannu ein cynlluniau a'n blaenoriaethau ag eraill a darganfod mwy o ddulliau o wneud hynny.
 
-We can’t do everything - and we make sure everyone’s well-being is taken care of. Taking lunch breaks, our weekly wellbeing hour and having a day off now and then is the most important thing. 
+Allwn ni ddim gwneud popeth - ac rydym yn sicrhau fod gofal yn cael ei roi i les pawb. Cymryd egwyl amser cinio, ein hawr les wythnosol a chymryd diwrnod i ffwrdd nawr ac yn y man yw'r peth pwysicaf. 
 
-## Budget management stuff
+## Materion rheoli'r gyllideb
 
-Heledd has been busy with money matters, such as:
+Bu Heledd yn brysur gyda materion ariannol, e.e.:
 
-+ End of year finance work. Making sure everything is budgeted, invoiced and paid for - by some critical deadlines is a number 1 priority.
-+ Planning finances for next year (1 April onwards) - which also means trying to get confirmation of what work we can plan and commit to next year.
++	Gwaith cyllid diwedd blwyddyn. Gofalu fod y gwaith o gyllidebu, anfonebu a thalu popeth yn cael ei gwblhau erbyn terfynau amser critigol a rhoi’r flaenoriaeth i hynny.
++ Cynllunio cyllid ar gyfer y flwyddyn nesaf (1 Ebrill ymlaen) - sydd hefyd yn golygu ceisio cael cadarnhad o ba waith y gallwn gynllunio ar ei gyfer ac ymrwymo iddo'r flwyddyn nesaf.
 
-For the record, spending days in spreadsheets and financial systems is not Heledd’s favourite place to be.
+Er gwybodaeth, nid yw treulio oriau rif y gwlith yn ymdrin â thaenlenni a systemau ariannol yn un o hoff sefyllfaoedd Heledd.
 
-## Making space for a new Corporate Plan 
+## Gwneud lle ar gyfer Cynllun Corfforaethol newydd 
 
-Every few years, like most organisations, we refresh and revise our organisational priorities - an important piece of work that influences and sets the direction for the years ahead. 
+Bob ychydig o flynyddoedd, fel y rhan fwyaf o sefydliadau, rydym yn adnewyddu ac yn adolygu ein blaenoriaethau sefydliadol - gwaith dylanwadol pwysig sy’n gosod y cyfeiriad ar gyfer y blynyddoedd i ddod. 
 
-We’re using this as an opportunity to have our Marie Kondo moment for the ‘About us’ section of the website. This content does not spark joy, and worse than that, is the type of content that clogs up the search for users trying to complete a task. 
+Rydym yn defnyddio hyn fel cyfle i gael ein cyfnod Marie Kondo ar gyfer yr adran 'Amdanom ni' ar y wefan. Nid yw'r cynnwys hwn yn rhoi tamaid o lawenydd, ac yn waeth na hynny, dyma'r math o gynnwys sy'n llesteirio’r gwaith chwilio wrth i ddefnyddwyr geisio cwblhau tasg. 
 
-Sophie is working with Louise (a Content Designer from DXW) on finalising what we’re going to keep / remove, then we’ll start hitting the ‘unpublish’ button very soon. 
+Mae Sophie wrthi’n gweithio gyda Louise (Dylunydd Cynnwys o DXW) er mwyn cwblhau'r hyn ydyn ni'n mynd i'w gadw / mynd i gael gwared ohono, yna’n fuan iawn wedyn byddwn yn dechrau taro'r botwm 'dad-gyhoeddi'. 
 
-For the intranet, Kim thinks she’s deleted over 1,000 pages already. I wonder if we’ll have made a (tiny) dent in our carbon footprint during this process.
+O ran y fewnrwyd, mae Kim yn credu ei bod wedi dileu mwy na 1,000 o dudalennau yn barod. Tybed a fyddwn ni’n llwyddo i ostwng fymryn ar ein hôl troed carbon yn ystod y broses hon.
 
-## Updated charges
+## Diweddaru Ffioedd
 
-As covered by Shaun and others in recent weeknotes, we’re expecting a lot of changes to charges to come in by 1 April.
+Fel y dywedodd Shaun ac eraill yn nodiadau’r wythnosau diwethaf, rydym yn disgwyl llawer o newidiadau i ffioedd erbyn 1 Ebrill.
 
-The team is amazing at looking into the details and asking the questions that users are likely to have, which could then cause more queries for our colleagues who receive applications. 
+Mae'r tîm yn anhygoel am ymchwilio i'r manylion ac am ofyn y cwestiynau y mae defnyddwyr yn debygol o'u gofyn, sydd wedyn yn gallu achosi mwy o giwiau i'n cydweithwyr sy'n derbyn ceisiadau. 
 
-There’s a lot to do before and after April. But this week we started having more regular  catch ups (stand-up style) so that we can openly share progress and quickly find solutions - trying to work in a more agile way with the SROC Team.
+Mae 'na lawer i'w wneud cyn ac ar ôl mis Ebrill. Ond yr wythnos hon fe wnaethon ni ddechrau cynnal sesiynau dal-i-fyny mwy rheolaidd (arddull stand-yp) er mwyn i ni allu rhannu cynnydd yn agored a chanfod atebion yn gyflym - ceisio gweithio mewn ffordd fwy ystwyth gyda Thîm SRoC.
 
-## Great feedback from training with Christine
+## Adborth gwych yn dilyn hyfforddiant gan Christine
 
-This week Christine (from Crocstar) wrapped up the second round of training for Introduction to writing user-centred content.
+Yr wythnos hon oedd diwedd ail rownd hyfforddiant Cyflwyniad i ysgrifennu cynnwys sy'n canolbwyntio ar y defnyddiwr, yng nghwmni Christine (o Crocstar).
 
-We’ve been working with Christine (plus a gang from DXW, Basis and Fourthwall content) for just over a year as part of a wider piece of work around content strategy.
+Rydym wedi bod yn gweithio gyda Christine (a chriw o DXW, Basis a Fourthwall Content) am ychydig dros flwyddyn fel rhan o waith ehangach sy’n gysylltiedig â strategaeth cynnwys.
 
-Our goal was to increase awareness of good content so that everyone benefits - whether someone is writing a technical report themselves, or working with a content designer in the Digital Team.
+Ein nod oedd cynyddu ymwybyddiaeth o gynnwys da fel bod pawb yn elwa – boed rhywun yn ysgrifennu adroddiad technegol ei hun, neu'n gweithio gyda dylunydd cynnwys yn y Tîm Digidol.
 
-The timing of the training, with the new [Content and publishing manual going live](https://naturalresources.wales/footer-links/content-and-publishing-manual/?lang=en), feels like we’ve made great headways over the last few months in helping colleagues understand what the website is for. 
+Mae amseriad yr hyfforddiant, gyda’r [Llawlyfr cynnwys a chyhoeddi yn mynd yn fyw](https://naturalresources.wales/footer-links/content-and-publishing-manual/?lang=cy), yn teimlo fel ein bod wedi gwneud cynnydd sylweddol iawn dros y misoedd diwethaf wrth helpu cydweithwyr i ddeall beth yw pwrpas y wefan. 
 
-I also feel that there’s growing appreciation for what our team does - which feels really good!
+Rydw i’n teimlo hefyd bod gwerthfawrogiad cynyddol o’r hyn mae ein tîm yn ei wneud - sy'n deimlad gwirioneddol anhygoel!
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/640aa6a9294d8608892af44063391f40f4f01e6b/images/24022023-001.png?raw=true)
 
 [Dyfal Donc a Dyr y Garreg](https://nscblog.com/step-by-step-habit-creation/dyfal-donc-a-dyr-y-garreg/)
 
-## If you go down to the woods today…
+## Os ewch chi lawr am dro i'r coed ...
 
-Phil’s been more like Miss Marple this week. Doing detective work to understand what our forestry pages and attachments contain. He started with the acid sensitive catchment page. 
+Mae Phil wedi bod yn debyg iawn i Miss Marple yr wythnos hon. Gwneud gwaith ditectif i ddeall beth yn union mae ein tudalennau coedwigaeth a'r atodiadau yn gynnwys. Dechreuodd gyda'r dudalen ‘dalgylchoedd sy’n sensitif i asid’. 
 
-It’s taken some time and lots of detective work to understand this process. He has been trying to understand what task a user needs to do on each page (not as easy as you’d imagine).
+Cymerodd gryn amser a llawer o waith ditectif i ddeall y broses hon. Mae wedi bod yn ceisio deall pa dasg sydd angen i ddefnyddiwr ei gwneud ar bob tudalen (ddim mor hawdd ag y byddech chi'n meddwl).
 
-I will give you an example:
+Dyma esiampl:
 
-The current page reads:
+Mae'r dudalen gyfredol yn dweud:
 
-_[The UK Forestry Standard (UKFS)](https://www.gov.uk/government/publications/the-uk-forestry-standard) sets the standard for sustainable forest management. It has seven associated guidelines and the Forests and Water Guidelines (F&WG) (Forestry Commission, 2011) (UK publication in English only) require that an assessment of forestry's contribution to acidification and the recovery process be made, in catchments of water bodies that are vulnerable to acidification. This requirement was included in the 4th edition of the F&WG (2003) but no details were provided on how to implement certain aspects of the assessments._
+_Mae [Safon Coedwigaeth y DU (UKFS)](https://www.gov.uk/government/publications/the-uk-forestry-standard) yn gosod safon ar gyfer rheoli coedwigoedd mewn dull cynaliadwy. Mae ganddo saith canllaw cysylltiedig, ac yn ôl y Forests and Water Guidelines (F&WG) (Forestry Commission, 2011) (cyhoeddiad y DU yn Saesneg yn unig) mynnir bod asesiad o gyfraniad coedwigaeth i asideiddio a’r broses adfer yn cael ei wneud, mewn dalgylchoedd o ardaloedd dyfrol sy’n agored i asideiddio. Roedd y gofyniad hwn i’w gael ym mhedwerydd rhifyn F&WG (2003) ond ni ddarparwyd manylion ar sut i weithredu agweddau arbennig o’r asesiadau._
 
-What we should be saying to help our users complete the task is:
+Yr hyn y dylem fod yn ei ddweud i helpu ein defnyddwyr i gwblhau'r dasg yw:
 
-_Trees can affect water acidification. It is important to make sure the acidification of rivers and streams does not get worse by cutting down trees._
+_Gall coed effeithio ar asideiddio dŵr. Mae'n bwysig sicrhau nad yw asideiddio afonydd a nentydd yn gwaethygu drwy dorri coed._
 
-_Contact us to find out if your felling proposal is in an ‘at risk’ or ‘failing’ acidification area._
+_Cysylltwch â ni i ddarganfod a yw eich cais i gwympo coed mewn ardal sydd 'mewn perygl' o asideiddio neu sydd wedi 'methu'._
 
-_If your felling proposal fails the acidification check, we will not be able to give you a felling licence._
+_Os yw eich cais cwympo coed yn methu yn y gwiriad asideiddio, ni fyddwn yn gallu rhoi trwydded gwympo coed i chi._
 
-The detective work on one page is done, just another 20 more to go.
+Mae'r gwaith ditectif ar un dudalen wedi’i gwblhau, a dim ond 20 tudalen arall i fynd.
 
-## Card sorting
+## Didoli cardiau
+Llwyddodd yr anhygoel James i gynnal ymarfer didoli cardiau yr wythnos hon.
 
-The amazing James carried out a card sorting exercise this week.
+Roedd yn defnyddio meddalwedd o'r enw '[Tree Jack](https://www.optimalworkshop.com/treejack/)’. Anfonodd ein defnyddwyr o'r wefan bensaernïaeth yr wybodaeth goedwigaeth newydd.
 
-James used software called ‘[Tree Jack](https://www.optimalworkshop.com/treejack/)’. He sent our users of the website the new forestry information architecture.
+Mae Tree Jack yn ein helpu i brofi pa mor hawdd yw hi i’n defnyddwyr ddod o hyd i gynnwys ar ein gwefan. Mae'n ein helpu i ddeall beth yw barn ein defnyddwyr o hierarchaeth cynnwys ar ein safle. Yna mae'n gadael i ni brofi, iteru a chadarnhau ein pensaernïaeth wybodaeth.
 
-Tree Jack helps us test how easy our users find content on our website. It helps us to understand how our users see the hierarchy of content on our site. It then lets us test, iterate and confirm our information architecture.
+Arweiniodd Tree Jack at ganfyddiadau diddorol iawn a throdd James y canfyddiadau hyn yn adroddiad. Yna, buom wrthi’n meddwl, ac yn ail-weithio ar deitlau'r tudalennau, fel eu bod yn canolbwyntio mwy ar y dasg. Mae James bellach wedi anfon fersiwn wedi'i diweddaru at restr o bobl sy'n defnyddio ein gwefan, er mwyn casglu mwy o adborth i brofi ein strwythur newydd arfaethedig ar gyfer adran goedwigaeth ein gwefan.
 
-Tree Jack came up with some very interesting findings and James turned these findings into a report. We then reflected, and reworked the page titles, so that they were more task-focussed. James has now sent an updated version to a list of people that use our website, to gather some more feedback to test our proposed new structure for the forestry section of our website. 
-
-## Some of other things we did
-
-+ Sophie’s been looking at our accessibility statement to make sure it’s up to date.
-+ Andrew’s still chipping away on the species form
+## Pethau eraill a wnaethon ni
++	Mae Sophie wedi bod yn edrych ar ein datganiad hygyrchedd i sicrhau ei fod yn gyfredol.
++	Mae Andrew yn dal i ddyfal doncio ar y ffurflen rywogaethau
