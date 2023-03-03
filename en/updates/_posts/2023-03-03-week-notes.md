@@ -27,9 +27,9 @@ They are difficult to use unless you're practised at it and impossible for some,
 
 We aren't digitising the paper forms because of the problems that can create. So we're repackaging, reframing, rephrasing and giving users only what they need to get their task done - and NRW what they need to consider the application.
 
-Without our own form builder, we use SmartSurvey. We have an accessible, branded  template and can use skip logic to route users through the journey they need. As far as we can, we have followed the GDS service manual on structuring forms, adding one thing per page and considering how we ask questions. 
+Without our own form builder, we use SmartSurvey. We have an accessible, branded  template and can use skip logic to route users through the journey they need. As far as we can, we have followed the [GDS service manual](https://www.gov.uk/service-manual/design/form-structure) on structuring forms, adding one thing per page and considering how we ask questions. 
 
-And throughout, we’re working to Lou Downe’s 15 principles for Good Services where we can.
+And throughout, we’re working to [Lou Downe’s 15 principles for Good Services] (https://good.services/15-principles-of-good-service-design) where we can.
 
 We're aiming for an April launch and there’s every sign we can keep working with SMEs to iterate the content and flow based on how well it works for users and staff.
 
@@ -64,11 +64,11 @@ We’ve been thinking about the questions users come to us with but that the org
 
 It is complicated: how does someone know when to contact a local authority or a regulatory body, Welsh government or an arms-length body?
 
-We try to tackle this for our report an incident service as it’s important that users’ time isn’t wasted and organisations are able to deal with issues quickly. 
+We try to tackle this for our [report an incident service](https://naturalresources.wales/about-us/contact-us/report-an-environmental-incident/?lang=en) as it’s important that users’ time isn’t wasted and organisations are able to deal with issues quickly. 
 
-Another is where we created a page to tackle a common query around who is responsible for rivers, streams and culverts in Wales. It’s not easy to tell from our data whether this has reduced the volume of contacts, but analytics tells us that it’s a popular page.
+Another is where we created a page to tackle a common query around [who is responsible for rivers, streams and culverts in Wales] (https://naturalresources.wales/flooding/responsibility-for-rivers-streams-culverts-and-canals/?lang=en). It’s not easy to tell from our data whether this has reduced the volume of contacts, but analytics tells us that it’s a popular page.
 
-We’re going to look more closely at the queries we receive through our contact us form and decide what we can do now to best meet users’ needs on the non-remit stuff, even if it means swiftly moving the user on to another organisation.
+We’re going to examine the queries we receive through our contact us form and decide what we can do now to best meet users’ needs on the non-remit stuff, even if it means swiftly moving the user on to another organisation.
 
 
 ## Other stuff we’ve been doing
@@ -79,4 +79,4 @@ We’re going to look more closely at the queries we receive through our contact
 * James and Lucinda enjoyed day one of their service design in practice course in Cardiff
 * Sophie has published several marine evidence reports this week, helping the marine team understand better how to create accessible documents
 * Our survey is still open for users to tell us what they think about the how to comply with your environmental permit guidance - we’re gathering lots of valuable data
-* Andrew, Kim & Sophie get to stay with the team for a bit longer - hooray! 
+* Andrew, Kim & Sophie get to stay with the team for a bit longer - a big hooray! 
