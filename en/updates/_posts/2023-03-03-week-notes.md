@@ -6,7 +6,7 @@ ref: 2023-03-03-week-notes
 hidetitle: True
 author: Sam and Kim
 ---
-## Dydd Gŵyl Dewi Hapus (Happy St David’s Day for the 1 March!) 
+## Dydd Gŵyl Dewi Hapus (Happy St David’s Day for the 1 March) 
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/e9fa5cd564625acb87765f7e2127d024392d4ed4/images/daffodils.PNG?raw=true)
 
