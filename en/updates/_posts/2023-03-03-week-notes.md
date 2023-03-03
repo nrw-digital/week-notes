@@ -75,7 +75,7 @@ We’re going to examine the queries we receive through our contact us form and 
 
 * Heledd met with the Customer Experience team and Mima, who shared an update on work to collate a complete list of NRW services. There’s still lots to do in terms of refining the lists but it’s starting to take shape in terms of seeing everything the organisation currently does in one list.
 * Shaun, Phil and Andrew are working with SMEs from across the business on modernising the way we deliver to users parts of the licensing and permitting service
-* Sophie is looking at the communications section of the intranet to see how we can streamline and update content)
+* Sophie is looking at the communications section of the intranet to see how we can streamline and update content
 * James and Lucinda enjoyed day one of their service design in practice course in Cardiff
 * Sophie has published several marine evidence reports this week, helping the marine team understand better how to create accessible documents
 * Our survey is still open for users to [tell us what they think about the how to comply with your environmental permit guidance](https://nrw-digital.github.io/week-notes/en/updates/2023/02/17/week-notes.html) - we’re gathering lots of valuable data
