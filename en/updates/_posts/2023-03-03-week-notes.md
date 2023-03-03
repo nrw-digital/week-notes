@@ -68,7 +68,7 @@ We try to tackle this for our [report an incident service](https://naturalresour
 
 Another is where we created a page to tackle a common query around [who is responsible for rivers, streams and culverts in Wales](https://naturalresources.wales/flooding/responsibility-for-rivers-streams-culverts-and-canals/?lang=en). It’s not easy to tell from our data whether this has reduced the volume of contacts, but analytics tells us that it’s a popular page.
 
-We’re going to examine the queries we receive through our contact us form and decide what we can do now to best meet users’ needs on the non-remit stuff, even if it means swiftly moving the user on to another organisation.
+We’re going to examine the queries we receive through our contact us form and decide what we can do now to best meet users’ needs on the non-remit stuff, even if it means just swiftly moving the user on to another organisation.
 
 
 ## Other stuff we’ve been doing
