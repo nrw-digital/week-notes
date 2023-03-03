@@ -8,6 +8,7 @@ author: Sam and Kim
 ---
 ## Dydd Gŵyl Dewi Hapus (Happy St David’s Day for the 1 March!) 
 
+![alt text](https://github.com/nrw-digital/week-notes/blob/e9fa5cd564625acb87765f7e2127d024392d4ed4/images/daffodils.PNG?raw=true)
 
 ## Waste permit applications
 
@@ -53,11 +54,15 @@ We’re looking forward to seeing this work develop.
 ### About us
 
 Christine Cawthorne, also from DXW, gave an update on the work that is being done to the ‘About us’ section of the site. This ended with an audience-led card sorting exercise to help us think about what might be the most user-friendly route through the section.  
-Non-remit, but not for our users
+
+![alt text](https://github.com/nrw-digital/week-notes/blob/e9fa5cd564625acb87765f7e2127d024392d4ed4/images/About%20us.PNG?raw=true)
+
+
+## Non-remit, but not for our users
 
 We’ve been thinking about the questions users come to us with but that the organisation considers as ‘non-remit’. There’s often a tendency to avoid saying what we don’t deal with - or what our role isn’t - and rarely do we point users in the right direction by signposting to other websites. 
 
-But it is complicated: how does someone know when to contact a local authority or a  regulatory body, Welsh government or an arms-length body?
+It is complicated: how does someone know when to contact a local authority or a regulatory body, Welsh government or an arms-length body?
 
 We try to tackle this for our report an incident service as it’s important that users’ time isn’t wasted and organisations are able to deal with issues quickly. 
 
