@@ -16,7 +16,7 @@ It's been a pleasure to work closely with Steve - our waste SME - this week on u
 
 Currently, if someone running a scrap yard wants to change their permit they have to download and fill in four forms, then download and read four documents on how to fill in the forms. 
 
-As well as the problem of volume of paperwork, all of the forms are multipurpose, to be used for:
+As well as the problem of volume of paperwork, all of the forms are multipurpose to be used for:
 * different reasons (for example, both a new permit and changing a permit) 
 * a wide range of business activity (for example, from recycling centres to intensive chicken farms)
 * different types of applicant (from sole traders to large companies)
