@@ -29,7 +29,7 @@ We aren't digitising the paper forms because of the problems that can create. So
 
 Without our own form builder, we use SmartSurvey. We have an accessible, branded  template and can use skip logic to route users through the journey they need. As far as we can, we have followed the [GDS service manual](https://www.gov.uk/service-manual/design/form-structure) on structuring forms, adding one thing per page and considering how we ask questions. 
 
-And throughout, we’re working to [Lou Downe’s 15 principles for Good Services] (https://good.services/15-principles-of-good-service-design) where we can.
+And throughout, we’re working to [Lou Downe’s 15 principles for Good Services](https://good.services/15-principles-of-good-service-design) where we can.
 
 We're aiming for an April launch and there’s every sign we can keep working with SMEs to iterate the content and flow based on how well it works for users and staff.
 
