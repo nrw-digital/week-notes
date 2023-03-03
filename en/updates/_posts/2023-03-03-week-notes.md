@@ -14,7 +14,7 @@ author: Sam and Kim
 
 It's been a pleasure to work closely with Steve - our waste SME - this week on updating and improving the waste permitting service for users. Steve's on board with our mission to create content and services that users can find, understand and use. His background of working out in the field brings a lot of this alive - it's great.
 
-Currently, if someone running, say, a scrap yard wants to change their permit they have to download and fill in four forms, then download and read four documents on how to fill in the forms. 
+Currently, if someone running a scrap yard wants to change their permit they have to download and fill in four forms, then download and read four documents on how to fill in the forms. 
 
 As well as the problem of volume of paperwork, all of the forms are multipurpose, to be used for:
 * different reasons (for example, both a new permit and changing a permit) 
