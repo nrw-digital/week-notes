@@ -7,77 +7,77 @@ hidetitle: True
 author: Heledd and Shaun
 ---
 
-Another busy week, where a few of us managed to see each other in real life.
+Wythnos brysur arall, lle llwyddodd ambell un ohonom i weld ein gilydd yn y cnawd.
 
-## We’ve got standards 
+## Mae gennym ni safonau
 
-Lucinda, Heledd and Shaun went for a morning trip to M-SParc on Anglesey to attend a Centre for Digital Public Services Wales (CDPS) event on embedding common digital standards in public sector organisations in Wales.
+Aeth Lucinda, Heledd a Shaun am daith foreol i M-SParc ar Ynys Môn i fynychu digwyddiad Canolfan Gwasanaethau Cyhoeddus Digidol Cymru ar wreiddio safonau digidol cyffredin mewn sefydliadau sector cyhoeddus yng Nghymru.
 
-The staff at M-SParc graciously avoided mentioning the fact that Shaun had sent them on a wild goose chase the previous week by turning up seven days too soon for the event.
+Llwyddodd staff M-SParc i osgoi crybwyll y ffaith bod Shaun wedi eu hanfon i redeg ar ôl cysgod yr wythnos flaenorol drwy gyrraedd saith diwrnod yn rhy fuan ar gyfer y digwyddiad.
 
-The [digital service standards](https://digitalpublicservices.gov.wales/resources/digital-service-standards) set out what’s expected when designing and managing digital services. There are twelve in total but the discussion focussed on meeting user needs, having empowered service owners and multidisciplinary teams.
+Mae'r [safonau gwasanaeth digidol](https://digitalpublicservices.gov.wales/resources/digital-service-standards) yn nodi’r hyn a ddisgwylir wrth ddylunio a rheoli gwasanaethau digidol. Mae 12 i gyd ond roedd y drafodaeth yn canolbwyntio ar ddiwallu anghenion defnyddwyr, ar ôl grymuso perchnogion gwasanaethau a thimau amlddisgyblaethol.
 
-Many of us have looked to the GDS standards for years, especially for content design and user research, but it’s still early days for most organisations in Wales to adopt and start working to consistent standards. The intention with these workshops (also held in Cardiff and Carmathern last week), is to get feedback on:
-+ current awareness of the standards
-+ examples where we’re using the standards
-+ what do we need from CDPS to help our organisation to adopt the standards in practice
+Mae llawer ohonom wedi edrych i safonau Gwasanaeth Digidol Llywodraeth y DU ers blynyddoedd, yn enwedig ar gyfer dylunio cynnwys ac ymchwil defnyddwyr, ond mae'n ddigon buan o hyd i'r rhan fwyaf o sefydliadau yng Nghymru fabwysiadu a dechrau gweithio i safonau cyson. Y bwriad gyda’r gweithdai hyn (a gynhaliwyd hefyd yng Nghaerdydd a Chaerfyrddin yr wythnos ddiwethaf) yw cael adborth ar y canlynol:
++ ymwybyddiaeth gyfredol o'r safonau
++ enghreifftiau lle rydym yn defnyddio'r safonau
++ beth sydd ei angen arnom gan Ganolfan Gwasanaethau Cyhoeddus Digidol Cymru i helpu ein sefydliad i fabwysiadu'r safonau yn ymarferol
 
 ![We had great discussions with people from Welsh Government, CDPS, and Anglesey council. Credit: CDPS](https://github.com/nrw-digital/week-notes/blob/6d34c0038209ee439a431f20abd87da807bcd2c6/images/10022023-01.png?raw=true)
 
-_We had great discussions with people from Welsh Government, CDPS, and Anglesey council._ **_Credit: CDPS_** 
+_Cawsom drafodaethau gwych gyda phobl o Lywodraeth Cymru, Canolfan Gwasanaethau Cyhoeddus Digidol Cymru, a Chyngor Sir Ynys Môn._ **_Cydnabyddiaeth: Canolfan Gwasanaethau Cyhoeddus Digidol Cymru_** 
 
-Some common themes emerged from the discussions, including the need for user research to build a comprehensive understanding of users’ needs. User research is the first step in creating digital services which are easy to find and use, it informs everything that comes after and ensures we’re putting the user at the heart of how we design our services. It was reassuring (or depressing?) that almost everyone felt that having ‘empowered’ service owners is a long way off for most organisations, and often digital teams take on much of the responsibilities for trying to stand up for our users.
+Daeth rhai themâu cyffredin i'r amlwg o'r trafodaethau, gan gynnwys yr angen am ymchwil defnyddwyr i feithrin dealltwriaeth gynhwysfawr o anghenion defnyddwyr. Ymchwil defnyddwyr yw’r cam cyntaf tuag at greu gwasanaethau digidol sy’n hawdd eu darganfod a’u defnyddio – mae’n llywio popeth sy’n dod ar ei ôl ac yn sicrhau ein bod yn rhoi’r defnyddiwr wrth wraidd sut rydym yn dylunio ein gwasanaethau. Roedd yn galonogol (neu'n ddigalon?) fod bron pawb yn teimlo bod cael perchnogion gwasanaethau wedi ‘grymuso’ ymhell i ffwrdd i’r rhan fwyaf o sefydliadau, ac yn aml mae timau digidol yn ysgwyddo llawer o’r cyfrifoldebau am geisio sefyll dros ein defnyddwyr.
 
-It was great to meet some of the CDPS team in real life - after many online chats over the last couple of years. We also enjoyed sharing experiences with those working in digital teams up in North Wales, and hope for more events in this impressive venue again soon.
+Roedd yn wych cwrdd â rhai o dîm Canolfan Gwasanaethau Cyhoeddus Digidol Cymru yn y cnawd – ar ôl llawer o sgyrsiau ar-lein dros yr ychydig flynyddoedd diwethaf. Fe wnaethom hefyd fwynhau rhannu profiadau gyda'r rhai sy'n gweithio mewn timau digidol i fyny yng Ngogledd Cymru, ac rydym yn gobeithio am fwy o ddigwyddiadau yn y lleoliad trawiadol hwn eto yn fuan.
 
-![Officially opened in 2018 as Wales’ first Science Park, M-SParc is the home of innovation and excitement in north Wales](https://github.com/nrw-digital/week-notes/blob/6d34c0038209ee439a431f20abd87da807bcd2c6/images/10022023-02.png?raw=true)
+![Wedi’i agor yn swyddogol yn 2018 fel parc gwyddoniaeth cyntaf Cymru, mae M-SParc yn gartref i arloesedd a chyffro yng Ngogledd Cymru](https://github.com/nrw-digital/week-notes/blob/6d34c0038209ee439a431f20abd87da807bcd2c6/images/10022023-02.png?raw=true)
 
-_Officially opened in 2018 as Wales’ first Science Park, M-SParc is the home of innovation and excitement in north Wales._
+_Wedi’i agor yn swyddogol yn 2018 fel parc gwyddoniaeth cyntaf Cymru, mae M-SParc yn gartref i arloesedd a chyffro yng Ngogledd Cymru._
 
-## Updated charges
+## Taliadau wedi'u diweddaru
 
-The Strategic Review of Charges (SRoC) is bringing the biggest changes to how we charge for permits and licences since NRW began.
+Mae’r Adolygiad Strategol o Daliadau yn cyflwyno’r newidiadau mwyaf i’r ffordd yr ydym yn codi tâl am hawlenni a thrwyddedau ers i CNC ddechrau. 
 
-Work on web content to help users understand our charges (and other changes planned under the SRoC programme) has stepped up a pace. We’ve concentrated on water quality, radioactive substances and waste this week, with species pencilled in for next week.
+Mae gwaith ar gynnwys gwe i helpu defnyddwyr i ddeall ein taliadau (a newidiadau eraill sydd wedi'u cynllunio o dan raglen yr Adolygiad Strategol o Daliadau) wedi cynyddu'n gyflym. Rydym wedi canolbwyntio ar ansawdd dŵr, sylweddau ymbelydrol a gwastraff yr wythnos hon, gyda rhywogaethau wedi'u cynnwys ar gyfer yr wythnos nesaf.
 
-We’re also working on web content guidance for Habitats Regulations Assessments – an area which is currently largely missing from the website but which impacts applicants in most regimes.
+Rydym hefyd yn gweithio ar ganllawiau cynnwys gwe ar gyfer Asesiadau Rheoliadau Cynefinoedd – maes sydd ar goll i raddau helaeth o'r wefan ar hyn o bryd ond sy'n effeithio ar ymgeiswyr yn y rhan fwyaf o gyfundrefnau.
 
-[Find out more about the proposed changes to charging and permitting from the consultation documents on Citizen Space.](https://ymgynghori.cyfoethnaturiol.cymru/sroc/strategic-review-of-charging)
+[Dysgwch fwy am y newidiadau arfaethedig i godi tâl a thrwyddedu o'r dogfennau ymgynghori ar Citizen Space.](https://ymgynghori.cyfoethnaturiol.cymru/sroc/strategic-review-of-charging)
 
-## Kick-off of new flood warning service 
+## Dechrau gwasanaeth rhybuddio am lifogydd newydd 
 
-Heledd and James were invited to a two-day workshop with colleagues in ICT and Flood, at the office of BJSS, the company who will support NRW to develop this revamped service.
+Gwahoddwyd Heledd a James i weithdy deuddydd gyda chydweithwyr ym maes TGCh a llifogydd, yn swyddfa BJSS, y cwmni a fydd yn cefnogi CNC i ddatblygu’r gwasanaeth wedi’i ailwampio hwn.
 
-It’s early days, but it was great to network and have a chance to share our experience and advice and make sure that user-centred design and Welsh language are considered from the beginning.
+Mae’n ddigon buan, ond roedd yn wych rhwydweithio a chael cyfle i rannu ein profiad a’n cyngor a gwneud yn siŵr bod dylunio sy’n canolbwyntio ar y defnyddiwr a’r Gymraeg yn cael eu hystyried o’r cychwyn cyntaf.
 
-James has done a lot of work to help the team prepare for this, including user research with current users of the service. He also did some initial prototypes that will now be handed over to the squad from NRW and BJSS to take on. 
+Mae James wedi gwneud llawer o waith i helpu'r tîm i baratoi ar gyfer hyn, gan gynnwys ymchwil defnyddwyr gyda defnyddwyr presennol y gwasanaeth. Gwnaeth rai prototeipiau cychwynnol hefyd, a fydd nawr yn cael eu trosglwyddo i'r criw yn CNC a BJSS i fynd i'r afael â hwy. 
 
-![Martin talking through the draft screens that James started for the new flood warning service](https://github.com/nrw-digital/week-notes/blob/6d34c0038209ee439a431f20abd87da807bcd2c6/images/10022023-03.png?raw=true)
+![Martin yn siarad am y sgriniau drafft a ddechreuodd James ar gyfer y gwasanaeth rhybuddio am lifogydd newydd](https://github.com/nrw-digital/week-notes/blob/6d34c0038209ee439a431f20abd87da807bcd2c6/images/10022023-03.png?raw=true)
 
-_Martin talking through the draft screens that James started for the new flood warning service._
+_Martin yn siarad am y sgriniau drafft a ddechreuodd James ar gyfer y gwasanaeth rhybuddio am lifogydd newydd._
 
-Day 1 started with NRW flood talking about the vision for the flood warnings, and the context for this critical service. In the afternoon, BJSS shared their proposed approach - with a great overview of the value of an Agile approach to development, to help de-risk. 
+Dechreuodd Diwrnod 1 gydag adran llifogydd CNC yn sôn am y weledigaeth ar gyfer y rhybuddion llifogydd, a’r cyd-destun ar gyfer y gwasanaeth hollbwysig hwn. Yn y prynhawn, rhannodd BJSS ei ddull arfaethedig - gyda throsolwg gwych o werth ymagwedd ystwyth at ddatblygu er mwyn helpu i leihau risg.
 
-It’s great to see everyone in agreement about working in an Agile way, and a big focus on users - including making it easy for staff to use the system.
+Mae’n wych gweld pawb yn gytûn ynglŷn â gweithio mewn ffordd ystwyth, a ffocws mawr ar ddefnyddwyr – gan gynnwys ei gwneud yn hawdd i staff ddefnyddio’r system.
 
-We look forward to seeing how this evolves, and James and Manon from the translation team are likely to work with the squad to help with user-centred design, and bilingual content over coming months. 
+Edrychwn ymlaen at weld sut bydd hyn yn datblygu, ac mae James a Manon o’r tîm cyfieithu yn debygol o weithio gyda’r criw i helpu gyda dylunio sy’n canolbwyntio ar y defnyddiwr, a chynnwys dwyieithog, dros y misoedd nesaf. 
 
-## Show and tell
+## Dangos a dweud
 
-![Show and Tell](https://github.com/nrw-digital/week-notes/blob/6d34c0038209ee439a431f20abd87da807bcd2c6/images/10022023-04.png?raw=true)
+![Dangos a dweud](https://github.com/nrw-digital/week-notes/blob/6d34c0038209ee439a431f20abd87da807bcd2c6/images/10022023-04.png?raw=true)
 
-From inside a booth called Stacey, Heledd presented our team’s new monthly Show and Tell session.
+O'r tu mewn i fwth o'r enw Stacey, cyflwynodd Heledd sesiwn ‘dangos a dweud’ fisol newydd ein tîm.
 
-This month we focussed on the work we’ve been doing behind the scenes, such as the content request form, website proposition and other tools in our Content and publishing manual. 
+Y mis hwn, buom yn canolbwyntio ar y gwaith rydym wedi bod yn ei wneud y tu ôl i'r llenni, megis y ffurflen gais am gynnwys, y cynnig gwefan, ac offer eraill yn ein llawlyfr cynnwys a chyhoeddi.  
 
-Despite feeling a bit uncomfortable presenting from a box in the middle of another meeting, we think it went well, and look forward to sharing more with colleagues in coming sessions. 
+Er gwaethaf teimlo braidd yn anghyfforddus yn cyflwyno o flwch yng nghanol cyfarfod arall, rydym yn meddwl ei fod wedi mynd yn dda, ac edrychwn ymlaen at rannu mwy gyda chydweithwyr yn y sesiynau sydd i ddod. 
 
-## Other things we did
+## Pethau eraill a wnaethom
 
-Sam, Laura, Sophie and Lucinda got together to talk through our bank of ideas for working in the open. We’ve decided to start writing a few blog posts, and once we’re ready, we’ll publish on the NRW website, and start sharing far and wide!
+Daeth Sam, Laura, Sophie a Lucinda at ei gilydd i drafod ein cronfa o syniadau ar gyfer gweithio yn yr awyr agored. Rydym wedi penderfynu dechrau ysgrifennu ychydig o bostiadau blog, ac unwaith y byddwn yn barod, byddwn yn cyhoeddi ar wefan CNC, ac yn dechrau rhannu ym mhobman!
 
-Content types are looking good, with only a couple of really gnarly ones left now.
+Mae mathau o gynnwys yn edrych yn dda, gyda dim ond cwpl o rai hynod fler ar ôl nawr.
 
-Heledd joined a great presentation with Jeremy Evas, called ‘don't make me think’ - sharing evidence and practical examples of where we need to remove friction to enable more people to access services in Welsh online.
+Ymunodd Heledd â chyflwyniad gwych gyda Jeremy Evas, o’r enw ‘Peidiwch â gwneud i mi feddwl’ – gan rannu tystiolaeth ac enghreifftiau ymarferol o ble mae angen i ni gael gwared ar rwystrau er mwyn galluogi mwy o bobl i gael mynediad at wasanaethau yn Gymraeg ar-lein.
 
-Kim and Owain have started “the great intranet cull”, which involves deleting hundreds of pages, and some interesting images along the way. 
+Mae Kim ac Owain wedi dechrau “difa mawr y fewnrwyd”, sy’n golygu dileu cannoedd o dudalennau, a rhai delweddau diddorol ar hyd y ffordd. 
