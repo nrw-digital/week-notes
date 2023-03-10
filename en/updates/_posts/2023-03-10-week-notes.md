@@ -6,14 +6,13 @@ ref: 2023-03-10-week-notes
 hidetitle: True
 author: James and Lucinda
 ---
-## Weeknotes 10/03/23
 Another busy week! Lucinda and James started their 6 month ‘Service Design in Practice’ course with a face-to-face get together at Bizspace in Cardiff last week. 
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/6c88547d2f95580374f9727ccac9ff0f189bafe2/images/Post%20it%20window%20lady.jpg?raw=true)
 
 They had their first one-to-one coaching session with the course tutors this week. 
 
-##Organising our woodlands and forests landing page
+## Organising our woodlands and forests landing page
 
 James has been working on analysing the results of a card sorting exercise to help shape our Woodlands and forests landing page. 
 
