@@ -1,5 +1,5 @@
 ---
-title: Weeknotes 24/02/2023
+title: Nodiadau wythnos 24/02/2023
 layout: post
 lang: cy
 ref: 2023-02-24-week-notes
