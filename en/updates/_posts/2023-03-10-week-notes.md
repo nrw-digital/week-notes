@@ -107,5 +107,5 @@ James shared the key messages from the card sorting rounds in our show and tell 
 * Phil, Sam, Shaun, Laura and James met for a ‘content crit’ on Wednesday. These sessions are an opportunity to share content design challenges and get constructive feedback from colleagues.
 * Sophie is hard at work getting the corporate plan ready for publication.
 * Sam, Laura and Lucinda have started experimenting with creating a ‘Check if you are allowed to use our land’ service on SmartSurvey
-* Kim and Sam have been continuing the great work on waste forms mentioned in last weeks weeknotes
+* Kim and Sam have been continuing the great work on waste forms mentioned in last week's weeknotes
 
