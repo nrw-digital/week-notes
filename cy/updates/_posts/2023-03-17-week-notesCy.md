@@ -1,11 +1,11 @@
+
 ---
 title: Nodiadau’r wythnos 17/03/2023
 layout: post
 lang: cy
 ref: 2023-03-17-week-notes
 hidetitle: True
-Gan: Andrew and Shaun
-
+Gan: Andrew a Shaun
 ---
 
 Nodiadau ychydig yn fwy cryno gan y Tîm Digidol yr wythnos hon wrth i ni gau pen y mwdwl ar ddau ddarn sylweddol o waith, sef yr Adolygiad Strategol o Godi Tâl a'r Cynllun Corfforaethol.
