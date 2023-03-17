@@ -3,8 +3,8 @@ title: Weeknotes 17/03/2023
 layout: post
 lang: en
 ref: 2023-03-17-week-notes
-hidetitle: True
-author: Andrew and Shaun
+hidetitle: True 
+Author: Andrew and Shaun
 ---
 
 
@@ -26,9 +26,10 @@ The completion of this work will also mean all water quality application forms a
 
 We did find time on Monday for a trip to Shrewsbury to meet up in person and talk over successes, issues and questions. Thanks to Catrin for taking the time out to join us. We had a swift couple in the Loggerheads afterwards (other pubs are available) and then a pizza in Oil and Dough (no other pizza emporiums should be considered).
 
+![Post-it notes](https://github.com/nrw-digital/week-notes/blob/f319a3d003ffefed8096cf933f75e2d80055d308/images/IMG-1127.jpg?raw=true)
+
 ![time for pizza](https://github.com/nrw-digital/week-notes/blob/196ae92d0cc80f63f1f12653c5fee75c1621eda7/images/IMG-1142-2.jpg?raw=true)
 
-![time for pizza](https://github.com/nrw-digital/week-notes/blob/f319a3d003ffefed8096cf933f75e2d80055d308/images/IMG-1127.jpg?raw=true)
 
 Phil and the team from DXW have been working on acid sensitive river catchment content this week. Phil has also updated the grey squirrel content on our website as this will soon become a hot topic, due to changes in legislation.
 
