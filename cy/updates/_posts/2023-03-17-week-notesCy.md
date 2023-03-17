@@ -1,4 +1,3 @@
-
 ---
 title: Nodiadau’r wythnos 17/03/2023
 layout: post
@@ -7,7 +6,6 @@ ref: 2023-03-17-week-notes
 hidetitle: True
 Gan: Andrew a Shaun
 ---
-
 Nodiadau ychydig yn fwy cryno gan y Tîm Digidol yr wythnos hon wrth i ni gau pen y mwdwl ar ddau ddarn sylweddol o waith, sef yr Adolygiad Strategol o Godi Tâl a'r Cynllun Corfforaethol.
 
 Mae'r Adolygiad Strategol o Godi Tâl wedi cynnwys y rhan fwyaf o'r tîm ar ryw adeg neu’i gilydd ac wedi bod yn ganolbwynt i sylw tri neu bedwar ohonon ni ers y Nadolig. Mae'n cynnwys tudalennau gwe a ffurflenni cais newydd a diwygiedig ar draws yr holl gyfundrefnau Trwyddedu Amgylcheddol, rhywogaethau ac adnoddau dŵr. O 1 Ebrill, bydd gennym wybodaeth am ffioedd ar y wefan ar gyfer pob cyfundrefn ochr yn ochr â’r cynnwys arall ar gyfer y we yn y maes hwnnw, a fydd, gobeithio, yn sicrhau y gall defnyddwyr ddod o hyd iddo'n haws a chyfrifo eu ffioedd heb orfod mynd drwy ddogfen Cynllun Codi Tâl y Rheoliadau Trwyddedu Amgylcheddol.
