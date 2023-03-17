@@ -1,5 +1,5 @@
 ---
-title:Nodiadau’r wythnos 17/03/2023
+title: Nodiadau’r wythnos 17/03/2023
 layout: post
 lang: cy
 ref: 2023-03-17-week-notes
