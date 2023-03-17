@@ -1,4 +1,12 @@
-## Week notes: 17th March 2023 ##
+---
+title: Weeknotes 17/03/2023
+layout: post
+lang: en
+ref: 2023-03-17-week-notes
+hidetitle: True
+author: Andrew and Shaun
+---
+
 
 A somewhat abbreviated week-notes from the Digital Team this week as we’re approaching the business end of two significant pieces of work in SRoC and the Corporate Plan.
 
