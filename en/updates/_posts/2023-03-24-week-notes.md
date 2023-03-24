@@ -23,8 +23,8 @@ We spoke with some of the team to hear about what they learned during the presen
 Here’s what they had to say:
 
 + The highlight of Sophie’s week, as someone with dyscalculia, was learning more about designing content to support others like her. Using the latest research from the [Plain Numbers Report](https://static1.squarespace.com/static/5f7f7734f7e47f08bc961018/t/60dcd93f4e4c433c2bb05da5/1625086280079/Plain_Numbers_Research_Report.pdf) to inform our design process could help thousands of users accessing our services around charges.
-+ Heledd enjoyed hearing about the latest with the Gov.uk roadmap, their goals to make the top 75 services ‘great’ by 2025. 
-+ Both Sam and Heledd were excited about the work that the Department of Education shared, in terms of their approach to [design histories](https://dfedigital.blog.gov.uk/2020/09/01/design-history/) (something Sam’s also started doing), and their approach to assuring design standards.
++ Heledd enjoyed hearing about the latest with the Gov.uk roadmap, their goals to make the top 75 services ‘great’ by 2025. It was also interesting to hear about the goal to bring 90% of civil service leaders to understand what’s needed for digital leadership.
++ Both Sam and Heledd were excited about the work that the Department of Education shared, in terms of documenting their [design histories](https://dfedigital.blog.gov.uk/2020/09/01/design-history/) (something Sam’s also started doing), and their approach to assuring design standards.
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/2a042ce27586818f97a3932435512068eb2cb183/images/Dyscalculia%20research%20poster.png?raw=true)
 
