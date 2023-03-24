@@ -23,7 +23,7 @@ We spoke with some of the team to hear about what they learned during the presen
 Here’s what they had to say:
 
 + The highlight of Sophie’s week, as someone with dyscalculia, was learning more about designing content to support others like her. Using the latest research from the [Plain Numbers Report](https://static1.squarespace.com/static/5f7f7734f7e47f08bc961018/t/60dcd93f4e4c433c2bb05da5/1625086280079/Plain_Numbers_Research_Report.pdf) to inform our design process could help thousands of users accessing our services around charges.
-+ Heledd enjoyed hearing about the latest with the Gov.uk roadmap, their goals to make the top 75 services ‘great’ by 2025. It was also interesting to hear about the goal to bring 90% of civil service leaders to understand what’s needed for digital leadership.
++ Heledd enjoyed hearing about the latest with the Gov.uk roadmap, their goals to make the top [75 services ‘great’ by 202](https://cddo.blog.gov.uk/2023/02/06/transforming-for-a-digital-future-six-month-update/). It was also interesting to hear about the goal to bring 90% of civil service leaders to understand what’s needed for digital leadership.
 + Both Sam and Heledd were excited about the work that the Department of Education shared, in terms of documenting their [design histories](https://dfedigital.blog.gov.uk/2020/09/01/design-history/) (something Sam’s also started doing), and their approach to assuring design standards.
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/2a042ce27586818f97a3932435512068eb2cb183/images/Dyscalculia%20research%20poster.png?raw=true)
@@ -36,7 +36,7 @@ We’ve created a Mural board for our team to drop notes, learnings and links - 
 
 Often when we do user research, especially around content and services for farmers and landowners on topics such as planting trees and farming, some of the feedback is related to part of the journey that’s on other people’s websites.
 
-This week, Heledd did a presentation on Welsh Government forestry policy to talk about how we work, our website proposition, and started a conversation about how we can try and work better together. We’re looking forward to getting to know the teams in Welsh Government more so that we can help join-up the journey for people needing to access other websites, as part of a task they come to the NRW website to do.
+This week, Heledd did a presentation on Welsh Government forestry policy to talk about how we work, our [website proposition](https://naturalresources.wales/footer-links/proposition-what-goes-on-the-natural-resources-wales-website/?lang=en), and started a conversation about how we can try and work better together. We’re looking forward to getting to know the teams in Welsh Government more so that we can help join-up the journey for people needing to access other websites, as part of a task they come to the NRW website to do.
 
 ## Corporate plan - ready to go! 
 
@@ -52,7 +52,7 @@ For example, Skomer Marine Conservation Zone highlighted that the diversity of n
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/2a042ce27586818f97a3932435512068eb2cb183/images/skomer%20marine%20report%20image.png?raw=true)
 
-**Permit for working in or near a river (aka FRAPS)**
+## Permit for working in or near a river (aka FRAPS)
 
 Laura and Lucinda have been updating  / improving the application for a flood risk activity permit. This week Laura met with the team to talk about the way they charge for permits. The amount someone needs to pay for the permit will vary depending on what they want to do and where. Some users can get discounts but they have to call us to confirm if they are eligible. 
 
