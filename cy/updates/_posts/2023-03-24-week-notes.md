@@ -1,8 +1,8 @@
 ---
-title: Weeknotes 24/03/2023
+title: Nodiadau Wythnos 24/03/2023
 layout: post
 lang: cy
-ref: 2023-03-24-nodiadau-wythnos
+ref: 2023-03-24-week-notes
 hidetitle: True
 author: Heledd and Sophie
 ---
