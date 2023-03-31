@@ -89,4 +89,4 @@ Sam’s going to miss working with SMEs Pip and Steve on the ‘applying for was
 + Sophie has been updating flooding resources and leaflets in the Intranet to ensure staff have access to the latest information.
 + Heledd joined the first Centre of Digital Public Services Advisory panel meeting for 2023. The panel has a mix of people with different skills and experience - from Wales, UK and Scottish government, as well as people who work in the third sector. The topic this time was around what are the minimum viable skills needed for a digital team.
 + Heledd met with a member of the Welsh Government Central Web team to discuss ways we can continue to work closer, to help our teams, and users. 
-+ Welsh Government added a link to our Natural Resources Wales website proposition to the [GOV.WALES proposition | GOV.WALES](https://www.gov.wales/gov-wales-proposition). We think this is pretty cool!
++ Welsh Government added a link to our Natural Resources Wales website proposition to the [GOV.WALES proposition](https://www.gov.wales/gov-wales-proposition). We think this is pretty cool!
