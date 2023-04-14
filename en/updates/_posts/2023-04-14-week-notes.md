@@ -16,9 +16,11 @@ Before we hop into the nitty gritty of our week, here’s a little Easter trivia
 ## Easter trivia
 
 Do you know how many Easter eggs are sold in the UK every year?
+
 _If you guessed 80 million, you’d be correct._
 
 And in which country was the tradition of the Easter bunny born?
+
 _The answer is Germany._
 
 Wales has a few unique Easter traditions though, with different regions celebrating in their own way.
@@ -27,7 +29,7 @@ Across Wales on Easter Monday (known in Welsh as Dydd Llun y Pasg), people take 
 
 In Llangollen in Denbighshire, a county in north east Wales, people have been known to do three somersaults on the apex of Dinas Bran – a hilltop famous in mediaeval Welsh folk tales. This fell out of custom a while ago but is slowly making a comeback amongst young people.
 
-Another popular tradition, particularly in Anglesey in north west Wales, is the practice of egg-clapping, or ‘clapio wyau’ in Welsh. During the 19th Century, people would collect hen eggs from farmers to fill the family pantry for the Easter celebrations. However, kids these days prefer to collect chocolate eggs. Children visit local farms around Carreglefn, Brynsiencyn, Llynfaes, Talwrn and Llannerchymedd to ‘clap for eggs’ using a wooden instrument as they sing a customary Welsh rhyme. [Read more about Welsh Easter traditions].(https://thetab.com/uk/cardiff/2021/04/02/here-are-the-welsh-easter-traditions-you-need-to-know-about-57528)
+Another popular tradition, particularly in Anglesey in north west Wales, is the practice of egg-clapping, or ‘clapio wyau’ in Welsh. During the 19th Century, people would collect hen eggs from farmers to fill the family pantry for the Easter celebrations. However, kids these days prefer to collect chocolate eggs. Children visit local farms around Carreglefn, Brynsiencyn, Llynfaes, Talwrn and Llannerchymedd to ‘clap for eggs’ using a wooden instrument as they sing a customary Welsh rhyme. [Read more about Welsh Easter traditions](https://thetab.com/uk/cardiff/2021/04/02/here-are-the-welsh-easter-traditions-you-need-to-know-about-57528).
 
 ## The unveiling of a new part of the NRW website
 
