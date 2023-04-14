@@ -11,7 +11,7 @@ Welcome back! We hope your Easter was all it was cracked up to be.
 
 Before we hop into the nitty gritty of our week, here’s a little Easter trivia for you.
 
-![photo of a bunny wearing sunglasses](https://github.com/nrw-digital/week-notes/blob/992506aec9b86ec0e4f4c8cafb70dd205d767131/images/bunny.jpg)?raw=true)
+![photo of a bunny wearing sunglasses](https://github.com/nrw-digital/week-notes/blob/992506aec9b86ec0e4f4c8cafb70dd205d767131/images/bunny.jpg?raw=true)
 
 ## Easter trivia
 
