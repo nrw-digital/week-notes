@@ -90,7 +90,7 @@ Heledd went on a train to a cold and wet Cardiff. Spending 8 hours on the train 
 
 The journey had another purpose, as she spent the day with the lovely Christine Cawthorn from [Crocstar](https://crocstar.com). They reviewed and considered career progression frameworks that other digital teams have -  and started to plot what roles we need to build into our permanent team in future. Christine will now write up all the post-its into a lovely document, for Heledd to start speaking with others in NRW about what we can (realistically) do next.
 
-![heledd meeting with christine and rob for tea and cake](https://github.com/nrw-digital/week-notes/blob/992506aec9b86ec0e4f4c8cafb70dd205d767131/images/heledd%20crocstar.png)?raw=true)
+![heledd meeting with christine and rob for tea and cake](https://github.com/nrw-digital/week-notes/blob/992506aec9b86ec0e4f4c8cafb70dd205d767131/images/heledd%20crocstar.png?raw=true)
 
 After their meeting, Rob from [FourthWallContent](https://www.fourthwallcontent.com), who’s been working with us on woodland content joined them for tea and cake - look how happy they were to see one another?
 
