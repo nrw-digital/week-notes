@@ -8,6 +8,7 @@ author: Laura and Sophie
 ---
 
 Another busy week in the Digital Services team, with some of us off on annual leave (happy birthday Lucinda!), and the rest of us picking up all the work that was put on hold last month due to time constraints. 
+
 Keep reading to find out more about what we’ve accomplished this week…
 
 ## Brushing up on best practice with CDPS and ONS experts
@@ -30,11 +31,15 @@ In the past week, the sun has been shining across many areas of Wales.
 
 As such, we’ve experienced a drop in website traffic which demonstrates the public’s reliance on our services in times of flooding and poor weather. Interestingly, there has been a 9% drop in users accessing our online services, and a further 12% drop in new users accessing the site.
 
+![screenshot of NRW web traffic for the past week]([https://github.com/nrw-digital/week-notes/blob/9dc81c5ce811b86476f55c3636b36e40f7ec971b/images/web%20overview.png]?raw=true)
+
 Our web traffic insights also show an increase in users accessing our website via a desktop computer as opposed to mobile or tablet devices. The increase in the desktop users might indicate that we're having more visits from professional users compared to members of the public. Professional users like local authorities, consultants and NRW staff are more likely to access our site on a desktop than a mobile device.
 
 However, nearly half of all visitors to the NRW website are doing so via a smartphone, so ensuring our web pages are optimised for both desktop and mobile users is as important as ever. 
 
 Some of our web’s most popular pages this week include the [jobs board](https://naturalresources.wales/about-us/jobs-apprenticeships-and-placements/jobs/job-listing-page/?lang=en), as well as the [permits and permissions](https://naturalresources.wales/permits-and-permissions/?lang=en) and [check your flood risk](https://naturalresources.wales/flooding/check-your-flood-risk-by-postcode/?lang=en) webpages.  
+
+![screenshot of NRW audience stats for the past week]([https://github.com/nrw-digital/week-notes/blob/9dc81c5ce811b86476f55c3636b36e40f7ec971b/images/Website%20insights.png]?raw=true)
 
 As we enter the warmer months, we see a rise in traffic on the [days out pages](https://naturalresources.wales/days-out/places-to-visit/north-west-wales/newborough/?lang=en), and so we are continuing to work to improve our service for people who want to have access to or do something on our land, such as horse riders who are taking advantage of the sun to go out and ride their horses.
 
@@ -60,6 +65,8 @@ We will keep working with comms to see how they get on with these changes, and o
 ## Out with the old, in with the new…
 
 This week you may have spotted new headings in the [contact us section of the website](https://naturalresources.wales/about-us/contact-us/?lang=en). The introduction of logical headings to help break up the content into user focused tasks will hopefully help users navigate to the right contact route, depending on the type of query. 
+
+![side by side comparison of the old and new contact us section]([https://github.com/nrw-digital/week-notes/blob/9dc81c5ce811b86476f55c3636b36e40f7ec971b/images/contact%20us.png]?raw=true)
 
 We are also initiating a new monthly capture of the whole website, including all the documents, using MirrorWeb, a leading data archiving platform to help us create accurate records of our digital content.
 
