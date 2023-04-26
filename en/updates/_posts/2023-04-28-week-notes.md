@@ -12,8 +12,7 @@ This week Andrew and Phil are looking at the forms on our website, pair writing,
 
 ![Mrs Slocombe](https://github.com/nrw-digital/week-notes/blob/525dc8ff20888ce39ea3a4bdff7ac608e4b2fb46/images/Mollie_Sugden_as_Mrs_Slocombe.jpg)
 
-Source: (Wikipedia) 
-![Wikipedia](https://en.wikipedia.org/wiki/Mollie_Sugden)
+Source: [Wikipwedia](https://en.wikipedia.org/wiki/Mollie_Sugden)
 
 Well moving on…what’s been happening this week in the digital team?
 
