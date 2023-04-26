@@ -18,7 +18,7 @@ Well moving on…what’s been happening this week in the digital team?
 
 
 ## NRW forms - the digital evolution continues
-Phil and Andrew have been as busy as springtime badgers getting their setts ready for new cubs. But, instead of replacing the old bedding for new and digging new chambers, they have been replacing many of the old hard copy species licence forms and making them into new, online versions. They hit a bit of a stump when it came to translating these forms as they were sent in the original hard copy MS Word format making it difficult to see the amends made in the new digital format. We worked with the translation and species team and agreed that any future amends made to these forms were in a digital format as opposed to the outgoing hard copy versions. This solution will really help the digital/species team and further support the translation team to locate any changes on the Welsh side of the forms. A win/win for all and,  best of all, no badgers were harmed in making the digital forms for our new pages.
+Phil and Andrew have been as busy as springtime badgers getting their setts ready for new cubs. But, instead of replacing the old bedding for new and digging new chambers, they have been replacing many of the old hard copy species licence forms and making them into new, online versions. They hit a bit of a stump when it came to translating these forms as they were sent in the original hard copy MS Word format making it difficult to see the amends made in the new digital format. We worked with the translation (who were really struggling updating different versions in Word) and the species team. We agreed that any future amends made to these forms were in a digital format as opposed to the old, outgoing hard copy versions. This solution will really help the digital/species team and further support the translation team to locate any changes on the Welsh side of the forms. A win/win for all and,  best of all, no badgers were harmed in making the digital forms for our new pages.
 
 ![Dancing Badger](https://github.com/nrw-digital/week-notes/blob/b9965f2ae75dba169ea40fc5547de9e4bac6cdd9/images/Badgers_Badgers.gif)
 
@@ -26,6 +26,6 @@ Phil and Andrew have been as busy as springtime badgers getting their setts read
 
 
 ## Other things we’ve been working on:
-+
++ Laura has attended the overview of our digital services session. She is continuing to be fabulous and is doing some excellent work
 +
 +
