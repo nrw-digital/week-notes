@@ -17,12 +17,9 @@ Source: (Wikipedia)
 
 Well moving on…what’s been happening this week in the digital team?
 
-## When you have a problem with word forms but try not to let it give you a nervous breakdown!
-content here
-
 
 ## NRW forms - the digital evolution continues
-Phil and Andrew have been as busy as springtime badgers getting their setts ready for new cubs. But, instead of replacing the old bedding for new and digging new chambers, they have been replacing many of the old hard copy species licence forms and making them into new, online versions. They hit a bit of a stump when it came to translating these forms as they were sent in the original hard copy format making it difficult to see the amends made in the new digital format. We worked with the translation and species team and agreed that any future amends made to these forms were in a digital format as opposed to the outgoing hard copy versions. This solution will really help the digital/species team and further support the translation team to locate any changes on the Welsh side of the forms. A win/win for all and,  best of all, no badgers were harmed in making the digital forms for our new pages.
+Phil and Andrew have been as busy as springtime badgers getting their setts ready for new cubs. But, instead of replacing the old bedding for new and digging new chambers, they have been replacing many of the old hard copy species licence forms and making them into new, online versions. They hit a bit of a stump when it came to translating these forms as they were sent in the original hard copy MS Word format making it difficult to see the amends made in the new digital format. We worked with the translation and species team and agreed that any future amends made to these forms were in a digital format as opposed to the outgoing hard copy versions. This solution will really help the digital/species team and further support the translation team to locate any changes on the Welsh side of the forms. A win/win for all and,  best of all, no badgers were harmed in making the digital forms for our new pages.
 
 ![alt text](link to image + ?raw=true)
 
