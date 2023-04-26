@@ -8,8 +8,7 @@ hidetitle: True
 author: Phil and Andrew
 ---
 
-
-This week Andrew and Phil are looking at the forms on our website, pair writing, trio writing and writing content for our users. This makes a change as Andrew and Phil can often be found swapping jokes about Mrs Slocombe. In case you are too young to remember, Mrs Slocombe became famous for starring in a TV sitcom called “are you being served”. She had many famous quotes, most of them about her “cat”, but these are too rude to mention here.
+This week Andrew and Phil are looking at the forms on our website, pair writing, trio writing and writing content for our users. This makes a change from Andrew and Phil swapping jokes about Mrs Slocombe. In case you are too young to remember, Mrs Slocombe became famous for starring in a TV sitcom called “are you being served”.
 
 ![alt text](link to image + ?raw=true)
 
