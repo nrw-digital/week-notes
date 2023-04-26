@@ -22,7 +22,7 @@ Phil and Andrew have been as busy as springtime badgers getting their setts read
 
 ![Dancing Badger](https://github.com/nrw-digital/week-notes/blob/b9965f2ae75dba169ea40fc5547de9e4bac6cdd9/images/Badgers_Badgers.gif)
 
-**Source:** [Wikipwedia](https://en.wikipedia.org/wiki/Badgers_animation)
+**Source:** [Wikipwedia](https://en.wikipedia.org/wiki/Badgers_(animation))
 
 
 ## Other things we’ve been working on:
