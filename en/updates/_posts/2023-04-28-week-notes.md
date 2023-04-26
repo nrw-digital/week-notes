@@ -11,7 +11,7 @@ author: Phil and Andrew
 This week Andrew and Phil are looking at the forms on our website, pair writing, trio writing and writing content for our users. This makes a change from Andrew and Phil swapping jokes about Mrs Slocombe. In case you are too young to remember, Mrs Slocombe became famous for starring in a TV sitcom called “are you being served”.
 
 ![Mrs Slocombe](https://github.com/nrw-digital/week-notes/blob/525dc8ff20888ce39ea3a4bdff7ac608e4b2fb46/images/Mollie_Sugden_as_Mrs_Slocombe.jpg)
-Source: (Wikipedia[https://www.google.co.uk/search?q=molly+sugden&tbm=isch&ved=2ahUKEwjv17unx8f-AhUpmicCHUNqAYIQ2-cCegQIABAA&oq=molly+sugden&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgcIABAYEIAEMgcIABAYEIAEMgkIABAYEIAEEAoyCQgAEBgQgAQQCjIJCAAQGBCABBAKMgkIABAYEIAEEAoyCQgAEBgQgAQQCjoHCAAQigUQQzoHCCMQ6gIQJzoECCMQJzoKCAAQigUQsQMQQzoICAAQgAQQsQM6BAgAEB46BggAEAgQHlCdCVi3V2CjXmgGcAB4AIABlAGIAfMIkgEEMTYuMpgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=QhpJZO-uFam0nsEPw9SFkAg&bih=577&biw=1223#imgrc=jXaHGEII_Gu1DM])
+Source: (Wikipedia) [https://www.google.co.uk/search?q=molly+sugden&tbm=isch&ved=2ahUKEwjv17unx8f-AhUpmicCHUNqAYIQ2-cCegQIABAA&oq=molly+sugden&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgcIABAYEIAEMgcIABAYEIAEMgkIABAYEIAEEAoyCQgAEBgQgAQQCjIJCAAQGBCABBAKMgkIABAYEIAEEAoyCQgAEBgQgAQQCjoHCAAQigUQQzoHCCMQ6gIQJzoECCMQJzoKCAAQigUQsQMQQzoICAAQgAQQsQM6BAgAEB46BggAEAgQHlCdCVi3V2CjXmgGcAB4AIABlAGIAfMIkgEEMTYuMpgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=QhpJZO-uFam0nsEPw9SFkAg&bih=577&biw=1223#imgrc=jXaHGEII_Gu1DM]
 
 Well moving on…what’s been happening this week in the digital team?
 
