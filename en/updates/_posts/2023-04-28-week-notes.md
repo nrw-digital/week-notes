@@ -42,10 +42,11 @@ Your land must not contain any sensitive areas.
 
 We learnt that sensitive areas does not translate very well, so we had to come up with something else. After working with the translator we came up with:
 
-Your land must not be in a protected area
+Your land must not be in a protected area.
 
 We did this for the entire content page. Instead of translating the text as is, we made sure both languages contained excellent bi-lingual content. 
-Writing clear user focussed content
+
+## Writing clear user focussed content
 Creating user focussed content is a process of writing good, clear content with the user in mind. Publishing anything and everything is not the way to create good user focussed content. This approach leads to random information appearing on a webpage that no one cares about and that no one will even read. The very best we could hope for in this situation is someone will at least skim read this random and complex information.
 
 This week Phil got a good example of this behaviour. When I’m explaining to people about why we should write clear content, I often use the example of a driving licence:
