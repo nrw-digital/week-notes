@@ -116,5 +116,5 @@ The flexibility and accessibility incorporated into the design resulted in a pos
 + Laura has attended the overview of our digital services session. She is continuing to be fabulous and is doing some excellent work
 + Heledd, James and Sam have been meeting with Mima to discuss NRW’s list of services
 + James has held two user interviews about our new ‘Woodlands and forests’ landing page
-+ Laura and Lucinda gave a 'Teams' presentation to 44 NRW colleages on our updated web content and publishing manual  -there were lots of questions which Shaun stepped in and answered -team work at it's best
++ Laura and Lucinda gave a 'Teams' presentation to 44 NRW colleages on our updated web content and publishing manual  -there were lots of questions which Shaun stepped in and answered demonstrating team work at its best
 
