@@ -33,7 +33,7 @@ In fact Andrew and Phil have been pair writing on this piece of content, what an
 ## Trio writing
 Once the content designers have come up with a draft content page we share the draft text with the excellent translation team. We worked with the lovely Manon from the translation team. 
 
-That’s how trio writing works. The two content designers from the pair writing (Rob and Phil) and Manon from the translation team got together to translate the content.
+That’s how trio writing works. The two content designers from the pair writing (Rob and Phil) and Manon got together to translate the content.
 
 It’s done this way as not all words translate to Welsh. When we started the trio writing we had this sentence:
 
