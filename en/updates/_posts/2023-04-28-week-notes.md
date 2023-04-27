@@ -55,7 +55,7 @@ We all know that to drive on our roads you must have a driving licence, to drive
 Our organisation believes that our users need to read the law before applying for any licence. 
 An example of bad, random, and complex content
 
-This is one example of how not to write user focussed content, this content is on our website:
+This is one example of how **not** to write user focussed content, this content is on our website:
 
 What is meant by development?
 
