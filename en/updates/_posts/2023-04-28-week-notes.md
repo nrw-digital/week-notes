@@ -106,4 +106,5 @@ Phil and Andrew have been as busy as springtime badgers getting their setts read
 + Laura has attended the overview of our digital services session. She is continuing to be fabulous and is doing some excellent work
 + Heledd, James and Sam have been meeting with Mima to discuss NRW’s list of services
 + James has held two user interviews about our new ‘Woodlands and forests’ landing page
++ Laura and Lucinda gave a 'Teams' presention to NRW colleages on our updated web content and publishing manual
 
