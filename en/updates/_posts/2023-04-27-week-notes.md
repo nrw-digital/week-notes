@@ -53,6 +53,7 @@ This week Phil got a good example of this behaviour. When I’m explaining to pe
 We all know that to drive on our roads you must have a driving licence, to drive on our roads and not have a driving licence is breaking the law. Despite the fact we all know we need a driving licence, we don’t read the law each time we get into our cars.
 
 Our organisation believes that our users need to read the law before applying for any licence. 
+
 An example of bad, random, and complex content
 
 This is one example of how **not** to write user focussed content, this content is on our website:
