@@ -18,7 +18,7 @@ Well moving on…what’s been happening this week in the digital team?
 
 ## Pair and trio writing
 
-This week Phil met up with Rob from [FourthWallContent](https://www.fourthwallcontent.com/). Rob’s been helping us to improve the [woodlands and forests](https://naturalresources.wales/guidance-and-advice/environmental-topics/woodlands-and-forests/?lang=en) area of our website. Rob is really lovely to work with and certainly knows his stuff.
+This week Phil met up with Rob from [FourthWallContent](https://www.fourthwallcontent.com/). Rob’s been helping us to improve the [woodlands and forests(https://naturalresources.wales/guidance-and-advice/environmental-topics/woodlands-and-forests/?lang=en) area of our website. Rob is really lovely to work with and certainly knows his stuff.
 
 ![Rob and Phil ](https://github.com/nrw-digital/week-notes/blob/7487b47de6d9a8f931f9fea37df67aeac7224b59/images/phil_rob.png)
 
