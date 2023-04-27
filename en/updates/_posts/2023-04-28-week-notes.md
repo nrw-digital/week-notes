@@ -105,7 +105,7 @@ Phil and Andrew have been as busy as springtime badgers getting their setts read
 This week was part two of learning all about the census online. A few of the team have attended these online talks and found them very interesting.
 In 2021, the UK government conducted the census online and the approach offered various benefits, including improved data quality, ease of completion for the user, faster processing of data and reduced costs and environmental impact.
 
- [Census bullets](https://github.com/nrw-digital/week-notes/blob/3b0e928d00097f283a7074cb2d73c09312e7e4f2/images/census%20bullets.png)
+ [Census bullets](https://github.com/nrw-digital/week-notes/blob/3b0e928d00097f283a7074cb2d73c09312e7e4f2/images/censusbullets.png)
 
 The webinars, led weekly by the CDPS and ONS, offer valuable insight for our team in improving our services as we move traditionally paper form processes, such as permitting, onto online forms, for all the benefits listed above. 
 The increased functionality and the ability to focus in on smaller areas to investigate drop in response rates, allows for the identification of issues so that the ONS team could resolve it quicker. 
