@@ -18,7 +18,7 @@ Well moving on…what’s been happening this week in the digital team?
 
 ## Pair and trio writing
 
-This week Phil met up with Rob from [FourthWallContent](https://www.fourthwallcontent.com/). Rob’s been helping us to improve the [woodlands and forests(https://naturalresources.wales/guidance-and-advice/environmental-topics/woodlands-and-forests/?lang=en) area of our website. Rob is really lovely to work with and certainly knows his stuff.
+This week Phil met up with Rob from [FourthWallContent](https://www.fourthwallcontent.com/). Rob’s been helping us to improve the [woodlands and forests](https://naturalresources.wales/guidance-and-advice/environmental-topics/woodlands-and-forests/?lang=en) area of our website. Rob is really lovely to work with and certainly knows his stuff.
 
 ![Rob and Phil ](https://github.com/nrw-digital/week-notes/blob/7487b47de6d9a8f931f9fea37df67aeac7224b59/images/phil_rob.png)
 
@@ -65,7 +65,7 @@ Section 55 (1) of the Town and Country Planning Act 1990 (“the 1990 Act”) de
 
 “...the carrying out of building, engineering, mining or other operations in, on, over or under land, or the making of any material change in the use of any buildings or other land.” 
 
-In addition, no fee shall apply to an application for a licence necessary to implement a development (whether or not it is also a householder development) that the relevant local planning authority have accepted as coming under the exception in Regulation 4 of The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) Regulations 2015 in that the authority is satisfied that it relates solely to explicit powers to charge a reasonable sum for these licences in [Paragraph 57(5) of the 2017 Regulations] (https://www.legislation.gov.uk/uksi/2017/1012/part/5/crossheading/grant-of-licences), [section 16(5) of the Wildlife & Countryside Act 1981] (https://www.legislation.gov.uk/ukpga/1981/69/section/16) and [Article 12A of the Functions Order 2013](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/made).
+In addition, no fee shall apply to an application for a licence necessary to implement a development (whether or not it is also a householder development) that the relevant local planning authority have accepted as coming under the exception in Regulation 4 of The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) Regulations 2015 in that the authority is satisfied that it relates solely to explicit powers to charge a reasonable sum for these licences in [Paragraph 57(5) of the 2017 Regulations](https://www.legislation.gov.uk/uksi/2017/1012/part/5/crossheading/grant-of-licences), [section 16(5) of the Wildlife & Countryside Act 1981] (https://www.legislation.gov.uk/ukpga/1981/69/section/16) and [Article 12A of the Functions Order 2013}(https://www.legislation.gov.uk/wsi/2013/755/schedule/1/made).
 
 Please note that this list is not exhaustive.
 
