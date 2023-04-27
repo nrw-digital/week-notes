@@ -101,6 +101,18 @@ Phil and Andrew have been as busy as springtime badgers getting their setts read
 
 **Source:** [Wikipwedia](https://en.wikipedia.org/wiki/Badgers_(animation))
 
+## Census online
+This week was part two of learning all about the census online. A few of the team have attended these online talks and found them very interesting.
+In 2021, the UK government conducted the census online and the approach offered various benefits, including improved data quality, ease of completion for the user, faster processing of data and reduced costs and environmental impact.
+
+
+
+The webinars, led weekly by the CDPS and ONS, offer valuable insight for our team in improving our services as we move traditionally paper form processes, such as permitting, onto online forms, for all the benefits listed above. 
+The increased functionality and the ability to focus in on smaller areas to investigate drop in response rates, allows for the identification of issues so that the ONS team could resolve it quicker. 
+The flexibility and accessibility incorporated into the design resulted in a positive outcome, allowing for the response rate of this online-first census to exceed the targets set.
+
+
+
 
 ## Other things we’ve been working on:
 + Laura has attended the overview of our digital services session. She is continuing to be fabulous and is doing some excellent work
