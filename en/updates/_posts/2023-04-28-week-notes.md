@@ -20,7 +20,7 @@ Well moving on…what’s been happening this week in the digital team?
 
 This week Phil met up with Rob from FourthWallContent. Rob’s been helping us to improve the woodlands and forests area of our website. Rob is really lovely to work with and certainly knows his stuff.
 
-![Rob and Phil ] (  )
+![Rob and Phil ](https://github.com/nrw-digital/week-notes/blob/7487b47de6d9a8f931f9fea37df67aeac7224b59/images/phil_rob.png)
 
 Sometimes the content designers in the digital team write content on their own and sometimes they pair write or even trio write. 
 
