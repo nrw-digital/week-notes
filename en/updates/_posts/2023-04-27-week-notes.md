@@ -7,7 +7,9 @@ hidetitle: True
 author: Phil and Andrew
 ---
 
-This week Andrew and Phil are looking at the forms on our website, pair writing, trio writing and writing content for our users. This makes a change from Andrew and Phil swapping jokes about Mrs Slocombe. In case you are too young to remember, Mrs Slocombe became famous for starring in a TV sitcom called “are you being served”.
+This week Andrew and Phil are looking at the forms on our website, pair writing, trio writing and writing content for our users. 
+
+This makes a change from Andrew and Phil swapping jokes about Mrs Slocombe. In case you are too young to remember, Mrs Slocombe became famous for starring in a TV sitcom called “are you being served”.
 
 ![Mrs Slocombe](https://github.com/nrw-digital/week-notes/blob/525dc8ff20888ce39ea3a4bdff7ac608e4b2fb46/images/Mollie_Sugden_as_Mrs_Slocombe.jpg?raw=true)
 
@@ -17,46 +19,50 @@ Well moving on…what’s been happening this week in the digital team?
 
 ## Pair and trio writing
 
-This week Phil met up with Rob from [FourthWallContent](https://www.fourthwallcontent.com/). Rob’s been helping us to improve the [woodlands and forests](https://naturalresources.wales/guidance-and-advice/environmental-topics/woodlands-and-forests/?lang=en) area of our website. Rob is really lovely to work with and certainly knows his stuff. Sometimes the content designers in the digital team write content on their own and sometimes they pair write or even trio write. 
+This week Phil met up with Rob from [FourthWallContent](https://www.fourthwallcontent.com/). Rob’s been helping us to improve the [woodlands and forests](https://naturalresources.wales/guidance-and-advice/environmental-topics/woodlands-and-forests/?lang=en) area of our website. Rob is really lovely to work with and certainly knows his stuff. 
+
+Sometimes the content designers in the digital team write content on their own and sometimes they pair write or even trio write. 
 
 ![Rob and Phil ](https://github.com/nrw-digital/week-notes/blob/7487b47de6d9a8f931f9fea37df67aeac7224b59/images/phil_rob.png?raw=true)
 
 ## Pair writing
 Pair writing involves two people sitting down together and writing content in real-time. It really is as simple as that!
 
-It might be simple, but it’s so effective. Instead of sitting on your own trying to work out how best to describe something as complicated as an acid sensitive river catchment area, we work together to create user focussed content.
+It might be simple, but it’s so effective. Instead of a single content designer sitting on their own trying to work out how best to describe something as complicated as an acid sensitive river catchment area, they work together to create user focussed content.
 
 Two brains are always better than one. It helps having someone who can question what you write, the style that you write, and to keep the content on track and focussed. It also helps to have another detective on board to decipher the complicated stuff.
 
 In fact Andrew and Phil have been pair writing on this piece of content, what an excellent job they have done.
 
 ## Trio writing
-Once the content designers have come up with a draft content page we share the draft text with the excellent translation team. We worked with the lovely Manon from the translation team. 
+Then there is trio writing, once the content designers have come up with a draft content page we share that draft text with the excellent translation team.
 
-That’s how trio writing works. The two content designers from the pair writing (Rob and Phil) and Manon got together to translate the content.
+That’s how trio writing works. The two content designers from the pair writing session (Rob and Phil), then get together with the lovely Manon from the translation team to translate the content.
 
-It’s done this way as not all words translate to Welsh. When we started the trio writing we had this sentence:
+It’s done this way as not all words translate to Welsh very well or even at all. When we started the trio writing we had this sentence:
+Your land must not contain any sensitive areas.
 
-Your land must not contain any sensitive areas. 
-
-We learnt that sensitive areas does not translate very well, so we had to come up with something else. After working with the translator we came up with:
+We learnt that sensitive areas will not translate, it loses its meaning, so we had to come up with something else. After working with Manon we came up with:
 
 Your land must not be in a protected area.
 
-We did this for the entire content page. Instead of translating the text as is, we made sure both languages contained excellent bi-lingual content. 
+We did this for the entire content page. Instead of translating the text as is word for word, we made sure both languages contained excellent bi-lingual content.
+
 
 ## Writing clear user focussed content
-Creating user focussed content is a process of writing good, clear content with the user in mind. Publishing anything and everything is not the way to create good user focussed content. This approach leads to random information appearing on a webpage that no one cares about and that no one will even read. The very best we could hope for in this situation is someone will at least skim read this random and complex information.
+Creating user focussed content is a process of writing good, clear content with the user in mind. 
+
+Publishing anything and everything is not the way to create good user focussed content. This approach leads to random information appearing on a webpage that no one cares about and that no one will even read. The very best we could hope for in this type of situation is for someone to at least skim read the random and complex information.
 
 This week Phil got a good example of this behaviour. When I’m explaining to people about why we should write clear content, I often use the example of a driving licence:
 
-We all know that to drive on our roads you must have a driving licence, to drive on our roads and not have a driving licence is breaking the law. Despite the fact we all know we need a driving licence, we don’t read the law each time we get into our cars.
+We all know that to drive on our roads you must have a driving licence, to drive on our roads and not have a driving licence is breaking the law. Despite the fact we all know we need a driving licence, we don’t read the law or read tons of information each time we get into our cars.
 
-Our organisation believes that our users need to read the law before applying for any licence. 
+Many colleagues seem to believe that our users need to read about the law and tons of information before applying for a licence or carrying out a task online.
+ 
+## An example of bad, random, and complex content
 
-An example of bad, random, and complex content
-
-This is one example of how **not** to write user focussed content, this content is on our website:
+This is one example of how not to write user focussed content, this content is on our website:
 
 What is meant by development?
 
@@ -69,15 +75,15 @@ In addition, no fee shall apply to an application for a licence necessary to imp
 Please note that this list is not exhaustive.
 
 ## Good clear user focussed content
-You can see from the ‘what is meant by development?’ text that it’s not clear if you need a licence or not, it’s not clear what the licence is for. The text also talks about charging, but what are the costs?
+The ‘what is meant by development?’ text is therefore not very clear for the user. It’s not clear if you need a licence or not, it’s not clear what the licence is for. The text also talks about charging, but what are the costs?
 
 The lovely content designers in the digital team try their very best to publish good clear user focussed content.
-
-If Phil had half a chance to create good clear content, the  ‘what is meant by development?’ text would read:
+If Phil had half a chance to create good clear content, the ‘what is meant by development?’ text would read:
 
 Apply for a development licence.
 
 It is against the law to:
+
 + deliberately capture, injure, or kill wildlife
 + damage or destroy breeding or resting places of wildlife
 + transport, sell or exchange live wildlife
@@ -85,15 +91,19 @@ It is against the law to:
 We charge £133 for licences if you are carrying out any local or major developments.
 
 We will not charge for licences if you are carrying out:
+
 + household developments
 + property maintenance not requiring planning consent
 + a development which provides access and facilities for disabled people
 
 ## The conclusion to my ramblings
-Writing good clear content helps the users instantly know what they need. They don’t have to struggle, they don’t have to call us because they don’t have a clue what we are talking about. They don’t have to wade through or decipher tons of regulations before they find out that to capture, injure, or kill wildlife is against the law. 
+Writing good clear content helps the users instantly know what they need to do to complete a task.
 
-Having bad, complex content could be disastrous for the poor wildlife. The user could not understand the content, or just ignores the complex information about the law. They could end up not applying for a licence, leading to the destruction of the wildlife or its habitat.
+They don’t have to struggle, they don’t have to call us because they don’t have a clue what we are talking about. They don’t have to wade through or decipher tons of regulations or information before they find out that to capture, injure, or kill wildlife is against the law.
 
+Having bad, complex content could be disastrous for the poor wildlife. The user could not understand the content, or the user could just ignore the complex information about the law. They could end up not applying for a licence, leading to the destruction of the wildlife or its habitat.
+
+The work we’ve done over the last year, [summarised in the Content handbook[(https://docs.google.com/presentation/d/11_6Qm-TWkZNUCOu2Ai6d-RTxBf1KXBymJHrrrnVgUm0/edit), sets out that we are actually empowered and responsible for decisions on the website - but day to day, it doesn’t feel like that. 
 
 ## NRW forms - the digital evolution continues
 Phil and Andrew have been as busy as springtime badgers getting their setts ready for new cubs. But, instead of replacing the old bedding for new and digging new chambers, they have been replacing many of the old hard copy species licence forms and making them into new, online versions and content. They hit a bit of a stump when it came to translating these forms as they were sent in the original hard copy MS Word format making it difficult to see the amends made in the new digital format. We worked with the translation (who were really struggling updating different versions in Word) and the species team. We agreed that any future amends made to these forms were in a digital format as opposed to the old, outgoing hard copy versions. This solution will really help the digital/species team and further support the translation team to locate any changes on the Welsh and English parts of the forms. A win/win for all and,  best of all, no badgers were harmed in making the digital forms for our new pages.
