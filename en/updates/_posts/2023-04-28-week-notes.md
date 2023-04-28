@@ -107,7 +107,18 @@ Having bad, complex content could be disastrous for the poor wildlife. The user 
 The work we’ve done over the last year, [summarised in the Content handbook](https://docs.google.com/presentation/d/11_6Qm-TWkZNUCOu2Ai6d-RTxBf1KXBymJHrrrnVgUm0/edit), sets out that we are actually empowered and responsible for decisions on the website - but day to day, it doesn’t feel like that. 
 
 ## NRW forms - the digital evolution continues
-Phil and Andrew have been as busy as springtime badgers getting their setts ready for new cubs. But, instead of replacing the old bedding for new and digging new chambers, they have been replacing many of the old hard copy species licence forms and making them into new, online versions and content. They hit a bit of a stump when it came to translating these forms as they were sent in the original hard copy MS Word format making it difficult to see the amends made in the new digital format. We worked with the translation (who were really struggling updating different versions in Word) and the species team. We agreed that any future amends made to these forms were in a digital format as opposed to the old, outgoing hard copy versions. This solution will really help the digital/species team and further support the translation team to locate any changes on the Welsh and English parts of the forms. A win/win for all and,  best of all, no badgers were harmed in making the digital forms for our new pages.
+Phil and Andrew have been as busy as springtime badgers getting their setts ready for new cubs. 
+
+Instead of replacing the old bedding for new and digging new chambers, they have been replacing many of the old hard copy species licence forms and making them into new, online versions and content. 
+
+They hit a bit of a stump when it came to translating these forms as they were sent in the original hard copy Microsoft Word format, making it difficult to see the amends made in the new digital format. 
+
+We worked with the translation team and the species team (who were really struggling updating different versions in Word). We agreed that any future amends made to these forms were in a digital format as opposed to the old, outgoing hard copy versions. 
+
+This solution really helped the digital and species team and will further support the translation team to locate any changes on the Welsh and English parts of the forms. 
+
+A win/win for all and, best of all, no badgers were harmed in making the digital forms for our new pages.
+
 
 ![Dancing Badger](https://github.com/nrw-digital/week-notes/blob/b9965f2ae75dba169ea40fc5547de9e4bac6cdd9/images/Badgers_Badgers.gif?raw=true)
 
