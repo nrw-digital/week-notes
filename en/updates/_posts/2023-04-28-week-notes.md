@@ -92,7 +92,7 @@ We charge £133 for licences if you are carrying out any local or major developm
 We will not charge for licences if you are carrying out:
 
 + household developments
-+property maintenance not requiring planning consent
++ property maintenance not requiring planning consent
 + a development which provides access and facilities for disabled people
 
 ## The conclusion to my ramblings
