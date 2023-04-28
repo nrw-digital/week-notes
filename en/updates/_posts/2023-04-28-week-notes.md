@@ -126,16 +126,19 @@ A win/win for all and, best of all, no badgers were harmed in making the digital
 
 ## Census online
 This week was part two of learning all about the census online. A few of the team have attended these online talks and found them very interesting.
+
 In 2021, the UK government conducted the census online and the approach offered various benefits, including improved data quality, ease of completion for the user, faster processing of data and reduced costs and environmental impact.
 
 The aims of an online-first census approach were to:
-+ Improve data quality
-+ Ease respondent burden
-+ Enable responses to be processed faster
-+ Reduce costs and environmental impact
++ improve data quality
++ ease respondent burden
++ enable responses to be processed faster
++ reduce costs and environmental impact
 
 The webinars, led weekly by the CDPS and ONS, offer valuable insight for our team in improving our services as we move traditionally paper form processes, such as permitting, onto online forms, for all the benefits listed above. 
-The increased functionality and the ability to focus in on smaller areas to investigate drop in response rates, allows for the identification of issues so that the ONS team could resolve it quicker. 
+
+The increased functionality and the ability to focus on smaller areas to investigate drop in response rates, allows for the identification of issues so that the ONS team could resolve it quicker. 
+
 The flexibility and accessibility incorporated into the design resulted in a positive outcome, allowing for the response rate of this online-first census to exceed the targets set.
 
 
@@ -143,9 +146,9 @@ The flexibility and accessibility incorporated into the design resulted in a pos
 + Laura has attended the overview of our digital services session. She is continuing to be fabulous and is doing some excellent work
 + Heledd, James and Sam have been meeting with Mima to discuss NRW’s list of services
 + James has held two user interviews about our new ‘Woodlands and forests’ landing page
-+ Laura and Lucinda gave a 'Teams' presentation to 44 NRW colleages on our updated web content and publishing manual - there were lots of interesting questions which Shaun stepped in and answered demonstrating team work at its best
++ Laura and Lucinda gave a ‘Teams’ presentation to 44 NRW colleagues on our updated web content and publishing manual - there were lots of interesting questions which Shaun stepped in and answered demonstrating teamwork at its best
 + Sophie and Kim have been working through online forms and considering new, simplified pathways to lead users to the right service for their needs.
-+ Sophie also attended week one of a content design course, to better understand how we can improve our users’ journeys through the website by designing content that speaks to their understanding, and not just our organisations.
-+ The Digital Team have been sharing ideas to streamline our working process, and putting the ideas into action by creating a new content bucket to store upcoming tasks. This means our team are aware of upcoming deadlines and allows teams from within the organisation to contact us earlier with their requests, ensuring deadlines are met promptly. 
-When sending in internal requests to our team, please use the content request form and detail any updates, new content or changes you would like, including attaching any documents, the URL you’d like us to work on and the deadline of this task. We encouraging people not to 'request ASAP' as this makes planning out our workload and allocating tasks fairly amongst our team more difficult. If you do not have a specific deadline in mind, please say this and suggest an estimated date of completion, and we will work to complete your request within the estimated time frame. 
++ Sophie also attended week one of a content design course, to better understand how we can improve our users’ journeys through the website by designing content that speaks to their understanding, and not just our organisations
++ The Digital Team has been sharing ideas to streamline our working process, and putting the ideas into action by creating a new content bucket to store upcoming tasks. This means our team is aware of upcoming deadlines and allows teams from within the organisation to contact us earlier with their requests, ensuring deadlines are met promptly. When sending in internal requests to our team, please use the content request form and detail any updates, new content or changes you would like, including attaching any documents, the URL you’d like us to work on and the deadline of this task. We encourage people not to ‘request ASAP’ as this makes planning out our workload and allocating tasks fairly amongst our team more difficult. If you do not have a specific deadline in mind, please say this and suggest an estimated date of completion, and we will work to complete your request within the estimated time frame 
 + Shaun is working on a number of web-pages for intensive farming environmental permit holders.
+
