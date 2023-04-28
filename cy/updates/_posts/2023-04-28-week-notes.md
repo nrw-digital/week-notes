@@ -15,8 +15,6 @@ author: Phil and Andrew
 
 
 
-## Pair and trio writing
-
 [FourthWallContent](https://www.fourthwallcontent.com/).  [woodlands and forests](https://naturalresources.wales/guidance-and-advice/environmental-topics/woodlands-and-forests/?lang=cy)  
 
 
