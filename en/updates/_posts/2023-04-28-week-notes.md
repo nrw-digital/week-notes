@@ -102,7 +102,7 @@ They don’t have to struggle, they don’t have to call us because they don’t
 
 Having bad, complex content could be disastrous for the poor wildlife. The user could not understand the content, or the user could just ignore the complex information about the law. They could end up not applying for a licence, leading to the destruction of the wildlife or its habitat.
 
-![The Digital Team owns the NRW website ](?raw=true)
+![The Digital Team owns the NRW website ](https://github.com/nrw-digital/week-notes/blob/7db8f645ee002e8e72e42258823e13f796ed7dda/images/Digiteam%20owns.png?raw=true)
 
 The work we’ve done over the last year, [summarised in the Content handbook] (https://docs.google.com/presentation/d/11_6Qm-TWkZNUCOu2Ai6d-RTxBf1KXBymJHrrrnVgUm0/edit), sets out that we are actually empowered and responsible for decisions on the website - but day to day, it doesn’t feel like that. 
 
