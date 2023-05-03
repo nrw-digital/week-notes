@@ -15,13 +15,13 @@ Mae hyn yn newid o Andrew a Phil yn dweud jôcs am Mrs Slocombe.  Rhag ofn eich 
 
 **Ffynhonnell:** [Wicipedia](https://en.wikipedia.org/wiki/Mollie_Sugden)
   
-
+  
 Gwell i ni symud ymlaen... Beth sydd wedi bod yn digwydd yr wythnos hon yn y tîm digidol?
 
 ## Ysgrifennu pâr a thriawd
 Yr wythnos hon wnaeth Phil gwrdd â Rob o [FourthWallContent](https://www.fourthwallcontent.com/). Mae Rob wedi bod yn ein helpu i wella ardal [coetiroedd a fforestydd](https://naturalresources.wales/guidance-and-advice/environmental-topics/woodlands-and-forests/?lang=cy) ar ein gwefan. Mae’n bleser gweithio gyda Rob ac yn sicr mae’n gwybod ei bethau. 
 
-![Rob a Phil ](https://github.com/nrw-digital/week-notes/blob/7487b47de6d9a8f931f9fea37df67aeac7224b59/images/phil_rob.png?raw=true)
+![Rob a Phil] (https://github.com/nrw-digital/week-notes/blob/7487b47de6d9a8f931f9fea37df67aeac7224b59/images/phil_rob.png?raw=true)
 
 ## Ysgrifennu pâr
 Mae ysgrifennu pâr yn cynnwys dau berson yn eistedd gyda'i gilydd ac yn ysgrifennu cynnwys mewn amser real. Mae mor syml â hynny!
