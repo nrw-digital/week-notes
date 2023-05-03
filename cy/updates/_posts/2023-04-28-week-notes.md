@@ -79,9 +79,9 @@ Does dim rhaid iddyn nhw fynd i drafferth, does dim rhaid iddyn nhw ein ffonio a
 Gallai cynnwys gwael, cymhleth fod yn drychinebus i'r bywyd gwyllt. Nid oedd y defnyddiwr yn gallu deall y cynnwys, neu gallai'r defnyddiwr anwybyddu'r wybodaeth gymhleth am y gyfraith. Gallen nhw beidio â gwneud cais am drwydded yn y pen draw, gan arwain at ddinistrio'r bywyd gwyllt na'i gynefin
 
 
-![Y Tîm Digidol yw perchnogion gwefan CNC] (https://github.com/nrw-digital/week-notes/blob/7db8f645ee002e8e72e42258823e13f796ed7dda/images/Digiteam%20owns.png?raw=true)
+![Y Tîm Digidol yw perchnogion gwefan CNC](https://github.com/nrw-digital/week-notes/blob/7db8f645ee002e8e72e42258823e13f796ed7dda/images/Digiteam%20owns.png?raw=true)
 
-Mae'r gwaith rydym wedi'i wneud dros y flwyddyn ddiwethaf sydd [wedi'i grynhoi yn y llawlyfr Cynnwys] (https://docs.google.com/presentation/d/11_6Qm-TWkZNUCOu2Ai6d-RTxBf1KXBymJHrrrnVgUm0/edit#slide=id.g1942c6ffa73_0_98), yn nodi ein bod ni wedi’n grymuso ac yn gyfrifol am benderfyniadau ar y wefan - ond o ddydd i ddydd, nid yw'n teimlo felly. 
+Mae'r gwaith rydym wedi'i wneud dros y flwyddyn ddiwethaf sydd [wedi'i grynhoi yn y llawlyfr Cynnwys](https://docs.google.com/presentation/d/11_6Qm-TWkZNUCOu2Ai6d-RTxBf1KXBymJHrrrnVgUm0/edit#slide=id.g1942c6ffa73_0_98), yn nodi ein bod ni wedi’n grymuso ac yn gyfrifol am benderfyniadau ar y wefan - ond o ddydd i ddydd, nid yw'n teimlo felly. 
 
 ## Ein ffurflenni - mae’r esblygiad digidol yn parhau
 Mae Phil ac Andrew wedi bod mor brysur â moch daear yn cael eu setiau yn barod ar gyfer cenau newydd yn y gwanwyn. 
