@@ -94,7 +94,7 @@ Mae pawb ar ei ennill felly a gorau oll, ni chafodd unrhyw foch daear eu niweidi
  
 ![Dancing Badger](https://github.com/nrw-digital/week-notes/blob/b9965f2ae75dba169ea40fc5547de9e4bac6cdd9/images/Badgers_Badgers.gif?raw=true)
 
-**Ffynhonnell:[Wicipedia](https://en.wikipedia.org/wiki/Badgers_(animation))
+**Ffynhonnell:[Wicipedia]**(https://en.wikipedia.org/wiki/Badgers_(animation))
 
 ## Cyfrifiad ar-lein
 Roedd yr wythnos hon yn rhan dau o ddysgu'r cyfan am y cyfrifiad ar-lein. Mae ambell un o'r tîm wedi mynychu'r sgyrsiau ar-lein hyn ac wedi eu gweld yn ddiddorol iawn. 
