@@ -25,7 +25,7 @@ The cost of living crisis, uncertainty of watching our costs spiral and the worr
 
 But as individuals, as families, as communities – we can’t afford to ignore the impact on our mental health.
 
-Here at NRW, we each have one hour per week to spend doing something to take care of our wellbeing. Some of our team use their wellbeing hour to exercise, whether that be finishing early and going for a run or practicing mindfulness, using an app like [headspace](https://www.headspace.com/).
+Here at NRW, we each have one hour per week to spend doing something to take care of our wellbeing. Some of our team use their wellbeing hour to exercise, whether that be finishing early and going for a run or practising mindfulness, using an app like [headspace](https://www.headspace.com/).
 
 As a team, we believe that by talking openly about our struggles with mental health, we can help to reduce stigma and create a community where we can talk to one another about the difficulties we may be facing in our personal lives.
 
