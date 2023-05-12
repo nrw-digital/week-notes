@@ -37,7 +37,7 @@ Alongside a change of scenery, being aware of your inner self-talk and being kin
 
 ## Placing usability at the forefront of our services
 
-Research shows that people with higher literacy levels prefer plain English because it allows them to understand the information as quickly as possible.
+Research shows that [people with higher literacy levels prefer plain English](https://www.nngroup.com/articles/plain-language-experts/) because it allows them to understand the information as quickly as possible.
 
 This suggests that while we can understand complex specialist language, many of us do not want to read it if there’s an alternative. This is because people with the highest literacy levels and the greatest expertise tend to have the most to read.
 
