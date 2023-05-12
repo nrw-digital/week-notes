@@ -45,7 +45,7 @@ This week, Sam has also been working with waste policy to publish [a new waste s
 
 We’ll be looking at how the EA has published their most recent standard rules in HTML. Having the up to date list of standard rules has meant we can add them to the form as multiple text boxes and apply routing. If users choose ‘’SR2017No01: Use of waste in a deposit for recovery operation”, they are routed to questions that apply to that rule set only. 
 
-![waste form](https://github.com/nrw-digital/week-notes/blob/02f4410de2f77bc3c2b5c7efe510fe10473ad057/images/prototype.png?raw=true)
+![waste form](https://github.com/nrw-digital/week-notes/blob/f79a37005d93660b8a62d515894e3928ea5279ed/images/waste%20form.png?raw=true)
 
 ## Show and Tell - our prototypes
 
