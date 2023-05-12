@@ -15,7 +15,7 @@ Another short week due to the bank holiday, but the sun has been shining and we 
 
 With Mental Health Awareness Week taking place next week (Mon, May 15, 2023 - Sun, May 21, 2023), we wanted to take the opportunity to focus on achieving good mental health.
 
-logo img
+![mental health awareness week 2023](https://github.com/nrw-digital/week-notes/blob/02f4410de2f77bc3c2b5c7efe510fe10473ad057/images/Picture1.jpg?raw=true)
 
 The theme this year is anxiety, something many of us can experience from time to time.
 
@@ -33,7 +33,7 @@ Some of our team shared their advice, and one thing we all shared when it comes 
 
 Alongside a change of scenery, being aware of your inner self-talk and being kind to yourself can help you feel happier. We can all be our own worst critics at times, but if you’re struggling, don’t be afraid to reach out for help.
 
-winnie the pooh img
+![be kind to your mind](https://github.com/nrw-digital/week-notes/blob/02f4410de2f77bc3c2b5c7efe510fe10473ad057/images/IMG-20230508-WA0000.jpg?raw=true)
 
 ## Placing usability at the forefront of our services
 
@@ -45,7 +45,7 @@ This week, Sam has also been working with waste policy to publish [a new waste s
 
 We’ll be looking at how the EA has published their most recent standard rules in HTML. Having the up to date list of standard rules has meant we can add them to the form as multiple text boxes and apply routing. If users choose ‘’SR2017No01: Use of waste in a deposit for recovery operation”, they are routed to questions that apply to that rule set only. 
 
-waste forms img
+![waste form](https://github.com/nrw-digital/week-notes/blob/02f4410de2f77bc3c2b5c7efe510fe10473ad057/images/prototype.png?raw=true)
 
 ## Show and Tell - our prototypes
 
@@ -53,7 +53,7 @@ Another exciting week for us, as we’ve been flexing our design muscles and try
 
 As part of our permissions project, we wanted to make things easier for people who want to use our land. Sam, Laura and Lucinda have been working on a ‘check if you are allowed to use our land’ tool, and this week we gave a demo of the prototype to the permissions team and it went down really well. 
 
-prototype img
+![screenshots of protoype tool](https://github.com/nrw-digital/week-notes/blob/02f4410de2f77bc3c2b5c7efe510fe10473ad057/images/prototype.png?raw=true)
 
 It will help users find the answers they need quickly and reduce enquiries. It will also mean we can move away from having lots of complicated content about [what you can / can’t do on our sites](https://naturalresourceswales.gov.uk/permits-and-permissions/plan-an-event-activity-or-project-on-our-land/check-if-you-need-permission-to-film-organise-an-event-or-carry-out-an-activity-on-our-land/?lang=en) which is currently not very user friendly.
 
