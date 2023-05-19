@@ -36,14 +36,16 @@ Sam’s continuing to plug away at the feedback from permitting on the online wa
 Shaun and Andrew are working with SMEs on medium combustion plant forms, which sounds terribly complicated. They, and Alex, met with the industry regulatory team to discuss new content and a new form and are working with Claire the SME to ensure the user’s journey is as smooth as possible.
 
 Andrew and Alex met with the marine team to discuss a new form for applications for discharging condition(s) of a marine licence. A first draft is done and it’ll be fine tuned in the coming weeks.
-Check service
+
+## Check service
 
 Laura, Sam and Lucinda got closer to publishing the ‘check if you’re allowed to use land we manage’ service. It’s a bit of a mouthful for a service name, but we’ve been round the houses at least a zillion times on it. 
 
 Among other things, the service enables users to check if they’re allowed to go horse riding on land we manage. All the evidence – including from our own website – shows that users call the thing they need a ‘permit’, but staff think this is confusing because we have permits for other things, like waste. Their preference is for it to be called ‘a permission’. A little content design challenge, amid many.
 
 In other news, the design history for this service is coming along nicely. It helps us document our decision designs and how we reached them. And the user flow we’ve created helps show others how a fair bit of complexity can be neatly hidden from the user.
-A tide of guidance
+
+## A tide of guidance
 
 Sam and Soph have been working with the marine advisory team a lot this week. The team create guidance documents or position statements for an audience of both staff and marine developers. As their approach doesn’t line up with how digital content is created - around task-focused user needs - we’ve agreed a ‘for now’ approach. We publish accessible documents on a ‘gateway’ page that helps users find the document through search and nav and assess if it’ll be relevant to them.   
 
