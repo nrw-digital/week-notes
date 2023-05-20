@@ -13,7 +13,7 @@ Anyway, it was lovely to see her and feel some of the pre-concert happy vibes.
 
 ## Online permit applications
 
-Sam’s continuing to plug away at the feedback from permitting on the online waste permit applications and content. She has a great contact in the waste permitting team to ask dumb questions of.
+Sam is continuing to plug away at the feedback from permitting on the online waste permit applications and content. She has a great contact in the waste permitting team to ask dumb questions of.
 
 Shaun and Andrew are working with SMEs on medium combustion plant forms, which sounds terribly complicated. They, and Alex, met with the industry regulatory team to discuss new content and a new form and are working with Claire the SME to ensure the user’s journey is as smooth as possible.
 
