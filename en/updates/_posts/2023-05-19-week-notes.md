@@ -49,14 +49,7 @@ Laura and Sophie took their first steps towards removing out-of-date and duplica
 
 ## Strategic review of charging (SROC)
 
-Alex has met with what's left of the SROC team to discuss and create a publishing plan. SROC was planned for publish 01/06/2023 (which seemed unlikely) and the uncertainty around the publication date left the digital team and NRW open to multiple risks.
-
-Outcome of the meeting:
-+ still no decision from Welsh Gov
-+ delays to updating SROC is costing circa £200k per month
-+ SROC team need time to prepare for updated charges
-+ SROC team is looking at a **3 week notice** period before publication date
-+ potential publish date 19/06/2023
+Alex has met with what's left of the SROC team to discuss and create a publishing plan. 
 
 ## Umbraco update
 Alex met the ICT-led website security project team to discuss the details of the content freeze to enable a communication plan to be developed to the wider business and the current Umbraco users (publishers).
