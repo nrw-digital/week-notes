@@ -54,15 +54,6 @@ Alex has met with what's left of the SROC team to discuss and create a publishin
 ## Umbraco update
 Alex met the ICT-led website security project team to discuss the details of the content freeze to enable a communication plan to be developed to the wider business and the current Umbraco users (publishers).
 
-Current highlights:
-+ content freeze between 02/06/2023 - 17/07/2023
-+ prod Umbraco is being copied on 02/06/2023
-+ all major updates including SROC need to be in Umbraco before 02/06/2023 (to avoid duplication of work)
-+ a monthly managers note for June has been sent advising that the digital service team has exceptional workload and all content requests will be evaluated and prioritised until August
-+ Digi services team will get 4 log-ins made available to the pre prod environment (mainly to facilitate SROC related updates)
-+ website security team are going to provide exact dates of the content freeze production go live date and access times to pre prod environment.
-+ once dates are confirmed the comms plan to the rest of the Umbraco users will be developed and shared (including prioritisation, what’s allowed, what to hold off on etc)
-
 ## Service design in practice
 James and Lucinda have started their work-based project for the Service Design in Practice course. James is working with Welsh Government on designing a better application system for fishing licences. This is outside NRW's responsibilities but there will be some good cross-over learning. 
 Lucinda is working on making it easier for people to understand which permits they need to carry out certain tasks.
