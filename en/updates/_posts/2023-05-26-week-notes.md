@@ -41,7 +41,9 @@ Sam deleted 20 zip files from the CMS media library containing 1356 documents th
 
 There were three zip files published on our website for users to find important information, but 20 zip files in the media library. Our current Umbraco version - and the way the structure of the media library has evolved – does not make it easy for us to be sure which document or file is being pulled through to web pages. Many of these documents were also being formally consulted on, so we had to rein in our desire to tidy up.
 
-Once the waste team confirmed which documents needed to be published, we got them out of zip files, then pressed delete, delete, delete. Next we will work with waste to turn the content in the published documents into good, accessible web content. Woodlands and forests information architecture.
+Once the waste team confirmed which documents needed to be published, we got them out of zip files, then pressed delete, delete, delete. Next we will work with waste to turn the content in the published documents into good, accessible web content. 
+
+## Woodlands and forests information architecture
 
 James has finished analysing the user research findings about our draft information architecture for the new ‘Woodlands and forests’ landing page.
  
