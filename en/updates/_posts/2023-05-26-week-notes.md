@@ -24,9 +24,9 @@ Laura’s had mailboxes on her mind for longer than she cares to admit. NRW team
 
 Take flood risk activity permits for example. You’ve worked out that you need a permit (not an easy thing to do), completed the application form and all the documentation (also not easy). Then the last hurdle, you have to choose where you want to send the form. Flood permitting north, or flood permitting south. 
 
-•	What if you’re in mid-Wales?
-•	What if you’re based in the North but applying to do something in the south?
-•	What if you’re fed up by this point and you just want a submit button!
++ What if you’re in mid-Wales?
++ What if you’re based in the North but applying to do something in the south?
++ What if you’re fed up by this point and you just want a submit button!
 
 The evidence shows that users are getting it ‘wrong’ all the time.
 
