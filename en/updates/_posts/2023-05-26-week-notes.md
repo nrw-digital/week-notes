@@ -65,7 +65,7 @@ Sam, Lucinda and Laura have hit publish on our new [‘Check if your allowed to 
 
 ## We published some more
 
-Laura and Lucinda published a refreshed [‘apply for a flood risk activity permit’ start page]( https://naturalresources.wales/permits-and-permissions/flood-risk-activity-permits/apply-for-a-new-bespoke-permit/?lang=en) and new [flood risk activity permit application: information you need to provide] (https://naturalresources.wales/permits-and-permissions/flood-risk-activity-permits/flood-risk-activity-permit-application-frap-information-you-will-need-to-provide/?lang=en). The application form is having an overhaul too and won’t be far behind.
+Laura and Lucinda published a refreshed [‘apply for a flood risk activity permit’ start page]( https://naturalresources.wales/permits-and-permissions/flood-risk-activity-permits/apply-for-a-new-bespoke-permit/?lang=en) and new [flood risk activity permit application: information you need to provide](https://naturalresources.wales/permits-and-permissions/flood-risk-activity-permits/flood-risk-activity-permit-application-frap-information-you-will-need-to-provide/?lang=en). The application form is having an overhaul too and won’t be far behind.
 
 ## We shared user research findings
 
