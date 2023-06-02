@@ -41,13 +41,13 @@ As part of the upgrade work to Umbraco, the search functionality had to be rebui
 
 We then checked the results of the changes to the live site to get the results as close as possible. There is still more to be done on the search functionality to improve the search results. 
 
-## Sam went all hazardous again
+## Sam went hazardous again
 
-Conversations resurfaced around hazardous waste returns: spreadsheets, macros, XML, demands on staff and the room for error. 
+Around NRW, conversations resurfaced around hazardous waste returns: spreadsheets, macros, XML, demands on staff, duplication of effort, room for error. 
 
 Sam spent time trying to find out about any new problems for users: was there something we could do with content that could help?  
 
-After several chats and demos, we think that the same circumstances exist now as were there during [2022 hazardous waste returns discovery]( https://digitalpublicservices.gov.wales/bringing-our-digital-strategy-to-life/). Users can and do send us the information we need, but NRW can’t reliably and easily transfer it to our internal systems. So, a fix is needed, but not around content (at least for now).
+After several chats and demos, we think that the same circumstances exist now as were there during the [2021 hazardous waste returns discovery]( https://digitalpublicservices.gov.wales/bringing-our-digital-strategy-to-life/). Users can and do send us the information we need, but the problem is internal: NRW can’t reliably and easily transfer it to our internal systems. So, a fix is needed, but not around content (at least for now). 
 
 ## Other things we’ve been working on:
 
