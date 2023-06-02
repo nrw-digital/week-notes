@@ -53,6 +53,8 @@ After several chats and demos, we think that the same circumstances exist now as
 
 + We’ve been on the receiving end of some bugs and glitches this week, so Owain and Lucinda have been busy investigating matters and finding solutions.
 
++ Sam’s been working on last minute content from the grant team to get a new grant window open on time.
+
 + Sophie’s been busy updating broken links across the website and Intranet, with help from the wider NRW team, who have been kindly sharing instances of broken links when they find them.
 
 + We’re been hard at work updating tables to make sure they are accessible. This means removing merged cells, filling in empty ones and making sure the header row is set so that people using screen readers are taken through the content in a logical manner.
