@@ -32,41 +32,37 @@ This was a good opportunity to meet other sponsors. We had an update on how thin
 The feedback from the 11 people from NRW that have either completed or started the course, is positive. People are learning a lot - both on the theory, and the practical side. The course is also helping to raise awareness of the value of service design in our organisation and Welsh Government. 
 After the session, Heledd reflected on how this (fairly intense) course is part of a wide range for developing skills and capability - [one of the missions in NRW’s Digital strategy](https://naturalresources.wales/about-us/what-we-do/strategies-and-plans/digital-strategy-for-natural-resources-wales-2022-25/?lang=en). 
 There are lots of ways that people learn and develop their skills and knowledge to design better services. These include:
-having a culture of sharing knowledge and experience in the team
-always being open to learn from others
-trying new things, and learning from what goes well (and not so well)
-joining and contributing to communities of practice and talking to people doing similar roles in other organisation
-learning as part of blended project teams working alongside other delivery partners - such as CDPS, DXW, and colleagues in ICT with BJSS. 
-events – such as GovCamp Cymru
-show and tells, webinars and online learning 
-reading other people’s blogs, weeknotes
-formal and accredited learning programmes
-books, lots of books
-apprentices
-mentors
++ having a culture of sharing knowledge and experience in the team
++ always being open to learn from others
++ trying new things, and learning from what goes well (and not so well)
++ joining and contributing to communities of practice and talking to people doing similar roles in other organisation
++ learning as part of blended project teams working alongside other delivery partners - such as CDPS, DXW, and colleagues in ICT with BJSS. 
++ events – such as GovCamp Cymru
++ show and tells, webinars and online learning 
++ reading other people’s blogs, weeknotes
++ formal and accredited learning programmes
++ books, lots of books
++ apprentices
++ mentors
 
-
-
-Cooling down with the Net Zero project
+## Cooling down with the Net Zero project ##
 
 Heledd and Lucinda joined a kick-off meeting with the NRW Net Zero project. The team are trying to capture the size of NRW’s whole carbon footprint.
 
 There’s a lot going on in this space, so it was great to bring people together to start with, and understand what’s already happening in this area – in NRW, in Wales, and beyond!
 Colleagues in ICT have access to some interesting tools as part of the Microsoft Azure cloud platform. It sounds like it’ll help give a good indication of the size of the carbon footprint, based on all the data that’s hosted on the azure cloud.  
 
-
 Heledd is helping link NRW colleagues with others in the Welsh Public sector, who we may be able to collaborate with following the Tech Net Zero discovery report | Centre for Digital Public Services (cdps.wales).
-
 
 Lucinda is signed up to go to a Defra-led meetup in July about “Principles for designing lower environmentally impacting services” - and will share what comes from that with the group.
 It’s a nice informal group, and for now we’ve committed to meet on a fortnightly basis to share what we’re finding out in our individual areas.
 
-Other hot things we’re doing:
+## Other hot things we’re doing: ##
 
 
-Sophie has been focusing on the Intranet, working to update pages and send content across for translation. 
++ Sophie has been focusing on the Intranet, working to update pages and send content across for translation. 
 Our backlog of reports that need accessibility checks is slowly shrinking, but every day new ones come in so staying on top of this is ever the challenge. You can save us time and get your request published sooner by reviewing our guidance for accessible documents to fix any accessibility errors and double checking your request before you send it in to us. 
-Lucinda, Sam and Laura have been preparing to hold another show and tell (this time to management people) about the new ‘check if you are allowed to use the land we manage’ service. We will let you know how it goes next week!
-James and Heledd attended the Building Bilingual Services Community of Practice session with the Department for Work and Pensions, who talked about their work and learnings from creating the universal credit online service in Welsh. It was also to see a little demo of how they use Jira to manage their workflow. 
++ Lucinda, Sam and Laura have been preparing to hold another show and tell (this time to management people) about the new ‘check if you are allowed to use the land we manage’ service. We will let you know how it goes next week!
++ James and Heledd attended the Building Bilingual Services Community of Practice session with the Department for Work and Pensions, who talked about their work and learnings from creating the universal credit online service in Welsh. It was also to see a little demo of how they use Jira to manage their workflow. 
 
 
