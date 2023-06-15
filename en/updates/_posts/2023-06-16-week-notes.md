@@ -12,7 +12,7 @@ Laura and Andrew
 
 It's been a sweltering week of work so we hope you've all been keeping cool if you're not on your holidays just yet. If only we could work from a paddling pool in the garden…time for NRW to invest in waterproof laptops maybe?
 
-![cartoon hot dog in flames!](https://github.com/nrw-digital/week-notes/blob/1f883aa6de10cb8e0c5693a69a3c416f1b91a15c/images/firedog2.png+?raw=true)
+![cartoon hot dog in flames](https://github.com/nrw-digital/week-notes/blob/1f883aa6de10cb8e0c5693a69a3c416f1b91a15c/images/firedog2.png+?raw=true)
 
 
 ## Content freeze but we’re still hot hot hot ##
