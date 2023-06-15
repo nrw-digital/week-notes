@@ -12,6 +12,8 @@ Laura and Andrew
 
 It's been a sweltering week of work so we hope you've all been keeping cool if you're not on your holidays just yet. If only we could work from a paddling pool in the garden…time for NRW to invest in waterproof laptops maybe?
 
+![cartoon hot dog in flames!](link to image + ?raw=true)
+
 
 ## Content freeze but we’re still hot hot hot ##
 The digital team continues to shine. We have a content freeze on our website until 17 July 2023 while we upgrade our CMS.  Hopefully this will give us a bit of breathing space to focus on the other bits of our work. 
