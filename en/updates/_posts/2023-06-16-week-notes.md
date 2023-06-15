@@ -54,7 +54,7 @@ Colleagues in ICT have access to some interesting tools as part of the Microsoft
 
 Heledd is helping link NRW colleagues with others in the Welsh Public sector, who we may be able to collaborate with following the [Tech Net Zero discovery report | Centre for Digital Public Services (cdps.wales)](https://beta.cdps.wales/tech-net-zero-discovery-report).
 
-Lucinda is signed up to go to a Defra-led meetup in July about “Principles for designing lower environmentally impacting services” - and will share what comes from that with the group.
+Lucinda is signed up to go to a Defra-led meetup in July about [“Principles for designing lower environmentally impacting services”](https://drive.google.com/file/d/1J1rQ274tkezi3zT-4SxizjCUQhRmYHyG/view) - and will share what comes from that with the group.
 It’s a nice informal group, and for now we’ve committed to meet on a fortnightly basis to share what we’re finding out in our individual areas.
 
 ## Other hot things we’re doing: ##
