@@ -24,6 +24,7 @@ Shaun is working on web-pages for medium combustion plant permits (burning thing
 New legislation coming into force will require anyone with a boiler, engine or turbine between 5 and 20 MWth to apply for a permit and carry out numerous assessments including air quality modelling. 
 Shaun and Andrew decided to split the application into two separate forms, one for simpler stand-alone boilers and one for larger or more complex medium combustion plants and specified generators in the hope that most people will be able to apply using the simpler web-content and form. We’re tri-writing with Claire the subject matter expert and making great progress to meet the deadline.
 
+
 ## Burning to learn ##
 As part of the ‘Service Design in Practice’ course that James and Lucinda are taking part in at the moment, Heledd joined a ‘sponsor check in’.
 
@@ -44,6 +45,7 @@ There are lots of ways that people learn and develop their skills and knowledge 
 + apprentices
 + mentors
 
+
 ## Cooling down with the Net Zero project ##
 
 Heledd and Lucinda joined a kick-off meeting with the NRW Net Zero project. The team are trying to capture the size of NRW’s whole carbon footprint.
@@ -51,10 +53,11 @@ Heledd and Lucinda joined a kick-off meeting with the NRW Net Zero project. The 
 There’s a lot going on in this space, so it was great to bring people together to start with, and understand what’s already happening in this area – in NRW, in Wales, and beyond!
 Colleagues in ICT have access to some interesting tools as part of the Microsoft Azure cloud platform. It sounds like it’ll help give a good indication of the size of the carbon footprint, based on all the data that’s hosted on the azure cloud.  
 
-Heledd is helping link NRW colleagues with others in the Welsh Public sector, who we may be able to collaborate with following the [Tech Net Zero discovery report | Centre for Digital Public Services (cdps.wales)](https://beta.cdps.wales/tech-net-zero-discovery-report).
+Heledd is helping link NRW colleagues with others in the Welsh Public sector, who we may be able to collaborate with following the [Tech Net Zero discovery report Centre for Digital Public Services-cdps.wales](https://beta.cdps.wales/tech-net-zero-discovery-report).
 
 Lucinda is signed up to go to a Defra-led meetup in July about [“Principles for designing lower environmentally impacting services”](https://drive.google.com/file/d/1J1rQ274tkezi3zT-4SxizjCUQhRmYHyG/view) - and will share what comes from that with the group.
 It’s a nice informal group, and for now we’ve committed to meet on a fortnightly basis to share what we’re finding out in our individual areas.
+
 
 ## Other hot things we’re doing: ##
 
