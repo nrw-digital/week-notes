@@ -52,7 +52,7 @@ Heledd and Lucinda joined a kick-off meeting with the NRW Net Zero project. The 
 There’s a lot going on in this space, so it was great to bring people together to start with, and understand what’s already happening in this area – in NRW, in Wales, and beyond!
 Colleagues in ICT have access to some interesting tools as part of the Microsoft Azure cloud platform. It sounds like it’ll help give a good indication of the size of the carbon footprint, based on all the data that’s hosted on the azure cloud.  
 
-Heledd is helping link NRW colleagues with others in the Welsh Public sector, who we may be able to collaborate with following the Tech Net Zero discovery report | Centre for Digital Public Services (cdps.wales).
+Heledd is helping link NRW colleagues with others in the Welsh Public sector, who we may be able to collaborate with following the [Tech Net Zero discovery report | Centre for Digital Public Services (cdps.wales)](https://beta.cdps.wales/tech-net-zero-discovery-report).
 
 Lucinda is signed up to go to a Defra-led meetup in July about “Principles for designing lower environmentally impacting services” - and will share what comes from that with the group.
 It’s a nice informal group, and for now we’ve committed to meet on a fortnightly basis to share what we’re finding out in our individual areas.
