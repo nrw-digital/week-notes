@@ -22,7 +22,7 @@ The message about the content freeze is a bit slow getting out so we’re still 
 ## Scorchio! ##
 Shaun is working on web-pages for medium combustion plant permits (burning things to generate heat and/or energy). 
 New legislation coming into force will require anyone with a boiler, engine or turbine between 5 and 20 MWth to apply for a permit and carry out numerous assessments including air quality modelling. 
-Shaun and Andrew decided to split the application into two separate forms, one for simpler stand-alone boilers and one for larger or more complex medium combustion plants and specified generators in the hope that most people will be able to apply using the simpler web-content and form. We’re tri-writing with Claire the subject matter expert and making great progress to meet the deadline.
+Shaun and Andrew decided to split the application into two separate forms, one for simpler stand-alone boilers and one for larger or more complex medium combustion plants and specified generators in the hope that most people will be able to apply using the simpler web-content and form. We’re trio writing with Claire the subject matter expert and making great progress to meet the deadline.
 
 
 ## Burning to learn ##
