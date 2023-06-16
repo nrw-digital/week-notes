@@ -29,7 +29,9 @@ Shaun and Andrew decided to split the application into two separate forms, one f
 As part of the ‘Service Design in Practice’ course that James and Lucinda are taking part in at the moment, Heledd joined a ‘sponsor check in’.
 
 This was a good opportunity to meet other sponsors. We had an update on how things are going from Jo and Ffion (the course leads), and an overview of the ‘work-base challenge’ that they’re starting (more about this in future posts!).
-The feedback from the 11 people from NRW that have either completed or started the course, is positive. People are learning a lot - both on the theory, and the practical side. The course is also helping to raise awareness of the value of service design in our organisation and Welsh Government. 
+The feedback from the 11 people from NRW that have either completed or started the course, is positive. People are learning a lot - both on the theory, and the practical side. 
+
+The course is also helping to raise awareness of the value of service design in our organisation and Welsh Government. 
 After the session, Heledd reflected on how this (fairly intense) course is part of a wide range for developing skills and capability - [one of the missions in NRW’s Digital strategy](https://naturalresources.wales/about-us/what-we-do/strategies-and-plans/digital-strategy-for-natural-resources-wales-2022-25/?lang=en). 
 There are lots of ways that people learn and develop their skills and knowledge to design better services. 
 
