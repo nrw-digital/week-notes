@@ -12,7 +12,7 @@ It's been a sweltering week of work so we hope you've all been keeping cool if y
 ![cartoon hot dog in flames](https://github.com/nrw-digital/week-notes/blob/1f883aa6de10cb8e0c5693a69a3c416f1b91a15c/images/firedog2.png?raw=true)
 
 
-## Content freeze but we’re still hot hot hot ##
+## Content freeze but we’re still hot hot hot ## :fire:
 The digital team continues to shine. We have a content freeze on our website until 17 July 2023 while we upgrade our CMS.  Hopefully this will give us a bit of breathing space to focus on the other bits of our work. 
 
 
