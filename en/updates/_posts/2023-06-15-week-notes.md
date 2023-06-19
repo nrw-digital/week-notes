@@ -12,14 +12,14 @@ It's been a sweltering week of work so we hope you've all been keeping cool if y
 ![cartoon hot dog in flames](https://github.com/nrw-digital/week-notes/blob/1f883aa6de10cb8e0c5693a69a3c416f1b91a15c/images/firedog2.png?raw=true)
 
 
-## Content freeze but we’re still hot hot hot ## :fire:
+## Content freeze but we’re still hot hot hot ##
 The digital team continues to shine. We have a content freeze on our website until 17 July 2023 while we upgrade our CMS.  Hopefully this will give us a bit of breathing space to focus on the other bits of our work. 
 
 
 The message about the content freeze is a bit slow getting out so we’re still getting quite a lot of requests. We’re spending quite a bit of time talking to people about what can go on during the freeze and figuring out if their request can wait. It’s not always comfortable asking someone if their work can wait. Most people have been pretty understanding and it’ll all be worth it when we have a more secure site.
 
 
-## Scorchio! ## :sunny: :sunny: :sunny:
+## Scorchio! ##
 Shaun is working on web-pages for medium combustion plant permits (burning things to generate heat and/or energy). 
 New legislation coming into force will require anyone with a boiler, engine or turbine between 5 and 20 MWth to apply for a permit and carry out numerous assessments including air quality modelling. 
 Shaun and Andrew decided to split the application into two separate forms, one for simpler stand-alone boilers and one for larger or more complex medium combustion plants and specified generators in the hope that most people will be able to apply using the simpler web-content and form. We’re trio writing with Claire the subject matter expert and making great progress to meet the deadline.
