@@ -123,9 +123,9 @@ This resulted in a terrible experience for disabled customers and people with ac
 
 Another smaller problem was the lack of clear signage. I can’t tell you how long it took me to find a taxi rank on the festival map only to discover it was only a few metres away under a large sign that said ‘PUDO’. 
 
-Pick
-Up
-Drop
+Pick<br>
+Up<br>
+Drop<br>
 Off
 
 Just another great example of acronyms ruining a message.
