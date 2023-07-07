@@ -59,11 +59,11 @@ This week, Sophie and Heledd have done something a little different and consulte
 
 Having been inspired by an [interesting article by Content Design London](https://contentdesign.london/blog/yet-another-blog-post-about-chatgpt), we were keen to explore AI solutions to help us simplify things, and the responses we received were insightful considering it came from a robot! 
 
-*“So, what is alt-text?”*
+**“So, what is alt-text?”**
 
 [Alt-text, short for alternative text, is a textual description that is added to an image on a website or in a document. It serves as a substitute for the image when it cannot be displayed or accessed by the user, such as for individuals with visual impairments or when images fail to load.] 
 
-*“Are there any do’s and don'ts of writing alt-text that people should be aware of?”*
+**“Are there any do’s and don'ts of writing alt-text that people should be aware of?”**
 
 [Remember, alt-text is crucial for web accessibility and ensures that individuals who cannot see images can still comprehend the information being conveyed. Follow these guidelines to create alt-text that enhances the accessibility and usability of your content.] 
 
