@@ -13,7 +13,7 @@ After months (and in some cases years) of work, around 50 pages and 26 forms qui
 
 Despite an ‘automated schedule’ feature to make pages live on the website, it was an early start for some of our team, who diligently worked through a long list of post-go-live tasks. 
 
-*Waste permit applications* 
+**Waste permit applications** 
 
 From 3 July, users can now apply online to:
 + apply for a new waste permit
