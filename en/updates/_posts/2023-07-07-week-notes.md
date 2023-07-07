@@ -114,7 +114,7 @@ A better example of alt-text for the seal image could look like:
 
 **A mother seal and her pup sit on the shore of a pebbly beach.**
 
-##Verdict: a review by a human is still essential
+## Verdict: a review by a human is still essential
 
 Despite these limitations, there is an opportunity for AI to support people in writing their alt-text. So long as you allocate time to carefully review the information contained in the alt-text as it tends to go overboard when describing images. AI is after all smarter than the average human! 
 
