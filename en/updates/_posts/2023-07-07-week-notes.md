@@ -152,6 +152,4 @@ To brush up on your knowledge of alt-text and all things accessibility, please s
 
 + Heledd joined Christine (from Crocstar) in writing for the web training session - focussed on blogs. 
 
-+ Paul and Alex have started to formulate a new plan for helping us with prioritising and tracking some of the bigger pieces of work we have and opportunities for future work. They’ve started to review our multiple work planners and Mural boards and will soon start to share ideas / questions.  
-
-
++ Paul and Alex have started to formulate a new plan for helping us with prioritising and tracking some of the bigger pieces of work we have and opportunities for future work. They’ve started to review our multiple work planners and Mural boards and will soon start to share ideas and questions.  
