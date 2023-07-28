@@ -64,8 +64,6 @@ This is just the beginning of a longer-term process to improve customer experien
 
 ## Guide dogs
 
-![Handsome guide dog](https://github.com/nrw-digital/week-notes/blob/88823cc1312e2f5974eb2a3e8f75b9d80b5bdc4c/images/Doggo1.jpg)
-
 Phil volunteers for the [guide dog charity](https://www.guidedogs.org.uk/) so understands the need to make our services fully accessible. 
 
 Phil often helps people who are blind or partially sighted navigate their way around websites, that’s just one of the ways he volunteers with guide dogs.
