@@ -66,7 +66,7 @@ Laura roped in Heledd to help move/unpublish the last ‘statements’. A job th
 
 + Shaun is working on content for local planning authorities about planning applications in protected areas with rivers. He’s found that it’s a challenge bringing people together from different areas in NRW who are working on content for the same user.
 
-+ Sam has published new content about mining waste to tie in with our improved waste form.
++ Sam is building mining waste content into waste permit application forms.
 
 + James is investigating a free trial of new features in our Hotjar subscription.
 
