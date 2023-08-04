@@ -4,7 +4,7 @@ layout: post
 lang: en
 ref: 2023-08-04-week-notes
 hidetitle: True
-author: Paul & James
+author: James and Paul
 ---
 
 For some of us this will be the second week of school summer holidays (only four more weeks to go!). It’s a change of pace: less rushing and back and forth on school runs…but potentially more distraction if you’re working from home.  
@@ -41,7 +41,7 @@ We can use this branding exercise as a basis for future work on many stand-alone
 
 ## Lunch and maps
 
-![post it notes on whiteboard after a brainstorm]( https://github.com/nrw-digital/week-notes/blob/7dc10a3b7485fab07548a4cc220f1f48459002ec/images/MicrosoftTeams-image%20(9).png?raw=true)
+<img src="https://github.com/nrw-digital/week-notes/blob/7dc10a3b7485fab07548a4cc220f1f48459002ec/images/MicrosoftTeams-image%20(9).png" alt="Post-it notes on whiteboard after a brainstorm" width="50%">
 
 Lucinda and Laura travelled to Cardiff for lunch out with the team… and to work on the permissions project of course.
 
