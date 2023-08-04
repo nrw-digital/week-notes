@@ -41,7 +41,7 @@ We can use this branding exercise as a basis for future work on many stand-alone
 
 ## Lunch and maps
 
-![Post it notes on whiteboard after a brainstorm](https://github.com/nrw-digital/week-notes/blob/main/images/permissions-post-its.png){: width="50%"}
+![Post it notes on whiteboard after a brainstorm](https://github.com/nrw-digital/week-notes/blob/main/images/permissions-post-its2.png?raw=true)
 
 Lucinda and Laura travelled to Cardiff for lunch out with the team… and to work on the permissions project of course.
 
