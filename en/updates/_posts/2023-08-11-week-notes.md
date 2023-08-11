@@ -28,11 +28,11 @@ Didn’t even try to say it better myself.
 
 The event opened with a speech from the Minister for Education and Welsh Language Jeremy Miles. There was an activity, then Heledd and Manon took to the stage.
 
-<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/FB_IMG_1691756780583.jpg" width="700"> 
+<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/FB_IMG_1691756780583.jpg?raw=true" width="700"> 
 
 A keen eyed attendee may have spotted Heledd giving Rob and Christine a run for their money:
 
-<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/20230810_124131.jpg" width="500" height="500">
+<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/20230810_124131.jpg?raw=true" width="500" height="500">
 
 Our Heledd is a true crocstar.
 
@@ -46,7 +46,7 @@ Heledd will be giving a physical copy to the NRW library, Lucinda has a copy you
 
 After the book launch Heledd and Lucinda explored some of the science stalls and stumbled across something familiar…
 
-<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/20230810_134852.jpg" width="500"> 
+<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/20230810_134852.jpg?raw=true" width="500"> 
 
 That’s right! Invasive pink salmon!
 
@@ -60,7 +60,7 @@ But the excitement didn’t stop there, they went on a treasure hunt matching up
 
 The prize was a pack of invasive species playing cards - get in touch if you want a game.
 
-<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/20230810_142432.jpg" width="400"> 
+<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/20230810_142432.jpg?raw=true" width="400"> 
 
 ## Permissions - What is next?
 
@@ -92,7 +92,7 @@ We certainly hope so, and also hopefully, this will help them be able to tell.
 
 ### It’s fun fact Friday
 
-<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/Fun%20fact%20friday%20image.PNG" width="500">
+<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/Fun%20fact%20friday%20image.PNG?raw=true" width="500">
 
 As we have already mentioned, it’s the National Eisteddfod this week. This festival of culture, language, music, craft and art – and a lot more. The location alternates between north and south Wales every year. 
 
@@ -108,11 +108,11 @@ The ceremony is closed with the words “A Oes Heddwch!” spoken by the Archdru
 
 To make this Friday fact even more fun, Heledd got to see the chair that Gerallt Lloyd Owen won in 1975 this week, which was actually created by her father in law.
 
-<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/IMG-20230810-WA0005.jpg" width="400">
+<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/IMG-20230810-WA0005.jpg?raw=true" width="400">
 
 ### Meet Blake
 
-<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/Blake%201.PNG"> 
+<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/Blake%201.PNG?raw=true"> 
 
 Blake is Shaun’s loyal partner in crime and closest confidante.
 
@@ -124,11 +124,11 @@ His least favourite things are cats, rats and ambiguous, overly-complex legislat
 
 Here he is hogging centre-stage as an unpaid member of the old NRW digital and translation (Bangor) crew:
 
-<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/Blake%202.PNG" width="700">  
+<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/Blake%202.PNG?raw=true" width="700">  
 
 …and suspiciously eyeing the wild Carneddau ponies, whilst asking the perennial canine question - “Is it friend or food?”:
 
-<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/Blake%203.PNG"> 
+<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/Blake%203.PNG?raw=true"> 
 
 ### Weekend Wellbeing
 
