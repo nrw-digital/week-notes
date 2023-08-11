@@ -50,7 +50,7 @@ After the book launch Heledd and Lucinda explored some of the science stalls and
 
 That’s right! Invasive pink salmon!
 
-Their first instinct was to report the sighting on our website using our report an incident service, but before you start protectively clutching your best native salmon to your chests - rest at ease.
+Their first instinct was to report the sighting on our website using our [report an incident service](https://naturalresources.wales/about-us/contact-us/report-an-incident/), but before you start protectively clutching your best native salmon to your chests - rest at ease.
 
 It was only a PICTURE of the invasive species. It’s alright, we can tell, we’re professionals.
 
@@ -84,8 +84,8 @@ We certainly hope so, and also hopefully, this will help them be able to tell.
 + James, Owain and Lucinda are meeting to see how we can improve gathering and sharing our analytics across NRW
 + Heledd spent the day with Christine and Isobel. Making a bit more sense out of ‘services’ and how we talk about them. They brought a fresh perspective, with their experience of seeing many organisations attempt (and often fail) to focus on services from the perspective of users.
 + Sophie’s been busy reviewing and correcting accessibility faults in the National Peatland Action Programme Annual Report to ensure it can be published onto the NRW website on time.
-+ Kim and Sophie have created a work-flow map to capture the types of requests we receive into the Digital Team inbox. They’ve also been in touch with different key contacts to share feedback to improve the clarity of the requests we do receive. As always, if you have a request for the Intranet or website, please submit a content request form to let us know about any changes needed.
-+ Sophie and Lucinda have also worked with the Education team to update the resources offered in the Resources for Educators and Teachers section of the site. You’ll find a new section ‘Curriculum for Wales’ with new content to help students learn more about their natural environment. Lucinda is keen to point out Sophie did most of the legwork here!
++ Kim and Sophie have created a work-flow map to capture the types of requests we receive into the Digital Team inbox. They’ve also been in touch with different key contacts to share feedback to improve the clarity of the requests we do receive. As always, if you have a request for the Intranet or website, please [submit a content request form](https://www.smartsurvey.co.uk/s/SCU7CL/) to let us know about any changes needed.
++ Sophie and Lucinda have also worked with the Education team to update the resources offered in the [Resources for Educators and Teachers](https://naturalresources.wales/guidance-and-advice/business-sectors/education-learning-and-skills/looking-for-learning-resources/) section of the site. You’ll find a new section [‘Curriculum for Wales’](https://naturalresources.wales/guidance-and-advice/business-sectors/education-learning-and-skills/looking-for-learning-resources/curriculum-for-wales/) with new content to help students learn more about their natural environment. Lucinda is keen to point out Sophie did most of the legwork here!
 + Shaun started the week intending to concentrate on some technical guidance for complying with intensive farming environmental permits but as so often happens got sidetracked with numerous ad hoc queries and amendments. We’ve revamped the Groundwater investigation consent application form; amended guidance on water discharge permit fees as the customer hub reported confusion amongst users about the application fee versus the subsistence (annual) charge; updated the reservoir risk designation guidance and continued work on three pieces of content for planning authorities in river SAC areas.
 
 ## And now for something completely different
