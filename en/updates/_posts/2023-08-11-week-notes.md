@@ -12,7 +12,7 @@ Heledd, Lucinda and Manon (excellent translator/excellent human) went to the Eis
 
 ### Heledd launched a book
 
-<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/Image%201.PNG" width="700" >
+<img src="https://github.com/nrw-digital/week-notes/blob/7f9a6360fdc3c0808269847cf0d7bcec28cd16fa/images/Image%201.PNG?raw=true" width="700">
 
 As mentioned last week, our Heledd is a published writer!
 
