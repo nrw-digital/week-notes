@@ -87,7 +87,7 @@ Michel Lotito was a French entertainer, born in [Grenoble]( https://en.wikipedia
 
 He started eating this unusual diet at age 9.
 
-He had an eating disorder known as [pica]( https://en.wikipedia.org/wiki/Pica_(disorder), which is a psychological disorder characterised by an appetite for substances that are largely non-nutritive.
+He had an eating disorder known as [pica](https://en.wikipedia.org/wiki/Pica_(disorder)), which is a psychological disorder characterised by an appetite for substances that are largely non-nutritive.
 
 Doctors determined that Lotito also had a thick lining in his stomach and intestines which allowed his consumption of sharp metal without suffering injury.
 
