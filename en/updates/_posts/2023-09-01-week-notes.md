@@ -6,6 +6,8 @@ ref: 2023-08-25-week-notes
 hidetitle: True
 author: Paul and Alex
 ---
+It's September already? Well, at least those pesky kids will be back in school soon. Quite a few of us have been on leave but we've still been busy.
+
 ## Reviewing our team workflow
 
 Paul has been working with the team to review our current workflow process, identifying issues and opportunities for improvement.
@@ -31,6 +33,7 @@ We’ll be setting up, figuring out and getting started with all this in the com
 + Sticking with forms and Phil has finished mapping out some of our online forms. We have been looking for inconsistencies. The next step is to look at parts of our online forms and try to standardise the text within certain areas.
 + Alex has drafted some measures for success that can be used when we are updating our forms. James Lewis has provided feedback. The next step is to refine the document based on feedback before we share for a more open review.
 + James has been working with the Flood Warning Service replacement project to review the interface UX. He’s also looking for tutorials about GA4, the new version of Google Analytics, and working on revising our felling licence content to reflect new legislative changes.
++ Heledd, Alex and Paul have been planning the Digital team away day, taking place later in September
 + This week, Sophie’s been working with different teams to update their team Intranet pages and refresh the content to ensure it consistently meets our organisation’s requirements.
 + Sophie’s also been chatting with Sam Bosanquet to learn more about mushrooms and fungi ahead of updating the banner on the NRW website for the autumn months.
 + We’ve updated the Google Analytics tracking code on the intranet to the new GA4 version, future-proofing the intranet analytics
