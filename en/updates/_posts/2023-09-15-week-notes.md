@@ -70,6 +70,10 @@ Our intrepid team is meeting in Shrewsbury next week and Paul, Alex and Heledd h
 
 Train disruptions and [ghosts](https://www.hauntedrooms.co.uk/product/prince-rupert-hotel-shrewsbury) won’t hold us back. 
 
+## Fun fact Friday
+
+It's believed that a ghost of part of a chicken wanders around Pond Square in Highgate, London. This, ahem, fowl apparition is thanks to Sir Francis Bacon, who wanted to test his theory that meat could be kept from going off by keeping it cold. In 1626, he stuffed the chicken with snow and he himself, caught a chill and passed away. The chicken's ghost, meanwhile, is reported to have been seen flapping around the square.
+
 ## Weekend wellbeing
 
 The only way to make sense out of change is to plunge into it, move with it, and join the dance – Alan Watts
