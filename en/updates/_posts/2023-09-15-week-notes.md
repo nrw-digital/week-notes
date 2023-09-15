@@ -62,7 +62,7 @@ We publish some documents on our website and by law, these must be accessible.
 
 This week, our team has been working hard to produce an accessible template for teams across the organisation to log minutes and meeting actions in an accessible format. We’ve been rebuilding tables, updating colours, adding keys and removing footnotes to ensure our new template allows all users to access and understand the content.
 
-We ask that colleagues follow our [writing accessible documents guidelines[(https://naturalresources.wales/footer-links/writing-accessible-documents/?lang=en) to help ensure their request for content to be published meets the deadline. 
+We ask that colleagues follow our [writing accessible documents guidelines](https://naturalresources.wales/footer-links/writing-accessible-documents/?lang=en) to help ensure their request for content to be published meets the deadline. 
 
 ## It’s Shrewsbury time
 
