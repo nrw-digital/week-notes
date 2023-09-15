@@ -13,7 +13,7 @@ Their knowledge and passion will be invaluable as NRW endeavours to transform it
 
 ## Show and tell for the Service Design in Practice cohort
 
-![alt text](https://github.com/nrw-digital/week-notes/blob/89ac8ecb3b56b641389f2eb1f07fce0081e3b437/images/service%20design%20ST%20james%20lucinda%202023.PNG?raw=true)
+![alt text](https://github.com/nrw-digital/week-notes/blob/8c7c061ebd20a945790ad17037770503ec4a8777/images/service%20design%20ST%202023.PNG?raw=true)
 
 On Tuesday, we gathered in a room to hear about the great work that the two teams had done over the last 6 months.
 Heledd’s reflections:
