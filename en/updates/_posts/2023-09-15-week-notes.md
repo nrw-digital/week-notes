@@ -13,7 +13,7 @@ Their knowledge and passion will be invaluable as NRW endeavours to transform it
 
 ## Show and tell for the Service Design in Practice cohort
 
-![alt text]([https://github.com/nrw-digital/week-notes/blob/1c9e7813e145fcc6513dc30bbfdab56448228ffe/images/Lucinda's%20great%20glasses.jpg?raw=true)
+![alt text](https://github.com/nrw-digital/week-notes/blob/89ac8ecb3b56b641389f2eb1f07fce0081e3b437/images/service%20design%20ST%20james%20lucinda%202023.PNG?raw=true)
 
 On Tuesday, we gathered in a room to hear about the great work that the two teams had done over the last 6 months.
 Heledd’s reflections:
@@ -22,8 +22,6 @@ Heledd’s reflections:
 * Their creative narrative and approach to the presentation brought their learning journeys and the user journeys they’d begun to uncover to life!  James’ team even wrote a poem about their journey with the licences for fishers (Heledd won Freddos for guessing the 22 fish puns in it). Lucinda’s team delivered the presentation with a game of pass the parcel, and a journey through their Mural.
 * Finding, recruiting and approval for incentives for user research was a challenge – one we’ve seen in some other areas. We know we need to do more user research, but it’s hard work on all sides to find the right people – who are busy with their lives and businesses. Incentives feel like a small investment at the beginning, that has a great return on investment later.
 * Now - looking forward to how we progress - enthusiasm from Lisa and Eirian in regulation to continue working with us in Digital on more user research and developing the service blueprint for ‘permits for building something’.
-
-![alt text](https://github.com/nrw-digital/week-notes/blob/b0964dbc1fd6134993177d220d8d4517199a2411/images/James%20and%20colleagues%20at%20service%20design%20S%26T.jpg?raw=true)
 
 ## Re-grouping around pain-points and opportunities for transformation
 
