@@ -70,7 +70,7 @@ We ask that colleagues follow our writing accessible documents guidelines to hel
 
 Our intrepid team is meeting in Shrewsbury next week and Paul, Alex and Heledd have been preparing sessions for an interesting couple of days.
 
-Train disruptions and ghosts won’t hold us back. 
+Train disruptions and [ghosts](https://www.hauntedrooms.co.uk/product/prince-rupert-hotel-shrewsbury) won’t hold us back. 
 
 ## Weekend wellbeing
 
