@@ -4,7 +4,7 @@ layout: post
 lang: en
 ref: 2023-09-15-week-notes
 hidetitle: True
-author: Owain, Samantha, Lucinda and Laura
+author: Shaun & Sam
 ---
 
 Firstly, a huge and well-deserved congratulations to Lucinda and James who both completed the Service Design in Practice course this week. 
@@ -13,9 +13,9 @@ Their knowledge and passion will be invaluable as NRW endeavours to transform it
 
 ## Show and tell for the Service Design in Practice cohort
 
-![alt text](https://github.com/nrw-digital/week-notes/blob/main/images/Lucinda's%20great%20glasses.jpg)
+![alt text](https://github.com/nrw-digital/week-notes/blob/main/images/Lucinda's%20great%20glasses.jpg?raw=true)
 
-![alt text](https://github.com/nrw-digital/week-notes/blob/b0964dbc1fd6134993177d220d8d4517199a2411/images/James%20and%20colleagues%20at%20service%20design%20S%26T.jpg)
+![alt text](https://github.com/nrw-digital/week-notes/blob/b0964dbc1fd6134993177d220d8d4517199a2411/images/James%20and%20colleagues%20at%20service%20design%20S%26T.jpg?raw=true)
 
 On Tuesday, we gathered in a room to hear about the great work that the two teams had done over the last 6 months.
 Heledd’s reflections:
