@@ -15,6 +15,8 @@ Their knowledge and passion will be invaluable as NRW endeavours to transform it
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/main/images/Lucinda's%20great%20glasses.jpg)
 
+![alt text](https://github.com/nrw-digital/week-notes/blob/b0964dbc1fd6134993177d220d8d4517199a2411/images/James%20and%20colleagues%20at%20service%20design%20S%26T.jpg)
+
 On Tuesday, we gathered in a room to hear about the great work that the two teams had done over the last 6 months.
 Heledd’s reflections:
 * The blended team of NRW, Welsh Government, and other public sector people working together as part of the project brought extra perspectives that helped challenge assumptions.
