@@ -13,7 +13,7 @@ Happy Friday! Can you believe it’s nearly October!?
 This week our team was lucky enough to spend the night in Shrewsbury for a team away day. It was a great chance to come together as a team and look to the future and brainstorm new ways of working collaboratively. 
 
 
-![Shrewsbury buildings and the River Severn](https://github.com/nrw-digital/week-notes/blob/8df024844e909dfc1e3109d1f2908387690ebec5/images/shrewsbury%201.png)?raw=true 
+![Shrewsbury buildings and the River Severn](https://github.com/nrw-digital/week-notes/blob/8df024844e909dfc1e3109d1f2908387690ebec5/images/shrewsbury%201.png?raw=true)
 
 Shrewsbury is an old town, reportedly started in 700AD. With the same mediaeval street plan and over 600 listed buildings, there was plenty to stop and admire. The sun was even shining for some of the trip - lucky us!
 
@@ -21,7 +21,7 @@ Our team’s away day was held at the [Shropshire Wildlife Trust](https://www.sh
 
 After a busy day of discussion and collaboration, our team headed to the [Dough and Oil](https://www.doughandoil.com/) for tasty pizza and £4 cocktails! We had a great time and thankfully we all survived a night in one of the UK’s most haunted hotels, the [Prince Rupert Hotel](https://www.hauntedrooms.co.uk/product/prince-rupert-hotel-shrewsbury). It is the oldest hotel in Shrewsbury and it is surrounded by a structure of Tudor and Georgian architecture and design. 
 
-![Wildlife trust garden and Shrewsbury pizza](https://github.com/nrw-digital/week-notes/blob/a44f76c1159229d91efe5d9f8d9edf63d4211d94/images/shrewsbury%202.png)?raw=true
+![Wildlife trust garden and Shrewsbury pizza](https://github.com/nrw-digital/week-notes/blob/a44f76c1159229d91efe5d9f8d9edf63d4211d94/images/shrewsbury%202.png?raw=true)
 
 According to Haunted Rooms, “The Prince Rupert Hotel is said to be haunted by a lot of spirits. Shrewsbury also has a reputation of being one of the most haunted towns in Great Britain. Its dark corners, mediaeval streets and old buildings seem to lend the credence to lure surrounding spectres and ghostly apparitions tied to the hotel. There are more than 500 stories of spectres in the town of Shrewsbury.”
 
@@ -45,7 +45,7 @@ Massive thanks to Alex and Paul for planning, and the whole team for getting stu
 
 
 
-![Digital team ideas](https://github.com/nrw-digital/week-notes/blob/7477ce606d5424bcce13029779ccd2d1b4469af8/images/postitShrewsSept23.png)?raw=true
+![Digital team ideas](https://github.com/nrw-digital/week-notes/blob/7477ce606d5424bcce13029779ccd2d1b4469af8/images/postitShrewsSept23.png?raw=true)
 
 We worked through examples of what work we felt was ‘day-to-day planner’, and what felt like things to add to our new Jira backlog - which is usually more complex, needs user research or more investigation and prioritisation before we crack on with it. 
 
