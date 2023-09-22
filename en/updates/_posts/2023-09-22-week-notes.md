@@ -13,7 +13,7 @@ author: Heledd and Andrew
 
 ![Wildlife trust garden and Shrewsbury pizza](https://github.com/nrw-digital/week-notes/blob/a44f76c1159229d91efe5d9f8d9edf63d4211d94/images/shrewsbury%202.png)
 
-![Digital team ideas]() 
+![Digital team ideas](https://github.com/nrw-digital/week-notes/blob/7477ce606d5424bcce13029779ccd2d1b4469af8/images/postitShrewsSept23.png) 
 
 
 Our team’s away day was held at the [Shropshire Wildlife Trust](https://www.shropshirewildlifetrust.org.uk/) , an organisation campaigning for a wilder future and nature’s recovery. They offered 
