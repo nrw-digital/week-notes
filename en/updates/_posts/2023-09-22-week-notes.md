@@ -21,7 +21,7 @@ Our team’s away day was held at the [Shropshire Wildlife Trust](https://www.sh
 
 ![Wildlife trust garden and Shrewsbury pizza](https://github.com/nrw-digital/week-notes/blob/a44f76c1159229d91efe5d9f8d9edf63d4211d94/images/shrewsbury%202.png)
 
-After a busy day of discussion and collaboration, our team headed to the [Dough and Oil](https://www.doughandoil.com/) for tasty pizza and £4 cocktails! We had a great time and thankfully we all survived a night in one of the UK’s most haunted hotels, the [Prince Rupert Hotel(https://www.hauntedrooms.co.uk/product/prince-rupert-hotel-shrewsbury). It is the oldest hotel in Shrewsbury and it is surrounded by a structure of Tudor and Georgian architecture and design. 
+After a busy day of discussion and collaboration, our team headed to the [Dough and Oil](https://www.doughandoil.com/) for tasty pizza and £4 cocktails! We had a great time and thankfully we all survived a night in one of the UK’s most haunted hotels, the [Prince Rupert Hotel](https://www.hauntedrooms.co.uk/product/prince-rupert-hotel-shrewsbury). It is the oldest hotel in Shrewsbury and it is surrounded by a structure of Tudor and Georgian architecture and design. 
 
 According to Haunted Rooms, “The Prince Rupert Hotel is said to be haunted by a lot of spirits. Shrewsbury also has a reputation of being one of the most haunted towns in Great Britain. Its dark corners, mediaeval streets and old buildings seem to lend the credence to lure surrounding spectres and ghostly apparitions tied to the hotel. There are more than 500 stories of spectres in the town of Shrewsbury.”
 
