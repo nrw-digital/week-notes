@@ -17,7 +17,7 @@ This week our team was lucky enough to spend the night in Shrewsbury for a team 
 
 Shrewsbury is an old town, reportedly started in 700AD. With the same mediaeval street plan and over 600 listed buildings, there was plenty to stop and admire. The sun was even shining for some of the trip - lucky us!
 
-Our team’s away day was held at the [Shropshire Wildlife Trust](https://www.shropshirewildlifetrust.org.uk/) , an organisation campaigning for a wilder future and [nature’s recovery[(https://www.shropshirewildlifetrust.org.uk/nature-recovery). They offered a great co-working space surrounded by a beautiful garden filled with flowers, herbs and edible fruits. We got to know new members of our team better and get together in the same room and plan ahead. Meeting in person like this provides us with invaluable face-to-face time, where we can brainstorm and bounce ideas off one another in a way that can sometimes be difficult through screens alone.
+Our team’s away day was held at the [Shropshire Wildlife Trust](https://www.shropshirewildlifetrust.org.uk/) , an organisation campaigning for a wilder future and [nature’s recovery](https://www.shropshirewildlifetrust.org.uk/nature-recovery). They offered a great co-working space surrounded by a beautiful garden filled with flowers, herbs and edible fruits. We got to know new members of our team better and get together in the same room and plan ahead. Meeting in person like this provides us with invaluable face-to-face time, where we can brainstorm and bounce ideas off one another in a way that can sometimes be difficult through screens alone.
 
 ![Wildlife trust garden and Shrewsbury pizza](https://github.com/nrw-digital/week-notes/blob/a44f76c1159229d91efe5d9f8d9edf63d4211d94/images/shrewsbury%202.png)
 
