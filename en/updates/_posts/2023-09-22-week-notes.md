@@ -74,7 +74,9 @@ The session was recorded and available to watch on Youtube: [Building Public Sec
 
 ## Fun fact Friday ##
 People born in Autumn live longer!
+
 Would you believe it?
+
 A study in the Journal of Aging Research found that babies born during the autumn months are more likely to live to 100 than those born during the rest of the year.
 Their study found that 30 % of US centenarians born during 1880-1895 were born in the autumn months.
 
