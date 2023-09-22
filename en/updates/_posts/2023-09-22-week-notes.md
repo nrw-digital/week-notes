@@ -37,7 +37,7 @@ Our goals for the team away day included:
 + Getting to know each other, how we work as a team
 
 Massive thanks to Alex and Paul for planning, and the whole team for getting stuck into the activities, which included:
-+ [Manual of me[(https://medium.com/manual-of-me/what-is-a-manual-of-me-99e5cd568d8) activity 
++ [Manual of me](https://medium.com/manual-of-me/what-is-a-manual-of-me-99e5cd568d8) activity 
 + Discovering and [discussing our strengths](https://www.viacharacter.org/character-strengths) - similarities and differences
 + Backlog review - what’s in our day to day ‘planner’ verses our ‘Jira’ / project work 
 + Blockers to getting work done
