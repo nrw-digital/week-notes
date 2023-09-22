@@ -8,7 +8,7 @@ author: Heledd and Andrew
 ---
 Happy Friday! Can you believe it’s nearly October!?
 
-## A team away day in Shrewsbury…##
+## A team away day in Shrewsbury… ##
 
 This week our team was lucky enough to spend the night in Shrewsbury for a team away day. It was a great chance to come together as a team and look to the future and brainstorm new ways of working collaboratively. 
 
