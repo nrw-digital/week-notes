@@ -64,7 +64,7 @@ Better tools and publishing platforms are something we’re keen to explore more
 
 The session was recorded and available to watch on Youtube: [Building Public Sector Websites Effectively with LocalGov Drupal](https://www.youtube.com/watch?v=l68WYTglqWU)
 
-## Other bits we’ve been working on:## 
+## Other bits we’ve been working on: ## 
 + Sophie’s been mocking up a long term flooding investment report as a HTML webpage on our test site, so it can be reviewed by various key parties and the findings can be accessed by users to the Natural Resources Wales website.
 + Sam and Kim have been working on publishing the content strategy.
 + Iboxes, iboxes, iboxes! Lots of days out pages and projects have been updated this week, with new messages to visitors in the local area. Keep an eye out for updated information at the top of your favourite Days Out pages.
