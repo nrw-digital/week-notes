@@ -73,7 +73,7 @@ The session was recorded and available to watch on Youtube: [Building Public Sec
 + Phil has been trying to see the wood from the trees with the tree felling licence project. Although things haven’t been easy, we now seem to be moving in the right direction
 
 ## Fun fact Friday ##
-People born in Autumn live longer!
+As we move into Autumn, people born in this season live longer!
 
 Would you believe it?
 
