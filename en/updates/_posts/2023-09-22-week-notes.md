@@ -8,7 +8,9 @@ author: Heledd and Andrew
 ---
 
 
-![alt text](link to image then add ?raw=true) ![alt text](link to image then add ?raw=true)
+![Shrewsbury buildings and the River Severn](https://github.com/nrw-digital/week-notes/blob/8df024844e909dfc1e3109d1f2908387690ebec5/images/shrewsbury%201.png) !
+
+[alt text](link to image then add ?raw=true)
 
 ## 
 + 
