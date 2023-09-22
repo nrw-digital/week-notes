@@ -13,7 +13,7 @@ Happy Friday! Can you believe it’s nearly October!?
 This week our team was lucky enough to spend the night in Shrewsbury for a team away day. It was a great chance to come together as a team and look to the future and brainstorm new ways of working collaboratively. 
 
 
-![Shrewsbury buildings and the River Severn](https://github.com/nrw-digital/week-notes/blob/8df024844e909dfc1e3109d1f2908387690ebec5/images/shrewsbury%201.png) 
+![Shrewsbury buildings and the River Severn](https://github.com/nrw-digital/week-notes/blob/8df024844e909dfc1e3109d1f2908387690ebec5/images/shrewsbury%201.png)! 
 
 Shrewsbury is an old town, reportedly started in 700AD. With the same mediaeval street plan and over 600 listed buildings, there was plenty to stop and admire. The sun was even shining for some of the trip - lucky us!
 
