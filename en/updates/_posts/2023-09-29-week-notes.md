@@ -8,7 +8,7 @@ author: Owain and Sophie
 ---
 
 Another week bites the dust, and we’ve accomplished a lot. With team sickness and others on annual leave, we were a couple people short but we managed to keep the boat afloat (we hope!)
-## Sharing weeknote learnings with CPDS 
+## Sharing weeknote learnings with CDPS 
 On Wednesday, Heledd, Sam and Sophie met with the [CDPS Communicating Digital Community of Practice](https://digitalpublicservices.gov.wales/courses-and-events/communities-practice) to share some key learnings from our year of writing weeknotes.
 
 ![](https://github.com/nrw-digital/week-notes/blob/a8edb7c3bb2e4e16194d1c7d0ad0276bd477a730/images/Screenshot%20from%20call.png?raw=true)
