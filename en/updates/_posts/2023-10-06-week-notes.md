@@ -17,7 +17,7 @@ All this whilst juggling meetings, sickness and annual leave within our very sma
 
 So please spare a thought for your local digital team member… we’re doing our best!
 
-![Grumpy Bear](https://github.com/nrw-digital/week-notes/blob/5187b8474ae5e3a5336a872de7aab51044f61f69/images/Bear01.png)
+![Grumpy Bear](https://github.com/nrw-digital/week-notes/blob/5187b8474ae5e3a5336a872de7aab51044f61f69/images/Bear01.png?raw=true)
 
 ## Leadership development days
 
@@ -49,8 +49,8 @@ Some stuff Heledd read or bookmarked for later – whilst browsing X, LinkedIn a
 
 + [Burn baby burnout by Amy Hupe, content designer](https://amyhupe.co.uk/articles/burn-baby-burnout/).
 + [Proposed accessibility activities · Accessibility strategy: proposed activities (github.com)](https://github.com/orgs/alphagov/projects/46/views/1)
-+ [The Eight Pillars of User Research | by Emma Boulton | researchops-community | Medium](https://medium.com/researchops-community/the-eight-pillars-of-user-research-1bcd2820d75a)
-+ [Content decision log component | Figma Community](https://www.figma.com/community/file/1280996171891229192/content-decision-log-component)
++ [The Eight Pillars of User Research by Emma Boulton researchops-community Medium](https://medium.com/researchops-community/the-eight-pillars-of-user-research-1bcd2820d75a)
++ [Content decision log component Figma Community](https://www.figma.com/community/file/1280996171891229192/content-decision-log-component)
 
 Heledd joined a late evening workshop on Thursday with Kate Tarling. She is very, very excited about talking more about it next week.
 
@@ -108,11 +108,11 @@ What is fat bear week? Some of the largest brown bears on Earth make their home 
 
 Here is a particularly fine example:
 
-![128 Grazer](https://github.com/nrw-digital/week-notes/blob/5187b8474ae5e3a5336a872de7aab51044f61f69/images/Bear02.png)
+![128 Grazer](https://github.com/nrw-digital/week-notes/blob/5187b8474ae5e3a5336a872de7aab51044f61f69/images/Bear02.png?raw=true)
 
 Here is the league table as it currently stands (Go Grazer!)
 
-![Fat Bear league table](https://github.com/nrw-digital/week-notes/blob/5187b8474ae5e3a5336a872de7aab51044f61f69/images/Bear03.png)
+![Fat Bear league table](https://github.com/nrw-digital/week-notes/blob/5187b8474ae5e3a5336a872de7aab51044f61f69/images/Bear03.png?raw=true)
 
 If you too are as passionate as us about Grazer winning the Fat Bear crown. [Vote for your favourite fat bear](https://explore.org/fat-bear-week?gclid=CjwKCAjwvfmoBhAwEiwAG2tqzDxiGFBsw3cVUM_s8OEVEhziQpYRp9EuWtMkI2CAhv6XLEe5MEti4BoCYngQAvD_BwE). The winner will be announced next Tuesday.
 
