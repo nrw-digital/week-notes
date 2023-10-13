@@ -62,8 +62,6 @@ To be published, content must meet our organisation’s [legal accessibility req
 
 To be truly accessible, typeface and font has to be designed in combination with the other best practices, but without a good choice of typeface things like colour contrast will have limited impact. 
 
-You can find out more from [Gareth Ford Williams | The Readability Group]( https://medium.com/the-readability-group/a-guide-to-understanding-what-makes-a-typeface-accessible-and-how-to-make-informed-decisions-9e5c0b9040a0).
-
 A few guidelines to help inform your typeface use:
 
 + Use a font style that is appropriate to your audience.
@@ -78,7 +76,7 @@ In our team, we use Arial even when sending emails to other members of staff, be
 
 ## Trauma-informed design: passing trend or new aspect of accessibility?
 
-For {Design System Day}(https://design-system.service.gov.uk/community/design-system-day/session-information/), Lucinda and Sam joined a session on trauma-informed design.
+For {Design System Day}( https://design-system.service.gov.uk/community/design-system-day/session-information/) , Lucinda and Sam joined a session on trauma-informed design.
 
 The session highlighted that ‘designing for everyone’ includes considering people with trauma who may have stress responses to not being about to do certain things.
 
