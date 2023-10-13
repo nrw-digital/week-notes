@@ -76,7 +76,7 @@ In our team, we use Arial even when sending emails to other members of staff, be
 
 ## Trauma-informed design: passing trend or new aspect of accessibility?
 
-For {Design System Day}( https://design-system.service.gov.uk/community/design-system-day/session-information/) , Lucinda and Sam joined a session on trauma-informed design.
+For [Design System Day](https://design-system.service.gov.uk/community/design-system-day/session-information/) , Lucinda and Sam joined a session on trauma-informed design.
 
 The session highlighted that ‘designing for everyone’ includes considering people with trauma who may have stress responses to not being about to do certain things.
 
@@ -134,7 +134,7 @@ James and Lucinda have been continuing to work on the branding and style of the 
 
 The little three line icon which denotes a menu on virtually all websites is called the hamburger and is forty two years old.
 
-Read more about the history of the hamburger.
+Read more about the [history of the hamburger]( https://www.invisionapp.com/inside-design/an-oral-history-of-the-hamburger-icon-from-the-people-who-were-there/) .
 
 ## Weekend wellbeing...
 
