@@ -91,7 +91,9 @@ It could also be useful for things like:
 + finding examples of something
 
 There was an interesting discussion about whether Large Language Model-based machine-learning algorithms are doing nothing more than predicting the word or mark most likely to follow the preceding word or mark. While it might generate a string that's never before been written, it's already topped out in the sense that it can't do anything more than guess based on what already exists. 
+
 As we know, a lot more than looking at what’s gone before goes into designing the right solution to a user problem but AI is certainly useful for idea generation and prompting discussions.
+
 Some reading for the weekend: [A new design era: how AI can power greater human experiences.](https://stevewhapshott.medium.com/designing-for-the-future-how-ai-can-power-greater-human-experiences-bc9db4435c82) 
 
 ![pumpkins in a wheelbarrow](https://github.com/nrw-digital/week-notes/blob/c6899b86698c2599da565d3c8d5a1f2e5c85ed76/images/SVW-E69-2223-0265.jpg?raw=true)
