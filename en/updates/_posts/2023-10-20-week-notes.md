@@ -48,24 +48,21 @@ The month of October marks Cybersecurity Awareness Month and this year’s theme
 
 In 2023, there are four key behaviours that are being promoted to internet users to help keep them safe from Cybercrime. These are:
 
-1. [strong passwords and password management](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/use-a-strong-and-separate-password-for-email)
++ [strong passwords and password management](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/use-a-strong-and-separate-password-for-email)
 
 The National Cyber Security Centre recommends using ‘three random words’ as a way to create passwords. By creating a password that’s made up of three random words, you’re ensuring your new password will be ‘strong enough’ to keep the criminals out, yet easy enough for you to remember when trying to log into your device or account.
 
-
-2. [multi-factor authentication](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/activate-2-step-verification-on-your-email)
++ [multi-factor authentication](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/activate-2-step-verification-on-your-email)
 
 You should protect your most important accounts (such as email, banking, social media and online shopping) by making sure you have 2-step verification turned on for each of them. This prevents hackers from getting into your account, even if they know your password. 
 
-
-3. [recognising and reporting phishing](https://www.ncsc.gov.uk/collection/phishing-scams)
++ [recognising and reporting phishing](https://www.ncsc.gov.uk/collection/phishing-scams)
 
 Phishing is when criminals use scam emails, text messages or phone calls to trick their victim into visiting a website, which may download a virus onto your computer, or steal bank details or other personal information. 
 
 You can reduce the likelihood of being phished by thinking about what personal information you (and others) post about you, and by reviewing your privacy settings within your social media accounts.
 
-
-4. [updating software](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/install-the-latest-software-and-app-updates)
++ [updating software](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/install-the-latest-software-and-app-updates)
 
 It’s important to apply updates to your apps and your device's software as soon as they become available. Updates will often include improvements and new features, as well as protection from viruses and other kinds of malware.
 
