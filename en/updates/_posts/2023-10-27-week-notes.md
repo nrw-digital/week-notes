@@ -19,4 +19,4 @@ It's Halloween week where our children (and adults) dress up as ghouls and enter
 
 
 ## Friday Cute Fact ##
-Did you know a group of otters is called a ‘romp’. This is due to their playful nature!
+Did you know a group of otters is called a ‘romp’. This is due to their playful nature! ![otterly cute](link to image then add ?raw=true)
