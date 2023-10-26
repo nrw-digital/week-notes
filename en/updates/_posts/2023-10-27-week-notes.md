@@ -15,7 +15,7 @@ It's Halloween week where our children (and adults) dress up as ghouls and enter
 
 
 ![Weeknotes screen grab](https://github.com/nrw-digital/week-notes/blob/988f060676bcb951c6a31adb1b5b1f27eb7d8366/images/Weeknotes%20image.png?raw=true)
-![](?raw=true)
+![User feedback screen](https://github.com/nrw-digital/week-notes/blob/ff9fa96f20cca54372d89f0663e868a632e5c124/images/user%20feedback%20from%20NRW%20website.PNG?raw=true)
 ![](?raw=true)
 ![](?raw=true)
 ![](?raw=true)
