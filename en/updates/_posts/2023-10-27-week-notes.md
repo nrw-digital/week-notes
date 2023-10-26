@@ -14,7 +14,7 @@ It's Halloween week where our children (and adults) dress up as ghouls and enter
 ![Sunset views](https://github.com/nrw-digital/week-notes/blob/75dc6aeaeb08ef8441f15c78154d1434f681778f/images/CanariaPhil.png?raw=true)
 
 
-
+![Weeknotes screen grab](?raw=true)
 
 
 
