@@ -60,7 +60,6 @@ We are always looking for opportunities to get our work under the noses of peopl
 In September of this year Heledd (Digital Services Team Leader), Sam (Content Designer) and Sophie (Digital Content Officer) from the digital team, had the opportunity to share our week notes with the [Centre for Digital Public Services: Home Community of Practice](https://digitalpublicservices.gov.wales/courses-and-events/communities-practice) for "working in the open".
 
 The team shared with the Centre for Digital Public Services some practical tips on how to start writing week notes:
-
 + have one or two people to plan and inspire the team to get going​
 + set a rota for the coming three months​
 + pair up – no one has to weeknote alone​
@@ -93,7 +92,6 @@ We’re continuing to share our [Content and publishing manual](https://naturalr
 Users come to our website with a specific task in mind. They want to get it done as quickly as possible.
 
 Our [content types](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnaturalresources.wales%2Ffooter-links%2Fcontent-types%2F%3Flang%3Den&data=05%7C01%7Candrew.osborne%40cyfoethnaturiolcymru.gov.uk%7C6d7f334b22a242e169bb08dbd48b951c%7C8865ef0facde487cbf175cb50375d757%7C0%7C0%7C638337468192682079%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Xi1dv5E242kJyrRFKdfKrzHoCQSN%2BrOC5m5AnFFCb9c%3D&reserved=0) can help us decide:
-
 + what the content is for 
 + where we publish it
 + how we publish it
