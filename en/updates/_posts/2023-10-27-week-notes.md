@@ -143,5 +143,5 @@ We’re hoping the team will be on board with our initial ideas, but as always, 
 + Alex has agreed a new process where user feedback is gathered on the NRW website and the user requires a response the digital team will forward to NRW’s customer team to respond. This should improve our service to users ensuring contacts are logged and responded to within SLA etc. The digital team will still be able to store and review the feedback for future user needs.
 
 ## Friday Cute Fact ##
-Did you know a group of otters is called a ‘romp’?.![otterly cute](https://github.com/nrw-digital/week-notes/blob/4f57d48b1928c6083cd84f5b66cd26bfb05b8051/images/otterlycute.png?raw=true)  This is due to their playful nature!  
+Did you know a group of otters is called a ‘romp’? ![otterly cute](https://github.com/nrw-digital/week-notes/blob/4f57d48b1928c6083cd84f5b66cd26bfb05b8051/images/otterlycute.png?raw=true)  This is due to their playful nature!  
 
