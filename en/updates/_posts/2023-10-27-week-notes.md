@@ -63,9 +63,9 @@ The team shared with the Centre for Digital Public Services some practical tips 
 + have one or two people to plan and inspire the team to get going​
 + set a rota for the coming three months​
 + pair up – no one has to weeknote alone​
-+ don’t worry about structure – use a template or mix it up – it doesn’t matter ​
++ don’t worry about structure – use a template or mix it up–it doesn’t matter ​
 + commit to getting them published every Friday
-+ be honest and serious if you need to – some days and weeks are hard. Share that. 
++ be honest and serious if you need to – some days and weeks are hard. Share that 
 + have fun. Share some jokes or quotes - let your readers get to know you and your team
 
   
