@@ -101,7 +101,7 @@ Our [content types](https://eur01.safelinks.protection.outlook.com/?url=https%3A
   
 All content published on the NRW website must follow our:
 
-+ [style guide] (https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnaturalresources.wales%2Ffooter-links%2Fcontent-and-publishing-manual%2Fa-z-style-guide%2F%3Flang%3Den&data=05%7C01%7Candrew.osborne%40cyfoethnaturiolcymru.gov.uk%7C6d7f334b22a242e169bb08dbd48b951c%7C8865ef0facde487cbf175cb50375d757%7C0%7C0%7C638337468192682079%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Q%2BoEo1UK4pl%2F%2B7M4OnK%2FDm%2BCNza4JmgL8v0p52NvYoo%3D&reserved=0) 
++ [style guide](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnaturalresources.wales%2Ffooter-links%2Fcontent-and-publishing-manual%2Fa-z-style-guide%2F%3Flang%3Den&data=05%7C01%7Candrew.osborne%40cyfoethnaturiolcymru.gov.uk%7C6d7f334b22a242e169bb08dbd48b951c%7C8865ef0facde487cbf175cb50375d757%7C0%7C0%7C638337468192682079%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Q%2BoEo1UK4pl%2F%2B7M4OnK%2FDm%2BCNza4JmgL8v0p52NvYoo%3D&reserved=0) 
 + guidelines on [writing for the web](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnaturalresources.wales%2Ffooter-links%2Fhow-we-write-for-the-web%2F%3Flang%3Den&data=05%7C01%7Candrew.osborne%40cyfoethnaturiolcymru.gov.uk%7C6d7f334b22a242e169bb08dbd48b951c%7C8865ef0facde487cbf175cb50375d757%7C0%7C0%7C638337468192682079%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=63meYDEuIACvR88GSvjhINKtsbh%2BAjEkNPM6NSvZVn4%3D&reserved=0)
 
 ## Writing for specialists ##
