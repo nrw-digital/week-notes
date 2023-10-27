@@ -28,7 +28,8 @@ It’s all very well talking about what I am doing, but do they even understand 
 Therefore, I think working in the open is the way forward. I need to show what I have been working on, I need to show them what I mean, they need to see and visualise what the content and the structure of the content on our website will look like.
 
 ## The benefits to working in the open ##
-I’ve always believed that working in the open is a good thing. It’s about:
+I’ve always believed that working in the open is a good thing. 
+It’s about:
 + showing, not telling
 + helping to build trust
 + showing transparency
