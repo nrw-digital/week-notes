@@ -68,6 +68,7 @@ The team shared with the Centre for Digital Public Services some practical tips 
 + commit to getting them published every Friday
 + be honest and serious if you need to – some days and weeks are hard. Share that. 
 + have fun. Share some jokes or quotes - let your readers get to know you and your team
+  
 
 ![Weeknotes screen grab](https://github.com/nrw-digital/week-notes/blob/988f060676bcb951c6a31adb1b5b1f27eb7d8366/images/Weeknotes%20image.png?raw=true)
 
