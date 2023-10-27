@@ -29,6 +29,7 @@ Therefore, I think working in the open is the way forward. I need to show what I
 
 ## The benefits to working in the open ##
 I’ve always believed that working in the open is a good thing. 
+
 It’s about:
 + showing, not telling
 + helping to build trust
