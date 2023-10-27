@@ -57,7 +57,7 @@ These week notes are a fine example of working in the open. We choose to put our
 
 We are always looking for opportunities to get our work under the noses of people, beyond our immediate team. It takes time and we are constantly working on this. 
 
-In September of this year Heledd (digital services team leader), Sam (Content Designer) and Sophie (digital content officer) from the digital team, had the opportunity to share our week notes with the [Centre for Digital Public Services: Home Community of Practice](https://digitalpublicservices.gov.wales/courses-and-events/communities-practice) for "working in the open".
+In September of this year Heledd (Digital Services Team Leader), Sam (Content Designer) and Sophie (Digital Content Officer) from the digital team, had the opportunity to share our week notes with the [Centre for Digital Public Services: Home Community of Practice](https://digitalpublicservices.gov.wales/courses-and-events/communities-practice) for "working in the open".
 
 The team shared with the Centre for Digital Public Services some practical tips on how to start writing week notes:
 
@@ -100,6 +100,7 @@ Our [content types](https://eur01.safelinks.protection.outlook.com/?url=https%3A
 + writing clearly
   
 All content published on the NRW website must follow our:
+
 + [style guide] (https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnaturalresources.wales%2Ffooter-links%2Fcontent-and-publishing-manual%2Fa-z-style-guide%2F%3Flang%3Den&data=05%7C01%7Candrew.osborne%40cyfoethnaturiolcymru.gov.uk%7C6d7f334b22a242e169bb08dbd48b951c%7C8865ef0facde487cbf175cb50375d757%7C0%7C0%7C638337468192682079%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Q%2BoEo1UK4pl%2F%2B7M4OnK%2FDm%2BCNza4JmgL8v0p52NvYoo%3D&reserved=0) 
 + guidelines on [writing for the web](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnaturalresources.wales%2Ffooter-links%2Fhow-we-write-for-the-web%2F%3Flang%3Den&data=05%7C01%7Candrew.osborne%40cyfoethnaturiolcymru.gov.uk%7C6d7f334b22a242e169bb08dbd48b951c%7C8865ef0facde487cbf175cb50375d757%7C0%7C0%7C638337468192682079%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=63meYDEuIACvR88GSvjhINKtsbh%2BAjEkNPM6NSvZVn4%3D&reserved=0)
 
