@@ -57,7 +57,7 @@ These week notes are a fine example of working in the open. We choose to put our
 
 We are always looking for opportunities to get our work under the noses of people, beyond our immediate team. It takes time and we are constantly working on this. 
 
-In September of this year Heledd (digital services team leader), Sam (Content Designer) and Sophie (digital content officer) from the digital team, had the opportunity to share our week notes with the [Centre for Digital Public Services: Home Community of Practice](https://digitalpublicservices.gov.wales/courses-and-events/communities-practice) for "working in the open".
+In September of this year Heledd (digital services team leader), Sam (Content Designer) and Sophie (digital content officer) from the digital team, had the opportunity to share our week notes with the [Centre for Digital Public Services: Home Community of Practice] (https://digitalpublicservices.gov.wales/courses-and-events/communities-practice) for "working in the open".
 
 The team shared with the Centre for Digital Public Services some practical tips on how to start writing week notes:
 
