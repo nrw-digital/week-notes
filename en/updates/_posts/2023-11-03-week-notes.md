@@ -44,7 +44,7 @@ This was part of the Show the Thing series – [you can sign up on Public Digita
 ## Other things we’ve been working on:
 + Sophie’s been working hard publishing reports on the website and advising people on accessibility and pointing them in the direction of our helpful [writing accessible document guide](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnaturalresources.wales%2Ffooter-links%2Fwriting-accessible-documents%2F%3Flang%3Den&data=05%7C01%7Ckim.west%40cyfoethnaturiolcymru.gov.uk%7C5dabfc7e580a4a8a3e5408dbdb903de6%7C8865ef0facde487cbf175cb50375d757%7C0%7C0%7C638345184785432248%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=NHguxAFPIU5GyunDESsSE1iMHkKHBYOxBpjmkL%2FViBw%3D&reserved=0).
 + James has been busy working on the felling licence pages.
-+ Laura, Lucinda and Sam have created a blog and a recording for [We are Serviceworks](https://www.weareserviceworks.com/blog/user-experience-natural-resources-wales-simplifying-permissions), about their work on simplifying permissions with a User-Centred Approach on a budget.
++ Service Works published a blog and a recording of Laura, Lucinda and Sam's session on simplifying permissions with a User-Centred Approach on a budget [We are Serviceworks](https://www.weareserviceworks.com/blog/user-experience-natural-resources-wales-simplifying-permissions).
 + Shaun has been working on web content for reservoir safety and inspections, as well as content and an application form for water company discharges.
 
 ## Trick or treat 
