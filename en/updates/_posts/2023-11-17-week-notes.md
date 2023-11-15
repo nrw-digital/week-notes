@@ -10,4 +10,4 @@ author: Sam and Andrew
 ## Keeping an ear out for a fun Friday fact ##
 ![Cricket ears](https://github.com/nrw-digital/week-notes/blob/02a7e0dc9be8d15e613dc842be2698773010adde/images/cricketear.png?raw=true)
 
-Did you know crickets have ears on their front legs? They say walls have ears but so do cricket legs it would seem!
+Did you know crickets have ears (or sound receivers) on their front legs? They say walls have ears but so do cricket legs it would seem!
