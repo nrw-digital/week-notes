@@ -35,6 +35,7 @@ We will use this new design on all forms across the website shortly.
 
 ## Things we're planning
 Some much needed weekend rest, reflection and recuperation
+
 ![otter with closed eyes](https://github.com/nrw-digital/week-notes/blob/127c17ab5bd35e120612bb7293428b29fbeca05f/images/otter.png)
 
 ## And last but not least, we're keeping an ear out for a fun Friday fact ##
