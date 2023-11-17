@@ -4,7 +4,7 @@ layout: post
 lang: en
 ref: 2023-11-17-week-notes
 hidetitle: True
-author: Sam and Andrew
+author: Andrew and Sam, but mostly Andrew
 ---
 As the leaves shed from our trees and rain continues to fall, our flood warnings kick in on the NRW website to warn the good people of Wales of potential flood risks.
 
@@ -33,8 +33,11 @@ We will use this new design on all forms across the website shortly.
 + James has been working on the interview guide for user research interviews about filming on NRW land. He’s also 2i-ed (digitally proofread) content about ‘Apply for a water industry act consent’
 + Lucinda and Kim have been working on getting a new online service for recruitment up and running. Expect to see this published next week
 
+## Things we're planning
+Some much needed weekend rest, reflection and recuperation
 
-## Keeping an ear out for a fun Friday fact ##
+
+## And last but not least, we're keeping an ear out for a fun Friday fact ##
 ![Cricket ears](https://github.com/nrw-digital/week-notes/blob/02a7e0dc9be8d15e613dc842be2698773010adde/images/cricketear.png?raw=true)
 
 Did you know crickets have ears (or sound receivers) on their legs? They say walls have ears but so do cricket legs it would seem! Who'd have thought?
