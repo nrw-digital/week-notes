@@ -24,9 +24,9 @@ Check out this sneak peek:
 
 ![New look forms](https://github.com/nrw-digital/week-notes/blob/c980d3d1a11ce221733ab4ae364d7ad7e8c77923/images/newlookSS.png?raw=true)
 
-It took some time to finalise the branding and usability, but it is now ready for use. We will use this new design on all forms across the website shortly.
-Check out this sneak peek:
+It took some time to finalise the branding and usability, but it is now ready for use. 
 
+We will use this new design on all forms across the website shortly.
 
 ## Other things we’ve been working on: ##
 + Kim’s been mocking up the changes to the recruitment section of the Intranet 
