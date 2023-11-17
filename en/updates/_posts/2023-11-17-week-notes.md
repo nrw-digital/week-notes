@@ -10,8 +10,11 @@ As the leaves shed from our trees and rain continues to fall, our flood warnings
 
 ## Flood Risk Management Plan ##
 This week, Sophie’s been working hard to deliver the Flood Risk Management Plan documents and accompanying webpage in time for the launch which happened yesterday.
+
 Our content designer, Laura has been on hand to support Sophie and create a clear web page structure that helps users find what they’re looking for. 
-We’ve created accessible documents and a user-friendly webpage to list all the content that Flood have produced. We’ve worked closely with several contacts in the Flood team, and kept a clear line of communication open to ensure changes are communicated as quickly and efficiently as possible. Lynette, on the Communications team has also been a great support to us in collating all the content and ensuring we meet the various important deadlines facing our team this week. 
+We’ve created accessible documents and a user-friendly webpage to list all the content that Flood have produced. 
+
+We’ve worked closely with several contacts in the Flood team, and kept a clear line of communication open to ensure changes are communicated as quickly and efficiently as possible. Lynette, on the Communications team has also been a great support to us in collating all the content and ensuring we meet the various important deadlines facing our team this week. 
 
 ## A new look for our online forms ##
 We have recently updated our forms system, and Lucinda has been working on designing a new accessible theme for our website forms.
