@@ -33,8 +33,8 @@ We will use this new design on all forms across the website shortly.
 + James has been working on the interview guide for user research interviews about filming on NRW land. He’s also 2i-ed (digitally proofread) content about ‘Apply for a water industry act consent’
 + Lucinda and Kim have been working on getting a new online service for recruitment up and running. Expect to see this published next week
 
-## Things we're planning
-Some much needed weekend rest, reflection and recuperation
+## What we're planning
+Some much needed weekend rest, reflection and recuperation so we're revived for the week ahead!
 
 ![otter with closed eyes](https://github.com/nrw-digital/week-notes/blob/127c17ab5bd35e120612bb7293428b29fbeca05f/images/otter.png)
 
