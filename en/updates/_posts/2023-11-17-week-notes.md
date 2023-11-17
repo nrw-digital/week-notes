@@ -6,7 +6,9 @@ ref: 2023-11-17-week-notes
 hidetitle: True
 author: Sam and Andrew
 ---
-As the leaves shed from our trees and rain continues to fall, our flood warnings kick in on the NRW website to warn the good people of Wales of potential flood risks. As usual, we've had a mega busy week. Heledd and Sam have been involved in interviews for a new Digital post and we’re dealing with the usual deluge of content requests coming into our inbox.
+As the leaves shed from our trees and rain continues to fall, our flood warnings kick in on the NRW website to warn the good people of Wales of potential flood risks.
+
+As usual, we've had a mega busy week. Heledd and Sam have been involved in interviews for a new Digital post and we’re dealing with the usual deluge of content requests coming into our inbox.
 
 ## Flood Risk Management Plan ##
 This week, Sophie’s been working hard to deliver the Flood Risk Management Plan documents and accompanying webpage in time for the launch which happened yesterday.
