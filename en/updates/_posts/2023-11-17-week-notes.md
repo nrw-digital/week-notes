@@ -15,6 +15,7 @@ We’ve created accessible documents and a user-friendly webpage to list all the
 
 ## A new look for our online forms ##
 We have recently updated our forms system, and Lucinda has been working on designing a new accessible theme for our website forms.
+Check out this sneak peek:
 
 ![New look forms](https://github.com/nrw-digital/week-notes/blob/c980d3d1a11ce221733ab4ae364d7ad7e8c77923/images/newlookSS.png?raw=true)
 
