@@ -34,7 +34,7 @@ We will use this new design on all forms across the website shortly.
 + Lucinda and Kim have been working on getting a new online service for recruitment up and running. Expect to see this published next week
 
 ## What we're planning
-Some much needed weekend rest, reflection and recuperation so we're revived for the week ahead!
+Some much needed weekend rest, reflection and recuperation so we're revived for the week ahead.
 
 ![Otterly cute!](https://github.com/nrw-digital/week-notes/blob/127c17ab5bd35e120612bb7293428b29fbeca05f/images/otter.png?raw=true)
 
