@@ -51,13 +51,13 @@ It’s hard not to feel excited and just super chuffed with what we’ve done so
 Our aim with this project has always been to make and show a thing - to help our thinking, share with the team and test with users. So far it has worked well. FIngers crossed we can get this over the line!
 
 **Ideas**
-![Photo of hand-drawn ideas on paper](https://github.com/nrw-digital/week-notes/blob/127c17ab5bd35e120612bb7293428b29fbeca05f/images/241123ideas.png?raw=true)
+![Photo of hand-drawn ideas on paper](https://raw.githubusercontent.com/nrw-digital/week-notes/main/images/241123ideas.png?raw=true)
 
 **Mapping the journeys in MURAL**
-![Screenshot of a content map in a whiteboarding app](https://github.com/nrw-digital/week-notes/blob/127c17ab5bd35e120612bb7293428b29fbeca05f/images/241123mappingjourneys.png?raw=true)
+![Screenshot of a content map in a whiteboarding app](https://raw.githubusercontent.com/nrw-digital/week-notes/main/images/241123mappingjourneys.png?raw=true)
 
 **Prototype**
-![Screenshot of a content map in a whiteboarding app](https://github.com/nrw-digital/week-notes/blob/127c17ab5bd35e120612bb7293428b29fbeca05f/images/241123prototype.png?raw=true)
+![Screenshot of a content map in a whiteboarding app](https://raw.githubusercontent.com/nrw-digital/week-notes/main/images/241123prototype.png?raw=true)
 
 ## Recruitment 
 Lucinda has done a banging job designing new job application content and forms. 
