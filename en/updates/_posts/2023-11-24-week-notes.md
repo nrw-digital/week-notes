@@ -12,7 +12,7 @@ We’re definitely in that period where everyone needs something and ‘it has t
 
 It can be quite overwhelming so it’s good to pause and ask ‘y tho?’. Most of the time it’s a deadline that has been set for no real reason and just causes lots of stress for all involved.
 
-![person with blank expression and text 'y tho'](https://github.com/nrw-digital/week-notes/blob/c980d3d1a11ce221733ab4ae364d7ad7e8c77923/images/241123ytho.png?raw=true)
+![person with blank expression and text 'y tho'](https://raw.githubusercontent.com/nrw-digital/week-notes/main/images/241123ytho.png?raw=true)
 
 It’s our Christmas party next week. Sorry, we mean team meeting. Very important team meeting. Our time together is never wasted, it’s always good to hash out work stuff and then go to the pub and hang out. 
 
@@ -89,4 +89,6 @@ James did a 2i on the content. The next step is translation before final flight 
 
 ## Obligatory fact
 
-Did you know that over 50% of our body's bones are in our hands and feet? 27 in each hand and 26 in each foot. Halloween may have passed, but that's no reason to not be thinking about skeletons.
+Did you know that over 50% of our body's bones are in our hands and feet? 27 in each hand and 26 in each foot. 
+
+Halloween may have passed, but that's no reason to not be thinking about skeletons.
