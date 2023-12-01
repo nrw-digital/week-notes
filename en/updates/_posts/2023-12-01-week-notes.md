@@ -64,13 +64,13 @@ James shared his thoughts on how Deloitte has grouped our services and talked ab
 Sam and Heledd have also shared lots of data, reports and knowledge we’ve gathered as a team over the years, and commented on the huge Figma board. We’re all impressed at how Ella and team have taken everything on board and tried to synthesise all the various strands, activities and outcomes into something simple. 
 
 ## Adding ‘service down’ messages for River Levels
-James met the River Levels team to discuss how we could add messages to web pages if our River Levels service went down. This presented some familiar challenges to our team: 
+James met the River Levels team to discuss how we could add messages to web pages if our [River Levels service](https://rivers-and-seas.naturalresources.wales/?lang=en) went down. This presented some familiar challenges to our team: 
 
 + the River Levels service sits on its own domain
 + it’s hard-coded 
 + the Digital Team doesn’t have access to the platform to make changes
 
-We can add ‘service down’ messages to the River Levels landing page on our website. But there’s a problem with how this would appear in the user journey. 
+We can add ‘service down’ messages to the [River Levels landing page](https://naturalresources.wales/evidence-and-data/maps/check-river-levels/?lang=en) on our website. But there’s a problem with how this would appear in the user journey. 
 
 This landing page only gets 3% of the traffic of the River Levels service. The other 97% navigate to a River Levels page without seeing the landing page and any warning messages on that page. 
 
