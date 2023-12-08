@@ -128,9 +128,9 @@ NRW is a Category 1 responder, which means we’ve got lots of colleagues on rot
 The ICT team have a rota for any technical issues, and Comms have a rota for news, social media and press enquiries.
 
 The only content updates we’d do out of hours on the website is anything that cannot wait until next working day, for example:
-*a global banner for a significant incident affecting all Wales - for example, a major flood incident. 
-*updates to days out content pages, due to closures / health and safety incident - for example, bike paths closed due to fallen trees
-*updates to web pages if there are technical issues impacting our public facing services
+* a global banner for a significant incident affecting all Wales - for example, a major flood incident. 
+* updates to days out content pages, due to closures / health and safety incident - for example, bike paths closed due to fallen trees
+* updates to web pages if there are technical issues impacting our public facing services
 
 We’ve had an informal arrangement for the past few years, but we’re going to formalise our out of hours working so that it’s aligned with organisational working arrangements.
 
@@ -140,18 +140,18 @@ After spending a few more days in the office than usual, Heledd shared some inte
 
 Many of the challenges and obstacles we face around going into the office are shared amongst our team, including:
 
-*Deciding on and dressing in appropriate work wear is a challenge for many of us. Heledd settled on Lucy and yak dungarees, setting the standard that comfortable fashion is now ‘in’. But she’s also kept an all black jacket to formalise the attire in case of meetings.
-*Underestimating the time it takes to get in, whether commuting via public transport, or by car, we can all face unexpected delays which can affect your mood before you even step foot in the office.
-*We all like to be productive when out and about, so completing errands on the way adds more time to the journey but allows you to get more out of the day.
-*Remembering to bring your entry pass - this is really important for security reasons, but still another faff to remember of a morning.
-*Getting lunch and food throughout the day. At the office, the contents of your freezer and cupboards aren’t available, so unless you’ve made that conscious decision to pack lunch, you end up spending at lunchtime.
-*Checking through your calendar and any meetings online before you get excited to see colleagues and carried away with in-person chats in the office. When working from home, the day is clearly laid out and distractions are minimised which can be helpful for some of us.
+* Deciding on and dressing in appropriate work wear is a challenge for many of us. Heledd settled on Lucy and yak dungarees, setting the standard that comfortable fashion is now ‘in’. But she’s also kept an all black jacket to formalise the attire in case of meetings.
+* Underestimating the time it takes to get in, whether commuting via public transport, or by car, we can all face unexpected delays which can affect your mood before you even step foot in the office.
+* We all like to be productive when out and about, so completing errands on the way adds more time to the journey but allows you to get more out of the day.
+* Remembering to bring your entry pass - this is really important for security reasons, but still another faff to remember of a morning.
+* Getting lunch and food throughout the day. At the office, the contents of your freezer and cupboards aren’t available, so unless you’ve made that conscious decision to pack lunch, you end up spending at lunchtime.
+* Checking through your calendar and any meetings online before you get excited to see colleagues and carried away with in-person chats in the office. When working from home, the day is clearly laid out and distractions are minimised which can be helpful for some of us.
 
 There were many interesting positives that she discovered throughout the week, including:
 
-*The opportunity to branch out from your immediate team’s bubble and reconnect with other teams has been invaluable. Gaining oversight into how busy all teams are, not just our own, has been useful. Overhearing conversations about stress across teams within the organisation has helped build empathy between teams, something we fear has been lacking as of late. With more teams stressed and focussed on their own challenges, it’s harder to see the difficulties other teams are facing.
-*Connecting face to face with other humans, there’s nothing quite like it! Our role in Digital is usually positioned behind a screen, providing support and advice to various teams. However, there’s a lot to gain from meeting people in the ‘real world’ and taking those discussions offline wherever possible.
-*Heledd has shared the following analogy - that going to the office is much like going to the gym. The hardest step is often just getting yourself there.
+* The opportunity to branch out from your immediate team’s bubble and reconnect with other teams has been invaluable. Gaining oversight into how busy all teams are, not just our own, has been useful. Overhearing conversations about stress across teams within the organisation has helped build empathy between teams, something we fear has been lacking as of late. With more teams stressed and focussed on their own challenges, it’s harder to see the difficulties other teams are facing.
+* Connecting face to face with other humans, there’s nothing quite like it! Our role in Digital is usually positioned behind a screen, providing support and advice to various teams. However, there’s a lot to gain from meeting people in the ‘real world’ and taking those discussions offline wherever possible.
+* Heledd has shared the following analogy - that going to the office is much like going to the gym. The hardest step is often just getting yourself there.
 
 ## Some of this week's learning:
 
