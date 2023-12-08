@@ -79,6 +79,7 @@ Permit applicants need to know what distances they must keep between their stack
 
 Currently, the graphs in our PDF guidance can only give users a rough indication of the separation distance - that’s if they have a pencil, ruler, can see the graph and decipher the colour difference.
 
+
 ![graph](https://github.com/nrw-digital/week-notes/blob/03d5fd6c8a7f033b540847171062c661a55cc42b/images/separation%20distances%20graph.PNG?raw=true)
 
 But with a checker, users can very quickly (in three clicks) get an answer that’s rounded to the nearest metre. They can do this on any device, anywhere, any time without having to rely on someone or something to help them.
