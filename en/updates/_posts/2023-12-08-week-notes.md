@@ -47,6 +47,7 @@ So, lots to be getting on with.
 ## Working with expert groups
 
 Shaun has been working with the expert group on guidance and applications for hydrogen producers. So far, we’ve agreed on user needs and proposed web pages as well as the different types of permits and applications users will need. He’ll now be pair-writing those pages with the SMEs.
+
 There have been significant changes to our guidance on medium combustion plants following the withdrawal of standard rules permits. Hopefully this will lead to a clearer picture for MCP operators in what is an extremely complex regulatory environment.
 
 ## Content types and content crits
@@ -87,9 +88,9 @@ The SME for this area has volunteered several operations and permitting staff wh
 ## Permission to use land NRW manages
 
 Lots of good stuff is still happening with permissions with Laura, Lucinda and Sam: 
-*making tweaks to the ‘one route in’ application including checking the routes and changing the language where it’s not quite right
-*prepping for a show and tell with the permissions team next week
-*watching a user research session on applying to film on NRW land, taking notes, and creating a space on our MURAL to synthesise the findings and pull out themes
+* making tweaks to the ‘one route in’ application including checking the routes and changing the language where it’s not quite right
+* prepping for a show and tell with the permissions team next week
+* watching a user research session on applying to film on NRW land, taking notes, and creating a space on our MURAL to synthesise the findings and pull out themes
 
 In the best news yet, there are signs that (now the right forms have been filled in) GOV.UK Pay could soon become a reality for this service - what a Christmas present that would be! 
 
