@@ -60,7 +60,7 @@ We’ve had a content request for four pages of content on groundwater – it’
 
 ## Installations permit applications
 
-The installations permit applications and guidance have been exercising the minds of Sam and Shaun this week as they get their heads around the permit application process users go through.
+The installations permit applications and guidance have been exercising the minds of Sam and Shaun this week as they get their heads around the permit application process.
 The aim is to create an online application for a bespoke installations permit which: 
 * is easier for the user to fill in because it is more clearly written and structured
 * asks the user for the information we need from them (it doesn’t present them with information they did not need)
