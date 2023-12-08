@@ -32,6 +32,8 @@ Our 2024 hopes for weeknotes:
 
 ## Bird licensing
 
+![](https://github.com/nrw-digital/week-notes/blob/5e9b8fcc5dfde4956cc3f327406b614aa5318a37/images/birds.PNG)
+
 Phil has been working on updating the bird licences for 2024. In previous years these have been on the website as a PDF. Sophie and Kim moved a lot of the licences from PDF to HTML earlier this year, but they couldn’t go live because we weren’t allowed to swap versions half way through the year. However, next year all the licences will be available to download in HTML format. .GOV have had their bird licences in a HTML format for over a year now, so it was only right that we did the same. Although the bird licences are going live in a HTML format, they are still not perfect.
 There are plans to improve the entire bird licence section of our website next year.
 
