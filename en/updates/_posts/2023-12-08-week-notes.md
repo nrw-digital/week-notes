@@ -156,11 +156,11 @@ There were many interesting positives that she discovered throughout the week, i
 
 ## Some of this week's learning:
 
-###Watching
+Watching
 [Managing bias in AI - YouTube](https://www.youtube.com/watch?v=yZheR0KhVHc)
 [What is digital sustainability? - YouTube] (https://www.youtube.com/watch?v=Wn5urKcquFE)
 
-###Reading 
+Reading 
 [When you design for everyone, you design for no one - Content Design London] (https://contentdesign.london/blog/when-you-design-for-everyone-you-design-for-no-one)
 [The Environment Agency transforms regulatory services] (https://customers.microsoft.com/en-gb/story/1696294279936327333-environment-agency-dynamics365-government-en-united-kingdom?s=09How prioritising content design helped the Met Office promote beach safety)
 [Creating a new intranet - Oxford City Council](https://digital.oxford.gov.uk/blog/2019/10/17/creating-a-new-intranet)
