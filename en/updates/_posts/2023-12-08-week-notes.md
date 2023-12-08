@@ -36,11 +36,11 @@ Phil has been working on updating the bird licences for 2024. In previous years 
 There are plans to improve the entire bird licence section of our website next year.
 
 This has all come about because of the work Natural Resources Wales are doing around the conservation of fish stocks and fish eating birds, such as cormorants. It’s a fine balance to stop fish stocks being depleted and protect these birds. Next year as part of the improvements to this area of our website, there are also plans to:
-*improve the user experience of the bird licence forms and to turn these forms into an online format, they are currently all on the website as word docs
-*improve the gull management guidance content and form
-*add guidance about fish eating birds for both anglers and conservationists
-*improve the current bird licences and the way they are displayed on the site
-*review forms and guidance from falconry and aviculture to bird control
+* improve the user experience of the bird licence forms and to turn these forms into an online format, they are currently all on the website as word docs
+* improve the gull management guidance content and form
+* add guidance about fish eating birds for both anglers and conservationists
+* improve the current bird licences and the way they are displayed on the site
+* review forms and guidance from falconry and aviculture to bird control
 
 So, lots to be getting on with.
 
@@ -59,10 +59,10 @@ We’ve had a content request for four pages of content on groundwater – it’
 
 The installations permit applications and guidance have been exercising the minds of Sam and Shaun this week as they get their heads around the installations permit application process.
 The aim is to create an online application for a bespoke installations permit which: 
-*is easier for the user to fill in because it is more clearly written and structured
-*asks the user for the information we need from them (it doesn’t present them with information they did not need)
-*helps ensure permitting officers get the information they need to start scrutinising an application
-*uses our start and confirmation page patterns
+* is easier for the user to fill in because it is more clearly written and structured
+* asks the user for the information we need from them (it doesn’t present them with information they did not need)
+* helps ensure permitting officers get the information they need to start scrutinising an application
+* uses our start and confirmation page patterns
 
 Mapping the paper form flows in MURAL has thrown up lots of questions for SMEs. 
 
