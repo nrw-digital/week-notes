@@ -8,7 +8,7 @@ author: Heledd and Sam
 ---
 ## A whole year of our NRW Digital Team weeknotes
 
-![a birthday cake](https://github.com/nrw-digital/week-notes/blob/03d5fd6c8a7f033b540847171062c661a55cc42b/images/a%20year%20of%20weeknotes.PNG)
+![a birthday cake](https://github.com/nrw-digital/week-notes/blob/03d5fd6c8a7f033b540847171062c661a55cc42b/images/a%20year%20of%20weeknotes.PNG?raw=true)
 
 It's been over a year since we started weeknotes. We’ve:
 
@@ -51,7 +51,7 @@ There have been significant changes to our guidance on medium combustion plants 
 
 ## Content types and content crits
 
-![people chatting together](https://github.com/nrw-digital/week-notes/blob/03d5fd6c8a7f033b540847171062c661a55cc42b/images/content%20types.PNG)
+![people chatting together](https://github.com/nrw-digital/week-notes/blob/03d5fd6c8a7f033b540847171062c661a55cc42b/images/content%20types.PNG?raw=true)
 
 We’ve had a content request for four pages of content on groundwater – it’s a mix of evidence and data, background information and our plans for improving groundwater quality. In discussion at the content crit, the consensus was that the majority of it is most suited to a blog with the caveat that there may be a user need around discovering which pollutants are present in a user’s locality.
 
@@ -76,11 +76,11 @@ Permit applicants need to know what distances they must keep between their stack
 
 Currently, the graphs in our PDF guidance can only give users a rough indication of the separation distance - that’s if they have a pencil, ruler, can see the graph and decipher the colour difference.
 
-![graph](https://github.com/nrw-digital/week-notes/blob/03d5fd6c8a7f033b540847171062c661a55cc42b/images/separation%20distances%20graph.PNG)
+![graph](https://github.com/nrw-digital/week-notes/blob/03d5fd6c8a7f033b540847171062c661a55cc42b/images/separation%20distances%20graph.PNG?raw=true)
 
 But with a checker, users can very quickly (in three clicks) get an answer that’s rounded to the nearest metre. They can do this on any device, anywhere, any time without having to rely on someone or something to help them.
 
-![checker](https://github.com/nrw-digital/week-notes/blob/03d5fd6c8a7f033b540847171062c661a55cc42b/images/separation%20distances%20proto.PNG)
+![checker](https://github.com/nrw-digital/week-notes/blob/03d5fd6c8a7f033b540847171062c661a55cc42b/images/separation%20distances%20proto.PNG?raw=true)
 
 The SME for this area has volunteered several operations and permitting staff who can initially test the checker as they may also need to use it for assessing applications and on site visits.
 
@@ -95,7 +95,7 @@ In the best news yet, there are signs that (now the right forms have been filled
 
 ## Working through a backlog of reports
 
-![](https://github.com/nrw-digital/week-notes/blob/03d5fd6c8a7f033b540847171062c661a55cc42b/images/accessible%20docs.PNG)
+![](https://github.com/nrw-digital/week-notes/blob/03d5fd6c8a7f033b540847171062c661a55cc42b/images/accessible%20docs.PNG?raw=true)
 
 As we make our way to the end of another year, we are receiving a flurry of requests for new content to be created, reports showing analytics for web pages as well as the usual kind of reports we are sent.
 
@@ -113,7 +113,7 @@ We also need to ensure the pages have the correct heading levels, that tables ar
 
 ## Planning for 2024
 
-![](https://github.com/nrw-digital/week-notes/blob/03d5fd6c8a7f033b540847171062c661a55cc42b/images/planning.PNG)
+![](https://github.com/nrw-digital/week-notes/blob/03d5fd6c8a7f033b540847171062c661a55cc42b/images/planning.PNG?raw=true)
 
 Last week we chatted about the need to seriously consider stopping some things, so that we have more time to focus on “the good chunky stuff of value”. 
 
