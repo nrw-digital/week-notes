@@ -61,7 +61,7 @@ In discussion at the content crit, the consensus was that the majority of it is 
 
 ## Installations permit applications
 
-The installations permit application forms and guidance have been exercising the minds of Sam and Shaun this week as they try to understand the application process.
+Installations permit application forms and guidance have been exercising the minds of Sam and Shaun this week as they try to understand the application process.
 The aim is to create an online application for a bespoke installations permit which: 
 * is easier for the user to fill in because it is more clearly written and structured
 * asks the user only for the information we need from them (it doesn’t present them with information or questions that don't apply to them)
