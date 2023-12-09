@@ -34,8 +34,7 @@ Our 2024 hopes for weeknotes:
 
 ![](https://github.com/nrw-digital/week-notes/blob/5e9b8fcc5dfde4956cc3f327406b614aa5318a37/images/birds.PNG?raw=true)
 
-Phil has been working on updating the bird licences for 2024. In previous years these have been on the website as a PDF. Sophie and Kim moved a lot of the licences from PDF to HTML earlier this year, but they couldn’t go live because we weren’t allowed to swap versions half way through the year. However, next year all the licences will be available to download in HTML format. .GOV have had their bird licences in a HTML format for over a year now, so it was only right that we did the same. Although the bird licences are going live in a HTML format, they are still not perfect.
-There are plans to improve the entire bird licence section of our website next year.
+Phil has been working on updating the bird licences for 2024. In previous years these have been on the website as a PDF. Sophie and Kim moved a lot of the licences from PDF to HTML earlier this year, but they couldn’t go live because we weren’t allowed to swap versions half way through the year. However, next year all the licences will be available to download in HTML format. .GOV have had their bird licences in a HTML format for over a year now, so it was only right that we did the same. Although the bird licences are going live in a HTML format, they are still not perfect. There are plans to improve the entire bird licence section of our website next year.
 
 This has all come about because of the work Natural Resources Wales are doing around the conservation of fish stocks and fish eating birds, such as cormorants. It’s a fine balance to stop fish stocks being depleted and protect these birds. Next year as part of the improvements to this area of our website, there are also plans to:
 * improve the user experience of the bird licence forms and to turn these forms into an online format, they are currently all on the website as word docs
@@ -48,7 +47,7 @@ So, lots to be getting on with.
 
 ## Working with expert groups
 
-Shaun has been working with the expert group on guidance and applications for hydrogen producers. So far, we’ve agreed on user needs and proposed web pages as well as the different types of permits and applications users will need. He’ll now be pair-writing those pages with the SMEs.
+Shaun has been working with the expert group on guidance and applications for hydrogen producers. So far, they’ve agreed on user needs and proposed web pages as well as the different types of permits and applications users will need. He’ll now be pair-writing those pages with the SMEs.
 
 There have been significant changes to our guidance on medium combustion plants following the withdrawal of standard rules permits. Hopefully this will lead to a clearer picture for MCP operators in what is an extremely complex regulatory environment.
 
@@ -56,20 +55,22 @@ There have been significant changes to our guidance on medium combustion plants 
 
 ![people chatting together](https://github.com/nrw-digital/week-notes/blob/03d5fd6c8a7f033b540847171062c661a55cc42b/images/content%20types.PNG?raw=true)
 
-We’ve had a content request for four pages of content on groundwater – it’s a mix of evidence and data, background information and our plans for improving groundwater quality. In discussion at the content crit, the consensus was that the majority of it is most suited to a blog with the caveat that there may be a user need around discovering which pollutants are present in a user’s locality.
+We’ve had a content request for four pages of content on groundwater – it’s a mix of evidence and data, background information and our plans for improving groundwater quality. 
+
+In discussion at the content crit, the consensus was that the majority of it is most suited to a blog with the caveat that there may be a user need around discovering which pollutants are present in a user’s locality.
 
 ## Installations permit applications
 
-The installations permit applications and guidance have been exercising the minds of Sam and Shaun this week as they get their heads around the permit application process.
+The installations permit application forms and guidance have been exercising the minds of Sam and Shaun this week as they try to understand the application process.
 The aim is to create an online application for a bespoke installations permit which: 
 * is easier for the user to fill in because it is more clearly written and structured
-* asks the user for the information we need from them (it doesn’t present them with information they did not need)
+* asks the user only for the information we need from them (it doesn’t present them with information or questions that don't apply to them)
 * helps ensure permitting officers get the information they need to start scrutinising an application
 * uses our start and confirmation page patterns
 
 Mapping the paper form flows in MURAL has thrown up lots of questions for SMEs. 
 
-Meanwhile, they are using the work done on waste permit applications (lots of it is the same) to start building an installation prototype in the test website. 
+Meanwhile, they are using the work done on waste permit applications (lots of it is the same for installations) to start building a prototype in the test website. 
 
 ## Using our form builder as a calculator
 
@@ -89,16 +90,16 @@ But with a checker, users can very quickly (in three clicks) get an answer that�
 ![checker](https://github.com/nrw-digital/week-notes/blob/03d5fd6c8a7f033b540847171062c661a55cc42b/images/separation%20distances%20proto.PNG?raw=true)
 
 
-The SME for this area has volunteered several operations and permitting staff who can initially test the checker as they may also need to use it for assessing applications and on site visits.
+The SME for this area has volunteered several operations and permitting staff who can initially test the checker as they may also need to use it for assessing permit applications and during site visits.
 
 ## Permission to use land NRW manages
 
-Lots of good stuff is still happening with permissions with Laura, Lucinda and Sam: 
+Lots of good stuff is still happening with 'permissions' with Laura, Lucinda and Sam: 
 * making tweaks to the ‘one route in’ application including checking the routes and changing the language where it’s not quite right
 * prepping for a show and tell with the permissions team next week
-* watching a user research session on applying to film on NRW land, taking notes, and creating a space on our MURAL to synthesise the findings and pull out themes
+* watching a user research session on applying to film on NRW land, taking notes, and creating a space on our MURAL to record findings and identify themes
 
-In the best news yet, there are signs that (now the right forms have been filled in) GOV.UK Pay could soon become a reality for this service - what a Christmas present that would be! 
+In the best news yet, there are signs that (now the right NRW finance forms have been filled in) GOV.UK Pay could soon become a reality for part of this service - what a Christmas present that would be! 
 
 ## Working through a backlog of reports
 
