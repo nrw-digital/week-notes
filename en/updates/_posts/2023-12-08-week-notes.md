@@ -57,7 +57,7 @@ There have been significant changes to our guidance on medium combustion plants 
 
 We’ve had a content request for four pages of content on groundwater – it’s a mix of evidence and data, background information and our plans for improving groundwater quality. 
 
-In discussion at the content crit, the consensus was that the majority of it is most suited to a blog with the caveat that there may be a user need around discovering which pollutants are present in a user’s locality.
+In discussion at the content crit, the consensus was that the majority of it is [most suited to a blog](https://naturalresources.wales/footer-links/content-types/?lang=en) with the caveat that there may be a user need around discovering which pollutants are present in a user’s locality.
 
 ## Installations permit applications
 
