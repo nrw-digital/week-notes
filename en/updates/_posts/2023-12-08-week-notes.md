@@ -70,7 +70,7 @@ The aim is to create an online application for a bespoke installations permit wh
 
 Mapping the paper form flows in MURAL has thrown up lots of questions for SMEs. 
 
-Meanwhile, they are using the work done on waste permit applications (lots of it is the same for installations) to start building a prototype in the test website. 
+Meanwhile, they are using the work done on [waste permit applications](https://naturalresources.wales/permits-and-permissions/waste-permitting/apply-for-a-new-bespoke-waste-permit/?lang=en) (lots of it is the same for installations) to start building a prototype in the test website. 
 
 ## Using our form builder as a calculator
 
