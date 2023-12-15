@@ -10,8 +10,7 @@ I can’t believe we are nearly at the end of the year already, 2023 has zoomed 
 
 This year has been filled with lots of drama, laughter, tons of problems….and a few tears. Despite all this, the digital team has done some really excellent work, something I think everyone in the team should be really proud of. 
 
-Our director Sarah Jennings had this to say about the team’s work this year:
-**“I am an avid reader of the weeknotes and so it’s a privilege to contribute to them this week.
+Our director Sarah Jennings had this to say about the team’s work this year: **“I am an avid reader of the weeknotes and so it’s a privilege to contribute to them this week.
 
 Firstly, I would like to take this opportunity to thank you for all your hard work throughout this year.
 
@@ -21,8 +20,8 @@ This year has seen the digital team grow with new members of staff. It’s encou
 
 I know there is still real pressure to deliver multiple tasks at the same time, this is not sustainable in the long-term, and I am aware Heledd is working on key priorities for the team in 2024.
 
-Thank you for all your hard work and efforts this year in helping our users achieve their tasks online. It makes me proud that the team has achieved so much in helping the people of Wales.”
-**
+Thank you for all your hard work and efforts this year in helping our users achieve their tasks online. It makes me proud that the team has achieved so much in helping the people of Wales.”**
+
 ## The 12 days of Christmas
 
 ![a Christmas tree in a winter landscape]( https://github.com/nrw-digital/week-notes/blob/492b8975ce35217829eb923712c19ba6bb55d059/images/christmas%20tree.jpg?raw=true)
