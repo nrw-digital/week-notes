@@ -10,17 +10,17 @@ I can’t believe we are nearly at the end of the year already, 2023 has zoomed 
 
 This year has been filled with lots of drama, laughter, tons of problems….and a few tears. Despite all this, the digital team has done some really excellent work, something I think everyone in the team should be really proud of. 
 
-Our director Sarah Jennings had this to say about the team’s work this year: ** “I am an avid reader of the weeknotes and so it’s a privilege to contribute to them this week.
+Our director Sarah Jennings had this to say about the team’s work this year: **“I am an avid reader of the weeknotes and so it’s a privilege to contribute to them this week.**
 
-Firstly, I would like to take this opportunity to thank you for all your hard work throughout this year.
+**Firstly, I would like to take this opportunity to thank you for all your hard work throughout this year.**
 
-The endless hours you have spent working to improve the website for our users and the professionalism and dedication that you have shown has impressed me immensely.  
+**The endless hours you have spent working to improve the website for our users and the professionalism and dedication that you have shown has impressed me immensely.**
 
-This year has seen the digital team grow with new members of staff. It’s encouraging to see growth in an area of the business that’s so important to our users. In 2024 we all need to focus our minds into putting our users at the centre of all our work. 
+**This year has seen the digital team grow with new members of staff. It’s encouraging to see growth in an area of the business that’s so important to our users. In 2024 we all need to focus our minds into putting our users at the centre of all our work.**
 
-I know there is still real pressure to deliver multiple tasks at the same time, this is not sustainable in the long-term, and I am aware Heledd is working on key priorities for the team in 2024.
+**I know there is still real pressure to deliver multiple tasks at the same time, this is not sustainable in the long-term, and I am aware Heledd is working on key priorities for the team in 2024.**
 
-Thank you for all your hard work and efforts this year in helping our users achieve their tasks online. It makes me proud that the team has achieved so much in helping the people of Wales.” **
+**Thank you for all your hard work and efforts this year in helping our users achieve their tasks online. It makes me proud that the team has achieved so much in helping the people of Wales.”**
 
 ## The 12 days of Christmas
 
