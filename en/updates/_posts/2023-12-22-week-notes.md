@@ -48,7 +48,7 @@ We’d love you to join us at the Awards celebration which will take place on Zo
 
 ![a Christmas celebration photo]( https://github.com/nrw-digital/week-notes/blob/bd52a4d5513d6c8382fc74dfa29792e100d83349/images/winter%20weeknotes%20pic%20(3).png?raw=true)
 
-In Wales, we have a Digital Service Standard to help make sure products and services designed and delivered are safe, secure, accessible and bilingual. The standard also helps teams, because:
+In Wales, we have a [Digital Service Standard](https://digitalpublicservices.gov.wales/guidance-and-standards/digital-service-standards-wales) to help make sure products and services designed and delivered are safe, secure, accessible and bilingual. The standard also helps teams, because:
 •	It focuses on building on what users need – avoiding building the wrong thing that can be costly (in time and money) to fix
 •	Ensures more people can use the product/service
 •	It’s easier – the standard encourages sharing and re-use. The most common problems will have been solved meaning you don’t start from scratch
