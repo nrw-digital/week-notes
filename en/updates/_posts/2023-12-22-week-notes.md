@@ -57,7 +57,7 @@ Within our team, we try to follow the Digital Service standards wherever we can 
 
 This week Heledd, Lucinda, Laura and Sam were joined by Phil Baird, who’s a Senior Product Manager at CDPS to do our first service standard review – focussing on the “do something on NRW land” service. 
 
-This isn’t as formal as a service assessment used at GOV.UK. Instead, the review is was an opportunity to take a moment to stop and reflect on where the product/service is, how it can be improved and what we’re already doing well.
+This isn’t as formal as a [service assessment used at GOV.UK](https://www.gov.uk/service-manual/service-assessments/how-service-assessments-work). Instead, the review is was an opportunity to take a moment to stop and reflect on where the product/service is, how it can be improved and what we’re already doing well.
 
 Phil (from CDPS) said “It was brilliant and I learned so much about the approach was really impressed with the work the team’s been doing” – so lots to celebrate and feel proud of, as well as reflect on some of the bigger challenges – such as (what seems to be) the utopia of “empowered service owner”. 
 
