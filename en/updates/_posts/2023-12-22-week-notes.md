@@ -5,7 +5,7 @@ lang: en
 ref: 2023-12-22-week-notes
 hidetitle: True
 author: Kim and Soph
-
+---
 The mulled wine is brewing, the presents are wrapped, the Christmas music is blasting and Santa is making his list and checking it twice…. As you can probably tell, we’re all very much looking forward to Christmas in the Digital Team. Here’s what we’ve been up to this week…
 
 ## It’s officially winter!
