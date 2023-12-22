@@ -56,6 +56,8 @@ Our team outlined some of the lesser-known things that it's perfectly okay to do
 
 Other ways our team has begun to balance their screen time is through walking meetings. While most of us work remotely, some of the team happen to live a couple of roads shy of one another, so instead of a Teams call or meeting, we’ve been lacing up and going for a half hour walk to catch up. The fresh air and space from our desks also has the added benefit of providing inspiration when brainstorming page titles and more creative tasks.
 
+![the digital team’s Christmas jumper meeting](https://github.com/nrw-digital/week-notes/blob/a519a7f729f3f052a09644aa54504178e87b2a4c/images/winter%20weeknotes%20pic%20(5).png?raw=true)
+
 ## Other things we’ve been working on
 
 + The team is looking forward to welcoming Toyah to the team in January. 
