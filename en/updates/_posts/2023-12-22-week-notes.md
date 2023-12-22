@@ -48,7 +48,20 @@ We’d love you to join us at the Awards celebration which will take place on Zo
 
 ![a Christmas celebration photo]( https://github.com/nrw-digital/week-notes/blob/bd52a4d5513d6c8382fc74dfa29792e100d83349/images/winter%20weeknotes%20pic%20(3).png?raw=true)
 
-![a little snowman ornament sat in the tree]( https://github.com/nrw-digital/week-notes/blob/bd52a4d5513d6c8382fc74dfa29792e100d83349/images/winter%20weeknotes%20pic%20(4).png?raw=true)
+In Wales, we have a Digital Service Standard to help make sure products and services designed and delivered are safe, secure, accessible and bilingual. The standard also helps teams, because:
+•	It focuses on building on what users need – avoiding building the wrong thing that can be costly (in time and money) to fix
+•	Ensures more people can use the product/service
+•	It’s easier – the standard encourages sharing and re-use. The most common problems will have been solved meaning you don’t start from scratch
+
+Within our team, we try to follow the Digital Service standards wherever we can – but we’ve never had the experience of a service standard assessment. 
+
+This week Heledd, Lucinda, Laura and Sam were joined by Phil Baird, who’s a Senior Product Manager at CDPS to do our first service standard review – focussing on the “do something on NRW land” service. 
+
+This isn’t as formal as a service assessment used at GOV.UK. Instead, the review is was an opportunity to take a moment to stop and reflect on where the product/service is, how it can be improved and what we’re already doing well.
+
+Phil (from CDPS) said “It was brilliant and I learned so much about the approach was really impressed with the work the team’s been doing” – so lots to celebrate and feel proud of, as well as reflect on some of the bigger challenges – such as (what seems to be) the utopia of “empowered service owner”. 
+
+Everyone thought the session was useful and we took away a few practical actions to focus on next. Heledd is looking forward to running a similar session with colleagues in a project team outside of the Digital team in January.
 
 ## Ways of Working – our learnings from the past year
 
@@ -62,6 +75,8 @@ Other ways our team has begun to balance their screen time is through walking me
 
 + The team is looking forward to welcoming Toyah to the team in January. 
 + It’s been a busy week of publishing public notices, consultations and various updates to the website. Everyone is getting their content into a good place for the new year and this is a wonderful thing, but can be a busy time for us.
+
+![a little snowman ornament sat in the tree]( https://github.com/nrw-digital/week-notes/blob/bd52a4d5513d6c8382fc74dfa29792e100d83349/images/winter%20weeknotes%20pic%20(4).png?raw=true)
 
 ## Fun Fact Friday
 
