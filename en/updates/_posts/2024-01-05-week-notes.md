@@ -28,19 +28,19 @@ It’s natural to have periods of stress and urgency, and there will always be s
 
 **Some of the changes for our 2024:** 
 
-1. Clearer priorities - of what we do / don’t do within the team. 
+1 Clearer priorities - of what we do / don’t do within the team. 
 
 +	We’ll be talking and sharing more within our team and with colleagues in other departments.
 +	As a team, this will mean accepting a longer list of stuff that will sit in a backlog, and not done (not always a comfortable thing). 
 
-2. We’ll prioritise publishing and designing web content and web forms. The team’s done brilliant work over the past couple of years to support colleagues with creating more accessible PDFs, before they are published to the website. Some teams have become great at considering and creating accessible documents, but there are a lot of teams that aren’t following the guidance and using the templates, meaning a lot more work within our team to test, check, advise and fix. 
+2 We’ll prioritise publishing and designing web content and web forms. The team’s done brilliant work over the past couple of years to support colleagues with creating more accessible PDFs, before they are published to the website. Some teams have become great at considering and creating accessible documents, but there are a lot of teams that aren’t following the guidance and using the templates, meaning a lot more work within our team to test, check, advise and fix. 
 
 We agreed as a team that we can’t continue to resource this. This will mean:
 + Publishing some PDFs by exception as we receive them (board papers, evidence reports) – pushing the responsibility for making the responsible to the authors. 
 + We’ll be doing a retrospective audit and escalating any non-compliance within the org, to get more people taking ownership and responsibility for accessibility.
 + Additional tutorials / videos of common accessibility issues, to add to our existing guidance for accessibility.
 
-3. Reduce all but essential intranet publishing. Alex is writing up more detail about this, but it’s likely to mean that we’ll encourage people to use other channels (Yammer / Email / DMS) if it’s not essential, all-company updates.
+3 Reduce all but essential intranet publishing. Alex is writing up more detail about this, but it’s likely to mean that we’ll encourage people to use other channels (Yammer / Email / DMS) if it’s not essential, all-company updates.
 
 ## New year digital decluttering tips…
 
