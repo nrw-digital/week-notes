@@ -13,7 +13,7 @@ Welcome to our first Welsh edition... our week notes have been drafted in Welsh 
 
 ## We don't translate our weeknotes... 
 
-At first, we drove our notes to the translation team. But... here Garmon and the team challenged us about the need to prioritise our notes (which was often very long - because of all the work in the team!). There was more important work for them to coax (hard to believe??), and with all the great jokes we were making, it was also quite a difficult thing to translate, and therefore time-consuming... so as an experiment here is drafting in Welsh and leaving the translation to Microsoft to see what we get…
+At first, we *drove our notes to the translation team. But... here Garmon and the team challenged us about the need to prioritise our notes (which was often very long - because of all the work in the team!). There was more important work for them to *coax (hard to believe??), and with all the great jokes we were making, it was also quite a difficult thing to translate, and therefore time-consuming... so as an experiment here is drafting in Welsh and leaving the translation to Microsoft to see what we get…
 
 Natural Resources Wales and the Digital team are keen to make Welsh a natural part of content design rather than bringing it in at the end of an English-only creative process. 
 
@@ -114,7 +114,7 @@ This was a huge task as the report was over 100 pages and it went back and forth
 
 Many of the accessibility errors were due to the use of tables. We have the organisation template for putting data in tables. But perhaps the lesson is to question whether information has to be in a table at all?
 
-![alt text](https://github.com/nrw-digital/week-notes/blob/6deea7eb471a0b54870dfee032678fb1ef83cf11/images/12012024-002.jpg?raw=true) 
+![Welsh river scene](https://github.com/nrw-digital/week-notes/blob/90dd9c4ac190c1aa174d65ef1892f8823bcbf7bb/images/12012024-005.jpg?raw=true)
 
 ## Working methods lessons from organisations' licence forms
 
@@ -147,10 +147,6 @@ Sam has worked with the Dee Estuary *Cockpit Fishing team on a new application p
 + help users understand what they have to do before applying
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/6deea7eb471a0b54870dfee032678fb1ef83cf11/images/12012024-003.jpg?raw=true)
-
-## New *drop-off service announced
-
-Laura has finally been given permission to publish a new [online service for water and sewer companies applying to *spew water into a watercourse](https://naturalresources.wales/permits-and-permissions/water-discharges-and-septic-tanks/water-company-discharges/apply-for-a-water-industry-act-consent/?lang=en). Maybe not the most appealing content but an essential one! As with all new services, we'll be keeping a close eye on feedback to make sure it's working for people. 
 
 ## *Good time
 
