@@ -111,7 +111,7 @@ Roedd hon yn dasg enfawr gan fod yr adroddiad dros 100 tudalen ac aeth e nôl ac
 
 Roedd llawer o’r gwallau hygyrchedd yn deillio o ddefnyddio tablau. Mae gennym dempled y sefydliad ar gyfer rhoi data mewn tablau. Ond efallai y wers yw cwestiynu a oes rhaid i wybodaeth fod mewn tabl o gwbl? 
 
-![alt text](https://github.com/nrw-digital/week-notes/blob/6deea7eb471a0b54870dfee032678fb1ef83cf11/images/12012024-002.jpg?raw=true) 
+![alt text](https://github.com/nrw-digital/week-notes/blob/90dd9c4ac190c1aa174d65ef1892f8823bcbf7bb/images/12012024-005.jpg?raw=true)
 
 ## Gwersi dulliau gweithio o ffurflenni trwyddedau sefydliadau
 
