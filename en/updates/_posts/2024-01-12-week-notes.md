@@ -1,5 +1,5 @@
 ---
-title: Weeknotes 12/01/2023
+title: Weeknotes 12/01/2024
 layout: post
 lang: en
 ref: 2024-01-12-week-notes
