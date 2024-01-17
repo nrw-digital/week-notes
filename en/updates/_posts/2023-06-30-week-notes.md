@@ -73,7 +73,7 @@ After a busy morning of networking and brainstorming with some really inspiring 
 
 ![alt text](https://github.com/nrw-digital/week-notes/blob/cbe8200a5947bb20171eb863bc4cff1177796d50/images/30062023-006.jpg?raw=true)
 
-My favourite session was about improving the education system so that it works for a greater number of individuals, including students who are neurodiverse or who may have special educational needs. Many of us had personal ties to the topic and agreed there were practical methods of adapting content to suit different students' learning styles and individual needs, however due to curriculum constrictions and differing educational views on a legislative level, sadly this does not feel like a priority.
+My favourite session was about improving the education system so that it works for a greater number of individuals, including students who are neurodiverse or who may have varied educational needs. Many of us had personal ties to the topic and agreed there were practical methods of adapting content to suit different students' learning styles and individual needs, however due to curriculum constrictions and differing educational views on a legislative level, sadly this does not feel like a priority.
 
 At the end of the day, we continued the party over at Pie Minister with delicious pies and cocktails! All in all, my first GovCamp experience was one of my favourite days since joining NRW and I am already looking forward to next year!
 
