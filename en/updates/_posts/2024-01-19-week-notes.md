@@ -25,7 +25,7 @@ Applicants are asked for evidence of commercial fishing, in each year, for scrut
 
 There are [two different applicant types which posed some design challenges for the user journey](https://naturalresources.wales/guidance-and-advice/environmental-topics/coast-and-marine/dee-estuary-cockle-fishery-licence-application-what-to-prepare/?lang=en). As it’s a hefty process for users, we used lots of question routing to move people through the process as quickly as possible.
 
-It’s been really good to work on this with a fab SME who has such a great understanding of this user group - and always working in line with our content and publishing manual.
+It’s been really good to work on this with a fab SME who has such a great understanding of this user group - and was open to working in line with our content and publishing manual.
 
 ## Content clinic
 Some of us in the digital team attended a content clinic this week with the lovely Christine from [Crocstar](https://crocstar.com/). Christine has worked with us before on the [Woodlands and forest](https://naturalresources.wales/guidance-and-advice/environmental-topics/woodlands-and-forests/?lang=en) content.
