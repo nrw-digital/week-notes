@@ -100,11 +100,9 @@ Avoid using colour alone to convey meaning, and if you are including colour in y
 
 ## UKGovCamp - brief reflections 
 
-Last weekend, Heledd went to her first UKGovCampXL. It was a great experience - a chance to meet a lot of people she’s connected with or followed online for years - plus some lovely familiar faces!
+Last weekend, Heledd went to her first [UKGovCampXL]](https://medium.com/oneteamgov/how-were-pitching-at-one-team-gov-global-dc7908ac5040). It was a great experience - a chance to meet a lot of people she’s connected with or followed online for years - plus some lovely familiar faces!
 
 The unconference agenda-forming process was great - everyone (around 400 people) wrote something on a card. Cards were shuffled, then discussed and voted on in pairs (and shuffled some more).
-
-[How we’re pitching at One Team Gov Global | by Debbie Blanchard | OneTeamGov | Medium](https://medium.com/oneteamgov/how-were-pitching-at-one-team-gov-global-dc7908ac5040)
 
 ![it’s okay to move to where you can make a difference, and other messages for attendees at govcamp](https://github.com/nrw-digital/week-notes/blob/7847b2b342cf7c9f421403ffbe0fedd661949432/images/govcamp.png?raw=true)
 
