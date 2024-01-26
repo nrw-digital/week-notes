@@ -135,6 +135,6 @@ The added benefit of the UKGovCamp was hearing from those that work in more digi
 
 ## Ending the week with some wisdom from Grand Master Oogway…
 
-https://youtu.be/IUKls-_dvRY 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IUKls-_dvRY?si=sG7rdo1iTNy9ii1d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
