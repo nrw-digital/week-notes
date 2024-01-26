@@ -118,7 +118,7 @@ You can browse the [agenda items](https://docs.google.com/spreadsheets/d/1S6nemS
 
 Some of the best discussions of the day were in chats in the corridor - it's amazing to spend a day (and evening over drinks and pizza), with so many people passionate about digital (and data and technology).
 
-She also managed to talk a bit about Wales - in terms of digital maturity, and also share some of the things covered in [A personal reflection on the evolution of bilingual design](https://naturalresources.wales/footer-links/blog-nrw-digital/blog-post-a-personal-reflection-on-the-evolution-of-bilingual-design-1/?lang=en).
+She also managed to talk a bit about Wales - in terms of digital maturity, and also share some of the things covered in [a personal reflection on the evolution of bilingual design](https://naturalresources.wales/footer-links/blog-nrw-digital/blog-post-a-personal-reflection-on-the-evolution-of-bilingual-design-1/?lang=en).
 
 The reason Heledd enjoys networking in these events is that it’s weirdly reassuring/energising and sometimes depressing to connect with people who are struggling with the same challenges. 
 
