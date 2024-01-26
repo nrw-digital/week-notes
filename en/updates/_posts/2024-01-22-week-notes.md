@@ -9,7 +9,7 @@ author: Laura, Lucinda and Soph
 
 ## New year, new blog!
 
-We are back and we’ve hit the ground running this year, with a new blog post about [working in the open to showcase our projects](https://naturalresources.wales/footer-links/blog-nrw-digital/blog-post-working-in-the-open-to-showcase-our-projects/?lang=en) 
+We are back and we’ve hit the ground running this year, with a new blog post about [working in the open to showcase our projects.](https://naturalresources.wales/footer-links/blog-nrw-digital/blog-post-working-in-the-open-to-showcase-our-projects/?lang=en) 
 
 ## Countdown to go live
 
