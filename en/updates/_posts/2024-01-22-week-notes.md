@@ -135,6 +135,6 @@ The added benefit of the UKGovCamp was hearing from those that work in more digi
 
 ## Ending the week with some wisdom from Grand Master Oogway…
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IUKls-_dvRY?si=sG7rdo1iTNy9ii1d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![quote from kung fu panda film](https://github.com/nrw-digital/week-notes/blob/e127e25a15669d0362c1673be11f91dff1c71642/images/kung%20fu%20panda.jpg?raw=true)
 
-
+You can watch the [full clip on YouTube](https://www.youtube.com/watch?v=IUKls-_dvRY). Happy Friday! Wishing you all a lovely weekend.
