@@ -66,7 +66,7 @@ Lucinda and Heledd spent two days working on the train and meeting people in per
 
 Heledd gave the room an overview of the digital standards for Wales, and talked through the [service standard review](https://digitalpublicservices.gov.wales/reviewing-your-service-against-digital-service-standards) we did with some of the team recently. It was a chance to recognise and celebrate where the team is already well aligned to the standards, and share examples of where we can work together to do more – such as user needs, bilingual design and working in the open.
 
-![Heledd and Lucinda at Flood Land and Launch event](https://github.com/nrw-digital/week-notes/blob/8bc0339149e6f9ecef2bdfb444c72d852267eeb0/images/dartford%20warbler.jpg?raw=true)
+![Heledd and Lucinda at Flood Land and Launch event](https://github.com/nrw-digital/week-notes/blob/b7aae03e964a670fcbc3f17c8b15c8f01c731a7b/images/heledd%20and%20lucinda%20at%20Flood%20Land%20and%20Launch%20event.jpg?raw=true)
 
 The day was well structured and fun - despite lots of serious thinking and planning all the work that needs to happen between now and go live in July! There was lots of sharing, listening and collaboration, and we loved the questions people were asking us – there was a real feeling of respect and appreciation for all the different skills, experience and knowledge in the room. It feels like everyone’s been on a journey already with this, the shift and understanding for user-centred design and agile delivery, and the commitment to deliver [our digital strategy](https://naturalresources.wales/about-us/what-we-do/strategies-and-plans/digital-strategy-for-natural-resources-wales-2022-25/?lang=en) was great.
 
