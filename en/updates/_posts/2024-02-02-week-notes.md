@@ -119,7 +119,7 @@ Next is to deliver the report of our work and our roadmap for how we iterate the
 
 ## Other stuff we’ve been working on:
 
-+ This week, Sophie worked with Kate Lock to publish an accessible report on the Grey Seal Breeding Census 2023. The report contains a great deal of interesting insight into the life and breeding trends of grey seals, and investigates the impact that pollution, disturbance and disease has on the grey seal population in Skomer Island. Read more about (Kate’s work with the grey seal census on our website). 
++ This week, Sophie worked with Kate Lock to publish an accessible report on the Grey Seal Breeding Census 2023. The report contains a great deal of interesting insight into the life and breeding trends of grey seals, and investigates the impact that pollution, disturbance and disease has on the grey seal population in Skomer Island. Read more about Kate’s work with the grey seal census on our website. 
 + James has been working on a presentation for Welsh Government’s user research community about our ‘Do something on land we manage’ service. He’s also been adapting templates for SoNaRR 2025 and publishing new content about Shoreline Management Plans.
 
 ## Friday Fun Fact
