@@ -9,7 +9,7 @@ author: Toyah and Paul
 
 Dydd Gŵyl Dewi Hapus! Happy St David’s Day - and happy Friday. It’s the end of another busy week here in Digital, with lots of big pieces of work underway.
 
-## Marine discovery project
+## Marine discovery project 
 
 The marine licensing project is in full swing now, with research and content design work getting underway alongside the folks from Deloitte.
  
