@@ -65,6 +65,18 @@ This will no doubt make a big difference to the quality of the tasks that are se
 
 So please, if you haven’t already - update your bookmarks to make sure you have access to our new and improved content request form.
 
+## The organisation is feeling a bit more agile
+
+Heledd joined an Agile for leaders course with CDPS with colleagues from the Flood Risk Management leadership group. Huge thanks to Dave Brain for organising and for getting a great group of managers, and senior leaders together. 
+
+The course content was great, and it was an opportunity to brush up on good practice and discover some new tools and techniques. Having the time to discuss challenges for teams that are trying to work in an agile and user centred way, within organisations that are more traditional was also really useful. 
+
+It may not feel like it some days, but we are making progress with our Digital Maturity. We feel like we’re currently somewhere between “Technology enabled” and “Digitally Transforming”.  It feels that we've come along a fair bit since publishing the [Digital Strategy](https://naturalresources.wales/about-us/what-we-do/strategies-and-plans/digital-strategy-for-natural-resources-wales-2022-25/?lang=en) in 2022.
+
+![image showing agile model of digital maturity](https://github.com/nrw-digital/week-notes/blob/39c8d547e5002c331eb38b4faf7ed8b8af3df652/images/AGILE.png?raw=true) 
+
+Ceri Davies, exec Director for Evidence, Permitting and Policy, attended the training for the whole two days too - and we hope she’ll encourage other senior leaders to make the most of this training from CDPS.
+
 ## Other things we’ve been working on:
 
 + Sophie has been reviewing Fire Prevention content to ensure it aligns with the web guidelines and [A-Z style guide](https://naturalresources.wales/footer-links/a-z-style-guide/?lang=en#D_Top).
