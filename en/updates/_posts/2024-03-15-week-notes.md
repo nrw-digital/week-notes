@@ -37,7 +37,7 @@ There are several [CDPS communities of practice](https://digitalpublicservices.g
 
 It’s us, your friendly Digital Wooficers, popping in with some advice around managing your mental wellbeing in the digital age. 
 
-Technology is central to so much of what we do. It is important to check in with yourself and make changes to prioritising your wellbeing and get into good habits to protect yourself from becoming overwhelmed.
+Technology is central to so much of what we do. It is important to check in with yourself and make changes to prioritise your wellbeing and get into good habits to protect yourself from feeling overwhelmed.
 
 Monty the dachshund shares this advice: “Try to carve out some screen-free time at work and at home to give your brain, your eyes and your emotions a chance to calm down and relax. At work this can be difficult, but there are small changes you can make to lessen your screen time. For example, writing your weekly or daily to-do lists on paper notebooks instead of digitally, or limiting digital intrusions while you are focusing, such as using the Do Not Disturb feature, can also help you become more focussed and productive.” 
 
