@@ -7,7 +7,7 @@ hidetitle: True
 author: Owain and Lucinda
 ---
 
-Another week. Lots of publishing and learning. Along with one worried Heledd as the initial placeholder for our weeknotes said:
+Another week with lots of publishing and learning. Along with one worried Heledd as the initial placeholder for our weeknotes said:
 
 >“Stuff happened, words were said, tears were shed…Then we bucked up and wrote the weeknotes.”
 
