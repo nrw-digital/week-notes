@@ -21,6 +21,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   line-height: 1.66667;
+  font-size: var(--base-font-size, 18px);
 }
 
 a {
