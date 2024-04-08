@@ -32,11 +32,11 @@ navigation:
     url: /updates/
 
 # Colours
-theme_color: '#326A85'
+theme_color: '#008393'
 accent_color: '#326A85'
 text_color: '#0A0908'
 secondary_text_color: '#20201D'
-link_color: '#3E81A3'
+link_color: '#007485'
 background_color: '#fbfbfb'
 page_color: '#ffffff'
 border_color: '#d7d7d7'
