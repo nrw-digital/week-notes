@@ -29,6 +29,7 @@ a {
   text-decoration: none;
   -webkit-transition: color .3s ease;
   transition: color .3s ease;
+  font-weight: bold;
   &:hover {
     color: var(--secondary-text-colour);
     text-decoration: underline;
