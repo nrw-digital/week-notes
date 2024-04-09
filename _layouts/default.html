@@ -30,12 +30,6 @@
     <h3 class="app-title site-title"><a class="logo-text" href="{{ site.baseurl }}/">{{site.t[page.lang].title}}</a></h3>
     {% endif %}
 
-    {% if page.is_post %}
-    {% include language-switcher.html pages=site.posts %}
-    {% else %}
-    {% include language-switcher.html pages=site.pages %}
-    {% endif %}
-
     <input type="checkbox" id="tm" class="app-menu__checkbox">
 		<label for="tm" class="tm app-menu__toggle"><span>Menu</span></label>
     <nav class="app-nav">
@@ -49,6 +43,13 @@
           <a class="{{ current }}" href="{{ site.t[page.lang].root }}{{ item.url }}">{{ item[page.lang] | capitalize }}</a>
         </li>
         {% endfor %}
+
+    {% if page.is_post %}
+    {% include language-switcher.html pages=site.posts %}
+    {% else %}
+    {% include language-switcher.html pages=site.pages %}
+    {% endif %}
+        
       </ul><!-- .menu -->
     </nav>
     
