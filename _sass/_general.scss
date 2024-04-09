@@ -30,6 +30,12 @@ a {
   -webkit-transition: color .3s ease;
   transition: color .3s ease;
   font-weight: bold;
+  &:focus{ 
+    outline-color: #FFDD00;
+    background-color: #FD0 !important;
+    color: #000000;
+    box-shadow: 0 -2px #FFDD00, 0 4px #0B0C0C !important;
+  }
   &:hover {
     color: var(--secondary-text-colour);
     text-decoration: underline;
