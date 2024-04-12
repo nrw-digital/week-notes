@@ -31,10 +31,8 @@ It was great to have short discussions with lovely people form Social Care Wales
 We have even more stuff to read and ponder now, but thanks Lou, Sarah and the team at CDPS for this opportunity. They also said they may write some blogs on some of the other questions we asked - so we’ll look out for those in months to come!
 
 More reading: 
-
-[Bad Services — Good Services](https://good.services/blog/bad-services-are-bad)
-
-[Full Stack Service Design – Sarah Drummond (sarah-drummond.com)](https://sarah-drummond.com/full-stack-service-design/)
++ [Bad Services — Good Services](https://good.services/blog/bad-services-are-bad)
++ [Full Stack Service Design – Sarah Drummond (sarah-drummond.com)](https://sarah-drummond.com/full-stack-service-design/)
 
 ## Other stuff we’ve been working on this week…
 <li>Owain has been doing some updates on our weeknotes site. With updating the font sizes, colours, tab order and adding focus colour.</li>
