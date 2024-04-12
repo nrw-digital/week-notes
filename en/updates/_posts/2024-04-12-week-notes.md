@@ -39,7 +39,7 @@ More reading:
 + Heledd joined the Service Design Cymru network session, with guest speakers talking about emotion in design. Fascinating. Recording available to members that sign up to the CDPS community of practice.
 + Phil is working on changing the <a rel="nofollow" href="https://naturalresources.wales/guidance-and-advice/environmental-topics/woodlands-and-forests/environmental-impact-assessment-for-forestry-activity/environmental-impact-assessment-for-forestry-activity/?lang=en">Environmental Impact Assessment felling register</a>. The register is supposed to keep data for five years. However, it’s been very neglected and it holds data for eight plus years. It’s currently in the old table format and there is a lot of out of date content on the page, which makes no sense to anyone. So lots of improvements to make here.
 
-### 'Hazardous waste project
+### Hazardous waste project
 
 Sam and Alex have been busy this week with their continued work on the hazardous waste project. They've been working closely with the developers on:
 
