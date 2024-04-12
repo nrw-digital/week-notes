@@ -48,7 +48,7 @@ Sam and Alex have been busy this week with their continued work on the hazardous
 + content enhancements
 + tying in the new app to website content journey
 + testing
-+ 
+
 ## Friday Fact
 
 ![](https://github.com/nrw-digital/week-notes/blob/5e1d7af4ca6c7ba792378a02dc6ddba97a2db48a/images/eclipse.jpg?raw=true) 
