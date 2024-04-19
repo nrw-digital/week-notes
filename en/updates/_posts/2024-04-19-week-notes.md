@@ -111,7 +111,7 @@ On Thursday night the digital team in the south met up for Paul’s leaving part
 
 + Phil has been working with Claire on the medium combustion plant variation form and working with Suzanne on the felling licence form
 + Owain has been busy finishing the testing on the NRW and WCP websites
-+ The digital officers  kepts the inbox afloat on Friday despite being emotional battered from the new Taylor Swift album ;) 
++ The digital officers  kept the inbox afloat on Friday despite being emotional battered from the new Taylor Swift album ;) 
 
 ## Fun Fact Friday!
 
