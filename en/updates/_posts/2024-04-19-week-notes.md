@@ -38,7 +38,7 @@ Ideas:
 
 There are certainly lessons to be learnt from this type of project in the future.
 
-![Alt](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-009.png?RAW=true)
+![Alt](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-009.png?raw=true)
 
 ## April is Stress Awareness Month
 
@@ -73,11 +73,11 @@ This week, Sophie - one of our Digital Officers - joined an interesting presenta
 
 Here are some of the key takeaways she’d like to share from the session:
 
-![1 in 3 people will need assistive technology in their lives, according to the WHO Global Report on Assistive Technology.](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-006.png?RAW=true)
+![1 in 3 people will need assistive technology in their lives, according to the WHO Global Report on Assistive Technology.](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-006.png?raw=true)
 
 Accessibility is for everyone, any one of us could rely on assistive technology at some point in our lives, whether short or long term.
 
-![1 in 4 / 24% of the UK are classified as disabled.](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-005.png?RAW=true)
+![1 in 4 / 24% of the UK are classified as disabled.](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-005.png?raw=true)
 
 There’s a much greater number of people living with disabilities that you may be aware of. 1 in 4 or 25% of the UK are classified as disabled. Prioritising accessibility ensures they are not excluded from the conversation.
 
@@ -87,17 +87,17 @@ At any given time, your content might be viewed by new people without prior know
 
 Using plain language benefits everybody.
 
-![Slide showing the importance of plain language to help an audience understand.](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-004.png?RAW=true)
+![Slide showing the importance of plain language to help an audience understand.](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-004.png?raw=true)
 
 Signposting via hyperlinks is a great way to help users find the information they need to know. But it matters a lot where the link is placed. Add your hyperlink over the item itself, so for example if you’re linking to guidance on littering, make sure you add the link over the ‘guidance on littering’ part of the sentence.
 
 Placing them earlier on in your content helps users find what they’re looking for quickly. The image below shows eye-tracking data on a webpage and the F shape our eyes tend to follow when scanning content.
 
-![Eye-tracking data image showing the F shaped pattern users tend to read content in](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-003.png?RAW=true)
+![Eye-tracking data image showing the F shaped pattern users tend to read content in](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-003.png?raw=true)
 
 During the session, the following helpful diagram was shared and we wanted to feature it here in our weeknotes as it’s an incredibly valuable tool for teams to consider as they create content.
 
-![Flowchart showing the path to accessible content. From choosing plain language, making use of the built in tools in Word and Adobe to check your content for accessibility faults, avoiding colour to convey information and checking the size of text and colours before testing with users.](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-002.png?RAW=true)
+![Flowchart showing the path to accessible content. From choosing plain language, making use of the built in tools in Word and Adobe to check your content for accessibility faults, avoiding colour to convey information and checking the size of text and colours before testing with users.](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-002.png?raw=true)
 
 ## Time to say goodbye
 
@@ -105,7 +105,7 @@ It’s been a sad week in the digital team. Paul, our delivery manager, has got 
 
 On Thursday night the digital team in the south met up for Paul’s leaving party. We went to the flight club for a few drinks and a game of darts….180!!!
 
-![Darts](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-007.jpg?RAW=true) ![Group photo](https://github.com/nrw-digital/week-notes/blob/main/images/19042024-008.jpg?RAW=true) 
+![Darts](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-007.jpg?raw=true) ![Group photo](https://github.com/nrw-digital/week-notes/blob/main/images/19042024-008.jpg?raw=true) 
 
 ## Other stuff we’ve been working on this week…
 
@@ -121,4 +121,4 @@ There was an amazing green turtle in the sea life aquarium.
 
 The green turtle is one of the largest sea turtles in our oceans. Green turtles graze on seagrasses and algae, which maintains the seagrass beds and makes them more productive (much like mowing the lawn to keep it healthy). That’s how they get their lovely green colour. The sea turtle that Phil saw maintains her lovely green colour by eating tons of cucumber and lettuce each day, a very healthy turtle indeed.
 
-![Green Turtle](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-001.jpg?RAW=true)
+![Green Turtle](https://github.com/nrw-digital/week-notes/blob/f96e664d46c3a6971b367fad68aee41b7fed3b92/images/19042024-001.jpg?raw=true)
