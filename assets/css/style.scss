@@ -51,7 +51,7 @@ $palette: (
   page:       {{ page_colour }}
 );
 
-// Imports   
+// Imports
 @import "vendor/all";
 @import "helpers/all";
 @import "functions";
@@ -86,16 +86,17 @@ $palette: (
   --content-width: 820px;
 }
 
-.lbm-footer p {
+.lbm-footer span {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   margin-top: 0;
-  margin-bottom: calc(var(--vertical-spacing) * 0.6666666667);
+ margin-bottom: calc(var(--vertical-spacing) * 0.6666666667);
   font-weight: 400;
   font-size: var(--small-screen-font-size);
   line-height: 1.3125;
-  padding: 30px;
-  border-top: 1px solid #323232;
+  padding: 0px;
+  border-top: 5px solid var(--accent-colour);
+  display: block;
 }
 @media (min-width: 46.25em) {
   .lbm-footer p {
@@ -103,4 +104,17 @@ $palette: (
     line-height: 1.45;
     margin-bottom: var(--vertical-spacing);
   }
+}
+
+@media screen and (min-width: 400px) {
+.siteFooterContactButton {
+    max-width: 400px;
+    margin: 0 auto;
+}
+}
+
+.siteFooterButtonContainer
+{
+  padding: 10px;
+  align-items: center;
 }

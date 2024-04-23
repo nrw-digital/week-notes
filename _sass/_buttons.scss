@@ -8,3 +8,45 @@
     color: var(--light-text-colour);
   }
 }
+
+.button-contact-us {
+  background: var(--accent-colour);
+  color: #ffffff;
+  font-weight: bold;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 1px solid;
+  height: 40px;
+  width: 124.61px;
+  line-height: 51.6px;
+  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  a:link{
+    color: #ffffff;
+    text-decoration:none;
+    display: block;
+    text-decoration:none;
+    font-family:Arial;
+
+    &:focus{ 
+      outline-color: #FFDD00;
+      background-color: #FD0 !important;
+      color: #000000;
+      box-shadow: 0 -2px #FFDD00, 0 4px #0B0C0C !important;
+      width: 124.61px;
+      height: 40px;
+      text-align: center;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+
+  &:hover {
+    background: var(--button-hover-colour);
+    color: var(--light-text-colour);
+  }
+}
