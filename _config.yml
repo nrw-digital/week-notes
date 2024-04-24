@@ -56,6 +56,7 @@ t:
     contact : contact us
     nrw : NRW
     power : powered by
+    menu: menu
   cy:
     title: CNC nodiadau wythnos
     description: "Disgrifiwch eich gwefan"
@@ -70,3 +71,4 @@ t:
     contact : cysylltu â ni
     nrw : CNC
     power : wedi ei bweru gan
+    menu: bwydlen
