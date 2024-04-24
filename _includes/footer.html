@@ -5,15 +5,15 @@
     <table border="0" role="presentation">
       <tbody>
         <tr>
-          <td><p align="left">Powered by <a href="https://naturalresources.wales/?lang=en">NRW</a></p></td>
-          <td><p align="right"><a href="#">Top</a></p></td>
+          <td><p align="left">{{ site.t[page.lang].power | capitalize }} <a href="https://naturalresources.wales/?lang=en">{{ site.t[page.lang].nrw }}</a></p></td>
+          <td><p align="right" ><a href="#" aria-label="Go to the top of the page" data-js-hook="back-to-top-button">{{ site.t[page.lang].top | capitalize }}</a></p></td>
         </tr>
       </tbody>
     </table>  
   </span>
   <div class="siteFooterContactButton" align="center">
   <div class="button-contact-us">
-    <a href="mailto:digidol@cyfoethnaturiolcymru.gov.uk?subject=NRW Weeknotes&body=Share your thoughts about our Weeknotes!.">Contact us</a>
+    <a href="mailto:digidol@cyfoethnaturiolcymru.gov.uk?subject=NRW Weeknotes&body=Share your thoughts about our Weeknotes!">{{ site.t[page.lang].contact | capitalize }}</a>
   </div>
 </div>
 

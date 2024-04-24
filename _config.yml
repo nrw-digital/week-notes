@@ -51,6 +51,10 @@ t:
     team: team
     by: by
     share: share
+    top : top
+    contact : contact us
+    nrw : NRW
+    power : powered by
   cy:
     title: CNC nodiadau wythnos
     description: "Disgrifiwch eich gwefan"
@@ -60,4 +64,7 @@ t:
     team: tîm
     by: gan
     share: rhannu
-
+    top : i fyny
+    contact : cysylltu â ni
+    nrw : CNC
+    power : wedi ei bweru gan
