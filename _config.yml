@@ -57,6 +57,7 @@ t:
     nrw : NRW
     power : powered by
     menu: menu
+    skip: Skip To Main Content
   cy:
     title: CNC nodiadau wythnos
     description: "Disgrifiwch eich gwefan"
@@ -72,3 +73,4 @@ t:
     nrw : CNC
     power : wedi ei bweru gan
     menu: bwydlen
+    skip: Sgipio I’r Prif Gynnwys

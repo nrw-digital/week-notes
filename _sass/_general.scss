@@ -405,3 +405,19 @@
      }
    }
    
+   .skipNavigationLink {
+    left: -10000px;
+    position: absolute;
+    z-index: 1;
+  
+    &:focus {
+      left: 0;
+      margin: 3px;
+      padding: 3px;
+      position: relative;
+    }
+  }
+  
+  .mainElement:focus {
+    outline: none;
+  }
