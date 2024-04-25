@@ -23,7 +23,7 @@
 <body class="lang-{{page.lang}}">
   <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
 
-  <a href="#maincontent" class="skipNavigationLink">{{ site.t[page.lang].skip}}</a>
+  <a href="#maincontent" class="skipNavigationLink" id="skipNavigationLink">{{ site.t[page.lang].skip}}</a>
 
   <header class="app-top-bar">
     {% if page.url == "/" %}
