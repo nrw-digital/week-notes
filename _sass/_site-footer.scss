@@ -33,7 +33,8 @@
   text-decoration: none;
   -webkit-transition: .3s ease;
   transition: .3s ease;
-  position: absolute;
+  position: static;
+  right: 0;
   display: inline-flex;
   align-items: center;
   &:hover {
