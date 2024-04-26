@@ -28,11 +28,14 @@
   display: inline-block;
   font-size: 18px;
   margin-top: 1.25rem;
-  padding: 1px 0 3px;
+  padding: 10px 15px 10px 15px;
   text-align: center;
   text-decoration: none;
   -webkit-transition: .3s ease;
   transition: .3s ease;
+  position: absolute;
+  display: inline-flex;
+  align-items: center;
   &:hover {
     text-decoration: none;
   }
