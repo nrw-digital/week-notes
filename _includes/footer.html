@@ -5,8 +5,10 @@
     <table border="0" role="presentation">
       <tbody>
         <tr>
-          <td><p align="left">{{ site.t[page.lang].power | capitalize }} <a href="https://naturalresources.wales/">{{ site.t[page.lang].nrw }}</a></p></td>
-          <td><p align="right" ><a href="#skipNavigationLink" aria-label="{{ site.t[page.lang].toptext | capitalize }}">{{ site.t[page.lang].top | capitalize }}</a></p></td>
+          <td><p align="left">{{ site.t[page.lang].power | capitalize }} <a href="https://naturalresources.wales/?lang=en">{{ site.t[page.lang].nrw }}</a></p></td>
+          <td>
+            <a href="#skipNavigationLink" aria-label="{{ site.t[page.lang].toptext | capitalize }}" class="back-to-top" >{{ site.t[page.lang].top | capitalize }}</a>
+          </td>
         </tr>
       </tbody>
     </table>  

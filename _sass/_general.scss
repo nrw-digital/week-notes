@@ -319,26 +319,28 @@
    #menu-open,
    #menu-close,
    .back-to-top {
-     background: 0;
-     border: 1px solid var(--border-colour);
-     border-radius: 3px;
-     box-sizing: border-box;
-     color: _palette(primary);
-     padding: 0;
-     position: relative;
-     height: 36px;
-     width: 36px;
-     -webkit-transition: border-color .3s, color .3s;
-     transition: border-color .3s, color .3s;
-   
-     &:hover,
-     &:focus,
-     &:active {
-       border-color: _palette(theme);
-       color: _palette(theme);
-       outline: 0;
-     }
-   }
+    background: 0;
+    border: 2px solid var(--border-colour);
+    border-radius: 3px;
+    box-sizing: border-box;
+    color: _palette(primary);
+    padding: 10;
+    position: fixed;
+    height:fit-content;
+    width: fit-content;
+    -webkit-transition: border-color .3s, color .3s;
+    transition: border-color .3s, color .3s;
+  
+    &:hover,
+  
+    &:focus,
+  
+    &:active {
+      /*border-color: _palette(theme);
+      color: _palette(theme);*/
+      outline: 0;
+            }
+    }
    
    /* Custom icons */
    .icon-menu {
