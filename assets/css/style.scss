@@ -106,12 +106,13 @@ $palette: (
   }
 }
 
-@media screen and (min-width: 400px) {
-.siteFooterContactButton {
-    max-width: 400px;
-    margin: 0 auto;
-}
-}
+@media screen and (min-width: 46.25px) {
+  .siteFooterContactButton {
+      max-width: 400px;
+      margin: 0 auto;
+      margin-top: 10px;
+  }
+  }
 
 .siteFooterButtonContainer
 {
