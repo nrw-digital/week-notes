@@ -37,7 +37,7 @@
 
 .app-title {
   margin-left: 15px;
-  order: 1;
+ // order: 1;
 }
 
 .app-language-switcher {
@@ -46,7 +46,7 @@
   padding: 3px 8px;
 
   @include mq($from: tablet) {
-    padding: 5px 15px;
+    //padding: 5px 15px;
     order: 3;
   }
 }
