@@ -43,7 +43,7 @@ border_color: '#d7d7d7'
 
 t:
   en:
-    title: NRW week notes
+    title: Natural Resources Wales week notes
     description: "Describe your site"
     language: English
     root: /week-notes/en
@@ -59,7 +59,7 @@ t:
     menu: menu
     skip: Skip To Main Content
   cy:
-    title: CNC nodiadau wythnos
+    title: Cyfoeth Naturiol Cymru nodiadau wythnos
     description: "Disgrifiwch eich gwefan"
     language: Cymraeg
     root: /week-notes/cy
