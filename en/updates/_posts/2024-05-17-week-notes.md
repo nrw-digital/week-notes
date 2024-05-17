@@ -21,7 +21,7 @@ Meeting our legal obligations around accessibility is important to make sure no 
 ## Updates to the week notes site
 As you may have noticed in the past few weeks, there have been updates to the Week notes site. These updates have been made to address the accessibility and usability issues with the site on both desktop and mobile devices. 
 
-As it was noticed that the tab order was incorrect with the navigation, no focus colour, no footer and English text appearing on the Welsh side of the site. So we wanted to put into practice what we preach by first addressing these.
+As it was noticed that the tab order was incorrect with the navigation, no skip to content link, no focus colour, no footer and English text appearing on the Welsh side of the site. So we wanted to put into practice what we preach by first addressing these.
 
 As we aren’t developers, much of this has been “learn by doing”, with lots of trial and error on our test site. Along with reviewing a lot of guides and forum questions, and occasionally breaking the test site.
 
