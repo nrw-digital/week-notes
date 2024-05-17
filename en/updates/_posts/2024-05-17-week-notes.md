@@ -84,7 +84,7 @@ On Friday we continued this exploration, working with Sean from the MRPaAT team 
 + Shaun has made a number of changes to the septic tank registration pages based on user feedback.
 
 ## Fun fact
-Following the event of the previous weekend, where we were able to see the Northen Lights. This natural phenomenon has been observed since 30,000 BC, with many different cultures have their folktales about the event. 
+Following the event of the previous weekend, where we were able to see the Northern Lights. This natural phenomenon has been observed since 30,000 BC, with many different cultures have their folktales about the event. 
 
 The Inuit, Native Americans, Aboriginals and others all have their own stories and beliefs about the Aurora. For example, there are some Inuit tribes who say that the spirits of animals they hunted are in northern lights. This would mean that the Northern lights are the spirits of seals, deer, beluga wales and salmon! Other Inuit tribes call the northern lights “aqsarniit”, which means “football players”. They believe that the lights are the spirits of the dead, playing football with the head of a walrus.
 
