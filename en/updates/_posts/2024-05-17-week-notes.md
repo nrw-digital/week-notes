@@ -67,7 +67,6 @@ We’re told staff can calculate this as they have access to GIS tools (unlike m
 
 ## Marine licensing transformation 
 Sam and Toyah's work on band 1 marine licensing continues. This week we have been getting stuck into desk research, unearthing useful insights from various sources and determining how each element might impact on the twin goals of: 
-
 + improving applicant experience
 + reducing the amount of time MLT staff lose because of poor quality applications 
 
