@@ -26,6 +26,10 @@ layout: default
       <span>{{ site.t[page.lang].share | capitalize }}:</span>
       <a target="_blank"
         href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;url={{ page.url | absolute_url }}" rel="noopener">Twitter</a>
+      <a target="_blank"
+        href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.title | uri_escape }}&amp;url={{ page.url | absolute_url }}" rel="noopener">Linkedin</a>
+      <a target="_blank"
+        href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}&amp;{{ page.title | uri_escape }}" rel="noopener">Facebook</a>
     </div><!-- .share-post -->
 
   </article><!-- .post -->
