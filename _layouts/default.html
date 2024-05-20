@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.redirect %}{{ page.title }} | {% endif %}{{ site.t[page.lang].title }}</title>
+  <title>{% if page.redirect %}{{ page.title }} | {% endif %}{{ site.t[page.lang].title }} \ {{page.title}}</title>
   <meta name="description" content="{{ page.description | default: site.t[page.lang].description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   {% if page.redirect %}
