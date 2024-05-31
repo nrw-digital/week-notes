@@ -79,17 +79,14 @@ Updating the design system will also give us the building blocks for designing a
 
 ## Content Design, second edition
 
-Heledd joined the launch of Content Design, second edition by Sarah Winters and Rachel Edwards.
+Heledd joined the launch of [Content Design, second edition](https://contentdesign.london/shop/content-design-by-sarah-winters-and-rachel-edwards) by Sarah Winters and Rachel Edwards.
 
 Giles Turnbull quizzed Sarah about what’s changed in the world of content design since 2017:
 
-More people are now doing content design and talking about content design – and we need to keep doing that.
-
-Other disciplines now recognise the need to bring in content designers (e.g. product managers, tech etc) now say “we need a content designer on this work”
-
-Much stronger emphasis on journey mapping as part of content design – and how it also helps differentiate between design and “just writing, or editing”. There’s a whole chapter dedicated to this (currently available as a free download: Content Design, second edition - Journey mapping)
-
-Remote working is the norm now, so the new book reflects that.
++ More people are now doing content design and talking about content design – and we need to keep doing that.
++ Other disciplines now recognise the need to bring in content designers (e.g. product managers, tech etc) now say “we need a content designer on this work”
++ Much stronger emphasis on journey mapping as part of content design – and how it also helps differentiate between design and “just writing, or editing”. There’s a whole chapter dedicated to this (currently available as a free download: [Content Design, second edition - Journey mapping](https://contentdesign-london.myshopify.com/products/content-design-second-edition-free-journey-mapping-chapter))
++ Remote working is the norm now, so the new book reflects that.
 
 There were some great questions, such as “what do you say to blockers” and “advice to leaders” – Sarah’s advice was to get them in a room (or virtual), and show the research, the data and how the thing is failing and the cost of doing it the wrong way.  
 
