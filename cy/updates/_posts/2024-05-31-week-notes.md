@@ -1,5 +1,5 @@
 ---
-title: Weeknotes 31/05/2024
+title: Nodiadau wythnos 31/05/2024
 layout: post
 lang: cy
 ref: 2024-05-31-week-notes
