@@ -66,8 +66,8 @@ Some of the ideas from our groups included:
 
 + Creating Welsh language content from the start - not translating English services as the final task
 + Ending the binary choice between English and Welsh and supporting learners by helping making it easier to switch between languages
-+ Fun Food Network - developing skills and crating nutritious food,
-+ PubHub - revitalising pubs and taking services to communities
++ Fun Food Network - developing skills and creating nutritious food
++ PubHub - revitalising pubs and taking services into communities.
 
 At the end of the day we were invited to present our team’s findings to the group and our panellists were able to comment and ask questions about our ideas. This was a good chance to reflect and refine our solution and ensure it is fit for purpose. 
 
