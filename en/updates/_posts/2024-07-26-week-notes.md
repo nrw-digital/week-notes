@@ -25,6 +25,8 @@ What do you think was happening here? The answer will be revealed at the end of 
 
 Lucinda and Heledd were in Cardiff this week to attend the Flood Warning Information Services for Wales ‘Land and celebrate’ event. The event was to celebrate and reflect on the project so far. Last week the updated Sign up for flood warnings service was ‘soft launched’. 
 
+**A milestone marking years of effort for the team**
+
 Lucinda joined the project in January at the tail-end but will continue in the product team now that the service is in the user's hands. Next week Lucinda is joining discussions on the next steps. She hopes to push for making changes based on evidence and user needs, to understand how we will measure success, and establish a workflow where design has more consideration earlier.
 
 Nick, the Project Manager, led the day and struck a good balance between project reflection, discussing the ‘what’s next?’ question, and celebratory fun (Image explanation coming soon, promise).
