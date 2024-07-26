@@ -52,6 +52,34 @@ And finally, what was happening in the image at the start of this section? Well,
 
 Nick gets full marks for creativity.
 
+##Just a bit more about the flood stuff...
+
+This is a huge step in NRW’s transformation journey. They’ve managed to:
+*build a team, that’s committed to improving the product, services and ways of working
+*make it quicker to issue a flood warning - on the old system, it would take anywhere between 10 minutes, to 1 hour to issue a flood warning. Now, it’s around 2 minutes, but could be done in 30 seconds
+
+Every time Heledd’s joined the “land and launch” sessions that Nick and Martyn have hosted, she’s been struck by the energy, and sense of fun that’s grown here – as well as delivering an important product. Loved the feedback session from all the team members on each other.
+
+At one point, Nick said  “an organisation can choose to invest in its people through learning and development, or they can also invest in their workforce by making their jobs better”. Boom. 
+
+##What even is transformation?
+
+It seems that everyone has a different view of transformation. You can [share your interpretation of “transformation”](https://www.menti.com/alz548ni25di) to help Heledd prove a point (or not) that it’s a confusing word, and everyone has a different interpretation. 
+
+##Back to the permitting future
+
+Heledd and James attended a workshop looking ahead into what the world (and permitting) will look like in 15 years’ time. 
+
+Despite how easy it was to slip into our fears for the future, we managed to keep a positive vibe in the room. It was good to be with a mix of people that keen to collaborate and share their thoughts and debate about: 
+* where permitting (and the world) was 15 years ago
+* futures thinking, and trends and predictions by our evidence team
+* we all drew a picture of how we currently see permitting 
+* visualised what permitting could be like by 2040 and started to plot some of the key things that need to be done along the way.
+
+We love it when colleagues from other departments are championing the need to think about things from our user’s perspective, and recognise how cumbersome our guidance is, and the scope to do a lot more with data.
+
+Looking forward to continuing to work with Martyn, Helen, Non and others on improving experience of permitting service users.
+
 ## Forms standardisation
 
 Phil, Kim and Sam continued work on 93 of our forms work this week, ensuring button text says the same thing, in the same way, across them all.
