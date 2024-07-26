@@ -29,7 +29,7 @@ Lucinda joined the project in January at the tail-end but will continue in the p
 
 Nick, the Project Manager, led the day and struck a good balance between project reflection, discussing the ‘what’s next?’ question, and celebratory fun (Image explanation coming soon, promise).
 
-One of the celebration activities was to write a poem about the experience of the project so far. Lucinda’s team MAY have included a sneaky bot member (ChatGBT), but AI outputs are only as good as their human inputting the prompts right? Anyway…
+One of the celebration activities was to write a poem about the experience of the project so far. Lucinda’s team MAY have included a sneaky bot member (ChatGPT), but AI outputs are only as good as their human inputting the prompts right? Anyway…
 
   Revamping the water whispers
   There once was a system named FWS
