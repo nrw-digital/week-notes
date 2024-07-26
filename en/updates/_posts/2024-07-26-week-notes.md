@@ -52,7 +52,7 @@ And finally, what was happening in the image at the start of this section? Well,
 
 Nick gets full marks for creativity.
 
-##Just a bit more about the flood stuff...
+## Just a bit more about the flood stuff...
 
 This is a huge step in NRW’s transformation journey. They’ve managed to:
 *build a team, that’s committed to improving the product, services and ways of working
@@ -62,11 +62,11 @@ Every time Heledd’s joined the “land and launch” sessions that Nick and Ma
 
 At one point, Nick said  “an organisation can choose to invest in its people through learning and development, or they can also invest in their workforce by making their jobs better”. Boom. 
 
-##What even is transformation?
+## What even is transformation?
 
 It seems that everyone has a different view of transformation. You can [share your interpretation of “transformation”](https://www.menti.com/alz548ni25di) to help Heledd prove a point (or not) that it’s a confusing word, and everyone has a different interpretation. 
 
-##Back to the permitting future
+## Back to the permitting future
 
 Heledd and James attended a workshop looking ahead into what the world (and permitting) will look like in 15 years’ time. 
 
