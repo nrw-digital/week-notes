@@ -55,8 +55,8 @@ Nick gets full marks for creativity.
 ## Just a bit more about the flood stuff...
 
 This is a huge step in NRW’s transformation journey. They’ve managed to:
-*build a team, that’s committed to improving the product, services and ways of working
-*make it quicker to issue a flood warning - on the old system, it would take anywhere between 10 minutes, to 1 hour to issue a flood warning. Now, it’s around 2 minutes, but could be done in 30 seconds
+* build a team, that’s committed to improving the product, services and ways of working
+* make it quicker to issue a flood warning - on the old system, it would take anywhere between 10 minutes to 1 hour to issue a flood warning. Now, it’s around 2 minutes, but could be done in 30 seconds.
 
 Every time Heledd’s joined the “land and launch” sessions that Nick and Martyn have hosted, she’s been struck by the energy, and sense of fun that’s grown here – as well as delivering an important product. Loved the feedback session from all the team members on each other.
 
