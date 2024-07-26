@@ -31,11 +31,15 @@ Nick, the Project Manager, led the day and struck a good balance between project
 
 One of the celebration activities was to write a poem about the experience of the project so far. Lucinda’s team MAY have included a sneaky bot member (ChatGPT), but AI outputs are only as good as their human inputting the prompts right? Anyway…
 
-  Revamping the water whispers
-  There once was a system named FWS
-  Where signals were rather a mess
-  They brought in new tech, to keep things in check
-  Now floods are no longer a cause for distress
+**Revamping the water whispers**
+  
+There once was a system named FWS
+  
+Where signals were rather a mess
+  
+They brought in new tech, to keep things in check
+  
+Now floods are no longer a cause for distress
 
 Glorious, just as terrible as our prompt.
 
