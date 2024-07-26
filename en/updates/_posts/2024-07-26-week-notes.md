@@ -53,7 +53,7 @@ Phil, Kim and Sam continued work on 93 of our forms work this week, ensuring but
 
 They also checked that the right theme ‘theme’ has been applied so they look consistent and are up to date.
 
-The next task is to amend some form titles so they describe their purpose clearly for users. Mostly this is about adding a verb (because good services are verbs) and removing internal codes - a carry-over from when they were paper forms. 
+The next task is to amend some form titles so they describe their purpose clearly for users. Mostly this is about adding a verb ([because good services are verbs](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/)) and removing internal codes - a carry-over from when they were paper forms. 
 
 After that, the save and continue feature on many of our longer forms will be standardised and improved so it works better for users.
 
