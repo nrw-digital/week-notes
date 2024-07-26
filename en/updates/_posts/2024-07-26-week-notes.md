@@ -4,7 +4,7 @@ layout: post
 lang: en
 ref: 2024-07-26-week-notes
 hidetitle: True
-author: Heledd an Sam
+author: Heledd and Sam
 ---
 
 Another week has been and gone, welcome to our weeknotes!
