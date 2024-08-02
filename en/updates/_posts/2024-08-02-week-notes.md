@@ -11,7 +11,7 @@ It’s been very warm in some parts of the country this week, and some of the te
 
 Last week we said goodbye to Catrin (our leadership team member) as she left the organisation. And it's been another tough week, as a [45 day consultation was launched about proposed restructure](https://ymgynghori.cyfoethnaturiol.cymru/corporate-strategy/case-for-change/).
 
-As a result of this, Kim has been mega busy updating our intranet pages. This piece of work was to let staff know about the organisational restructure. Kim completed all the work to such a tight deadline, adding lots of content and links to our intranet. Brilliant piece of work Kim, thank you!
+As a result of this, Owain and Kim have been mega busy updating our intranet pages. This piece of work was to let staff know about the organisational restructure. Owain and Kim completed all the work to such a tight deadline, adding lots of content and links to our intranet. Brilliant piece of work, thank you!
 
 ![photo showing a jellyfish in the ocean](https://github.com/nrw-digital/week-notes/blob/685893d77849ff851656ff7ade548d58b7ee96b6/images/animals-1846546_1280.jpg?raw=true) 
 
