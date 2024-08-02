@@ -89,6 +89,7 @@ We’re not complaining – there’s finally some sunshine here in Wales, but i
 
 ## Other things we’ve been working on this week:
 
++ Heledd took part in a user research session with CDPS, who are trying to understand the challenges faced by public sector bodies in Wales in creating accessible services. She had a lot to share about our experiences - the good, and the bad! We look forward to reading the report and recommendations.
 + Sophie has worked with the Wales land management forum subgroup to make sure their meeting minutes are accessible and inclusive, so that all users have equal access to this information. Providing accessibility guidance and feedback, we’ve worked to improve understanding around what makes a document ‘accessible’ and some of the common errors we see sent in to our team.
 + We’ve been working with our colleagues in the communications team to share analytics data for their reports. We recently updated our dashboards as Google Analytics no longer stores data from pre-GA4 days, so we can only access analytics on our website from 10 August 2023. 
 + Owain has been mainly working on the NRW Testing. We are finishing off the last handful of the tests and ensuring that we have addressed the bugs that have been raised. 
