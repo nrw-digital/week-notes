@@ -1,8 +1,8 @@
 ---
-title: Weeknotes 08/09/2024
+title: Weeknotes 09/08/2024
 layout: post
 lang: en
-ref: 2024-08-09-week-notes
+ref: 2024-09-08-week-notes
 hidetitle: True
 author: Kim & Owain
 Description: 
