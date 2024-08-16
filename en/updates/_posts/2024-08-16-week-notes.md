@@ -23,17 +23,17 @@ And then there is this poem, by Donald Rumsfeld…
 
 The Unknown
 
-As we know,
-There are known knowns.
-There are things we know we know.
-We also know
-There are known unknowns.
-That is to say
-We know there are some things
-We do not know.
-But there are also unknown unknowns,
-The ones we don't know
-We don't know.
+As we know,<br>
+There are known knowns.<br>
+There are things we know we know.<br>
+We also know<br>
+There are known unknowns.<br>
+That is to say<br>
+We know there are some things<br>
+We do not know.<br>
+But there are also unknown unknowns,<br>
+The ones we don't know<br>
+We don't know.<br>
 
 by Donald Rumsfeld
 
