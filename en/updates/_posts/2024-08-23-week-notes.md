@@ -4,7 +4,7 @@ layout: post
 lang: en
 ref: 2024-08-23-week-notes
 hidetitle: True
-author: Phil & James
+author: Phil and James
 ---
 
 We lost the sun again this week as the weather turned cloudier and wetter. But the show carries on in the Digital Team. Here’s what we’ve been up to...
