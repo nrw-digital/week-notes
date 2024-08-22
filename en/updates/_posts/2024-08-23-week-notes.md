@@ -7,7 +7,7 @@ hidetitle: True
 author: Phil & James
 ---
 
-We lost the sun again this week as the weather turned cloudier and wetter. But the show carries on in the Digital Team. Here’s what we’ve been up to:
+We lost the sun again this week as the weather turned cloudier and wetter. But the show carries on in the Digital Team. Here’s what we’ve been up to...
 
 ![photo showing a cloudy day in wales](https://github.com/nrw-digital/week-notes/blob/6c8b2283dd5f54091769c1dfb3badddacb570093/images/mountains-7352448_1280.jpg?raw=true)
 
