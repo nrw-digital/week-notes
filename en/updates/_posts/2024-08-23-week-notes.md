@@ -80,7 +80,5 @@ We had another website tidy-up day on Friday. This is a monthly opportunity to o
 
 + Lucinda presented to the Flood Warning Information System for Wales (FWISW) product team this Wednesday. The presentation was to show the designs for a future service where users will be able to log in to manage their flood warning preferences. Lucinda had some concerns that the layout, wording and components used could cause some push back, due to it being quite different to designs for internal use (as they should be). Thankfully, the designs were well received and Lucinda had the opportunity to ask the developers on the call about accessibility and possible functionality. The tech lead will now use the designs as a basis to plan future work and sprints
 + Heledd has been helping the Flood Warning Information Service project with project closure: reviewing, writing lessons learned and preparing to the move from ‘project to product’. She’s also been investigating Cookiebot invoicing and real-time parking information for Newborough
-+ Owain is continuing to work on testing for the new version of Umbraco for our main website and the Wales Coast Path website
-+ Owain and Sophie have been investigating a caching issue with our website that means users are not seeing the updated versions of our web pages 
 + Toyah has been working our marine licence pre-application content
 + Shaun has been working on changes to rules about water discharges from septic tanks. He’s also been working on an installations charging tools and web pages. 
