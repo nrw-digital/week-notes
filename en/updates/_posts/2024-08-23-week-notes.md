@@ -31,7 +31,7 @@ We’ll user the insights from these workshops to help inform our discussion gui
 
 James and Shaun met with Catherine Hancock to discuss how we could work together to improve the farming content on our website. 
 
-We agreed that at the moment the content is: 
+We agreed that at the moment the content is:  
 
 + Badly titled
 + Written from a NRW-perspective 
