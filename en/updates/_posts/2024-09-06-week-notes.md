@@ -41,7 +41,6 @@ We will continue to monitor the responses received to further improve the experi
 
 + Toyah attended a webinar where members of the NRW data and mapping teams showed ways to use FME (Feature Manipulation Engine) in different marine-related contexts. One of the examples was creating a band 1 sensitive sites GIS layer – the very subject Toyah has been working on with Marine Regs! Hopefully this will help us develop that further in the future, to create a better experience for licence applicants.
 + Lucinda, Sam and James attended a series of sessions with Kerrie from Sparck to discuss design workflows.
-+ The Umbraco testing which Owain has been working on is coming to a close, with just a few outstanding items left to tick off. 
 + James has been busy analysing the results of the species licensing team workshop, and the feedback from flood duty officers about the new flood warning system.
 + Kim and Sophie have been working hard to get through the backlog of publishing jobs. 
 
