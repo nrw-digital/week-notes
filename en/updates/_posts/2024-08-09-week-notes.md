@@ -42,8 +42,6 @@ We also have a long-term plan, September to December, to improve the species for
 
 +	Phil, Lucinda, Sam, Sophie, and James have begun outlining our team’s new learning materials around key digital topics, such as understanding accessibility and collecting analytics from webpages. We’re still in the research phase now, but we plan to incorporate immersive experiences to help attendees understand the challenges presented when content is not user-friendly. 
 +	The content officers have been publishing all sorts of reports and webpage updates. It’s been a very busy time for our small team, so please bear with us as we get to your requests.
-+	Owain has been busy with the last handful of tests for NRW V13 before it is fully completed.
-+	Owain has also been working on the WCP V13 testing that kicked off this week.
 +	Toyah and Sam finalised the new band 1 marine licensing content and form, ready for translation.
 +	Lucinda has been designing flows for a log in system for users signed up for flood warnings. This is new territory for Lucinda but James has helped by giving her a sense check and listening to her talk it through.
 
