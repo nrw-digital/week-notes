@@ -55,7 +55,8 @@ The Health & Safety Executive has lots of [advice for home workers](https://www.
 ## Other things we’ve been working on…
 
 + Sophie's been outlining objectives and resources as we begin creating learning materials to help the organisation better understand what is required of them legally for content to be considered accessible and in turn, publishable to the website. By reviewing questions and feedback received by our inbox team, we can create content that meets user needs and supports our own objectives of improving the standard of work sent into our team. We want to work with people across the organisation to fill a gap and create interactive learning materials to help everyone better understand the expectations around accessible content.
-+ Alex and Heledd have arranged and chaired 2 workshops on NRW’s approach to digital payments.
++ We also published our Business Plan for 2024-2025 as an accessible HTML webpage on the website
++ Alex and Heledd have arranged and chaired 2 workshops on NRW’s approach to digital payments
 + Alex is working on the scope for next steps for NRW’s approach to digital payments
 + With Heledd’s return from leave, Owain was able to make progress with the Team being able to access to Google Analytics Google Tag Manager. All that is left is to ensure the Team has access to all our Dashboards on Looker Studio, without having to share the dashboards individually with the Team. 
 + Two issues had been reported with our Designated site search, where the documents for two sites weren’t displaying. We are legally required to ensure that this information is available for the public to access. Owain had completed all the work with reviewing the Designated site search tool and correcting the two sites. 
