@@ -141,3 +141,5 @@ When the ride opened in 1967, the imagineers used real human bones from the Univ
 When sculpting technology improved, the remains were returned to their countries of origin and replaced with skeletal models created by the imagineers. Disney claims that no real skeletons remain in the ride. However, some former park employees and Disney enthusiasts insist that there are still at least four real skeletons in the ride.
 
 The Pirates of the Caribbean ride is considered one of the most immersive theme park attractions ever created. Walt Disney originally designed the ride in the 1950s as a walk-through adventure and wax museum. 
+
+![](https://github.com/nrw-digital/week-notes/blob/a61c6ee02a4bf62500e9588f33795b523ff576dd/images/human-bones-disneyland-m.png?raw=true)
