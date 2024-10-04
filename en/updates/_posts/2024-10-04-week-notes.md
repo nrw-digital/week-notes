@@ -134,4 +134,10 @@ Gov Camp Cymru will be held:
 
 ## <s>Fun</s> Spooky fact
 
-Owain to add 
+Based on a ride that created a franchise, the Pirate of the Caribbean ride has always attracted visitors to enjoy. However, this ride does have a dark past. 
+
+When the ride opened in 1967, the imagineers used real human bones from the University of California, Los Angeles (UCLA) anatomy department. The bones were placed throughout the ride, but [the wardrobe department didn't want to create life-like skeletons](https://www.iflscience.com/real-human-bones-were-originally-used-in-disneylands-pirates-of-the-caribbean-ride-69433).
+
+When sculpting technology improved, the remains were returned to their countries of origin and replaced with skeletal models created by the imagineers. Disney claims that no real skeletons remain in the ride. However, some former park employees and Disney enthusiasts insist that there are still at least four real skeletons in the ride.
+
+The Pirates of the Caribbean ride is considered one of the most immersive theme park attractions ever created. Walt Disney originally designed the ride in the 1950s as a walk-through adventure and wax museum. 
