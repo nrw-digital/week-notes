@@ -9,7 +9,7 @@ author: James and Owain
 
 The weather was feeling very autumnal this week (particularly for James who has just come back from a fortnight’s holiday in sunnier climes). 
 
-
+![](https://github.com/nrw-digital/week-notes/blob/7bb9a391415541495bffedbd4f1c1b63e7d5d2eb/images/James%20on%20holiday.jpg?raw=true)
 
 ## Flood warnings user research 
 
@@ -44,6 +44,8 @@ James sent out invitations for user interviews this week.
 
 We’ll use the insights from these workshops to inform our discussion guide for these interviews. 
 
+![](https://github.com/nrw-digital/week-notes/blob/7bb9a391415541495bffedbd4f1c1b63e7d5d2eb/images/mouse%20on%20a%20leaf.jpg?raw=true)
+
 ## Improving our farming content
 
 James and Shaun met with Catherine Hancock this week to help improve the farming content on our website. 
@@ -55,6 +57,8 @@ Some of the issues that Catherine pointed out were:
 + We have guidance about areas that we’re not responsible for
 + Content not linked together, i.e. it’s on our website somewhere but it isn’t linked from the Farming section
 + We need more guidance to help farmers know what to expect during NRW farm inspections
+
+![](https://github.com/nrw-digital/week-notes/blob/7bb9a391415541495bffedbd4f1c1b63e7d5d2eb/images/farming.jpg?raw=true)
 
 ## WCAG 2.2
 
@@ -88,6 +92,8 @@ One other noteworthy aspect of the audit was the fact that when we title the pag
 
 Whilst it’s unsurprising that aligning a page title with what we think users are searching for results in greater views, the scale of the increase was remarkable.
 
+![](https://github.com/nrw-digital/week-notes/blob/7bb9a391415541495bffedbd4f1c1b63e7d5d2eb/images/lake%20view.jpg?raw=true)
+
 ## Publishing new reports
 
 Despite a busy week on the inbox, our publishing officers Sophie and Kim have published a number of reports and public notices to the website. They’ve also published content updates across our intranet. 
@@ -117,9 +123,9 @@ GovCamp Cymru relies on volunteers and they’re looking for a few more people t
 [More information about volunteering at the event](https://www.govcamp.cymru/volunteer)
 
 Gov Camp Cymru will be held: 
-8 November 2024
-9:30am - 4:00pm
-Pierhead Building, Cardiff, CF10 4PZ
++ 8 November 2024
++ 9:30am - 4:00pm
++ Pierhead Building, Cardiff, CF10 4PZ
 
 ## Other things we’ve been working on this week
 
