@@ -13,13 +13,13 @@ Somebody told the view from the Bangor office that the seasons are changing this
 
 ## Return of darker (and colourful) skies
 
-Heledd didn’t regret getting off the sofa to go for a drive in the dart to catch the Aurora.
+Heledd didn’t regret getting off the sofa to go for a drive in the dark to catch the Aurora.
 
 ![Photo showing the Aurora night sky](https://github.com/nrw-digital/week-notes/blob/29193e6ee766efbd2eb2f097bf469bdbf0807881/images/aurora%20lights.jpg?raw=true)
 
 ## Digitising forms
 
-As part of National Customer Service Week 2024 Defra held a session on Digitising Defra forms. Since they have a lot of experience in digitising NRW forms, Lucinda and Sam were keen to listen in.
+As part of National Customer Service Week 2024, Defra held a session on Digitising Defra forms. Since they have a lot of experience in digitising NRW forms, Lucinda and Sam were keen to listen in.
 
 Defra’s team gave a demo of the Digital Express Toolkit (DXT), a form builder they have developed to create standardised forms. 
 
@@ -55,30 +55,36 @@ DEFRA shared how they group barriers as either soft or hard barriers that preven
 ![Photo showing the barriers to digital inclusion](https://github.com/nrw-digital/week-notes/blob/29193e6ee766efbd2eb2f097bf469bdbf0807881/images/barriers%20to%20inclusion.PNG?raw=true)
 
 It’s good to see how other organisations have been making changes to adhere to government policy around inclusion. Some of us are excited to sign up to CDPS’ Access for All - Building an Inclusive Wales event in November. 
+
 ## What the website is for
 Sam and Lucinda have started thinking about how to better communicate what we do as a team and the purpose of NRWs website. One of the ways we thought we could do this was by recording a training session. 
+
 We want to the training to: 
 + give colleagues a better idea of how the public uses our website
 + know when to come to us and when not to
 + spread awareness of how we work
+  
 Using a Mural board to ideate on what message we want to get across we started adding post its under the headings:
 + who are our users
 + what do they want to do
 + what do they not want to do
 + what the website should not be
+  
 This gave us a nice opportunity to experiment with Murals AI capabilities.
+
 Here is an AI produced summary of our post its:
 _Our users include NRW staff, homeowners, businesses, community groups, citizens, sole traders, anglers, ecologists, developers, farmers, water companies, job seekers, and solicitors. They visit the site to check flood risk, register for waste collection, manage permits, check fishing rules, get licenses, report incidents, and request data. 
 Users do not want to spend excessive time, get lost, or decipher complex information. 
 The website should not reflect the organizational structure but should help users complete tasks efficiently, without the need to hire consultants or understand internal jargon. 
 It should not be a library, archive, or intranet but a place for current information, focused on external user needs._
+
 Not a bad summary at all.
 
 ![Screenshot of a Mural board](https://github.com/nrw-digital/week-notes/blob/29193e6ee766efbd2eb2f097bf469bdbf0807881/images/11.10.24%20mural%20board.png?raw=true)
 
 ## Scoping with customer and data teams 
 
-This week Heledd facilitated a session to gather around a problem we’ve wanted to tackle for a long time:
+This week, Heledd facilitated a session to gather around a problem we’ve wanted to tackle for a long time:
 
 We estimate that 60%(ish) of people that contact the organisation by phone and should be able to self-serve. We’ve known this for years – from user research, spending time ourselves listening to calls, and speaking with colleagues. 
 
@@ -140,7 +146,7 @@ Amendments have also been made to ‘Registering your septic tank’, ‘Apply f
 
 Shaun and Alex met with the Regulatory Business Management team to discuss improving the way we provide information on our charges. We’ve decided to investigate incorporating information from the EPR charging scheme into our dedicated regime based charging pages. We’ll start off with installations charges to see if the idea is viable.
 
-Shaun also worked on ‘Decommissioning a large raised reservoir’, which should be winging its way to translation as these week-notes go to press. A little puzzle for grammar enthusiasts and content designers:  Large raised reservoir would normally include a comma between large and raised however the subject matter expert has requested this be omitted as ‘large raised reservoir’ is a defined legal term and (in their words), not a list of adjectives. I’m torn on the issue – does the fact it’s a legal term mean we can ignore normal convention?
+Shaun also worked on ‘Decommissioning a large raised reservoir’, which should be winging its way to translation as these week-notes go to press. A little puzzle for grammar enthusiasts and content designers: Large raised reservoir would normally include a comma between large and raised however the subject matter expert has requested this be omitted as ‘large raised reservoir’ is a defined legal term and (in their words), not a list of adjectives. I’m torn on the issue – does the fact it’s a legal term mean we can ignore normal convention?
 
 ## Other things we’ve been working on…
 
