@@ -112,3 +112,7 @@ The common symptoms of eye strain include:
 + Having recently picked up a copy of Platformland, Sam joined [a webinar of Richard Pope discussing how improving the use of technology in public services might happen](https://theodi.org/news-and-events/events/platformland-richard-pope-emer-coleman-in-conversation/).
 + Sam published [a blog about how we created one form out of six to help users](https://naturalresources.wales/footer-links/blog-nrw-digital/blog-post-how-turning-six-long-forms-into-one-helps-our-users/?lang=en). We have a plan for publishing more blogs, more regularly from now on. 
 + Sam’s working on the first draft of the 2023 annual regulation report, hoping we can work with SMEs to make it succinct and give people what they need more easily.
+
+## Fun Fact Friday
+
+Speaking of eyes this week... did you know Eyes are able to process 36,000 pieces of information in a single hour? Phew! No wonder they get tired quickly! 
