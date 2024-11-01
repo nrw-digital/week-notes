@@ -73,5 +73,5 @@ Optimising your content for SEO is crucial if you want to reach new audiences or
 ## Other things we’ve been working on:
 
 + Another busy week in the world of publishing! With a push on accessibility, we’ve been receiving reports and documents in a better state and they’re getting published sooner! You can speed up the publishing process by reviewing your content in line with our organisation’s style guide and accessibility requirements, with elements like alt-text already added to the document. We’ve been working with subject matter experts over the past year to help clarify the rules around accessibility and support our staff with meeting the legal requirements to get their content published on time. 
-
 + Shaun has mainly been working on odds and ends this week, doing further work on forms for change, transfer and surrender an installations permit, making amends to ammonia assessment guidance for pig and poultry farms and planning how we can best provide information on Best Available Technique documents for Environmental Permitting as they switch from the European Union to the UK’s responsibility.
++ Lucinda has been preparing for another batch of discovery workshops next week on managing flood message content
