@@ -91,6 +91,14 @@ Highly recommend.
 
 ![selfie from attendees at the event](https://github.com/nrw-digital/week-notes/blob/fb113f35bdcad84b82489eb6473d6bbbaa385364/images/Miki%20Miyata-Lee%20and%20other%20attendees%20selfie.jpg?raw=true)
 
+## Page titles – how long is too long? 
+
+Well, definitely this one: 
+
+![Regulatory Decision: SSSI management where the land did not enter the Habitat Wales Scheme 2024 but has entered the Habitat Wales Scheme 2025 and the owner/occupier wishes to manage the SSSI land in accordance with a NRW issued SSSI consent or land management agreement or WG issued management scheme which has been valid within the last five years, since 1 January 2020](https://github.com/nrw-digital/week-notes/blob/c45a3cb1d45c5f76bbc82294fd35b9353e558c2e/images/page%20title%20too%20long.png?raw=true)
+
+Sam is working on it with SMEs (who, in turn, are working with legal). It’s an interesting challenge. Check future weeknotes for the outcome. 
+
 ## Other things we’ve been working on:
 
 + Phil’s blog went live: “[Working with another organisation for a more joined-up service](https://naturalresources.wales/footer-links/blog-nrw-digital/blog-post-working-with-another-organisation-for-a-more-joined-up-service)”
