@@ -12,7 +12,7 @@ People in Natural Resources Wales are talking more about user centred design. It
 
 ## This week’s myths to bust
 
-This week’s digital team inbox has underlined the fact that there are still myths to bust about how we work. Here are just five.
+This week’s digital team inbox has underlined the fact that there are still myths to bust about how we work. Here are five.
 
 **Myth 1: We’re a team of website publishers**
 
