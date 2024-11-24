@@ -16,13 +16,13 @@ This week’s digital team inbox has underlined the fact that there are still my
 
 **Myth 1: We’re a team of website publishers**
 
-The digital team is usually at the end of a long process of content production and committee/board sign off – staff think they must send us content at the end of the process, and we will simply publish it.
+The digital team is usually at the end of a long process of content production and committee/board sign off – staff think they must send us content at the end of the process, and we will publish it.
 
 Some content we do publish on request. But for most content, the digital team needs to be involved in some way from its inception so that users can find, understand, and use our content and services. We can then decide how we - as a team with its own expertise - will prioritise and approach the work.
 
 **Myth 2: We don't really do user research**
 
-Sometimes we hear colleagues say that we ‘don't do enough user research’. In fact, we’ve done lots of in-depth research over the years, including with people who:
+Sometimes we hear colleagues say that we ‘don't do enough user research’. In fact, We’ve done lots of in-depth research over the years, including with people who:
 
 + need to do something potentially licensable in or near the sea
 + want to use our land for an event or activity
@@ -45,7 +45,7 @@ Infographics can be useful in presentations or in communication content. On our 
 
 **Myth 5: The digital team isn't aware of some of the problems with the site**
 
-Many content and accessibility audits, testing, research, feedback and discovery sessions in, and we can say with confidence that we’re aware of many the website issues for users. What we would say is: fixing this is never as straightforward is it appears and it takes a lot longer to fix than it does to publish something that doesn’t work. Years of ‘just put it on the website’ do catch up with you.
+Many content and accessibility audits, testing, research, feedback and discovery sessions in, we have an excellent understanding of the website issues for users. Fixing this is never as straightforward is it appears and it takes a lot longer to fix than it does to publish something that doesn’t work. 
 
 ## Working in the open
 
