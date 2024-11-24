@@ -61,7 +61,7 @@ So far, we’ve talked about how our team has worked to:
 
   ## This week’s work
 
-  Some great stuff going on this week:
+Some great stuff going on this week:
 
 + James is working on his presentation for the show and tell about our species licensing user interviews
 + Shaun is working on new track spraying content, as well as updating ammonia assessment content
