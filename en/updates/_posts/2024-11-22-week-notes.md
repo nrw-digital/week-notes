@@ -8,11 +8,7 @@ author: Sam & Kim
 
 ---
 
-People in Natural Resources Wales are talking more about user centred design, including senior management and staff involved in policy and regulation. It’s great that colleagues are starting to get it and are enthused by it.
-
-Our digital team has been talking to the organisation about this for years. We’ve tried show and tells, we’ve weeknoted, delivered training and, of course, delivered lots of good stuff in a user-centred ways.
-
-So, when our words are quoted back at us now, we’re seeing it as a positive thing and all part of a long and bumpy process of change.
+People in Natural Resources Wales are talking more about user centred design. It’s great that colleagues are starting to get it and are enthused by it. Our digital team has been talking to the organisation about this for years. We’ve tried show and tells, we’ve weeknoted, delivered training and, of course, delivered lots of good stuff in a user-centred ways. So, when our words are quoted back at us now, we’re seeing it as a positive thing and all part of a long and bumpy process of change.
 
 ## This week’s myths to bust
 
@@ -35,7 +31,7 @@ Sometimes we hear colleagues say that we ‘don't do enough user research’. In
 + handle hazardous waste
 + register waste exemptions
 
-We’ve also tested the website using the Top Tasks approach. So, we certainly have no shortage of insights. They have helped us improve certain content and services so users can find, use and understand them.
+We’ve also tested the website using the Top Tasks approach. So, we have no shortage of insights. They have helped us improve certain content and services so users can find, use and understand them.
 
 **Myth 3: The digital form builder doesn’t work**
 
