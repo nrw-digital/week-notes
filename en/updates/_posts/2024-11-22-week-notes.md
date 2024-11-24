@@ -8,7 +8,7 @@ author: Sam & Kim
 
 ---
 
-People in Natural Resources Wales are talking more about user centred design. It’s great that colleagues are starting to get it and are enthused by it. Our digital team has been talking to the organisation about this for years. We’ve tried show and tells, we’ve weeknoted, delivered training and, of course, delivered lots of good stuff in a user-centred ways. So, when our words are quoted back at us now, it's a positive thing and part of a long and bumpy process of change.
+People in Natural Resources Wales are talking more about user centred design. It’s great that colleagues are starting to get it and are enthused by it. Our digital team has been talking to the organisation about this for years. We’ve tried show and tells, we’ve weeknoted, delivered training and, of course, delivered lots of good stuff in a user-centred ways. When our words are quoted back at us now, it's a positive thing and part of a long and bumpy process of change.
 
 ## This week’s myths to bust
 
