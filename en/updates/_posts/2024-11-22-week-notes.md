@@ -16,7 +16,7 @@ This week’s digital team inbox has underlined the fact that there are still my
 
 **Myth 1: We’re a team of website publishers**
 
-The digital team is usually at the end of a long process of content production and committee/board sign off – staff think they must send us content at the end of the process, and we will publish it.
+Often the digital team is at the end of a long process of content production and committee/board sign off – staff think they must send us content at the end of the process, and we will publish it.
 
 Some content we do publish on request. But for most content, the digital team needs to be involved in some way from its inception so that users can find, understand, and use our content and services. We can then decide how we - as a team with its own expertise - will prioritise and approach the work.
 
