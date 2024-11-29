@@ -5,6 +5,7 @@ lang: en
 ref: 2023-08-04-week-notes
 hidetitle: True
 author: James and Paul
+description: For some of us this will be the second week of school summer holidays (only four more weeks to go!).
 ---
 
 For some of us this will be the second week of school summer holidays (only four more weeks to go!). It’s a change of pace: less rushing and back and forth on school runs…but potentially more distraction if you’re working from home.  

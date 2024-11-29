@@ -5,6 +5,7 @@ lang: en
 ref: 2023-03-17-week-notes
 hidetitle: True
 author: Andrew and Shaun
+description: A somewhat abbreviated week-notes from the Digital Team this week as we’re approaching the business end of two significant pieces of work in SRoC and the Corporate Plan.
 ---
 
 

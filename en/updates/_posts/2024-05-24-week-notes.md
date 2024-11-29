@@ -5,6 +5,7 @@ lang: en
 ref: 2024-05-24-week-notes
 hidetitle: True
 author: Phil and Soph
+description: It’s been another very busy week in the digital team.
 ---
 It’s been another very busy week in the digital team.
 

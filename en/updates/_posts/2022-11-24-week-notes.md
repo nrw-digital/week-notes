@@ -5,6 +5,7 @@ lang: en
 ref: 2022-11-24-week-notes
 hidetitle: True
 author: Owain, Samantha, Lucinda and Laura
+description: Five things that happened this week
 ---
 Five things that happened this week.
 

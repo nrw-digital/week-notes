@@ -5,6 +5,7 @@ lang: en
 ref: 2023-02-10-week-notes
 hidetitle: True
 author: Heledd and Shaun
+description: Another busy week, where a few of us managed to see each other in real life.
 ---
 
 Another busy week, where a few of us managed to see each other in real life.

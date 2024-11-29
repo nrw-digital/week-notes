@@ -5,6 +5,7 @@ lang: en
 ref: 2024-05-17-week-notes
 hidetitle: True
 author: Alex and Owain
+description: With the weather improving this week, the team has had another busy week. So let’s jump into this week's weeknotes.
 ---
 
 With the weather improving this week, the team has had another busy week. So let’s jump into this week's weeknotes. 

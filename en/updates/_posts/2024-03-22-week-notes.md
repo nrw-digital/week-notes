@@ -5,6 +5,7 @@ lang: en
 ref: 2024-03-22-week-notes
 hidetitle: True
 author: Owain and Lucinda
+description: Another week with lots of publishing and learning.
 ---
 
 Another week with lots of publishing and learning. Along with one worried Heledd as the initial placeholder for our weeknotes said:

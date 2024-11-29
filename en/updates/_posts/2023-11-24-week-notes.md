@@ -5,6 +5,7 @@ lang: en
 ref: 2023-11-24-week-notes
 hidetitle: True
 author: Laura and Paul
+description: Halloween is over, bonfire night is done. Are we allowed to talk about Christmas now?
 ---
 Halloween is over, bonfire night is done. Are we allowed to talk about Christmas now?
 

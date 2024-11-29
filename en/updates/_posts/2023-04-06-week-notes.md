@@ -5,6 +5,7 @@ lang: en
 ref: 2023-04-06-week-notes
 hidetitle: True
 author: Sam and Shaun
+description: Briefer weeknotes for a shorter week
 ---
 
 ## Briefer weeknotes for a shorter week

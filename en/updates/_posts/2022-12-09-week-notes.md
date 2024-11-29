@@ -5,6 +5,7 @@ lang: en
 ref: 2022-12-09-week-notes
 hidetitle: True
 author: Owain, Samantha, Lucinda and Laura
+description: Christmas came a bit early
 ---
 
 ## Christmas came a bit early

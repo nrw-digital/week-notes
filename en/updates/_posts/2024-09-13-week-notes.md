@@ -5,6 +5,7 @@ lang: en
 ref: 2024-09-13-week-notes
 hidetitle: True
 author: Sam and Soph
+description: Happy Friday 13th – We hope you all have spooky weekends planned…
 ---
 
 Happy Friday 13th – We hope you all have spooky weekends planned…

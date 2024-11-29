@@ -5,6 +5,7 @@ lang: en
 ref: 2024-09-20-week-notes
 hidetitle: True
 author: Phil, Alex and Soph
+description: Yet another very busy week in the digital team, well after all digital is never done!
 ---
 
 Yet another very busy week in the digital team, well after all digital is never done! It’s almost the end of September, what has happened to our summer?

@@ -5,6 +5,7 @@ lang: en
 ref: 2023-01-20-week-notes
 hidetitle: True
 author: Laura and James
+description: The rain has dominated the news for the last couple of weeks, so it feels only appropriate to write about it in our weeknotes too.
 ---
 
 The rain has dominated the news for the last couple of weeks, so it feels only appropriate to write about it in our weeknotes too.

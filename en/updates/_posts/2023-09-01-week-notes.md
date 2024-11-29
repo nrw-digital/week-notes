@@ -5,6 +5,7 @@ lang: en
 ref: 2023-08-25-week-notes
 hidetitle: True
 author: Paul and Alex
+description: It's September already? Well, at least those pesky kids will be back in school soon.
 ---
 It's September already? Well, at least those pesky kids will be back in school soon. Quite a few of us have been on leave but we've still been busy.
 

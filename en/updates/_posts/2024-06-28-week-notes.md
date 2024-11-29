@@ -5,6 +5,7 @@ lang: en
 ref: 2024-06-28-week-notes
 hidetitle: True
 author: Sam and Shaun
+description: Nice to see you this week, sun!
 ---
 
 Nice to see you this week, sun!

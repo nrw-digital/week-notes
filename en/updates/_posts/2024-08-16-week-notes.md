@@ -5,6 +5,7 @@ lang: en
 ref: 2024-08-16-week-notes
 hidetitle: True
 author: Lucinda and Kim
+description: We’re still low on numbers with many team members on holiday.
 ---
 
 We’re still low on numbers with many team members on holiday. It’s been another busy week for those of us manning the digital stations. Here’s what we’ve been up to:

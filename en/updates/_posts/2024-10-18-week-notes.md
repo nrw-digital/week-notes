@@ -5,6 +5,7 @@ lang: en
 ref: 2024-10-18-week-notes
 hidetitle: True
 author: James
+description: We’ve had a couple of team members away this week but it’s been all guns blazing for the rest of the team! 
 ---
 
 We’ve had a couple of team members away this week but it’s been all guns blazing for the rest of the team! 

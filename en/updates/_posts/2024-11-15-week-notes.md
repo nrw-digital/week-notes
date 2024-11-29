@@ -5,6 +5,7 @@ lang: en
 ref: 2024-11-15-week-notes
 hidetitle: True
 author: By Sophie, Phil and with a guest appearance from Miki Miyata-Lee
+description: The weather has got a lot colder this week. Phil has never liked the dark nights, he can’t wait for summer to come back.
 ---
 The weather has got a lot colder this week. Phil has never liked the dark nights, he can’t wait for summer to come back. These past few weeks have been busy with GovCamp Cymru preparations. Work has been busy and very frustrating and challenging at times.
 

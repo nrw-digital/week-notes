@@ -5,6 +5,7 @@ lang: en
 ref: 2023-05-26-week-notes
 hidetitle: True
 author: James and Laura
+description: We’ve had blue skies and sunshine this week. The Cardiff crew were all in the office on Wednesday.
 ---
 
 We’ve had blue skies and sunshine this week. The Cardiff crew were all in the office on Wednesday. Andrew had a minor headphone fail. The team meeting mainly focussed on cows - napping with cows, cow farming, playing with cows. 

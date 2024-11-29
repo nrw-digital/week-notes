@@ -5,7 +5,7 @@ lang: en
 ref: 2024-11-22-week-notes
 hidetitle: True
 author: Sam & Kim
-
+description: People in Natural Resources Wales are talking more about user centred design.
 ---
 
 People in Natural Resources Wales are talking more about user centred design. It’s great that colleagues are starting to get it and are enthused by it. Our digital team has been talking to the organisation about this for years. We’ve tried show and tells, we’ve weeknoted, delivered training and we've delivered lots of good stuff in a user-centred ways. When our words are quoted back now, it's a positive thing and part of a long and bumpy process of change.

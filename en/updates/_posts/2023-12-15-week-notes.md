@@ -5,6 +5,7 @@ lang: en
 ref: 2023-12-15-week-notes
 hidetitle: True
 author: Lucinda and Phil
+description: I can’t believe we are nearly at the end of the year already, 2023 has zoomed by.
 ---
 I can’t believe we are nearly at the end of the year already, 2023 has zoomed by. Santa is getting ready to depart from Lapland and we are all getting ready for a few days off. It’s certainly been a busy year.
 

@@ -5,6 +5,7 @@ lang: en
 ref: 2023-11-10-week-notes
 hidetitle: True
 author: James and Alex
+description: Hope you kept dry this week? It’s been a wet one here in Wales.   
 ---
 
 Hope you kept dry this week? It’s been a wet one here in Wales.   

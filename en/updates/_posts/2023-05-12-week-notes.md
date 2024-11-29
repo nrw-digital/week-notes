@@ -5,6 +5,7 @@ lang: en
 ref: 2023-05-12-week-notes
 hidetitle: True
 author: Sophie and Kim
+description: Another short week due to the bank holiday, but the sun has been shining and we are making progress on a lot of exciting projects, so we are not complaining!
 ---
 
 ## Weeknotes 12/05/2023

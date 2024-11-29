@@ -5,6 +5,7 @@ lang: en
 ref: 2024-04-05-week-notes
 hidetitle: True
 author: James and Soph 
+description: Happy Friday! We hope you’ve enjoyed your slightly shorter week, digesting all the chocolate eggs from last Sunday.
 ---
 
 Happy Friday! We hope you’ve enjoyed your slightly shorter week, digesting all the chocolate eggs from last Sunday. We know we have! Here’s a little bit more about what our team at Digital HQ got up to this week…

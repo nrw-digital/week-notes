@@ -5,6 +5,7 @@ lang: en
 ref: 2023-05-05-week-notes
 hidetitle: True
 author: Heledd and Alex
+description: Another short week this week, and while we’re loving these long weekends, it does feel like we're having to cram a lot into our shorter weeks. 
 ---
 
 ## Weeknotes 03/05/2023

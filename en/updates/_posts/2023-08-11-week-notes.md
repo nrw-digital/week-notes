@@ -5,6 +5,7 @@ lang: en
 ref: 2023-08-04-week-notes
 hidetitle: True
 author: Shaun and Lucinda
+description: We went to the Eisteddfod 
 ---
 ## We went to the Eisteddfod 
 

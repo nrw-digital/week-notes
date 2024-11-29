@@ -5,6 +5,7 @@ lang: en
 ref: 2023-02-03-week-notes
 hidetitle: True
 author: Phil and James
+description: In the blink of an eye, it’s February.
 ---
 In the blink of an eye, it’s February. Where did January go? I’m keeping my fingers crossed for warmer days ahead. It’s been good news though for our flooding teams who have finally had a break from all this wet weather.
 

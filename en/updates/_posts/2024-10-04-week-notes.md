@@ -5,6 +5,7 @@ lang: en
 ref: 2024-10-04-week-notes
 hidetitle: True
 author: James and Owain
+description: The weather was feeling very autumnal this week (particularly for James who has just come back from a fortnight’s holiday in sunnier climes). 
 ---
 
 The weather was feeling very autumnal this week (particularly for James who has just come back from a fortnight’s holiday in sunnier climes). 

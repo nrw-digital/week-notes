@@ -5,6 +5,7 @@ lang: en
 ref: 2024-05-31-week-notes
 hidetitle: True
 author: Lucinda & James
+description: It's been quite a quiet week for us in the team due to bank holiday Monday and half term.
 ---
 
 It's been quite a quiet week for us in the team due to bank holiday Monday and half term. But it's possible the parents in the team don't feel it's so quiet at home...

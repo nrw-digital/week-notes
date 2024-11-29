@@ -5,6 +5,7 @@ lang: en
 ref: 2023-08-18-week-notes
 hidetitle: True
 author: Phil, Owain and Lucinda
+description: August used to be a quiet time; a time to catch up on small pieces of work, a time to catch up on emails and admin. 
 ---
 
 August used to be a quiet time; a time to catch up on small pieces of work, a time to catch up on emails and admin. Well not this August, the digital team are as busy as ever, keeping the ship afloat.

@@ -5,6 +5,7 @@ lang: en
 ref: 2024-03-01-week-notes
 hidetitle: True
 author: Toyah and Paul
+description: Dydd Gŵyl Dewi Hapus! Happy St David’s Day - and happy Friday.
 ---
 
 Dydd Gŵyl Dewi Hapus! Happy St David’s Day - and happy Friday. It’s the end of another busy week here in Digital, with lots of big pieces of work underway.

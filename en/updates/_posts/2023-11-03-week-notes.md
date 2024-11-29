@@ -5,6 +5,7 @@ lang: en
 ref: 2023-11-03-week-notes
 hidetitle: True
 author: Kim and Owain
+description: It’s been a bit of a frightful week weather wise with Storm Ciarán, but despite it being a cold and wet day, the Digital team got into the Halloween spirit by having a “spooky” hat day for our weekly meeting. 
 ---
 
 It’s been a bit of a frightful week weather wise with Storm Ciarán, but despite it being a cold and wet day, the Digital team got into the Halloween spirit by having a “spooky” hat day for our weekly meeting. 

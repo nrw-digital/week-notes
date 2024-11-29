@@ -5,6 +5,7 @@ lang: en
 ref: 2024-10-25-week-notes
 hidetitle: True
 author: Sophie, Kim and Toyah
+description: This week our team has been busy as always, supporting on a wide range of different projects.
 ---
 
 This week our team has been busy as always, supporting on a wide range of different projects. Find out more about what we’ve been up to in our latest weeknotes…

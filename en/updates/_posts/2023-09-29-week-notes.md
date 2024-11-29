@@ -5,6 +5,7 @@ lang: en
 ref: 2023-09-29-week-notes
 hidetitle: True
 author: Owain and Sophie
+description: Another week bites the dust, and we’ve accomplished a lot.
 ---
 
 Another week bites the dust, and we’ve accomplished a lot. With team sickness and others on annual leave, we were a couple people short but we managed to keep the boat afloat (we hope!)

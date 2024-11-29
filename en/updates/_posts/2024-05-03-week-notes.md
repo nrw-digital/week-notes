@@ -5,6 +5,7 @@ lang: en
 ref: 2024-05-03-week-notes
 hidetitle: True
 author: Shaun and Soph
+description: Spring has sprung! As the sun shines and the flowers bloom, our team has been looking ahead to an exciting year full of digital projects.
 ---
 
 Spring has sprung! As the sun shines and the flowers bloom, our team has been looking ahead to an exciting year full of digital projects. 

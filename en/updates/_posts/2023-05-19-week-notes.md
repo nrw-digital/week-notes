@@ -5,6 +5,7 @@ lang: en
 ref: 2023-05-19-week-notes
 hidetitle: True
 author: Sam and Kim
+description: Laura had a change from her usual Aberystwyth office and joined Sam, Phil and Owain in Cardiff for the day.
 ---
 
 Laura had a change from her usual Aberystwyth office and joined Sam, Phil and Owain in Cardiff for the day. The lure of our office camaraderie plus an AJ’s all day cooked breakfast was strong, but her Beyonce concert ticket swung it.

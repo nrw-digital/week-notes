@@ -5,6 +5,7 @@ lang: en
 ref: 2024-05-10-week-notes
 hidetitle: True
 author: Kim and Soph
+description: Our team came back from the lovely long weekend with a boost of motivation and despite a 4-day work week, we accomplished a great deal. Read on to find out more about our week…
 ---
 
 Our team came back from the lovely long weekend with a boost of motivation and despite a 4-day work week, we accomplished a great deal. Read on to find out more about our week…

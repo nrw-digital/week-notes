@@ -5,6 +5,7 @@ lang: en
 ref: 2022-12-17-week-notes
 hidetitle: True
 author: Owain, Samantha, Lucinda and Laura
+description: Making and learning
 ---
 
 ## Making and learning

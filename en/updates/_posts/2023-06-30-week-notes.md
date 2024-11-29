@@ -5,6 +5,7 @@ lang: en
 ref: 2023-06-30-week-notes
 hidetitle: True
 author: Phil & Lucinda
+description: The team are still as busy as ever; we are upgrading the website, the charging scheme is going live shortly, and we’ve been very busy mixing and sharing ideas with other organisations across Wales over the past week.
 ---
 
 The team are still as busy as ever; we are upgrading the website, the charging scheme is going live shortly, and we’ve been very busy mixing and sharing ideas with other organisations across Wales over the past week.

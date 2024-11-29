@@ -5,6 +5,7 @@ lang: en
 ref: 2023-09-07-week-notes
 hidetitle: True
 author: Laura & James
+description: For some of us this week marked the end of the school summer holidays and the start of a new school year for our children.
 ---
 
 For some of us this week marked the end of the school summer holidays and the start of a new school year for our children. In an echo of the weeknotes we wrote at the start of the holidays, this is the return of packed lunches, homework and school runs. But at the same time, we’re probably enjoying a bit less disruption when working from home. 

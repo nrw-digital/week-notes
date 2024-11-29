@@ -5,6 +5,7 @@ lang: en
 ref: 2023-09-22-week-notes
 hidetitle: True
 author: Heledd and Andrew
+description: Happy Friday! Can you believe it’s nearly October!?
 ---
 Happy Friday! Can you believe it’s nearly October!?
 

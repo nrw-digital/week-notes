@@ -5,6 +5,7 @@ lang: en
 ref: 2023-10-13-week-notes
 hidetitle: True
 author: Shaun and Heledd
+description: Another week. Lots of publishing, design and learning.
 ---
 
 Another week. Lots of publishing, design and learning.

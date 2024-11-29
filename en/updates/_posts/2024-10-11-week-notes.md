@@ -5,6 +5,7 @@ lang: en
 ref: 2024-10-11-week-notes
 hidetitle: True
 author: Heledd and Lucinda
+description: Somebody told the view from the Bangor office that the seasons are changing this week.
 ---
 
 Somebody told the view from the Bangor office that the seasons are changing this week.

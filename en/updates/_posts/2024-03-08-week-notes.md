@@ -5,6 +5,7 @@ lang: en
 ref: 2024-03-08-week-notes
 hidetitle: True
 author: Phil and Soph
+description: Spring is finally here, we’re keeping our fingers crossed for warmer days ahead.
 ---
 
 Spring is finally here, we’re keeping our fingers crossed for warmer days ahead.

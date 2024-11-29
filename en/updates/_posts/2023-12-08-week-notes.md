@@ -5,6 +5,7 @@ lang: en
 ref: 2023-12-08-week-notes
 hidetitle: True
 author: Heledd and Sam
+description: A whole year of our NRW Digital Team weeknotes
 ---
 ## A whole year of our NRW Digital Team weeknotes
 

@@ -5,6 +5,7 @@ lang: en
 ref: 2024-04-12-week-notes
 hidetitle: True
 author: Kim and Owain
+description: Roll up, roll up for another instalment of team digitals highly anticipated weeknotes.
 ---
 
 Roll up, roll up for another instalment of team digitals highly anticipated weeknotes. It’s been another busy week so let's jump right in… 

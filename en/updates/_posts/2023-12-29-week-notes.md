@@ -5,6 +5,7 @@ lang: en
 ref: 2023-12-29-week-notes
 hidetitle: True
 author: Kim and Sophie
+description: Who are we? What day is it again? Is it still acceptable to source my breakfast from the Quality Street tin?
 ---
 
 Who are we? What day is it again? Is it still acceptable to source my breakfast from the Quality Street tin?

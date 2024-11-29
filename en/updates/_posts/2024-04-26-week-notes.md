@@ -5,6 +5,7 @@ lang: en
 ref: 2024-04-26-week-notes
 hidetitle: True
 author: Heledd and Lucinda
+description: Short but sweet this week. There’s a lot more work, and work around the work going on behind the scenes.
 ---
 
 Short but sweet this week. There’s a lot more work, and work around the work going on behind the scenes.

@@ -5,8 +5,9 @@ lang: en
 ref: 2023-08-25-week-notes
 hidetitle: True
 author: Kim and Soph
+description: The Summer bank holiday is here - the last bank holiday before Christmas (and only 4 more months till Christmas!)
 ---
-The Summer bank holiday is here - the last bank holiday before Christmas (and only 4 more months till Christmas!) This week, we’re sharing our summer bank holiday tips ahead of the long weekend to help you reset and refresh.
+The Summer bank holiday is here - the last bank holiday before Christmas (and only 4 more months till Christmas!). This week, we’re sharing our summer bank holiday tips ahead of the long weekend to help you reset and refresh.
 
 ## Reset, refresh and remember to update
 

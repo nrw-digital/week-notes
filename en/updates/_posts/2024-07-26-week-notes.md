@@ -5,6 +5,7 @@ lang: en
 ref: 2024-07-26-week-notes
 hidetitle: True
 author: Heledd and Sam
+description: Another week has been and gone, welcome to our weeknotes!
 ---
 
 Another week has been and gone, welcome to our weeknotes!

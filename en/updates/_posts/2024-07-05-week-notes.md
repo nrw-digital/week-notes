@@ -5,7 +5,7 @@ lang: en
 ref: 2024-07-05-week-notes
 hidetitle: True
 author: James and Kim
-Description: Summer hid away again for most of this week. The big news for many people will have been the UK general election. 
+description: Summer hid away again for most of this week. The big news for many people will have been the UK general election. 
 ---
 
 Summer hid away again for most of this week. The big news for many people will have been the UK general election. This is Maisy casting her vote: 

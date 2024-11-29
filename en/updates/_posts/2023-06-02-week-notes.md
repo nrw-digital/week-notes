@@ -5,6 +5,7 @@ lang: en
 ref: 2023-06-02-week-notes
 hidetitle: True
 author: Kim and Sophie
+description: And just like that, May is over!
 ---
 
 And just like that, May is over! It’s been another busy month, and with some of the team on annual leave, we’ve all been working overtime to publish content from the backlog of evidence reports to guidance notes.

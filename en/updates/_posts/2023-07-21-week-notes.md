@@ -5,6 +5,7 @@ lang: en
 ref: 2023-07-21-week-notes
 hidetitle: True
 author: Sam and Andrew
+description: It’s been another busy week in the land of Digital with lots of planning and reflective (for completed projects) meetings taking place to form part of our future work.
 ---
 
 

@@ -5,6 +5,7 @@ lang: en
 ref: 2023-03-31-week-notes
 hidetitle: True
 author: Laura and Phil
+description: It’s been another crazy week for our small but perfectly formed team.
 ---
 
 It’s been another crazy week for our small but perfectly formed team.

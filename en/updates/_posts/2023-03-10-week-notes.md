@@ -5,6 +5,7 @@ lang: en
 ref: 2023-03-10-week-notes
 hidetitle: True
 author: James and Lucinda
+description: Another busy week! Lucinda and James started their 6 month ‘Service Design in Practice’ course with a face-to-face get together at Bizspace in Cardiff last week. 
 ---
 Another busy week! Lucinda and James started their 6 month ‘Service Design in Practice’ course with a face-to-face get together at Bizspace in Cardiff last week. 
 

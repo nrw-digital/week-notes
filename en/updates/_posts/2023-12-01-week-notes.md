@@ -5,6 +5,7 @@ lang: en
 ref: 2023-12-01-week-notes
 hidetitle: True
 author: James and Owain
+description: A busy week this week (when is it not!). It was great to see our team in person when we met up for a two day team event in Cardiff. 
 ---
 A busy week this week (when is it not!). It was great to see our team in person when we met up for a two day team event in Cardiff. 
 

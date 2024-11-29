@@ -5,6 +5,7 @@ lang: en
 ref: 2024-02-02-week-notes
 hidetitle: True
 author: Toyah and Phil
+description: After 352 days in January, it’s now February…..phew!
 ---
 
 After 352 days in January, it’s now February…..phew! The digital team has had a very sombre week. Andrew, who has been with us for four years, has left us and moved on to a new job. He will be missed but we wish him all the very best of luck in his new job.

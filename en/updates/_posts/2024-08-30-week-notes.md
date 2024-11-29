@@ -5,6 +5,7 @@ lang: en
 ref: 2024-08-30-week-notes
 hidetitle: True
 author: Shaun and Soph
+description: Bank Holiday weekends might be great fun, however coming back to squeeze 5 day’s worth of work into just 4 working days can be quite the challenge!
 ---
 
 Bank Holiday weekends might be great fun, however coming back to squeeze 5 day’s worth of work into just 4 working days can be quite the challenge!

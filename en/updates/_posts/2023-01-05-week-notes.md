@@ -5,6 +5,7 @@ lang: en
 ref: 2023-01-05-week-notes
 hidetitle: True
 author: Samantha and Lucinda
+description: In with the new!
 ---
 ## In with the new!
 

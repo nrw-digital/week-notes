@@ -5,6 +5,7 @@ lang: en
 ref: 2023-07-07-week-notes
 hidetitle: True
 author: Heledd & Sophie
+description: Big (quiet) Monday
 ---
 
 ## Big (quiet) Monday

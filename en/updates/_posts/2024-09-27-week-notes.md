@@ -5,6 +5,7 @@ lang: en
 ref: 2024-09-27-week-notes
 hidetitle: True
 author: Kim and Soph
+description: We’re nearing the end of September, which means soon we’ll be welcoming October, our favourite month.
 ---
 
 We’re nearing the end of September, which means soon we’ll be welcoming October, our favourite month. Who doesn’t love an excuse to dive into the realm of spooky films and read all the horror and mystery?! But for now, here’s the top scares of this week in the Digital Team…

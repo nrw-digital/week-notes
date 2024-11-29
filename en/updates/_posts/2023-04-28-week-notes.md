@@ -5,6 +5,7 @@ lang: en
 ref: 2023-04-28-week-notes
 hidetitle: True
 author: Phil and Andrew
+description: This week Andrew and Phil are looking at the forms on our website, pair writing, trio writing and writing content for our users. 
 ---
 
 This week Andrew and Phil are looking at the forms on our website, pair writing, trio writing and writing content for our users. 

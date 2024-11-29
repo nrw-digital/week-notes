@@ -5,6 +5,7 @@ lang: en
 ref: 2023-09-15-week-notes
 hidetitle: True
 author: Shaun & Sam
+description: Firstly, a huge and well-deserved congratulations to Lucinda and James who both completed the Service Design in Practice course this week. 
 ---
 
 Firstly, a huge and well-deserved congratulations to Lucinda and James who both completed the Service Design in Practice course this week. 

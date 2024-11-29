@@ -5,6 +5,7 @@ lang: en
 ref: 2023-10-20-week-notes
 hidetitle: True
 author: Laura and Soph
+description: The temperature is beginning to drop, we’re all starting to feel the bite of winter.
 ---
 
 The temperature is beginning to drop, we’re all starting to feel the bite of winter. You might have seen us joining meetings with fluffy socks and beanies on, and a hot cup of tea in hand. 

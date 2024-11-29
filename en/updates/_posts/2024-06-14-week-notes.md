@@ -5,6 +5,7 @@ lang: en
 ref: 2024-06-14-week-notes
 hidetitle: True
 author: Heledd & Soph
+description: Happy Friday! Welcome to another week of the Digital Diaries at Natural Resources Wales. 
 ---
 
 Happy Friday! Welcome to another week of the Digital Diaries at Natural Resources Wales. 

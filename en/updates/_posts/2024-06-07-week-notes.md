@@ -5,6 +5,7 @@ lang: en
 ref: 2024-06-07-week-notes
 hidetitle: True
 author: Phil & Soph
+description: Jumping into June by brainstorming new projects, publishing reports, and reviewing plenty of content request forms! 
 ---
 
 Jumping into June by brainstorming new projects, publishing reports, and reviewing plenty of content request forms! With lots going on, we want to share the highlights of our team’s week…

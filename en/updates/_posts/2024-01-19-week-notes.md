@@ -5,6 +5,7 @@ lang: en
 ref: 2024-01-15-week-notes
 hidetitle: True
 author: Sam & Owain
+description: Brew Monday
 ---
 
 ## Brew Monday

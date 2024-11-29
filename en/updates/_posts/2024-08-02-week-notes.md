@@ -5,6 +5,7 @@ lang: en
 ref: 2024-08-02-week-notes
 hidetitle: True
 author: Phil & Toyah
+description: It’s been very warm in some parts of the country this week, and some of the team are taking a well deserved holiday. 
 ---
 
 It’s been very warm in some parts of the country this week, and some of the team are taking a well deserved holiday. 

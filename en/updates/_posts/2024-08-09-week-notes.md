@@ -5,7 +5,7 @@ lang: en
 ref: 2024-08-09-week-notes
 hidetitle: True
 author: Kim & Owain
-Description: 
+description: It’s been a bit of a quiet atmosphere this week for the Digital Team as we have numerous team members away.
 ---
 
 It’s been a bit of a quiet atmosphere this week for the Digital Team as we have numerous team members away. But alas we shall persist… here is what we’ve been working on this week.

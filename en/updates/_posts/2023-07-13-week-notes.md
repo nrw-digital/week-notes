@@ -5,6 +5,7 @@ lang: en
 ref: 2023-07-13-week-notes
 hidetitle: True
 author: Laura & Kim
+description: It’s been a long time coming…  
 ---
 
 ## It’s been a long time coming…  

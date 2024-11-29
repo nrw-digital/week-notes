@@ -5,6 +5,7 @@ lang: en
 ref: 2024-01-05-week-notes
 hidetitle: True
 author: Heledd and Soph
+description: We’re back in the office this week, stuffed full of biscuits, meringue nests, cheese and even the mother in law’s Christmas cake, but we’re online and working the feast off.
 ---
 
 We’re back in the office this week, stuffed full of biscuits, meringue nests, cheese and even the mother in law’s Christmas cake, but we’re online and working the feast off. We hope you had a lovely break with your family and friends and found plenty of time to eat, drink and be merry.

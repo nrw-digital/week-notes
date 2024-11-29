@@ -5,6 +5,7 @@ lang: en
 ref: 2023-01-13-week-notes
 hidetitle: True
 author: Phil and Sam
+description: Timber!
 ---
 
 ## Timber!

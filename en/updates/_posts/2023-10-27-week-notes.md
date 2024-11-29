@@ -5,6 +5,7 @@ lang: en
 ref: 2023-10-27-week-notes
 hidetitle: True
 author: Andrew and Phil
+description: It's Halloween week coming up where our children (and adults) dress up as ghouls and enter the darker spirit of things at parties to enjoy some autumnal fun.
 ---
 
 It's Halloween week coming up where our children (and adults) dress up as ghouls and enter the darker spirit of things at parties to enjoy some autumnal fun. We may not have any horror stories to tell you today (some cute ones) but be sure, we will voice our innermost experiences whilst working on the NRW website and intranet...and, some of them can be a little scary.

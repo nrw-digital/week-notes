@@ -5,6 +5,7 @@ lang: en
 ref: 2024-11-07-week-notes
 hidetitle: True
 author: James & Lucinda
+description: Another busy week in the Digital Team! This is an early edition of the weeknotes because quite a few of us are attending this year’s Gov Camp Cymru on Friday 8 November. 
 ---
 
 Another busy week in the Digital Team! This is an early edition of the weeknotes because quite a few of us are attending this year’s Gov Camp Cymru on Friday 8 November. 

@@ -5,6 +5,7 @@ lang: en
 ref: 2024-03-15-week-notes
 hidetitle: True
 author: Kim and Soph
+description: Welcome back to another instalment of our weeknotes…
 ---
 
 Welcome back to another instalment of our weeknotes… It’s been a very busy time for our team, partially due to our team being short staffed, but also due to the many web-requests we have received so far this month.

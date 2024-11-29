@@ -5,6 +5,7 @@ lang: en
 ref: 2023-03-24-week-notes
 hidetitle: True
 author: Heledd and Sophie
+description: March is as intense as we’d predicted it to be in the week notes from a month ago.
 ---
 March is as intense as we’d predicted it to be in [the week notes from a month ago](https://nrw-digital.github.io/week-notes/en/updates/2023/02/24/week-notes.html). As a team, we were braced as we could be, but it feels busier than ever. We’re really thankful that we’ve got a supportive team.
 

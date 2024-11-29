@@ -5,6 +5,7 @@ lang: en
 ref: 2024-01-12-week-notes
 hidetitle: True
 author: Heledd & James
+description: Welcome to our first Welsh edition... our week notes have been drafted in Welsh this time!!
 ---
 
 **These weeknotes are translated from Welsh to English by Bing Translate. We’ve added an * where there’s an obvious translation error, to avoid any confusion We’ve left the other translations as they stand so our readers can get a sense of what machine translation from English to Welsh can feel like**

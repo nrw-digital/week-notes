@@ -5,6 +5,7 @@ lang: en
 ref: 2023-01-27-week-notes
 hidetitle: True
 author: Shaun and Laura
+description: It’s been a busy week. 
 ---
 It’s been a busy week. That little holiday you get from meetings after the Christmas break is officially over. Finding time to write weeknotes has been harder but definitely worth it to stop and reflect. 
 

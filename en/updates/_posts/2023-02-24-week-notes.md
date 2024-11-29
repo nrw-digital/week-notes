@@ -5,6 +5,7 @@ lang: en
 ref: 2023-02-24-week-notes
 hidetitle: True
 author: Heledd and Phil
+description: Preparing for a new dawn
 ---
 
 ## Preparing for a new dawn

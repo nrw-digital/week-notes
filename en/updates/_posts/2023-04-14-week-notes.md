@@ -5,6 +5,7 @@ lang: en
 ref: 2023-04-14-week-notes
 hidetitle: True
 author: James and Sophie
+description: Welcome back! We hope your Easter was all it was cracked up to be.
 ---
 
 Welcome back! We hope your Easter was all it was cracked up to be.

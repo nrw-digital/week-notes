@@ -5,6 +5,7 @@ lang: en
 ref: 2024-09-06-week-notes
 hidetitle: True
 author: Lucinda and Toyah
+description: Ahhh, September – leaves change, kids go back to school, and parents share imaginary (or actual) high-fives for making it through another round of summer holidays. 
 ---
 
 Ahhh, September – leaves change, kids go back to school, and parents share imaginary (or actual) high-fives for making it through another round of summer holidays. 

@@ -5,6 +5,7 @@ lang: en
 ref: 2022-12-02-week-notes
 hidetitle: True
 author: Owain, Samantha, Lucinda and Laura
+description: Product thinking with Richard Pope
 ---
 
 ## Product thinking with Richard Pope

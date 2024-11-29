@@ -5,6 +5,7 @@ lang: en
 ref: 2023-10-06-week-notes
 hidetitle: True
 author: Lucinda and Kim
+description: Please bear with us
 ---
 
 ## Please bear with us

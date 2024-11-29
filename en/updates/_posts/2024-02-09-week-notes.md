@@ -5,6 +5,7 @@ lang: en
 ref: 2024-02-09-week-notes
 hidetitle: True
 author: Heledd and Alex
+description: Another busy week in the Digital Team at Natural Resources Wales.
 ---
 Another busy week in the Digital Team at Natural Resources Wales. Here's some of the cool stuff we've been working on:
 

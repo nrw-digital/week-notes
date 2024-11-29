@@ -5,6 +5,7 @@ lang: en
 ref: 2024-04-19-week-notes
 hidetitle: True
 author: Sam and Phil
+description: It’s been another very busy week for the digital team, so lets get right into it...
 ---
 
 It’s been another very busy week for the digital team, so lets get right into it...

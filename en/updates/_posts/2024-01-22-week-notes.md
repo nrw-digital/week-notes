@@ -5,6 +5,7 @@ lang: en
 ref: 2024-01-22-week-notes
 hidetitle: True
 author: Laura, Lucinda and Soph
+description: New year, new blog!
 ---
 
 ## New year, new blog!

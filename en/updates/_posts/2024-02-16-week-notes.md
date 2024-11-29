@@ -5,6 +5,7 @@ lang: en
 ref: 2024-02-16-week-notes
 hidetitle: True
 author: Owain and Sophie
+description: Another busy week in the Digital space, with a flurry of requests asking for updates to services, forms and web-content, we’ve been busier than ever!
 ---
 
 Another busy week in the Digital space, with a flurry of requests asking for updates to services, forms and web-content, we’ve been busier than ever!

@@ -5,6 +5,7 @@ lang: en
 ref: 2024-11-01-week-notes
 hidetitle: True
 author: Soph and Alex
+description: Happy Halloween from the Digital Team! We hope you have had an exciting week – filled with treats, and not tricks!
 ---
 
 Happy Halloween from the Digital Team! We hope you have had an exciting week – filled with treats, and not tricks! Here’s what we’ve been up to this week…

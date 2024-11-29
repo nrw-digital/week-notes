@@ -5,6 +5,7 @@ lang: en
 ref: 2023-06-15-week-notes
 hidetitle: True
 author: Laura and Andrew
+description: It's been a sweltering week of work so we hope you've all been keeping cool if you're not on your holidays just yet.
 ---
 
 It's been a sweltering week of work so we hope you've all been keeping cool if you're not on your holidays just yet. If only we could work from a paddling pool in the garden…time for NRW to invest in waterproof laptops maybe?

@@ -5,6 +5,7 @@ lang: en
 ref: 2023-11-17-week-notes
 hidetitle: True
 author: Andrew and Sam
+description: As the leaves shed from our trees and rain continues to fall, our flood warnings kick in on the NRW website to warn the good people of Wales of potential flood risks.
 ---
 As the leaves shed from our trees and rain continues to fall, our flood warnings kick in on the NRW website to warn the good people of Wales of potential flood risks.
 

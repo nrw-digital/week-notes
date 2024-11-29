@@ -5,6 +5,7 @@ lang: en
 ref: 2023-06-09-week-notes
 hidetitle: True
 author: Sam and James
+description: For a few of us in the team this will be a back-to-work week after the half-term break.
 ---
 
 For a few of us in the team this will be a back-to-work week after the half-term break. We have a content freeze on our website until 17 July 2023 while we upgrade our CMS. So this gives us a bit of breathing space to focus on the bits of our work that sit outside our website, like our web forms, analytics and user research. 

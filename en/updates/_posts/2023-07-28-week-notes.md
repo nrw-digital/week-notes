@@ -5,6 +5,7 @@ lang: en
 ref: 2023-07-28-week-notes
 hidetitle: True
 author: Phil & Alex
+description: It's been a sweltering week at work so we hope you've all been keeping cool…sorry I nodded off then…..we hope you have been keeping warm and dry.
 ---
 
 

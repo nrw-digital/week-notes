@@ -5,6 +5,7 @@ lang: en
 ref: 2023-06-22-week-notes
 hidetitle: True
 author: Shaun 
+description: Applying to do a thing on land we look after
 ---
 
 ## Applying to do a thing on land we look after

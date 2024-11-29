@@ -5,6 +5,7 @@ lang: en
 ref: 2023-04-21-week-notes
 hidetitle: True
 author: Laura and Sophie
+description: Another busy week in the Digital Services team, with some of us off on annual leave, and the rest of us picking up all the work that was put on hold last month due to time constraints. 
 ---
 
 Another busy week in the Digital Services team, with some of us off on annual leave (happy birthday Lucinda!), and the rest of us picking up all the work that was put on hold last month due to time constraints. 

@@ -5,6 +5,7 @@ lang: en
 ref: 2024-02-23-week-notes
 hidetitle: True
 author: Lucinda and Kim
+description: It’s been another hectic week for the Digital team with lots of meetings and even more requests coming in. 
 ---
 
 It’s been another hectic week for the Digital team with lots of meetings and even more requests coming in. So lets jump right in and let you know what we've been doing this week. 

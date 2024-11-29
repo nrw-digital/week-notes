@@ -5,6 +5,7 @@ lang: en
 ref: 2023-02-17-week-notes
 hidetitle: True
 author: James and Lucinda
+description: A busy week last week. Heledd and James met up in Cardiff for a two-day workshop with BJSS and NRW flood colleagues.
 ---
 A busy week last week. Heledd and James met up in Cardiff for a two-day workshop with BJSS and NRW flood colleagues. [BJSS](https://www.bjss.com/) is our technology delivery partner for the replacement flood warning service. It was great to meet face-to-face with people we’d been speaking to online for the past three years.
 

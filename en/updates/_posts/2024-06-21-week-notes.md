@@ -5,6 +5,7 @@ lang: en
 ref: 2024-06-21-week-notes
 hidetitle: True
 author: Lucinda and Kim
+description: It seems like summer is finally here so let's jump straight into what the Digital team have been up to this week…
 ---
 
 It seems like summer is finally here so let's jump straight into what the Digital team have been up to this week…

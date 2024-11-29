@@ -5,6 +5,7 @@ lang: en
 ref: 2024-03-28-week-notes
 hidetitle: True
 author: Toyah and Sam 
+description: A four day week means less time to write the weeknotes - but not that we have less to say!
 ---
 A four day week means less time to write the weeknotes - but not that we have less to say! Everyone has been busier than the Easter bunny lately, so we’re all looking forward to the long break this weekend. 
 

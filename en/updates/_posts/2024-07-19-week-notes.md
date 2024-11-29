@@ -5,6 +5,7 @@ lang: en
 ref: 2024-07-19-week-notes
 hidetitle: True
 author: Sophie and Alex
+description: It’s the end of another busy week in all things digital at Natural Resources Wales, but the sun has been shining and our team has been hard at work to keep everything running smoothly.
 ---
 
 It’s the end of another busy week in all things digital at Natural Resources Wales, but the sun has been shining and our team has been hard at work to keep everything running smoothly. Also, Google tells us that today (July 19) is National Daiquiri Day so it’s time to treat ourselves!
