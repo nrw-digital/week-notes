@@ -20,7 +20,7 @@ There was a silver lining to this cloud though, as it meant nine fewer hours in 
 + [Dead Ends: Legacy — Good Services](https://good.services/deadendspodcast/legacy)
 + [Dead Ends Podcast, Episode 4, Vernacular — Good Services](https://good.services/deadendspodcast/vernacular)
 + [Y Pumed Llawr - The Fifth Floor Podcast — Apple Podcasts](https://podcasts.apple.com/gb/podcast/y-pumed-llawr-the-fifth-floor/id1780853972)
-+ [Phoenixed Inside Canada’s payroll disaster Podcast on Spotify](https://open.spotify.com/show/4LRTWaWuWsP0Z9OdfR0ufM)
++ [Phoenixed: Inside Canada’s payroll disaster Podcast on Spotify](https://open.spotify.com/show/4LRTWaWuWsP0Z9OdfR0ufM)
 
 There was also time to listen to some more of [All Through the Night: Why Our Lives Depend on Dark Skies.](https://soundcloud.com/harpercollinspublishers/all-through-the-night-why-our)
 
@@ -38,7 +38,6 @@ Owain will continue to review the Weeknotes site and how it can be improved.
 + Toyah finished writing a post for our blog – look out for it going live in mid-December 
 + Owain had received an update with the recent Climate Literacy training. With confirmation from Cynnal Cymru – Sustain Wales, that his evidence form will now be passed on to The Carbon Literacy Project in Manchester for certification.
 + Owain had created a new Google dashboard for our content that is on Citizen Space. 
-Other things we’ve been working on
 
 ## Fun fact 
 
