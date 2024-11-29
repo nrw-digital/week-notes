@@ -5,7 +5,7 @@ lang: en
 ref: 2024-07-12-week-notes
 hidetitle: True
 author: Toyah and Kim
-Description: Another week, another wild swing between endless rain and brief bursts of actual summer (it’s true, Toyah saw one of them on Monday afternoon - blue sky, sun and everything!).
+description: Another week, another wild swing between endless rain and brief bursts of actual summer (it’s true, Toyah saw one of them on Monday afternoon - blue sky, sun and everything!).
 ---
 
 Another week, another wild swing between endless rain and brief bursts of actual summer (it’s true, Toyah saw one of them on Monday afternoon - blue sky, sun and everything!). As we slide towards the school holidays people are beginning to take more leave, so the weeknotes may be a bit leaner than normal over the next few weeks. 
