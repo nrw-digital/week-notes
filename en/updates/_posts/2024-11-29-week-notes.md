@@ -20,7 +20,7 @@ There was a silver lining to this cloud though, as it meant nine fewer hours in 
 + [Dead Ends: Legacy — Good Services](https://good.services/deadendspodcast/legacy)
 + [Dead Ends Podcast, Episode 4, Vernacular — Good Services](https://good.services/deadendspodcast/vernacular)
 + [Y Pumed Llawr - The Fifth Floor Podcast — Apple Podcasts](https://podcasts.apple.com/gb/podcast/y-pumed-llawr-the-fifth-floor/id1780853972)
-+ [Phoenixed: Inside Canada’s payroll disaster | Podcast on Spotify](https://open.spotify.com/show/4LRTWaWuWsP0Z9OdfR0ufM)
++ [Phoenixed Inside Canada’s payroll disaster Podcast on Spotify](https://open.spotify.com/show/4LRTWaWuWsP0Z9OdfR0ufM)
 
 There was also time to listen to some more of [All Through the Night: Why Our Lives Depend on Dark Skies.](https://soundcloud.com/harpercollinspublishers/all-through-the-night-why-our)
 
