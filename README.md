@@ -1,4 +1,14 @@
-# Digital week notes
+## Important update
+
+### description field
+
+When creating a new neeknote entry, you will need to add:
+
+description: -whatever the first line is-
+
+This will allow the description to be added the main landing page. 
+
+## Digital week notes
 
 This is a template repo.
 
