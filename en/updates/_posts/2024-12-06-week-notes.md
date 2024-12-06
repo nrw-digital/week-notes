@@ -5,6 +5,7 @@ lang: en
 ref: 2024-12-06-week-notes
 hidetitle: True
 author: Shaun and Sophie
+description: It’s December at long last! We’ve got our trees decorated, the carols are on and hot chocolates are aplenty – but there is still plenty of work to complete before we get into holiday mode!
 ---
 
 It’s December at long last! We’ve got our trees decorated, the carols are on and hot chocolates are aplenty – but there is still plenty of work to complete before we get into holiday mode!
