@@ -5,7 +5,9 @@ lang: en
 ref: 2024-12-19-week-notes
 hidetitle: True
 author: Sophie and Philip
+Description: We are nearly at the end of 2024, this year has certainly zoomed by.
 ---
+
 We are nearly at the end of 2024, this year has certainly zoomed by. 
 
 Santa is getting ready to leave Lapland ([you can track him on the 24 December](https://www.noradsanta.org/en/)). The digital team are also getting ready to leave work for a few days off. It’s certainly been a busy old year.
