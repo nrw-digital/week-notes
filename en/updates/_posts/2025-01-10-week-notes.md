@@ -5,7 +5,7 @@ lang: en
 ref: 2025-01-10-week-notes
 hidetitle: True
 author: Sophie & Kim
-Description: We're back with the first weeknotes of 2025.
+description: We're back with the first weeknotes of 2025.
 ---
 
 We’re back! Hitting the ground running, our team has been working through the requests to ensure we prioritise according to deadlines to make sure we can complete all the time sensitive tasks in line with the due date given to us. Some of our team also worked through the Christmas period, monitoring the inbox to pick up urgent requests and communicate vital information around emergency weather like floods or snowfall. Big thanks to the team for being on call during the holidays!
