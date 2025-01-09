@@ -5,7 +5,7 @@ lang: en
 ref: 2024-12-19-week-notes
 hidetitle: True
 author: Sophie and Philip
-Description: We are nearly at the end of 2024, this year has certainly zoomed by.
+description: We are nearly at the end of 2024, this year has certainly zoomed by.
 ---
 
 We are nearly at the end of 2024, this year has certainly zoomed by. 
