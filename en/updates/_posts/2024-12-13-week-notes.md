@@ -5,7 +5,7 @@ lang: en
 ref: 2024-12-13-week-notes
 hidetitle: True
 author: Heledd and Alex
-Description: Not long to go, we’re counting down the days until Christmas. This week we’ve been finishing off all we can ahead of the festivities…
+description: Not long to go, we’re counting down the days until Christmas. This week we’ve been finishing off all we can ahead of the festivities…
 ---
 
 
