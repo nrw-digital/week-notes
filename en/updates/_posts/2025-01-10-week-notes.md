@@ -4,7 +4,7 @@ layout: post
 lang: en
 ref: 2025-01-10-week-notes
 hidetitle: True
-author: Sophie & Kim
+author: Sophie and Kim
 description: We're back with the first weeknotes of 2025.
 ---
 
