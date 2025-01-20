@@ -22,6 +22,7 @@ Ideally, we would have been involved early in the creation of the content but, a
  
 Unfortunately, we couldn’t get agreement to change any of it, so the content is being published as an HTML blog. It isn’t ‘must do’ guidance, more ‘good practice’ and we feel that the way it is written lends itself to comms. It will also be accessible to anyone who wants to read it.
 
+
 ![photo of post-it notes from the workshop](https://github.com/nrw-digital/week-notes/blob/6c905471a5bb5b14bfec397c12c216b655eeec7b/images/postit%20notes%20collaboration.jpg?raw=true)
 
 ## Flood warning information service for Wales (FWISW) product team meet up
@@ -33,6 +34,7 @@ The workshop centred around the teams ways of working, and how to adapt to a cha
 Lucinda’s take home was that the team will be giving more focus to the discovery phase of future features. Lucinda has already started working with Tom in the FWIS team on a discovery around how to manage the content of the flood messages. They have already experienced the benefit of getting users and developers in early to help shape what a service might look like.
 Exploring problems early will lead to a better product at the end. That is what the team are keen to demonstrate.
 
+
 ![screenshot of the form flow](https://github.com/nrw-digital/week-notes/blob/6c905471a5bb5b14bfec397c12c216b655eeec7b/images/form%20flow%20screenshot.png?raw=true)
 
 ## Testing new forms
@@ -43,13 +45,19 @@ This week, Kim and Sophie have been supporting Lucinda in testing a new form to 
 
 We also reviewed the language and jargon use to ensure it is accessible to users. Finally, we looked at ways we could adjust the form to reduce human error.
 
-![ Screenshot of the new bird licence step by step webpage](https://github.com/nrw-digital/week-notes/blob/6c905471a5bb5b14bfec397c12c216b655eeec7b/images/bird%20licence%20screenshot.png?raw=true)
+
+
 
 ## Bird licensing
 
 Phil and Sam continue working on bird licensing forms and content, mapping out new form flows, an improved web page structure and compiling a list of questions to discuss with SMEs. 
 
-Picking up on a theme arising from user research, Sam and Phil are drafting a ‘Getting a bird licence: step by step’ page. At the moment there is no easy way for people to see the whole process end to end. We like the [GDS step by step navigation pattern](https://design-system.service.gov.uk/patterns/step-by-step-navigation/). Although we can’t replicate this (as we can’t include expandable sections on a page), we can go some way towards it by creating a succinct numbered journey, end to end, with links to more detailed pages. Something to test with users.
+Picking up on a theme arising from user research, Sam and Phil are drafting a ‘Getting a bird licence: step by step’ page. 
+
+![ Screenshot of the new bird licence step by step webpage](https://github.com/nrw-digital/week-notes/blob/6c905471a5bb5b14bfec397c12c216b655eeec7b/images/bird%20licence%20screenshot.png?raw=true)
+
+At the moment there is no easy way for people to see the whole process end to end. We like the [GDS step by step navigation pattern](https://design-system.service.gov.uk/patterns/step-by-step-navigation/). Although we can’t replicate this (as we can’t include expandable sections on a page), we can go some way towards it by creating a succinct numbered journey, end to end, with links to more detailed pages. Something to test with users.
+
 
 ![Brew Monday image of a woman hugging herself](https://github.com/nrw-digital/week-notes/blob/6c905471a5bb5b14bfec397c12c216b655eeec7b/images/brew%20monday%20image.png?raw=true)
 
@@ -69,8 +77,10 @@ Participating in Brew Monday is simple and can even positively impact your menta
 
 ![Image encouraging people who are struggling with their mental health to seek additional support from a mental health professional](https://github.com/nrw-digital/week-notes/blob/6c905471a5bb5b14bfec397c12c216b655eeec7b/images/reach%20out%20for%20more%20support.png?raw=true)
 
+
 ## Reflecting on 2 years of weeknotes
 These week notes have become a useful resource for blog writing and an excellent archive of everything our team has accomplished in the past 2 years. This week, [we published a blog post, where we reflect on how we got started and why we write them](https://naturalresources.wales/footer-links/blog-nrw-digital/blog-post-weeknotes-how-we-started-and-why-we-do-them/?lang=en).
+
 
 ## Other things we’ve been working on:
 
