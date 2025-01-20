@@ -12,6 +12,7 @@ That’s a wrap on another eventful week in the Digital Team! Here’s what we�
 
 ![mist in a snowy woodland](https://github.com/nrw-digital/week-notes/blob/6c905471a5bb5b14bfec397c12c216b655eeec7b/images/forest-2964073_1280.jpg?raw=true)
 
+
 ## Content types
 
 Having our [content types published on our site](https://naturalresources.wales/footer-links/content-types/?lang=en) helps us explain to colleagues why we need to publish content in a certain way, and how we should do it.  
@@ -44,8 +45,6 @@ As a team, when one of us builds something new, we like to test one another’s 
 This week, Kim and Sophie have been supporting Lucinda in testing a new form to support staff when logging incident reports. They trialled pathways through the form to check it produced the correct information and signposted staff to their relevant next steps. 
 
 We also reviewed the language and jargon use to ensure it is accessible to users. Finally, we looked at ways we could adjust the form to reduce human error.
-
-
 
 
 ## Bird licensing
