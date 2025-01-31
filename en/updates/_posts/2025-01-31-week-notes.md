@@ -27,7 +27,7 @@ Just by adding group headings, it makes it easier for people visiting the page t
   
 Below is what the proposed marine licensing page will look like - quite a difference!  
 
-![image of the new marine page](https://github.com/nrw-digital/week-notes/blob/44f143dee05adb9957972be22ee7ab7ff361a632/images/3%20Marine%20licensing%20page%20with%20grouped%20links%201.jpeg)?raw=true)
+![image of the new marine page](https://github.com/nrw-digital/week-notes/blob/44f143dee05adb9957972be22ee7ab7ff361a632/images/3%20Marine%20licensing%20page%20with%20grouped%20links%201.jpeg?raw=true)
   
 Because the links take their name from the page they point to, it's not always as obvious what they're referring to as it could be. But to change the name of the destination page isn't something we can just go ahead and do without consulting all the various subject matter experts. So for now, Toyah has built her jigsaw... but future work is needed to improve the naming of the related pages.  
   
