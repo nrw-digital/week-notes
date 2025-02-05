@@ -5,6 +5,7 @@ lang: en
 ref: 2025-01-17-week-notes
 hidetitle: True
 author: Lucinda, Kim and Soph
+description: That’s a wrap on another eventful week in the Digital Team! Here’s what we’ve been up to this week…
 ---
 
 
