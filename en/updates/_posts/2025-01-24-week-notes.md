@@ -5,6 +5,7 @@ lang: en
 ref: 2025-01-24-week-notes
 hidetitle: True
 author: James and Heledd
+description: This is a Dydd Santes Dwynwen special edition!  
 ---
 
 This is a Dydd Santes Dwynwen special edition!  
