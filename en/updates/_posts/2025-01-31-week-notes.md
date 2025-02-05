@@ -5,6 +5,7 @@ lang: en
 ref: 2025-01-31-week-notes
 hidetitle: True
 author: Toyah and Sam
+description: We made it, folks! The end of January is here – for some it’s felt like the month has gone by in a flash, while for others it’s dragged like an endless winter. Either way, hopefully February will bring us some more spring-like weather soon. 
 ---
 
 We made it, folks! The end of January is here – for some it’s felt like the month has gone by in a flash, while for others it’s dragged like an endless winter. Either way, hopefully February will bring us some more spring-like weather soon.  
