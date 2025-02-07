@@ -92,7 +92,6 @@ Thanks to Sam for providing the road map to transferring waste permits. If we ca
 
 + Sophie has audited various evidence reports this week, making amends wherever possible to bring them in line with the accessibility requirements to publish on the website. Keep an eye out for new reports and research appearing on the website in the coming weeks! 
 + Shaun has been looking at a few pieces of stand-alone guidance on planning implications of siting telecommunications equipment, spraying herbicides on or near railway tracks and requirements for electricity grid developers. 
-+ Owain has been working on an update to Umbraco - our content management system. 
 
 ![time to talk day image](https://github.com/nrw-digital/week-notes/blob/89ac49043dc2e6e041f5c95ddaaba706c8f384e3/images/TTTD25-X-post-1600x900-3-Wales-English.jpg?raw=true)
 
