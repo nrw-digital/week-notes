@@ -5,9 +5,9 @@ lang: en
 ref: 2025-02-14-week-notes
 hidetitle: True
 author: Lucinda and Owain
-description: As the cold February carries on, we haven’t left the weather diminish our spirits!
+description: As the cold February weather carries on, we haven’t left the weather diminish our spirits!
 ---
-As the cold February carries on, we haven’t left the weather diminish our spirits!
+As the cold February weather carries on, we haven’t left the weather diminish our spirits!
 
 ## Website upgrade
 Since June 2024, Owain had been busy working on the website upgrade for both the Natural Resources Wales (NRW) and Wales Coast Path (WCP). A multidiscipline team had been created with BJSS to complete this work, with Owain in the role of Test Lead for the project.
