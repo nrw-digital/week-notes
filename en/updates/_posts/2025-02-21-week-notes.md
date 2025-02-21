@@ -15,7 +15,7 @@ James has been working on the discussion guide for user interviewers to dig into
 
 ![Screenshot of the ‘Send a flood message’ tool](https://github.com/nrw-digital/week-notes/blob/7107f6015367cfd28013d8ab5cf70cac9e14b219/images/Weeknotes%20screenshot%20for%20Send%20a%20flood%20message.png?raw=true) 
 
-We launched a new messaging platform in July 2024 as part of the roll-out of our Flood Warning and Information Wales service. The new platform aimed to make the work of our flood officers easier and more intuitive during stressful situations.   
+We launched a new messaging platform in July 2024 as part of the roll-out of our Flood Warning Information Service for Wales. The new platform aimed to make the work of our flood officers easier and more intuitive during stressful situations.   
  
 James will hold 8 user interviews with flood officers to find out whether we can improve the new service now that it’s been tested in live flood events:  
  
@@ -24,7 +24,8 @@ James will hold 8 user interviews with flood officers to find out whether we can
 + Have we removed any useful functionality from the previous service? 
  
 James is hoping to hold the interviews early in March.  
-Improving our Check your flood risk by postcode service 
+
+## Improving our Check your flood risk by postcode service 
 James has been having regular catch-up meetings with the project team responsible for making changes to our [Check your flood risk by postcode](https://check-your-flood-risk.naturalresources.wales/?culture=en-GB) service.  
  
 The changes are largely driven by concerns that users don’t understand that the service shows flood risk for an area, not individual properties.  
