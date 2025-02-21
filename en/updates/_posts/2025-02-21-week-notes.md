@@ -56,7 +56,7 @@ Kim and Sam ran a content crit with our team this week to get feedback about som
  
 ## Learning about delivering accessible services 
 
-Some of our team attended a CDPS communities of practice virtual meeting on Wednesday to learn more about delivering accessible services. The meeting was a chance for the six CDPS communities of practice to discuss how how visually impaired and blind users experience public services in Wales.  
+Some of our team attended a CDPS communities of practice virtual meeting on Wednesday to learn more about delivering accessible services. The meeting was a chance for the six CDPS communities of practice to discuss how visually impaired and blind users experience public services in Wales.  
   
 Stuart Ball from Sight Life shared examples the impact of good and bad accessibility on visually impaired and blind users.  
 
