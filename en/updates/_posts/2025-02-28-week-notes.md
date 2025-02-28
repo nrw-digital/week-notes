@@ -14,7 +14,7 @@ Happy Ramadan to all who are celebrating, and welcome to another instalment in o
 
 ## Supporting your Muslim friends and colleagues during Ramadan… 
 
-Happy Ramadan to all who are celebrating! This year, Ramadan is expected to begin on the evening of Friday 28th February 2025 and end on Sunday 30th March 2025, depending on the sighting of the moon. Muslim communities across the UK and around the world will soon be making plans to prepare for the month of fasting.  
+This year, Ramadan will begin on Saturday 1 march 2025 and end on Sunday 30 March 2025, depending on the sighting of the moon. Muslim communities across the UK and around the world will soon be making plans to prepare for the month of fasting.  
 
 Reach out to your Muslim friends and colleagues to ask how they are. One of the best ways you can show respect, solidarity, and support for the people observing Ramadan in your community is to be open to learning more.
 
