@@ -5,6 +5,7 @@ lang: en
 ref: 2025-02-21-week-notes
 hidetitle: True
 author: James and Toyah
+description: Another busy week in the Digital Team. Some of us will be looking forward to some time off for half-term next week.
 ---
 
 Another busy week in the Digital Team. Some of us will be looking forward to some time off for half-term next week.  
