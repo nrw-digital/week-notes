@@ -5,6 +5,7 @@ lang: en
 ref: 2025-02-07-week-notes
 hidetitle: True
 author: Shuan and Phil
+description: January is now over. Thank goodness it’s February and we can move one step closer to spring.
 ---
 
 Phil: January is now over. Thank goodness it’s February and we can move one step closer to spring. I hate the dark nights, cold weather, and wintery conditions. What about you Shaun? 
