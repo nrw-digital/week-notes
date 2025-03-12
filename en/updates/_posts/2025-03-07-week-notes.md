@@ -5,6 +5,7 @@ lang: en
 ref: 2025-03-07-week-notes
 hidetitle: True
 author: Sam & Soph
+description: The sun has been shining across Wales this week, and we’ve had a rather positive start to spring. Find out more about what we’ve been up to here…
 ---
 
 The sun has been shining across Wales this week, and we’ve had a rather positive start to spring. Find out more about what we’ve been up to here…
