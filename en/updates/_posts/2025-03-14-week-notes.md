@@ -5,8 +5,9 @@ lang: en
 ref: 2025-03-14-week-notes
 hidetitle: True
 author: Heledd & Owain
-description: Another very busy week.   
+description: Another very busy week
 ---
+Another very busy week. 
 
 ## Learning more about different methods of user research
  
