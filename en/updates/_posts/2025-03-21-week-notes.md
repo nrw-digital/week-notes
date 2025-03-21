@@ -6,7 +6,6 @@ ref: 2025-03-21-week-notes
 hidetitle: True
 author: Phil & Alex
 ---
-
 Alex and Phil are here this week to let you know what’s been going on….  
 
 Spring is with us this week; warmer weather and lighter nights makes us all feel a lot better.  
