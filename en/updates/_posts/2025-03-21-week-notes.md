@@ -61,7 +61,7 @@ The use of language to describe what is happening instead of relying on labels l
  
 This was an interesting insight that could be beneficial to helping our organisation signpost relevant resources and information to user groups who may not see themselves as needing a permit for this activity.
 
-![ A picture of a cormorant bird](https://github.com/nrw-digital/week-notes/blob/55dd0768212e7bed68139657823a8ef94473a970/images/bird%20screenshot%20for%20weeknotes.png?raw=true)
+![a picture of a cormorant bird](https://github.com/nrw-digital/week-notes/blob/55dd0768212e7bed68139657823a8ef94473a970/images/bird%20screenshot%20for%20weeknotes.png?raw=true)
 
 ## Fish eating birds 
 
