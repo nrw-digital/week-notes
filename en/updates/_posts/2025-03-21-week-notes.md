@@ -5,6 +5,7 @@ lang: en
 ref: 2025-03-21-week-notes
 hidetitle: True
 author: Phil & Alex
+description: Alex and Phil are here this week to let you know what’s been going on….  
 ---
 Alex and Phil are here this week to let you know what’s been going on….  
 
