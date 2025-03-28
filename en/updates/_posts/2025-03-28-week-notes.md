@@ -14,7 +14,7 @@ This weekend sees the clocks change once again. Don’t forget to set yours forw
 
 Toyah is just back from a week's leave, but before she went off, she joined the Marine Licensing and Marine Regulations teams on a day out visiting a couple of local sites of interest. 
  
-The Port of Mostyn is a long-standing feature of the north Wales coast - you may have seen it if you've ever taken the main train line here! Operating both next to and in the water, it is an established repeat 'customer' of the Licensing team. 
+The [Port of Mostyn](https://www.portofmostyn.co.uk/go-ahead-given-for-major-expansion/) is a long-standing feature of the north Wales coast - you may have seen it if you've ever taken the main train line here! Operating both next to and in the water, it is an established repeat 'customer' of the Licensing team. 
 
 ![Port of Mostyn](https://github.com/nrw-digital/week-notes/blob/8f1a0cf594b510f1606b9accccd3b14b61c66b64/images/Pic%201.jpg?raw=true)
 
