@@ -16,7 +16,7 @@ A huge welcome to Hannah who joined our team this week! Hannah met some of the t
 
 **Bird licensing: examining form flows to eliminate and simplify**
 
-In another workshop, the team continued studying each question of form for users to apply for a bird licence. 
+In this week's workshop, the team continued studying each question of a form for users to apply for a bird licence. 
 
 They examined why each question was being asked, and how questions that remained were worded. They eliminated several unnecessary questions and simplified/ clarified what was left. 
 
@@ -32,12 +32,12 @@ Alex gave an update on progress to species team leaders. It was also an opportun
 The team are advising SMEs on publishing the 2025 reports including how to: 
 
 + create accessible Word and Excel documents
-+ make the reports and data as accessible as possible to as many people as possible
++ make the reports and data as accessible as we can to as many people as possible
 + publish the reports on the site in a way that helps users easily find and download them 
 
 ## Fly-tipping Action Wales – continuing the work on moving content to NRW 
 
-With the closure of the Fly-tipping Action Wales website, we’re still moving some content to the NRW site, its new place. This week: 
+With the closure of the Fly-tipping Action Wales website, we’re still moving some content to the NRW site - its new home. This week: 
 
 + Toyah 2i checked new ‘what to do about fly-tipped waste on your land’ content
 + Sam worked with the SME to revise some content
@@ -59,7 +59,7 @@ We have a meeting with Data soon to explore these issues and find out what they 
 
 + Alex has been working on renewing some of our software contracts and arrangements for new website auditing tools
 + Toyah joined Content Design Cymru’s webinar on [how generative AI can help online content easier to read](https://digitalanddata.blog.gov.wales/tag/llm/)
-+ Toyah’s worked on [a new gateway page for a marine cabling guidance PDF](https://naturalresources.wales/guidance-and-advice/business-sectors/marine/marine-cabling-activities-in-wales-information-to-support-environmental-assessments/?lang=en) (we came up with the gateway page idea to help users find the PDF, and decide – from the page summary – if the content is for them without having to download a large document)
++ Toyah’s worked on [a new gateway page for a marine cabling guidance PDF](https://naturalresources.wales/guidance-and-advice/business-sectors/marine/marine-cabling-activities-in-wales-information-to-support-environmental-assessments/?lang=en) (we created gateway pages to help users find the PDF, and decide – from the page summary – if the content is for them, without having to download a large document)
 + James is working on ‘send a flood message’ analysis, compiling user needs, pain points and general insights
 + Shaun has been working on content for planning and development
 + Soph and Kim are happy with the new backlog/ workflow system and have given feedback for small tweaks to Alex   
