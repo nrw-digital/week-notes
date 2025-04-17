@@ -16,9 +16,9 @@ A huge welcome to Hannah who joined our team this week! Hannah met some of the t
 
 **Bird licensing: examining form flows to eliminate and simplify**
 
-In another workshop, two species experts and Sam continued studying each question of form for users to apply for a bird licence. 
+In another workshop, the team continued studying each question of form for users to apply for a bird licence. 
 
-The team examined why each question was being asked, and how questions that remained were worded. They eliminated several unnecessary questions and simplified/ clarified what was left. 
+They examined why each question was being asked, and how questions that remained were worded. They eliminated several unnecessary questions and simplified/ clarified what was left. 
 
 **Updates to species team leaders**
 
