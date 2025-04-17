@@ -66,6 +66,6 @@ We have a meeting with Data soon to explore these issues and find out what they 
 
 ## In other news 
 
-We have another new team member – Monti, our Digital Purresident (thanks Sophie!). He’s been a bit disruptive during meetings this week, snapping a houseplant in half, discovering how to swing a framed picture back and forth and inserting lots of ‘rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr’s in Sam’s emails. He’s cute, so we’ll forgive him.
+We have another new team member – Monti, our Digital Purresident (_thanks Sophie!_). He’s been a bit disruptive during meetings this week, snapping a houseplant in half, discovering how to swing a framed picture back and forth and inserting lots of ‘rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr’s in Sam’s emails. He’s cute, so we’ll forgive him.
 
 ![Tiny black kitten stood on a laptop](https://github.com/nrw-digital/week-notes/blob/41e8e1339c432c3a03545494b7d06f281f48461b/images/Monti.jpg?raw=true)
