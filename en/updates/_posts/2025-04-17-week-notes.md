@@ -58,8 +58,8 @@ We have a meeting with Data soon to explore these issues and find out what they 
 ## More stuff going on 
 
 + Alex has been working on renewing some of our software contracts and arrangements for new website auditing tools
-+ Toyah joined Content Design Cymru’s webinar on how generative AI can help online content easier to read
-+ Toyah’s worked on a new gateway page for a marine cabling guidance PDF (we came up with the gateway page idea to help users find the PDF, and decide – from the page summary – if the content is for them without having to download a large document)
++ Toyah joined Content Design Cymru’s webinar on [how generative AI can help online content easier to read](https://digitalanddata.blog.gov.wales/tag/llm/)
++ Toyah’s worked on [a new gateway page for a marine cabling guidance PDF](https://naturalresources.wales/guidance-and-advice/business-sectors/marine/marine-cabling-activities-in-wales-information-to-support-environmental-assessments/?lang=en) (we came up with the gateway page idea to help users find the PDF, and decide – from the page summary – if the content is for them without having to download a large document)
 + James is working on ‘send a flood message’ analysis, compiling user needs, pain points and general insights
 + Shaun has been working on content for planning and development
 + Soph and Kim are happy with the new backlog/ workflow system and have given feedback for small tweaks to Alex   
