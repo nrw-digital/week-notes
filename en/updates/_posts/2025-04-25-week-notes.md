@@ -4,7 +4,7 @@ layout: post
 lang: en
 ref: 2025-04-25-week-notes
 hidetitle: True
-author: Soph
+author: Sophie
 description: Another short week due to the Bank Holiday, but we hope you had a fabulous Easter weekend with your loved ones – and consumed plenty of chocolate!
 ---
 
