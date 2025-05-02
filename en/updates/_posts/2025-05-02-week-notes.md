@@ -48,7 +48,7 @@ All videos and animations should be accompanied by captions. Captions are essent
 
 This Deaf Awareness Week, consider whether the content you create could be more accessible to people with reduced hearing.
 
-![picture of puzzle pieces](https://github.com/nrw-digital/week-notes/blob/c89af9ea6ddfa5a78c5376d6c02e34d2401651ef/images/puzzle-pieces-1925425_1280.jpg?raw=true)
+![a picture of igsaw puzzle pieces](https://github.com/nrw-digital/week-notes/blob/c89af9ea6ddfa5a78c5376d6c02e34d2401651ef/images/puzzle-pieces-1925425_1280.jpg?raw=true)
 
 ## Other things we’ve been working on…
 
