@@ -8,7 +8,7 @@ author: Shaun & Kim
 description: Another short week for us (thank you May Bank Holiday) with the sun making another appearance...
 ---
 
-Another short week for us (thank you May Bank Holiday) with the sun making another appearance giving some of us the opportunity to enjoy some time outside to have lunch or go for a walk.
+Another short week for us (thank you May Bank Holiday) with the sun making another appearance giving some of us the opportunity to enjoy a little time outside to have lunch or go for a walk.
 
 ![Plate of yummy looking food infront of a mountain landscape](https://github.com/nrw-digital/week-notes/blob/d577e68004e0b39c3cc62eacdff219eb9a6929fb/images/09-05-2025.jpg?raw=true)
 
