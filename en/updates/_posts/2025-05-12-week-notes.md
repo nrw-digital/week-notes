@@ -20,7 +20,7 @@ Our wonderful colleague Sam has been appointed to the role of Lead Specialist Ad
 
 On Monday, James and Sophie attended the SCALE AI Summit to learn more about the potential of AI for Social Care.  
 
-Led by the [Centre for Social Care and Artificial Intelligence Learning (SCALE)](https://www.cardiff.ac.uk/research/explore/research-units/centre-for-social-care-and-artificial-intelligence-learning-scale), the event will look at ways to harness the potential of AI in the Social Care sector, aiming to kickstart activity and build critical mass in a new, exciting, and fast-moving cross-disciplinary research area.  
+Led by the [Centre for Social Care and Artificial Intelligence Learning (SCALE)](https://www.cardiff.ac.uk/research/explore/research-units/centre-for-social-care-and-artificial-intelligence-learning-scale), the event looked at ways to harness the potential of AI in the Social Care sector, aiming to kickstart activity and build critical mass in a new, exciting, and fast-moving cross-disciplinary research area.  
 
 SCALE brings together Cardiff University researchers from the School of Computer Science & Informatics, the Children’s Social Care Research and Development Centre (CASCADE) and the Centre for Adult Social Care (CARE) to ensure a variety of expertise and differing perspectives are shared.  
 
