@@ -39,7 +39,6 @@ On the other hand, some of the positives that could be attained through this mod
 + The potential to free up admin time and allow support workers to do the ‘human’ aspect of the role  
 + The opportunity to improve work life balance for social workers in the space  
 + The possibility of a neutrality offered by computers that individuals might not be able to offer  
-
 + Fewer silos of information, and more sharing of best practice and knowledge between relevant organisations    
 
 We look forward to following this research in its development. Also in attendance was this incredible, semi-autonomous robot developed by Cardiff University’s researchers as a tool to support children with autism in building their social synchronicity skills. The robot can speak, dance and interact with children without changing facial expressions, helping to reduce overwhelming stimulus. We loved learning more about how technology can help support young people with autism.  
