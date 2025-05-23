@@ -1,8 +1,8 @@
 ---
-title: Weeknotes 12/05/2025
+title: Weeknotes 16/05/2025
 layout: post
 lang: en
-ref: 2025-05-12-week-notes
+ref: 2025-05-16-week-notes
 hidetitle: True
 author: Phil & Soph
 description:  Another busy week in the Digital Team… here’s what we’ve been up to! 
