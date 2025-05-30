@@ -37,11 +37,7 @@ Our developers are focusing on three prices of work over the next month includin
 + improved table functionality so users can search a whole table instead of selecting a field to search (as well as ironing out glitches in some tables) 
 + an easier way of creating redirects 
 
-More on these as the weeks go on! 
- 
-## GOV.UK Pay 
-
-We’re closer to getting GOV.UK Pay set up in one of our services.  
+More on these as the weeks go on!  
  
 ## Other things we’ve been working on…
 
