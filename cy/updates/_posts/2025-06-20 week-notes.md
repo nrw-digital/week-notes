@@ -6,6 +6,7 @@ ref: 2025-06-20-week-notes
 hidetitle: True 
 author: James a Hannah
 description:  Rhifyn Cymraeg yr wythnos ‘ma / A Welsh edition this week
+---
 
 ![a group of yellow daffodils](https://github.com/nrw-digital/week-notes/blob/main/daffodils.png?raw=true)
 
@@ -27,7 +28,7 @@ Gall y rhain gael eu defnyddio gan dimoedd i adeiladu gwefannau. Mae hyn yn syml
 
 ## Cyflwyniad CDPS am sut i wneud cyflwyniadau Powerpoint gwell
 
-Mynychodd James a Mary sesiwn gan yr ysgrifennwr a strategydd (Russell Davies)[https://www.russelldavies.com/bio.html?utm_medium=email&_hsenc=p2ANqtz--povyJKZFRCn8FO46Iw9raidl_iDPeqzhRkQAraxMSuS8xNn4o35lXGM1WB_zg6unCHtVi3y9rE18aoXSuZLaVWR3YqLSW4J68PwOXDrR1j79o4LjTLsAIcSYUXwLxQwmXKwBP&_hsmi=110997654&utm_content=110997654&utm_source=hs_email] wedi’i threfnu gan Ganolfan Gwasanaethau Digidol Cyhoeddus.  
+Mynychodd James a Mary sesiwn gan yr ysgrifennwr a strategydd [Russell Davie](https://www.russelldavies.com/bio.html?utm_medium=email&_hsenc=p2ANqtz--povyJKZFRCn8FO46Iw9raidl_iDPeqzhRkQAraxMSuS8xNn4o35lXGM1WB_zg6unCHtVi3y9rE18aoXSuZLaVWR3YqLSW4J68PwOXDrR1j79o4LjTLsAIcSYUXwLxQwmXKwBP&_hsmi=110997654&utm_content=110997654&utm_source=hs_email) wedi’i threfnu gan Ganolfan Gwasanaethau Digidol Cyhoeddus.  
 
 Rhanodd Russell lawer o broblemau cyffredin gyda chyflwyniadau, e.e.
 + mynd ati i'w greu heb fod yn siŵr beth yw nod y cyflwyniad
@@ -78,12 +79,10 @@ Yr wythnos hon, gwnaeth fodiwl cyntaf cwrs sylfaen Canolfan Gwasanaethau Cyhoedd
  
 Mae'n gwrs am ddim a gallwch ei wneud ar-lein ar amser sy'n addas i chi. Mae’n bosibl hefyd blymio i mewn i'r adrannau sydd o ddiddordeb i chi a hepgor eraill. Posibl byddai’r modiwl cyntaf yn drosolwg defnyddiol i'r byd digidol i'n cydweithwyr.  
 
-Dyma'r ddolen (Digital and Agile: the foundations | Centre for Digital Public Services)[https://digitalpublicservices.gov.wales/courses/digital-and-agile-foundations]
+Dyma'r ddolen [Digital and Agile: the foundations - Centre for Digital Public Services](https://digitalpublicservices.gov.wales/courses/digital-and-agile-foundations)
 
 ## Arall...
 
 + Mae James a Mary wedi bod yn adeiladu strwythur SoNaRR 2025 ar y wefan TEST newydd.  
-
 + Mae Laura wedi dechrau gweithio ar gynnwys trwyddedu rhywogaethau 
-
 + Mae Hannah wedi cael myndiad i Adobe Pro (o’r diwedd!) a bydd yn dysgu am sut i wneud gwiriadau hygyrchedd ar ddogfennau.
