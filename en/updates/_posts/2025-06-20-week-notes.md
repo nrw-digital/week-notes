@@ -52,7 +52,7 @@ Roedd y digwyddiad yn rhan o Fis Balchder, a gweithiodd rhwydaith LHDT+ ‘Calon
 
 Roedd y digwyddiad yn gyfle i staff, waeth beth oedd eu cyfeiriad rhywiol, ddysgu mwy am gymuned sy’n wynebu newidiadau a heriau mawr yng Nghymru ac yn rhyngwladol.
 
-![a brown dog sniffing around an NRW truck](https://github.com/nrw-digital/week-notes/blob/main/images/Conservation%20dog.jpg)
+![a brown dog sniffing around an NRW truck](https://github.com/nrw-digital/week-notes/blob/main/images/Conservation%20dog.jpg?raw=true)
 
 ## Heledd yn mynychu cyfarfod uwch arweinyddiaeth ym Mangor
  
