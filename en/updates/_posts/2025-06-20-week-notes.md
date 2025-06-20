@@ -1,7 +1,7 @@
 --- 
 title: Weeknotes 20/06/2025  
 layout: post 
-lang: cy
+lang: en
 ref: 2025-06-20-week-notes 
 hidetitle: True 
 author: James a Hannah
