@@ -1,5 +1,5 @@
 --- 
-title: Weeknotes 20/06/25  
+title: Weeknotes 20/06/2025  
 layout: post 
 lang: cy
 ref: 2025-06-20-week-notes 
