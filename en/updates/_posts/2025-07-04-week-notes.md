@@ -1,10 +1,12 @@
+---
 title: Week notes 04/07/2025 
 layout: post 
 lang: en 
 ref: 2025-07-04-week-notes 
 hidetitle: True 
 author: Laura and Sam 
-description: What we've done... 
+description: What we've done...
+---
 
 ##This week we've: 
 
@@ -26,4 +28,4 @@ description: What we've done...
 
 ##Coming soon 
 
-Lucinda has offered Figma training to some of the team 
+Lucinda has offered Figma training to the team
