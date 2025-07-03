@@ -17,7 +17,7 @@ description: What we've done...
 * started a content audit for the new recruitment platform 
 * started reviewing the user feedback surveys for online forms 
 * got together in design huddles about content audits and form building
-* been looking at the report and incident page – the aim is to understand why information we need from users, simplify the page and encourage more people to report and incident online 
+* been looking at the report an incident page – the aim is to understand why information we need from users, simplify the page and encourage more people to report and incident online 
 * stayed optimistic that various parts will come together for us to deliver a service with a GOV.UK Pay payment option 
 * joined a ways of working session with the customer platform team (mainly observing, but also ensuring user-centred design has its place in the plan). There will be regular sessions for team members outside the delivery team to review, ask questions, and contribute
 * met with the species team to review the revised structure for bird licensing pages
