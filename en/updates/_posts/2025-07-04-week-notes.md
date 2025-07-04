@@ -5,7 +5,7 @@ lang: en
 ref: 2025-07-04-week-notes 
 hidetitle: True 
 author: Laura and Sam 
-description: What we've done...
+description: What we've done.
 ---
 
 ## This week we've: 
