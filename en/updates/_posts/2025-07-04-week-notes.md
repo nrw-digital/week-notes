@@ -10,7 +10,7 @@ description: What we've done.
 
 ## This week we've: 
 
-* bug fixed forms including checking links to external content work correctly, document upload settings are at maximum upload capacity and checking the wording of confirmation emails  
+* bug fixed forms including checking links to external content work correctly, document upload settings are at maximum upload capacity and that the wording of confirmation emails makes sense  
 * started design thinking on one 'change a bird licence' form to replace four separate forms 
 * presented user feedback and our one year review of the 'using land we manage' service 
 * had Devs working on a new accordion component and improving our searchable tables
