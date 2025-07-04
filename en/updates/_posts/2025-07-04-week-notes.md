@@ -29,4 +29,4 @@ description: Forms, accordions, incidents and platforms.
 
 ## Coming soon 
 
-Lucinda has offered Figma training to the team
+Lucinda has offered Figma training to the team.
