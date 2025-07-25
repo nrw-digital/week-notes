@@ -10,7 +10,7 @@ description: Fish-eating birds, bug battles, innovation and veggies
 
 ## What we have been working on this week:
 + This week, Phil, Laura and Alex joined Dave and Ian on a call to talk about the fish-eating birds content and form. 
-Last week we sent the form to a user for testing. This week we spent some time updating and improving the form and web content after receiving very good and valuable feedback from the user
+Last week we sent the form to a user for testing. This week we spent some time updating and improving the form and web content after receiving very good and valuable feedback from the user.
 + Phil and Laura made some final changes to the restructured interim bird licensing content pages, a publication date of 30 July has been set. This restructure uses standard patterns across our website and is a huge improvement on the current web content.
 + Phil, Kim and Hannah continue their battle fixing bugs in our online forms. We continue to check that links work correctly and fix document upload settings to make sure they are set to a maximum upload capacity. We only have a handful of forms left to fix.
 + Phil has also been testing a new table feature that has been released onto our test website. The developers have released some new and exciting features, such as an accordion feature and an improved table feature, we now have the task of user testing these new features.
