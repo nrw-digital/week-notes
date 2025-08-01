@@ -18,12 +18,11 @@ With help from Lucinda and Sam, Laura created a new page for people that need he
 
 Hopefully this makes things clearer for users and helps solve the problem. 
 
-![A photo of a cute collie mix next to Ed the hyena from the Lion King](https://github.com/nrw-digital/week-notes/blob/07ea53c3f82449ec3a0495f68cc06e1d39f09227/images/photo%20for%20weeknotes%20(1).jpg?raw=true)
-
 ## Welcoming our new Digital Wooficer  
 
 Caws, 5yr old Welsh Sheepdog, enjoys digging, chasing and giving side eye.
 
+![A photo of a cute collie mix next to Ed the hyena from the Lion King](https://github.com/nrw-digital/week-notes/blob/07ea53c3f82449ec3a0495f68cc06e1d39f09227/images/photo%20for%20weeknotes%20(1).jpg?raw=true)
 
 ## New and improved bird licensing content 
  
