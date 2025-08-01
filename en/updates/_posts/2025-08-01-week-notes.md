@@ -18,12 +18,6 @@ With help from Lucinda and Sam, Laura created a new page for people that need he
 
 Hopefully this makes things clearer for users and helps solve the problem. 
 
-## Welcoming our new Digital Wooficer  
-
-Caws, 5yr old Welsh Sheepdog, enjoys digging, chasing and giving side eye.
-
-![A photo of a cute collie mix next to Ed the hyena from the Lion King](https://github.com/nrw-digital/week-notes/blob/07ea53c3f82449ec3a0495f68cc06e1d39f09227/images/photo%20for%20weeknotes%20(1).jpg?raw=true)
-
 ## New and improved bird licensing content 
  
 Phil, Sam and Laura published the new Bird licensing pages. 
@@ -33,6 +27,12 @@ The restructure follows the standard pattern that we are using across the websit
 This is what the content looked like before and after. 
  
 ![The bird licensing content restructured with natural headings to break up topic groups]( https://github.com/nrw-digital/week-notes/blob/07ea53c3f82449ec3a0495f68cc06e1d39f09227/images/photo%20for%20weeknotes.png?raw=true)
+
+## Welcoming our new Digital Wooficer  
+
+Caws, 5yr old Welsh Sheepdog, enjoys digging, chasing and giving side eye.
+
+![A photo of a cute collie mix next to Ed the hyena from the Lion King](https://github.com/nrw-digital/week-notes/blob/07ea53c3f82449ec3a0495f68cc06e1d39f09227/images/photo%20for%20weeknotes%20(1).jpg?raw=true)
 
 ## Other things we’ve been working on…
 
