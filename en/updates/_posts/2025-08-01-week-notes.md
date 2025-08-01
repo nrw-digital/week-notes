@@ -28,12 +28,6 @@ This is what the content looked like before and after.
  
 ![The bird licensing content restructured with natural headings to break up topic groups]( https://github.com/nrw-digital/week-notes/blob/07ea53c3f82449ec3a0495f68cc06e1d39f09227/images/photo%20for%20weeknotes.png?raw=true)
 
-## Welcoming our new Digital Wooficer  
-
-Caws, 5yr old Welsh Sheepdog, enjoys digging, chasing and giving side eye.
-
-![A photo of a cute collie mix next to Ed the hyena from the Lion King](https://github.com/nrw-digital/week-notes/blob/07ea53c3f82449ec3a0495f68cc06e1d39f09227/images/photo%20for%20weeknotes%20(1).jpg?raw=true)
-
 ## Other things we’ve been working on…
 
 + Lucinda is mid innovation sprint with the flood product team. She has done a deep dive into flood and emergency alerting in Canada, China and Australia and is now moving on to explore how we might use location to tailor a more personalised service for users 
@@ -42,3 +36,9 @@ Caws, 5yr old Welsh Sheepdog, enjoys digging, chasing and giving side eye.
 + Mary has been redeveloping the staff benefits web page ready for the launch of the new e-recruitment system
 + Sophie published important guidance and new forms on our website to support people looking to change a permit for a radioactive substances site
 + Laura and Sophie met to review the learning materials we have created around accessibility before we set them live.
+
+  ## Welcoming our new Digital Wooficer  
+
+Caws, 5yr old Welsh Sheepdog, enjoys digging, chasing and giving side eye.
+
+![A photo of a cute collie mix next to Ed the hyena from the Lion King](https://github.com/nrw-digital/week-notes/blob/07ea53c3f82449ec3a0495f68cc06e1d39f09227/images/photo%20for%20weeknotes%20(1).jpg?raw=true)
