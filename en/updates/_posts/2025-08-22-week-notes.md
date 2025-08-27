@@ -5,7 +5,7 @@ lang: en
 ref: 2025-08-22-week-notes
 hidetitle: True
 author: Sam and Sophie
-description: Another week of projects, problems and publishing here in the Digital Team!  
+description: Another week of projects, problems to solve and publishing here in the Digital Team!  
 ---
 
 Another week of projects, problems and publishing here in the Digital Team!  
