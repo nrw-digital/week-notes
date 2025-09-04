@@ -18,7 +18,7 @@ The team has a new set of priorities for the next few months. We’re moving tow
 	
 ## New recruitment system
 
-Our new e-recruitment system went live this week. The new system has replaced the manual time-consuming processes for recruiting managers, and it should lead to a better online experience for applicants. Mary and Sophie have rewritten and published the many pages of intranet content about our recruitment process to dovetail with the new system. They also edited the internal applicants page on the intranet to ensure that our staff can easily find information about applying for vacancies. Mary also published the new Jobs, apprenticeships and placements section of our website this week. As well as a link to the e-recruitment system to search and apply for a job, the new pages have content that promotes NRW as a good place to work.
+[Our new e-recruitment system went live this week](https://swyddi.cyfoethnaturiol.cymru/Search.aspx). The new system has replaced the manual time-consuming processes for recruiting managers, and it should lead to a better online experience for applicants. Mary and Sophie have rewritten and published the many pages of intranet content about our recruitment process to dovetail with the new system. They also edited the internal applicants page on the intranet to ensure that our staff can easily find information about applying for vacancies. Mary also published the new Jobs, apprenticeships and placements section of our website this week. As well as a link to the e-recruitment system to search and apply for a job, the new pages have content that promotes NRW as a good place to work.
 	
 ## Publishing update bulletin
 
@@ -32,3 +32,4 @@ From the end of September, we’ll have a new monthly “publishing updates” b
 + looking at how we will publish lots of habitat regulation reports that are coming our way
 + working on and checking a tool that calculates waste stack distances
 + spoke to commercial about their request for an enquiries form and discussed how this might not be the best way forward for the user
++ the [Annual diversity and inclusion report 2024–2025](https://naturalresources.wales/about-us/how-we-are-performing/annual-diversity-and-inclusion-report-2024-2025/?lang=en) and the [Welsh language annual report 2024–2025](https://naturalresources.wales/about-us/what-we-do/strategies-plans-and-policies/working-to-the-welsh-language-standards/welsh-language-annual-report-2024-2025/?lang=en) have been published this week
