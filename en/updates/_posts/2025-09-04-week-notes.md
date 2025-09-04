@@ -18,7 +18,7 @@ The team has a new set of priorities for the next few months. We’re moving tow
 	
 ## New recruitment system
 
-[Our new e-recruitment system went live this week](https://swyddi.cyfoethnaturiol.cymru/Search.aspx). The new system has replaced the manual time-consuming processes for recruiting managers, and it should lead to a better online experience for applicants. Mary and Sophie have rewritten and published the many pages of intranet content about our recruitment process to dovetail with the new system. They also edited the internal applicants' page on the intranet to ensure that our staff can easily find information about applying for vacancies. Mary also published the new Jobs, apprenticeships and placements section of our website this week. As well as a link to the e-recruitment system to search and apply for a job, the new pages have content that promotes NRW as a good place to work.
+Our new e-recruitment system went live this week. The new system has replaced the manual time-consuming processes for recruiting managers, and it should lead to a better online experience for applicants. Mary and Sophie have rewritten and published the many pages of intranet content about our recruitment process to dovetail with the new system. They also edited the internal applicants' page on the intranet to ensure that our staff can easily find information about applying for vacancies. Mary also published the new [Jobs, apprenticeships and placements section](https://naturalresources.wales/about-us/jobs-apprenticeships-and-placements/?lang=en) of our website this week. As well as a link to the e-recruitment system to search and apply for a job, the new pages have content that promotes NRW as a good place to work.
 	
 ## Publishing update bulletin
 
