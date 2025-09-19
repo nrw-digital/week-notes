@@ -1,16 +1,13 @@
-title: Week notes 19/09/2025 
+---
+title: Weeknotes 19/09/2025
+layout: post
+lang: en
+ref: 2025-09-19-week-notes
+hidetitle: True
+author: Toyah & Alex
+description: Autumn is definitely creeping in...
+---
 
-layout: post 
-
-lang: en 
-
-ref: 2025-09-19-week-notes 
-
-hidetitle: True 
-
-author: Toyah and Alex 
-
-description: Another week, another edition of weeknotes!
 
 Autumn is definitely creeping in, though we're still enjoying the occasional warm and pleasant day here and there. Here's the news from the digital team for this week. 
 
