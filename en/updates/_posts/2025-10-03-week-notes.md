@@ -15,15 +15,15 @@ This wasn't the week we'd planned for - our team get-together 
 
 ## Team highlights this week included: 
  
-Team Birds held a Great kick-off meeting, sharing ways of working and a high-level plan for the next phase of work for bird licensing improvements. This phase of work will focus on "changing and amending" a licence – something that's not as simple as it sounds! 
+Team Birds held a Great kick-off meeting, sharing ways of working and a high level plan for the next phase of work for bird licensing improvements. This phase of work will focus on "changing and amending" a licence something that's not as simple as it sounds!
 
-Shaun published guidance for developers on sitting electricity infrastructure and started looking at rewriting the guidance for riverside property owners and guidance for developers 
-on minimising the impact on landscapes of new developments.   
-Lucinda mainly worked on creating a prototype to test with internal users of our flood messaging service.  
+Shaun published guidance for developers on sitting electricity infrastructure and started looking at rewriting the guidance for riverside property owners and guidance for developers on minimising the impact on landscapes of new developments.  
 
-Sophie worked on the new Business Plan, formatting webpage copy, building accessible tables and ensuring the HTML webpage content meets our Digital Standards ahead of publishing.    
+Lucinda mainly worked on creating a prototype to test with internal users of our flood messaging service. 
 
-Some of the team joined the first of the monthly showcases for the Marine Licensing beta phase. It was a recap of discovery, alpha, and what's expected to be delivered by the end of March. We're looking forward to having more regular "design huddles" between our team and the project's design team.  
+Sophie worked on the new Business Plan, formatting webpage copy, building accessible tables and ensuring the HTML webpage content meets our Digital Standards ahead of publishing.   
+
+Some of the team joined the first of the monthly showcases for the Marine Licensing beta phase. It was a recap of discovery, alpha, and what's expected to be delivered by the end of March. We're looking forward to having more regular "design huddles" between our team and the project's design team. 
 
 ## Some stuff that Heledd's been reading this week:  
  
