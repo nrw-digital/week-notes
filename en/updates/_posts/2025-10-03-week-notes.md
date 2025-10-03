@@ -15,7 +15,7 @@ This wasn't the week we'd planned for - our team get-together 
 
 ## Team highlights this week included: 
  
-Team Birds held a Great kick-off meeting, sharing ways of working and a high level plan for the next phase of work for bird licensing improvements. This phase of work will focus on "changing and amending" a licence something that's not as simple as it sounds!
+Team Birds held a great kick-off meeting, sharing ways of working and a high level plan for the next phase of work for bird licensing improvements. This phase of work will focus on "changing and amending" a licence something that's not as simple as it sounds!
 
 Shaun published guidance for developers on sitting electricity infrastructure and started looking at rewriting the guidance for riverside property owners and guidance for developers on minimising the impact on landscapes of new developments.  
 
