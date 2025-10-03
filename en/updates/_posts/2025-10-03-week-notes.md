@@ -7,7 +7,6 @@ hidetitle: True
 author: Heledd and Shaun
 description: This wasn't the week we'd planned for - our team get-together in Shrewsbury was postponed and will now go ahead in November.    
 ---
- 
 
 ![A picture of Wye bridge in Wales](https://github.com/nrw-digital/week-notes/blob/7728f76eba31c1bc783b3799a5f9d9ac02844f3a/images/362757_Wye%20Bridge_71A0464-HDR_Natural%20Resources%20Wales_No%20Restrictions_n_a.jpg?raw=true)
 
