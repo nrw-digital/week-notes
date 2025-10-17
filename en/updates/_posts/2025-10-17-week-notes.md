@@ -12,11 +12,15 @@ Another busy week in the Digital team! Here's what we got up to...
 
 + Heledd has been with the DDAT management team this week, focusing on connection, trust and how they can work better together as a new(ish) department
 
-+ Hannah published the fire prevention and mitigation plans, a piece of guidance that’s been several years in the making, and the Peatlands Restoration Grant, with a high-profile press release scheduled for next week. As well as these, we’ve had the usual consultations, public registers, and are still working on several different annual reports
++ Hannah published the fire prevention and mitigation plans and the peatlands restoration grant, with a high-profile press release scheduled for next week. As well as these, we’ve had the usual consultations, public registers, and are still working on several different annual reports
 
 + Laura published this [blog post: Reviewing our services to use the land we manage](https://www.naturalresources.wales/footer-links/blog-nrw-digital/blog-post-reviewing-our-services-to-use-the-land-we-manage/?lang=en) 
 
-+ Laura also completed all the 'improvement' actions listed for the 'apply for a flood risk activity' form and 'register a flood risk activity' form. This included making all questions mandatory (therefore designing some qualifying questions where needed) and then some general bug fixing  
++ Laura also completed all the 'improvement' actions listed for the 'apply for a flood risk activity' form and 'register a flood risk activity' form. This included making all questions mandatory (therefore designing some qualifying questions where needed) and then some general bug fixing
+
++ Sam finished a long-running project to create a [Check your waste stack separation distances tool](https://ffurflenni.cyfoethnaturiol.cymru/s/waste_stacks/).  It's a tool for waste permit holders and is part of the fire prevention and mitigation plan guidance. Users answer questions about the type of waste they need to store, as well as how they are piling it up. A result page tells them the minimum distance between waste piles needed to reduce the risk of fire. Laura and Kim did a great job of checking the results pages (behind the scenes there are hundreds of rules to get users to the right page).  
+
++ Sam's been working on our patterns library in MIRO to help standardise our use of pages, buttons, forms and other features.  
 
 + James has been getting stuck into the user research preparation for designing a top tasks home page for our intranet. He’s drafted an all survey and is hoping to run initial workshops next week to capture the business needs of teams 
 
