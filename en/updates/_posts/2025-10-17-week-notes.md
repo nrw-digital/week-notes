@@ -32,9 +32,7 @@ Another busy week in the Digital team! Here's what we got up to...
 
 +	Shaun and Mary are still working through the mammoth content audit (~1300 pages). They’re focusing on refining the approach to ensure maximum value from the review.
 
-+	James has built the staff survey using Microsoft Forms.
-
-+	Curig is currently working on agreeing the timing for when the survey will be launched.
++	James has built the staff survey using Microsoft Forms. Curig is currently working on agreeing the timing for when the survey will be launched.
 
 + Next week, Alex and Curig will finalise the stakeholder analysis, identifying contacts for each Enabling Services area. Alex will use these contacts to book meetings for James to conduct interviews and gather business needs.
 
