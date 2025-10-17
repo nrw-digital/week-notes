@@ -20,4 +20,18 @@ Another busy week in the Digital team! Here's what we got up to...
 
 + James has been getting stuck into the user research preparation for designing a top tasks home page for our intranet. He’s drafted an all survey and is hoping to run initial workshops next week to capture the business needs of teams 
 
-+ Toyah has been busy with all things marine licensing customer platform, including setting up and taking notes in a second round of user research interviews. Work is almost complete on the band 1 private beta designs, aided greatly by the project team spending two days together in person in Cardiff last week. Once these designs are officially signed off and handed to the tech team for development, the design team will be diving into the (even more) complex world of bands 2 and 3, to be released as a public beta in 2026. Wish us luck..! 
++ Toyah has been busy with all things marine licensing customer platform, including setting up and taking notes in a second round of user research interviews. Work is almost complete on the band 1 private beta designs, aided greatly by the project team spending two days together in person in Cardiff last week. Once these designs are officially signed off and handed to the tech team for development, the design team will be diving into the (even more) complex world of bands 2 and 3, to be released as a public beta in 2026. Wish us luck..!
+
++ This week Alex has finished setting up the intranet project workspaces in Miro and Microsoft Teams, providing a central hub for collaboration. He confirmed that SharePoint Insights only works with SharePoint Modern. This means we won’t get additional analytics for our existing intranet content in SharePoint Classic.
+
++	Alex and Kim now have access to SharePoint Modern and have started reviewing and experimenting with its functionality.
+
++	Shaun and Mary are still working through the mammoth content audit (~1300 pages). They’re focusing on refining the approach to ensure maximum value from the review.
+
++	James has built the staff survey using Microsoft Forms.
+
++	Curig is currently working on agreeing the timing for when the survey will be launched.
+
++ Next week, Alex and Curig will finalise the stakeholder analysis, identifying contacts for each Enabling Services area. Alex will use these contacts to book meetings for James to conduct interviews and gather business needs.
+
+
