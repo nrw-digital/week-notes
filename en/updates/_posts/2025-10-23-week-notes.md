@@ -32,13 +32,17 @@ Despite being a reduced team and experiencing disruption on our CMS platforms, w
 
 + Sam and Laura got together to plan guidance for the team to use when designing check services. It's influenced by the GDS check eligibility guidance, but will work for an NRW regulatory context, using the current build tools we have. 
 
-+ Sam's continuing work on the 'services: patterns and pages' MIRO for the team to help us choose and use the best CMS tools for the task, and design services in a consistent way. 
++ Sam's continuing work on the 'services: patterns and pages' MIRO for the team to help us choose and use the best CMS tools for the task, and design services in a consistent way.
+
++ Laura and Sam had more chats about the perennial problem of who we are speaking to when we create a form: the person who will be named on the permit, a person in an organisation who fills in forms, a consultant? No firm answers just yet. 
 
 + Hannah and Sam met to plan for the new publishing update (using GOV.UK Notify). 
 
 + Alex has been in discussions with the developers from the marine customer platform team to explain payments and the use of gov pay. Alex has created a test service and given access to enable the team to start working on creating the service with API Keys etc. 
 
-+ Phil and Sam are planning for their meeting with their form builder account manager to discuss enhancements to make form building even easier.    
++ Phil and Sam are planning for their meeting with their form builder account manager to discuss enhancements to make form building even easier.  
+
++ Laura and Sam had more chats about the perennial problem of who we are speaking to when we create a form: the person who will be named on the permit, a person in an organisation who fills in forms, a consultant? No firm answers just yet.   
 
 + Owain had taken part in the disaster recovery exercise for the NRW website, to perform smoke testing to ensure that the website can recover 
 
