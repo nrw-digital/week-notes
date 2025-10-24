@@ -16,7 +16,7 @@ Session one was all about understanding the user journey. They discussed when an
 
 ![screenshot showing the team working together on the bird project](https://github.com/nrw-digital/week-notes/blob/e3549b50ea51f54a59a24feb1a10a36a9ef115e8/images/bird%20screenshot.png?raw=true)
 
-The second session was all about the internal process. The species experts shared their screens and walked us through everything - from receiving an application, entering data in the CMS, right through to issuing the licence. Giving a clear picture of the behind the scenes workflow.
+The second session was all about the internal process. The species experts shared their screens and walked us through everything - from receiving an application, entering data in the CRM, right through to issuing the licence. Giving a clear picture of the behind the scenes workflow.
 
 ![screenshot showing the bird project platform](https://github.com/nrw-digital/week-notes/blob/e3549b50ea51f54a59a24feb1a10a36a9ef115e8/images/bird%20screenshot%20no2.png?raw=true)
 
