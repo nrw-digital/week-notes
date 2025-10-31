@@ -30,10 +30,4 @@ Happy Halloween! We hope you're blessed with lots of treats and not too many tri
   
 + Lucinda has finished testing a prototype with users of our flood messaging system. The sessions prompted some insightful conversations, and the feedback gathered will inform the shape of the next phase of design. 
 
-+ Laura and Phil continue to work on the change a bird licence form and start page. This week they have been busy working: 
-
-  - through the new prototype change form - uncovering problems and hating life - then fixing things and loving it again 
-  - on a new start page and guidance page 
-
-
-  They aim to have the change form, the start page, and guidance page ready in three weeks. 
++ Laura and Phil continue to work on the change a bird licence form and start page. This week they have been busy working through the new prototype change form - uncovering problems and hating life - then fixing things and loving it again, and on a new start page and guidance page. They aim to have the change form, the start page, and guidance page ready in three weeks. 
