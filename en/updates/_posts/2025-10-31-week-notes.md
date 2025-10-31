@@ -5,7 +5,7 @@ lang: en
 ref: 2025-10-31-week-notes  
 hidetitle: True  
 author: Lucinda and Toyah  
-description: Here’s what the Digital team has been up to this week...     
+description: Happy Halloween! We hope you're blessed with lots of treats and not too many tricks, as October comes to a close.       
 ---  
 
 Happy Halloween! We hope you're blessed with lots of treats and not too many tricks, as October comes to a close.  
@@ -33,7 +33,6 @@ Happy Halloween! We hope you're blessed with lots of treats and not too many tri
 + Laura and Phil continue to work on the change a bird licence form and start page. This week they have been busy working: 
 
   - through the new prototype change form - uncovering problems and hating life - then fixing things and loving it again 
-  
   - on a new start page and guidance page 
 
   They aim to have the change form, the start page, and guidance page ready in three weeks. 
