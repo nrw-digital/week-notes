@@ -8,9 +8,9 @@ author: Lucinda and Toyah
 description: Happy Halloween! We hope you're blessed with lots of treats and not too many tricks, as October comes to a close.       
 ---  
 
-Happy Halloween! We hope you're blessed with lots of treats and not too many tricks, as October comes to a close.  
-
 ![A pumpkin carved to say Happy Halloween from the digital team](https://github.com/nrw-digital/week-notes/blob/c3009651ada30e4d00d6f72491423858905b8e7e/images/Firefly_Pumpkins%20carved%20to%20say%20'Happy%20Halloween%20from%20the%20digital%20team'%20344649.png?raw=true)
+
+Happy Halloween! We hope you're blessed with lots of treats and not too many tricks, as October comes to a close.  
 
 ## What we've been up to this week:  
 
