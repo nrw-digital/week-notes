@@ -29,10 +29,10 @@ There’s always potential for chaos, but honestly, it all ran smoothly. The har
 Photography credit: Josh Rousen
 
 My highlights:
-+ A quiet breather in the NuroCove with Soph and Kim, with a weighted blanket – needed after the build of speaking in front of 150 people¬
++ A quiet breather in the NuroCove with Soph and Kim, with a weighted blanket – needed after the build of speaking in front of 150 people
 + “Garbage in / garbage out” with Caroline Jarrett – brilliant session about error rates in services (we have a cool framework we’ll have a look at again)
 + The Transform Wales session – lots of great interactions and contribution into what we hope for public services by 2030, and the barriers.
-+ A great conversation about “do we need another digital thing” – examples being, “another parking app””
++ A great conversation about “do we need another digital thing” – examples being, “another parking app”
 + The “pink elephant” session on AI risks – another interactive session, and I’m looking forward to reading the notes on that one!
 + Seeing more NRW people there and involved in the day 
 As always, the real value of GovCamp Cymru is a safe, open space where people share, challenge, and learn from each other. It’s a community, or a “vibe” as one of the AV guys told us!
