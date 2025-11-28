@@ -57,5 +57,5 @@ Next week team birds needs to listen back to the recording of our meeting with t
 + The publishing officers have been kept busy, with some last-minute reports, lots of intranet requests, and accessibility checks/advice. 
 + Heledd joined other senior managers for Active Bystander training with Hapus. Psychological safety is critical if people are going to speak up when something isn’t right, and active bystander skills help build that kind of culture.  More resources about how everyone can safely and confidently challenges discrimination will be added to the Learning Management System soon for all staff. 
 + This week, Sophie caught up with Gwennan to discuss outstanding actions on our LMS content, including voiceovers and translations. We’ve been working with new software for this piece of work and it’s been a good challenge to consider how we can incorporate new techniques to engage our users.
-+ James Published updates to the Flood Map for Planning.
++ James published updates to the Flood Map for Planning.
 
