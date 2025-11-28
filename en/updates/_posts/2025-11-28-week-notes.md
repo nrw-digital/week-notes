@@ -32,7 +32,7 @@ As with many a Digital get-together, we quickly moved onto the pub for drinks an
  
 The next day, Heledd and Sophie led a brainstorm for an upcoming DDAT project and we all began scripting and filming content for an upcoming project that we are working on. 
 
-![The Digital team working together and collaborating](https://github.com/nrw-digital/week-notes/blob/f7977a74a9b52c0a7fff6514e5dd17bc475dce91/images/brainstorming%20as%20a%20team.png)
+![The Digital team working together and collaborating](https://github.com/nrw-digital/week-notes/blob/f7977a74a9b52c0a7fff6514e5dd17bc475dce91/images/brainstorming%20as%20a%20team.png?raw=true)
 
 At times, it felt a little bit like this GIF, but it was a productive session and plenty of laughs along the way.
 
