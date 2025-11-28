@@ -8,7 +8,7 @@ author: James and Hannah
 description: Happy Festive Friday from the Digital team!
 ---
 
-This week, the Digital Team traded their desks for Christmas jumpers and met up for a festive trip to Shrewsbury!
+This week, the Digital Team traded their desks for Christmas jumpers and met up for a festive time in Shrewsbury!
 
 ![The Digital Team brainstorming together](https://github.com/nrw-digital/week-notes/blob/f7977a74a9b52c0a7fff6514e5dd17bc475dce91/images/team%20work%20and%20collaboration.png?raw=true)
 
