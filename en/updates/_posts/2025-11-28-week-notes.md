@@ -14,7 +14,7 @@ This week, the Digital Team traded their desks for Christmas jumpers and met up 
 
 ## Our festive trip to Shrewsbury to catch up as a team
  
-This week, our team met up in person to collaborate on a number of exciting projects, as well as team building with the new members of our team. We all got a little competitive but it was great to challenge ourselves and work in new teams with members of the team we might not ordinarily work closely with.  
+This week, our team met up in person to collaborate on a number of exciting projects, as well as team building with the new members of our team. We all got a little competitive but it was great to challenge ourselves and work in new teams with people we might not ordinarily work closely with.  
 
 As a team, we created a timeline that captured the key moments and highlights from 2012 to today. The timeline was a lovely representation of our many achievements over the years. 
  
