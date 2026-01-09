@@ -23,5 +23,6 @@ Anyway, here's some of what we've been up to:
 	- explored how other teams deal with amendments to submissions 
 	- met with James to discuss approach to user research 
 + Jane has also started reviewing our style guide which she’ll be updating over the next few months.
-
++ James drafted a user research proposal for testing a prototype for forest management plans. He also drafted new content for our intranet about how to book annual leave, how to check your annual leave balance and so on, ready for our team show and tell next week.
++ The marine licensing customer platform private beta launch date draws ever nearer, so Toyah has been dividing her time between the final tasks involved with that, and the immense mountain of design work needed for the subsequent public beta phase. She's incredibly glad to have the expertise of everyone from the CGI consultancy team as a guide, or she'd have no clue what she's doing! 
 
