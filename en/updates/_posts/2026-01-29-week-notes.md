@@ -5,7 +5,7 @@ lang: en
 ref: 2026-01-30-week-notes 
 hidetitle: True 
 author: Sam and Lucinda 
-description:  
+description: the end of January, at last   
 --- 
 Our accessibility audit of the main website, form builder and public register is underway. We're categorising accessibility non-compliances to help us create a fixing plan. 
 
@@ -15,7 +15,7 @@ Phil and Laura continued work on bird licensing forms: ongoing work on the chang
 
 Shaun has been working with SMEs on the topic of river ownership and responsibilities, with the challenge of terms like 'riparian ownership' and 'ordinary watercourses' (although NRW might understand them, many users do not).  
 
-Jane and Sam met forestry SMEs, sharing MIRO designs and discussing options for making it easier for users to apply for a forest management plan. They agreed to test a prototype form that is a mix of document upload and text fields, rather design in long and complex tables the user would need to copy and paste information into.  
+Jane and Sam met forestry SMEs, sharing MIRO designs and discussing options for making it easier for users to apply for a forest management plan. They agreed to test a prototype form that is a mix of document upload and text fields, rather design in long and complex tables the user would need to copy and paste information into. Documents would also be easier for the user to amend if NRW required it. 
 
 Phil and Sam added a feedback survey to more forms, expanding the 'feedback dashboard' to give easy to access insights into users' experiences across our services. 
 
