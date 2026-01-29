@@ -13,7 +13,7 @@ The intranet team created more new content and are looking at styling and other 
 
 Phil and Laura continued work on bird licensing forms: ongoing work on the change a licence form and some discovery work into returns and renewal.  
 
-Shaun has been working with SMEs on the topic of river ownership and responsibilities, with the challenge of terms like 'riparian ownership' and 'ordinary watercourses' (although NRW might understand them, many users do not).  
+Shaun has been working with SMEs on the topic of river ownership and responsibilities, including discussing terms like 'riparian ownership' and 'ordinary watercourses' - although NRW might understand them, many users do not.  
 
 Jane and Sam met forestry SMEs, sharing MIRO designs and discussing options for making it easier for users to apply for a forest management plan. They agreed to test a prototype form that is a mix of document upload and text fields, rather design in long and complex tables the user would need to copy and paste information into. Documents would also be easier for the user to amend if NRW required it. 
 
