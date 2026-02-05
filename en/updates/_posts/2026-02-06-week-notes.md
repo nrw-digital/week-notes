@@ -16,7 +16,7 @@ description: What the team's accomplished this week...
 
 + On Thursday, Laura, Heledd, Sam and Phil attended CDPS community of practice meet up. People from the various communities of practice: content design, service design, user research; AI, and data got together. These types of days are an important reminder that everyone's facing the same challenge, and there's a huge opportunity to continue to learn from each other - and have a safe space to talk about the challenges.  
 
-+ Lucinda and Sophie began an investigation using Google Analytics to understand where users are encountering 404 errors when using our website. They've created an action plan to set up re-directs, undersantnd where broken links may have originated and how we can resolve them. They will continue to monitor this over coming months. 
++ Lucinda and Sophie began an investigation using Google Analytics to understand where users are encountering 404 errors when using our website. They've created an action plan to set up re-directs, understand where broken links may have originated and how we can resolve them. They will continue to monitor this over coming months. 
 
 + Jane and Sam have been doing more work on the forest management prototype following the decision to test a form that is a mix of document uploads and text fields. They've also been working on designs for other parts of the user journey in preparation for their meeting with subject matter experts next week.  
 
