@@ -1,5 +1,5 @@
 --- 
-title: Week notes dd/mm/yyyy 
+title: Week notes 06/02/2026 
 layout: post 
 lang: en 
 ref: 2026-02-06-week-notes 
