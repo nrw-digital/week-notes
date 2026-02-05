@@ -1,4 +1,4 @@
-...
+--- 
 title: Week notes dd/mm/yyyy 
 layout: post 
 lang: en 
@@ -6,7 +6,7 @@ ref: 2026-02-06-week-notes
 hidetitle: True 
 author: Heledd and Laura
 description: What the team's accomplished this week...
-...
+--- 
 
 + Heledd travelled to Cardiff. 3 good days of peopling.
 
