@@ -8,9 +8,9 @@ description: What the team's accomplished this week...
 
 + Heledd travelled to Cardiff. 3 good days of peopling.
 
-+ Tuesday was a chance for Heledd, Alex and Sam to catch up with Ray: sharing stuff that’s working, what’s not and what we’d like to change. We were encouraged with Rays enthusiasm and support and Alex has started a new spreadsheet of problems to solve - many of these we’ve known about for a long time but we want to have a plan to and the support to deliver. 
++ Tuesday was a chance for Heledd, Alex and Sam to catch up with Ray: sharing stuff that’s working, what’s not and what we’d like to change. We were encouraged by Ray's enthusiasm and support and Alex has started a new spreadsheet of problems to solve - many of these we’ve known about for a long time but we want to have a plan to and the support to deliver. 
 
-+ Team meeting - we had a great show and tell: Feathers, flaps and wow – the story so far in the work to design a better experience for people applying to change their species licence. Some of the team also joined them for a design crit. Really enjoying seeing more of the work and how the team are working / decisions they are making. 
++ Team meeting - we had a great show and tell 'Feathers, flaps and wow' – the story so far in the work to design a better experience for people applying to change their species licence. Some of the team also joined them for a design crit. Really enjoying seeing more of the work and how the team are working / decisions they are making. 
 
 + On Thursday, Laura, Heledd Sam and Phil attended CDPS community of practice meet up. People from the various communities of practice: content design, service design, user research; AI, and data got together. These types of days are an important reminder that everyone's facing the same challenge, and there's a huge opportunity to continue to learn from each other - and have a safe space to talk about the challenges.  
 
