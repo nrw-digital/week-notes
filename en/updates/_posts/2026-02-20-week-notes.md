@@ -26,3 +26,5 @@ As the curling stone of destiny slid remorselessly toward the death knell of int
 + Sam and Jane have been further refining the forest management plan prototype following a positive meeting with subject matter experts last week.   
 
 + Phil and Sophie met to discuss the next steps on our LMS modules from a content design perspective, having collated a range of staff feedback to ensure the final course covers all questions and queries raised by staff regarding accessible documents.
+
++ Sam and Alex took a first look at a new job to create an online process for water companies to self-report pollution incidents.
