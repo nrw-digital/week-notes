@@ -10,7 +10,7 @@ description: Here's what the Digital team have been up to this week...
 
 As we say goodbye to another busy week, here's just some of what we got up to in the final week of February... 
  
-Despite being a shorter month, our team has been as busy as ever. Here's what we've been up to: 
+Despite being a shorter month, our team has been as busy as ever. Here's what we've been up to:
 
 + Phil and Laura have completed the full change a species user journey prototype and are waiting for final comments from subject matter experts before working with translations. Work is well underway on some side hustles that form part of the user journey or have similar content, including submitting a reference, bat trainer endorsement and renewing a licence. 
 + Our Communications team has asked for training for their staff to help them create and upload news releases and blogs on the website. Comms officers are also going to take a more active role in managing content in the “featured” strip on the home page. Mary has met with Comms team leaders to understand their requirements, and she has discussed ideas with fellow content designers to update our publishing manual ready for the training. 
