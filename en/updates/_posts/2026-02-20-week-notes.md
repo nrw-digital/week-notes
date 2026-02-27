@@ -5,7 +5,7 @@ lang: en
 ref: 2026-02-20-week-notes 
 hidetitle: True 
 author: Shaun and Hannah
-description:  
+description: What the digital team have been up to this week
 --- 
 ## This week...
 
