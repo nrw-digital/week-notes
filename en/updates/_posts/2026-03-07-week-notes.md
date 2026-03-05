@@ -25,12 +25,10 @@ description: This week in the Digital world...
 
 + Having scoped the requests to change as well as create an online form and content for installations permits, Phil will start work on the variation form next week. 
 
-+ Laura [FRAPs, birds, permissions – check]   
++ Laura 
 
 + Lucinda has been working on a new feature to provide flood event reports. She’s spoken to the Communications Team and Flood Duty Managers about what would help them 
 
-+ Mary has got SME agreement to publish content about changes to car parking at NRW sites. [siecio gyda Heledd]
-
 + Sophie and Lucinda have been working on fixing 404 errors on our website by tracking down the source of the broken link and adding redirects.
 
-+ And...THE SUN CAME OUT!!!
++ And...THE SUN CAME OUT!!! It went away again, but we won't talk about that.
