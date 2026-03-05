@@ -25,7 +25,7 @@ description: This week in the Digital world...
 
 + Having scoped the requests to change as well as create an online form and content for installations permits, Phil will start work on the variation form next week. 
 
-+ Laura 
++ Laura carried out 'some light' touch content design on a technical guidance note about how to model blockages and breach scenarios as part of a Flood Consequence Assessment. It has been sent to the subject matter expert for approval.
 
 + Lucinda has been working on a new feature to provide flood event reports. She’s spoken to the Communications Team and Flood Duty Managers about what would help them 
 
