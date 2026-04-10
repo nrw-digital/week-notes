@@ -22,7 +22,9 @@ Another relatively quiet week, with many colleagues enjoying some annual leave, 
 
 + Heledd has been focusing on people management at the start of the year, with end-of-year reflections and 1:1s. These conversation have been used to give feedback and talk through new roles as part of DDAT transformation, with team insight helping shape and firm ideas.  
 
-+ Heledd has also been getting a sense of learning and development interests across the team, as we expect more opportunities coming up 
++ Heledd has also been getting a sense of learning and development interests across the team, as we expect more opportunities coming up
+
++ Finally, Shaun finished changing all of the annual charge changes on the site and started looking at an update to our guidance on ‘low risk impoundments’.
 
 
 We hope everyone enjoys the last weekend of the Easter holidays! 
