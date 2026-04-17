@@ -8,6 +8,8 @@ author: Sam and Toyah
 description: Platforms, forms, accessible docs and how we're getting much more user feedback... 
 --- 
 
+The weather has been all over the place lately, with some days seeming to have all four seasons jumbled together (hmmm, reminds us of a song...). But work goes on regardless - here's what we've been up to this week. 
+
 + Heledd has been focused on team 1 to 1s and shaping future team structure options. She also spent a day with other DDAT managers looking at the customer platform - specifically what teams and roles are needed to support it. The group discussed current challenges, overlaps, and how to better align ways of working.
 The customer platform is not a single product, but a concept made up of multiple products and services, which has implications for ownership and delivery.
 
