@@ -22,3 +22,5 @@ The customer platform is not a single product, but a concept made up of multiple
 + Publishing officers published a variety of new content onto the website, from accessible evidence reports to updated public registers. Hannah and Sophie have been investigating some of the trickier tables in documents that flag as inaccessible due to ‘regularity’ as well as brainstorming solutions and work arounds to support staff in creating accessible tables within their reports.
 
 + Lucinda's just published a fab [blog about how she redesigned the way users give feedback at the end of a service](https://naturalresources.wales/footer-links/blog-nrw-digital/blog-post-using-a-simple-pattern-to-increase-user-feedback-on-our-forms/?lang=en) – it massively increased the volume of user feedback we get.
+
++ Toyah is back from leave and getting stuck into the next steps of the marine licensing customer platform project. The team are working through finalising designs of two of the most complicated sections of the form, ready for sign-off and handing over to developers. 
