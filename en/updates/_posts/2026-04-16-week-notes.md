@@ -5,7 +5,7 @@ lang: en
 ref: 2026-04-16-week-notes 
 hidetitle: True 
 author: Sam and Toyah 
-description: Here's what the Digital team have been up to this week... 
+description: Platforms, forms, accessible docs and how we're getting much more user feedback... 
 --- 
 
 + Heledd has been focused on team 1 to 1s and shaping future team structure options. She also spent a day with other DDAT managers looking at the customer platform - specifically what teams and roles are needed to support it. The group discussed current challenges, overlaps, and how to better align ways of working.
