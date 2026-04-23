@@ -11,7 +11,7 @@ description: Here's what the Digital team have been up to this week...
 ## Here’s what the Digital team has been up to this week...
 
 +	Mary has piloted refresher Umbraco training with a Comms officer and is now refining what the training covers before rolling it out to other staff. 
-+	James is creating the user research script to test our new forest management plan online application route. He’s also arranging the user testing interviews 
++	James is creating the user research script to test our new forest management plan online application route. He’s also arranging the user testing interviews. 
 +	Sam and Jane have been iterating the forest management plan application prototype. They've also been doing more work on the wider journey, focusing on task-based content to guide users through the end-to-end application process. 
 +	Shaun continued with the redrafting of guidance on low risk water impoundments and main river responsibilities as well as adding additional content related to the increase of charges for the new financial year. 
 +	Laura and Phil have completed the 'Change a species' prototype and sent it to subject matter experts, along with a map of the entire service, for review. 
