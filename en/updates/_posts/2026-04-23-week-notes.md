@@ -23,6 +23,6 @@ The publishing team have been flat out this week:
 
 Heledd spent some time in Aberystwyth this week. Highlights included: 
 -	catching up with Laura, Mary and Hannah in person.  
--	spending time with Ray, Ian and Simon from the leadership group 
+-	spending time with Ray, Ian and Simon from the leadership group. 
 -	joining a GIS strategy session focused on how we transform our ways of working - ultimately with the aim of making things better for users. There were lots of overlaps across the different conversations. It's highlighting again just how interlinked our work is, and the balance we’re trying to strike between team autonomy and coming together to agree priorities and where we need to work collaboratively.  
 -	listening to the new podcast series [Bad Services from Lou Downe and Sarah Drummond](https://good.services/badservicespodcast) - highly recommended. It’s good to be reminded that others are grappling with the same challenges that make designing and delivering better services so hard.  
