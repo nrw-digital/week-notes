@@ -1,11 +1,11 @@
 ---
-title: Week notes 03/07/2026
+title: Weeknotes 03/07/2026
 layout: post
 lang: en
 ref: 2026-07-03-week-notes
 hidetitle: True
-author: Laura & Phil
-description: It's been another busy week in the world of Digital...
+author: Laura and Phil
+description: Another busy week in the world of Digital...
 ---
 
 It's been another busy week in the world of Digital...
