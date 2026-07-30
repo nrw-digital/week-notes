@@ -18,7 +18,7 @@ description: What we've been up to this week...
 
  
 
-+ Our style guide has been refreshed by Jane, including a change to how we write numbers (numerals not words), in line with GOV.UK 
++ Our [style guide](https://naturalresources.wales/footer-links/a-to-z-style-guide/?lang=en) has been refreshed by Jane, including a change to how we write numbers (numerals not words), in line with GOV.UK 
 
 + Sophie's working on updates to the guidance on accessible documents, simplifying language so it's clearer for users – all with reference to WCAG 2.2  
 
