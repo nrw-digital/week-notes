@@ -1,5 +1,5 @@
 ---
-title: Weeknotes 17/07/2026
+title: Weeknotes 24/07/2026
 layout: post
 lang: en
 ref: 2026-07-24-week-notes
