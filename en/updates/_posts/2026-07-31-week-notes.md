@@ -12,7 +12,7 @@ hidetitle: True
 
 author: Toyah and Sam 
 
-description: Here's what we've been up to this week... 
+description: What we've been up to this week... 
 
 --- 
 
