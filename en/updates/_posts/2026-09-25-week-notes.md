@@ -21,7 +21,7 @@ Before starting the next phase, we are:
 + finalising the decision document, which sets out each step involved in creating a change form 
 + adding additional administrative questions to the change form 
 
-![photo of Conwy Panorama Trail in autumn]( https://github.com/nrw-digital/week-notes/blob/4f256482bf3e3b843bfd074f2293777a5aac3e3e/images/190183_%20Conwy%20Panorama%20Trail_%20Gwydir%20Forest%20Park_Natural%20Resources%20Wales_No%20Restrictions_n_a.jpg?raw=true)
+![photo of Conwy Panorama Trail in autumn](https://github.com/nrw-digital/week-notes/blob/4f256482bf3e3b843bfd074f2293777a5aac3e3e/images/190183_%20Conwy%20Panorama%20Trail_%20Gwydir%20Forest%20Park_Natural%20Resources%20Wales_No%20Restrictions_n_a.jpg?raw=true)
 
 ## Here's what else we've been up to this week: 
 
@@ -29,12 +29,18 @@ Before starting the next phase, we are:
 
 + Sophie and Mary met with various teams to discuss next steps on an internal communications strategy
 
-+ Toyah has made the band two and three marine form live in the new customer platform 
++ Toyah has made the band two and three marine form live in the new customer platform
 
-+ Mary and Kim have revised and published the pay grades and salaries page to make the layout clearer. This page is used by external applicants and our staff to view pay grades.  
++ Jane published some content relating to recovered and recycled waste. She also did some more work with Mary on guidance for creating and writing links
+
++ Mary and Kim have revised and published the pay grades and salaries page to make the layout clearer. This page is used by external applicants and our staff to view pay grades
 
 + Mary did the last refresher Umbraco training session for the communications team. Mary has ran 14 one on one sessions with several follow-ups now being organised. Mary may need to run a few sessions for  the new publishers  
 
-+ Sam and Laura published new content and a form to request access for utility and infrastructure work on NRW-managed land. A recent review identified a user need for a dedicated way to request access for maintenance and repair work on infrastructure such as pylons, power lines and transformers. Previously, users either contacted land managers directly or used forms that were not designed for this purpose. 
++ Sam and Laura published new content and a form to request access for utility and infrastructure work on NRW-managed land. A recent review identified a user need for a dedicated way to request access for maintenance and repair work on infrastructure such as pylons, power lines and transformers. Previously, users either contacted land managers directly or used forms that were not designed for this purpose
+
++ We've started publishing user insights on viva engage to show how our work is improving user experiences. 
+
+![lovely customer feedback for our team](https://github.com/nrw-digital/week-notes/blob/f0265d21bd94d8cf2fe43592ff8059317415ecf7/images/GetImage.png?raw=true)
 
 
