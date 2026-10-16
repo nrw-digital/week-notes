@@ -11,11 +11,15 @@ Here's what our team has been up to this week...
  
 ## Species licensing: The flight continues 🐦 
 Phil and Laura have reopened the nest to continue species licensing improvement work. Their initial focus is the apply for a bird licence application and guidance content. They've started speaking to the species team, writing a project plan, and carrying out discovery work to understand user needs and where the bird licensing journey can be improved. 
+
 ## Other things we have worked on this week... 
  
 + On the intranet project, Kim, Sam and Jane have been exploring SharePoint’s out-of-the-box features. Findability has been identified as a major pain point for users so we've been looking at navigation options (mega menus versus cascading menus) and search functionality. We've also arranged a meeting with colleagues in the Internal Comms team and are looking forward to working more closely with them as the project progresses. 
+
 + Lucinda has been doing a stocktake of design system components in Figma vs Storybook, and checking both for consistency with GOV.UK 
+
 + James met with an external user researcher on our flood warnings project to talk about aligning ways of working. He’s also planning user testing on our intranet to benchmark how easy it is to complete set tasks. This will include getting help from our assisted user group. He’s creating a Miro board to pull together current picture for Insights project. He’s also doing a Data Protection Impact Assessment for our Hotjar feedback tool 
+
 + Laura worked with SMEs to update the felling licence application with new peat assessment requirements. Explored different design options and proposed the clearest approach for users while meeting the changes requested by the business. Also recommended a small update to the start page to keep the guidance consistent 
 
 + Heledd has been busy chatting, shaping, advising and generally trying to bring people together…  This included facilitating a workshop with a members of the Management Group and one of the product teams to explore how touchpoints and ways of working could be improved, and how it can be made clearer where product teams need (and don't need), to engage with DDaT governance groups 
