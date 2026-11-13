@@ -1,9 +1,10 @@
-title: Weeknotes 13/11/2026
-layout: post
-lang: en
-ref: 2026-11-13-week-notes
-hidetitle: True
-author: Kim and Jane
+---
+title: Weeknotes 13/11/2026 
+layout: post 
+lang: en 
+ref: 2026-11-13-week-notes 
+hidetitle: True 
+author: Kim and Jane 
 description: This week in the Digital team... 
 --- 
 
